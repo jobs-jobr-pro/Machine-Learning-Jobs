@@ -3,17 +3,14 @@
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
 
-**📊 Current Stats:** 50 jobs | 14% remote | 41 companies | Avg salary: 240k
-
-**🔥 Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes
-
 Visit [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs) — **you choose the job, we handle the paperwork**.  
 Your Human + AI job search platform that helps you find, auto-apply, and track applications effortlessly.
 
 ## Current Openings
 
-| Company | Position | Location | Work Model | Date Posted |
-| ------- | -------- | -------- | ---------- | ----------- |
+| Company | Position | Location | Type | Posted |
+| ------- | -------- | -------- | ---- | ------ |
+
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Machine Learning Engineer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210663977)** | Jersey City, NJ, United States | On Site | Sep 11 |
 | **[TikTok](https://www.tiktok.com/)** | **[Lead Machine Learning Engineer (Multiple Positions)](https://lifeattiktok.com/search/7546750680309975304)** | Seattle, Washington, United States | On Site | Sep 11 |
 | **[TikTok](https://www.tiktok.com/)** | **[Senior Machine Learning Engineer (Multiple Positions)](https://lifeattiktok.com/search/7546745256244136200)** | San Jose, California, United States | On Site | Sep 11 |
@@ -64,6 +61,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ProFound Therapeutics](https://www.profoundtx.com/)** | **[Senior Machine Learning Engineer](https://www.profoundtx.com/jobs?gh_jid=8160921002&gh_jid=8160921002)** | Boston, MA | On Site | Sep 09 |
 | **[Flagship Pioneering, Inc.](https://www.flagshippioneering.com)** | **[Senior Machine Learning Engineer](https://boards.greenhouse.io/flagshippioneeringinc/jobs/8157919002?gh_jid=8157919002)** | Boston, MA USA | On Site | Sep 09 |
 | **[Planet Labs Inc.](https://www.planet.com/)** | **[Staff Machine Learning Engineer](https://job-boards.greenhouse.io/planetlabs/jobs/7142047)** | Arlington, VA | Remote | Sep 09 |
+
+---
+
+**Current Stats:** 50 jobs | 14% remote | 41 companies | Avg salary: 240k  
+_Note: Stats are approximate and based on available job data_
+
+**Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
+_Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
 
