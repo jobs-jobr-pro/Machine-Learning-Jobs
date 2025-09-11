@@ -1,8 +1,7 @@
 # Machine learning engineer Jobs 2025
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
-Updated daily by [Jobr.pro](https://jobr.pro).  
-
+Updated daily by [Jobr.pro](https://jobr.pro).
 
 Visit [Jobr.pro](https://jobr.pro) — **you choose the job, we handle the paperwork**.  
 Your Human + AI job search platform that helps you find, auto-apply, and track applications effortlessly.
@@ -62,15 +61,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Ubisoft](https://www.ubisoft.com/)** | **[Senior Machine Learning Engineer (H/F/NB)](https://jobs.smartrecruiters.com/Ubisoft2/744000080808915-senior-machine-learning-engineer-h-f-nb-)** | Paris, IDF, France | On Site | Sep 09 |
 | **[Equativ](https://equativ.com/)** | **[Senior Machine Learning Engineer](https://jobs.lever.co/equativ/f716b091-2889-4d5f-97da-e86479bf38d3)** | Paris | On Site | Sep 09 |
 
-*Updated daily with fresh opportunities*
-
----
-
 ## About This Repository
 
-This repository tracks current Machine learning engineer positions from companies across different industries. Each listing is verified and updated automatically every 24 hours.
+This repository tracks current Machine learning engineer positions from companies across different industries, updated daily.
 
 **What makes this useful:**
+
 - Fresh Machine learning engineer positions aggregated from multiple job boards
 - Daily updates mean you see opportunities as soon as they're posted
 - Mix of remote, hybrid, and on-site positions from various company sizes
@@ -81,6 +77,7 @@ This repository tracks current Machine learning engineer positions from companie
 **Maximize your applications:** Instead of manually applying to each job, consider using [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs) to automate your applications with personalized cover letters and tracking.
 
 **Stay updated:**
+
 - Star this repository to get updates in your GitHub feed
 - Check back daily for new positions
 - Set up GitHub notifications for this repo
@@ -89,8 +86,8 @@ This repository tracks current Machine learning engineer positions from companie
 
 This repository gets consistent traffic from Machine learning engineer professionals actively job searching. The audience is pre-qualified and specifically interested in Machine learning engineer opportunities.
 
----
-
 This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs). If you find any issues or have suggestions, please contact us at hello@jobr.pro.
+
+---
 
 **Made with ❤️ by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)**
