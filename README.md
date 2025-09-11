@@ -1,3 +1,4 @@
+<!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
@@ -8,9 +9,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ## Current Openings
 
-| Company | Position | Location | Type | Posted |
+| Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[Machine Learning Engineer](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/210663977)** | Jersey City, NJ, United States | On Site | Sep 11 |
 | **[TikTok](https://www.tiktok.com/)** | **[Lead Machine Learning Engineer (Multiple Positions)](https://lifeattiktok.com/search/7546750680309975304)** | Seattle, Washington, United States | On Site | Sep 11 |
 | **[TikTok](https://www.tiktok.com/)** | **[Senior Machine Learning Engineer (Multiple Positions)](https://lifeattiktok.com/search/7546745256244136200)** | San Jose, California, United States | On Site | Sep 11 |
@@ -100,3 +100,4 @@ This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_s
 ---
 
 **Made with ❤️ by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)**
+<!-- prettier-ignore-end -->
