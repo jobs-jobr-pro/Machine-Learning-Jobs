@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Sep 15, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Sep 15, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,16 +13,19 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern (USDS) - 2026 Summer (BS/MS)](https://lifeattiktok.com/search/7547370946877901063)** | San Jose, California, United States | On Site | Sep 15 |
 | **[Zscaler](https://www.zscaler.com/careers)** | **[Staff Machine Learning Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4690660007)** | Bangalore, IND | On Site | Sep 15 |
+| **[Carrier](https://corporate.carrier.com/)** | **[Machine Learning Engineer](https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/Ecospace-Campus-3A-4th-Floor-Outer-Ring-Road-Bellandur-Bengaluru--560103/Machine-Learning-Engineer_30189372)** | Ecospace Campus 3A, 4th Floor, Outer Ring Road, Bellandur, Bengaluru- 560103, India | On Site | Sep 15 |
 | **[Prima](https://www.helloprima.com/)** | **[Senior Machine Learning Engineer - Italy](https://jobs.eu.lever.co/prima/c203c2f7-0ff7-4c09-b017-544d43894113)** | Milan | On Site | Sep 14 |
+| **[Dell Technologies](https://www.delltechnologies.com/)** | **[Senior Machine Learning Engineer-AI, ML & Python, PyTorch](https://dell.wd1.myworkdayjobs.com/en-US/External/job/Bangalore-India/Senior-Machine-Learning-Engineer-AI--ML---Python--PyTorch_R278479)** | Bangalore, India | On Site | Sep 14 |
 | **[TikTok](https://www.tiktok.com/)** | **[Applied Machine Learning Engineer - USDS](https://lifeattiktok.com/search/7548965816155326728)** | San Jose, California, United States | On Site | Sep 13 |
+| **[Motional](https://motional.com/)** | **[Senior Machine Learning Engineer-Perception](https://motional.com/open-positions/?gh_jid=6293658003#/6293658003)** | Remote | Remote | Sep 13 |
+| **[Motional](https://motional.com/)** | **[Senior/Principal Machine Learning Engineer - Behaviors](https://motional.com/open-positions/?gh_jid=6092178003#/6092178003)** | Singapore, Central, Singapore | On Site | Sep 13 |
+| **[Motional](https://motional.com/)** | **[Senior Machine Learning Engineer- Trajectory Generation](https://motional.com/open-positions/?gh_jid=6665340003#/6665340003)** | Remote U.S. | Remote | Sep 13 |
 | **[Motional](https://motional.com/)** | **[Senior Machine Learning Engineer - Behaviors](https://motional.com/open-positions/?gh_jid=6526950003#/6526950003)** | Boston, Massachusetts, United States; Pittsburgh, Pennsylvania, United States; Remote U.S. | Remote | Sep 13 |
 | **[Motional](https://motional.com/)** | **[Senior/Principal Machine Learning Engineer - Perception](https://motional.com/open-positions/?gh_jid=6928017003#/6928017003)** | Singapore, Central, Singapore | On Site | Sep 13 |
-| **[Motional](https://motional.com/)** | **[Senior Machine Learning Engineer-Perception](https://motional.com/open-positions/?gh_jid=6293658003#/6293658003)** | Remote | Remote | Sep 13 |
-| **[Motional](https://motional.com/)** | **[Principal Machine Learning Engineer- Perception](https://motional.com/open-positions/?gh_jid=6353886003#/6353886003)** | Remote U.S. | Remote | Sep 13 |
-| **[Motional](https://motional.com/)** | **[Senior Machine Learning Engineer- Trajectory Generation](https://motional.com/open-positions/?gh_jid=6665340003#/6665340003)** | Remote U.S. | Remote | Sep 13 |
 | **[Motional](https://motional.com/)** | **[Senior C++ Machine Learning Engineer - ML Systems (Perception Systems)](https://motional.com/open-positions/?gh_jid=6537997003#/6537997003)** | Singapore, Central, Singapore | On Site | Sep 13 |
-| **[Motional](https://motional.com/)** | **[Senior/Principal Machine Learning Engineer - Behaviors](https://motional.com/open-positions/?gh_jid=6092178003#/6092178003)** | Singapore, Central, Singapore | On Site | Sep 13 |
+| **[Motional](https://motional.com/)** | **[Principal Machine Learning Engineer- Perception](https://motional.com/open-positions/?gh_jid=6353886003#/6353886003)** | Remote U.S. | Remote | Sep 13 |
 | **[Roblox](https://www.roblox.com/)** | **[Senior/Principal Machine Learning Engineer - Core AI](https://careers.roblox.com/jobs/7246965?gh_jid=7246965)** | San Mateo, CA, United States | On Site | Sep 13 |
 | **[Gusto](https://gusto.com/)** | **[Staff Machine Learning Engineer - Platform](https://job-boards.greenhouse.io/gusto/jobs/7142094)** | Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA;Toronto, Ontario, CAN - Remote | Remote | Sep 12 |
 | **[Zscaler](https://www.zscaler.com/careers)** | **[Sr. Staff Machine Learning Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4689024007)** | San Jose, California, USA | On Site | Sep 12 |
@@ -47,26 +50,23 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Skild AI](https://www.skild.ai/)** | **[Machine Learning Engineer](https://job-boards.greenhouse.io/skildai-careers/jobs/4919028008)** | San Mateo, Pittsburgh | On Site | Sep 12 |
 | **[Ampd Energy](https://www.ampd.energy)** | **[Senior Machine Learning Engineer](https://jobs.lever.co/ampd-energy/7b8194bf-b284-4626-8bc3-de724e6742ac)** | Bengaluru | On Site | Sep 12 |
 | **[Workday](https://www.workday.com/)** | **[Principal/Senior Machine Learning Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Canada-BC-Vancouver/Principal-Senior-Machine-Learning-Engineer-III_JR-0099396)** | Canada, BC, Vancouver | On Site | Sep 12 |
+| **[Oxy](https://www.oxy.com/)** | **[AI Machine Learning Engineer](https://oxy.wd5.myworkdayjobs.com/en-US/Corporate/job/Houston-Texas/AI-Machine-Learning-Engineer_JR105036)** | Hous GW5, United States | On Site | Sep 12 |
 | **[Amgen](https://www.amgen.com/)** | **[Principal Machine Learning Engineer](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/India---Hyderabad/Principal-Machine-Learning-Engineer_R-216777)** | India - Hyderabad | On Site | Sep 12 |
-| **[Oxy](https://www.oxy.com/)** | **[AI Machine Learning Engineer](https://oxy.wd5.myworkdayjobs.com/en-US/Corporate/job/Houston-Texas/AI-Machine-Learning-Engineer_JR105037)** | Hous GW5, United States | On Site | Sep 12 |
 | **[PayPal](https://www.paypal.com/)** | **[Sr Machine Learning Engineer](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Machine-Learning-Engineer_R0129030-1)** | IND - Karnataka - Bangalore - Corp - Sarjapur Main Rd, India | On Site | Sep 12 |
 | **[Replicant](https://www.replicant.com/)** | **[Senior Machine Learning Engineer](https://jobs.ashbyhq.com/replicant/3386a2a4-619b-4a34-b605-a640f96f2fb2)** | United States | Remote | Sep 11 |
 | **[Twelve Labs](https://www.twelvelabs.io/)** | **[Machine Learning Engineer, 2+ Years Experience](https://jobs.ashbyhq.com/twelve-labs/f94a3467-4f50-4106-bfbc-9419f17b2b92)** | San Francisco | On Site | Sep 11 |
 | **[Moveworks](https://www.moveworks.com/)** | **[Senior Machine Learning Engineer II - LLM](https://www.moveworks.com/us/en/company/careers/position?gh_jid=8128924002&gh_jid=8128924002)** | Mountain View, CA | On Site | Sep 11 |
 | **[Otter](https://www.tryotter.com/)** | **[Machine Learning Engineer, Otter - San Francisco](https://job-boards.greenhouse.io/otter/jobs/8156549002)** | San Francisco | On Site | Sep 11 |
-| **[Otter](https://www.tryotter.com/)** | **[Machine Learning Engineer, Otter - Los Angeles](https://job-boards.greenhouse.io/otter/jobs/8165186002)** | Los Angeles | On Site | Sep 11 |
 | **[Otter](https://www.tryotter.com/)** | **[Machine Learning Engineer, Otter - Mountain View](https://job-boards.greenhouse.io/otter/jobs/8165159002)** | Mountain View | On Site | Sep 11 |
+| **[Otter](https://www.tryotter.com/)** | **[Machine Learning Engineer, Otter - Los Angeles](https://job-boards.greenhouse.io/otter/jobs/8165186002)** | Los Angeles | On Site | Sep 11 |
 | **[Kargo](https://kargo.com)** | **[Staff Machine Learning Engineer](https://www.kargo.com/careers?gh_jid=4869963007)** | Dublin, Ireland | On Site | Sep 11 |
 | **[Microsoft](https://www.microsoft.com/)** | **[AI/Machine Learning Engineer, Minecraft](https://jobs.careers.microsoft.com/global/en/job/1874140/)** | Redmond, Washington, United States | On Site | Sep 11 |
 | **[Helm.ai](https://www.helm.ai/)** | **[Machine Learning Engineer](https://job-boards.greenhouse.io/helmai/jobs/4608044005)** | Remote, United States | Remote | Sep 11 |
 | **[Xometry](https://www.xometry.com/)** | **[Staff Machine Learning Engineer - Generative AI](https://job-boards.greenhouse.io/xometry/jobs/4871657007)** | North Bethesda, Maryland, United States | On Site | Sep 11 |
-| **[Microsoft](https://www.microsoft.com/)** | **[Machine Learning Engineer II](https://jobs.careers.microsoft.com/global/en/job/1858486/)** | Redmond, Washington, United States | On Site | Sep 11 |
-| **[Xebia](https://xebia.com/)** | **[Machine Learning Engineer](https://job-boards.greenhouse.io/latam/jobs/5580446004)** | Colombia | Remote | Sep 11 |
-| **[PlayStation Global](https://www.playstation.com/)** | **[Senior Machine Learning Engineer](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5580159004)** | Ireland, Dublin | On Site | Sep 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 37 companies | Avg salary: 241k  
+**Current Stats:** 50 jobs | 26% remote | 37 companies | Avg salary: 243k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
