@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Sep 17, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Sep 17, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,9 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search - 2026 Start (BS/MS)](https://lifeattiktok.com/search/7550436166929025298)** | Seattle, Washington, United States | On Site | Sep 17 |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search - 2026 Start (PhD)](https://lifeattiktok.com/search/7550798923146250504)** | San Jose, California, United States | On Site | Sep 17 |
+| **[Multiverse Computing](https://multiversecomputing.com/)** | **[Machine Learning Engineer (Product)(9-month contract with bonus incentives)](https://multiversecomputing.teamtailor.com/jobs/6464516-machine-learning-engineer-product-9-month-contract-with-bonus-incentives)** | Barcelona, Spain | On Site | Sep 17 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Senior Machine Learning Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000082404525-senior-machine-learning-engineer)** | Hyderabad, India | On Site | Sep 17 |
+| **[Emerson](https://www.emerson.com/)** | **[Sr. Machine Learning Engineer](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/25026083)** | PUNE, MAHARASHTRA, India | On Site | Sep 17 |
 | **[Experian](https://www.experian.com/)** | **[Machine Learning Engineer - AI Operations](https://jobs.smartrecruiters.com/Experian/744000082383755-machine-learning-engineer-ai-operations)** | Sofia , Bulgaria | On Site | Sep 17 |
 | **[Canva](https://www.canva.com)** | **[Senior Machine Learning Engineer - AI Platform Enablement](https://jobs.smartrecruiters.com/Canva/6000000000588260-senior-machine-learning-engineer-ai-platform-enablement)** | Sydney, NSW, Australia | On Site | Sep 17 |
-| **[ServiceNow](https://www.servicenow.com)** | **[Senior Machine Learning Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000082379556-senior-machine-learning-engineer)** | Hyderabad, India | On Site | Sep 17 |
 | **[Experian](https://www.experian.com/)** | **[Senior Machine Learning Engineer - AI Operations](https://jobs.smartrecruiters.com/Experian/744000082379025-senior-machine-learning-engineer-ai-operations)** | Sofia , Bulgaria | On Site | Sep 17 |
 | **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Staff Machine Learning Engineer (2 - 4 Years)](https://jobs.smartrecruiters.com/PaloAltoNetworks2/744000082377955-staff-machine-learning-engineer-2-4-years-)** | Bangalore, KA, India | On Site | Sep 17 |
 | **[Agoda](https://www.agoda.com/)** | **[Staff Machine Learning Engineer (India based, relocation provided)](https://job-boards.greenhouse.io/agoda/jobs/7253630)** | Gurgaon | On Site | Sep 17 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Autonomous Teaming Solutions](https://www.autonomous-teaming.ai/)** | **[Machine Learning Engineer – Edge Devices (m/f/d)](https://autonomous-teaming.jobs.personio.de/job/2336954)** | Munich (DEU) | On Site | Sep 15 |
 | **[Hawk-Eye Innovations (HEI)](https://www.hawkeyeinnovations.com/)** | **[Machine Learning Engineer - Sports AI](https://jobs.ashbyhq.com/hawkeyeinnovations/db31f614-9e19-476a-bbdc-94272005693b)** | Hungary, Budapest | On Site | Sep 15 |
 | **[Revecore](https://revecore.com/)** | **[Staff Machine Learning Engineer-JT00569](https://myjobs.adp.com/revecorecareers/cx/job-details?reqId=5001146173206)** | Remote, United States | Remote | Sep 15 |
-| **[Treering](https://www.treering.com/)** | **[AI/Machine Learning Engineer](https://jobs.lever.co/treering/1d9b9c0a-293f-4aed-8625-a9703450e39c)** | San Mateo, California | On Site | Sep 15 |
-| **[Strava](https://www.strava.com/)** | **[Machine Learning Engineer](https://job-boards.greenhouse.io/strava/jobs/6852887)** | San Francisco, CA | On Site | Sep 15 |
-| **[HelloFresh](https://www.hellofresh.com/)** | **[Senior Machine Learning Engineer \[MARTECH\]](https://careers.hellofresh.com/global/en/job/7210690?gh_jid=7210690)** | New York, New York, United States | On Site | Sep 15 |
-| **[Fortra](https://www.fortra.com/)** | **[Machine Learning Engineer II](https://job-boards.greenhouse.io/fortra/jobs/4601561006)** | Spain | On Site | Sep 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 37 companies | Avg salary: 228k  
+**Current Stats:** 50 jobs | 22% remote | 35 companies | Avg salary: 231k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
