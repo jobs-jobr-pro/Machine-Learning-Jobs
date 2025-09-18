@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Sep 18, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Sep 18, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,9 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Risk Data Mining - USDS](https://lifeattiktok.com/search/7232408198401542437)** | Seattle, Washington, United States | On Site | Sep 18 |
+| **[TikTok](https://www.tiktok.com/)** | **[Senior Machine Learning Engineer, Risk Data Mining - USDS](https://lifeattiktok.com/search/7247891987910641978)** | Seattle, Washington, United States | On Site | Sep 18 |
+| **[NielsenIQ](https://nielseniq.com)** | **[Machine Learning Engineer](https://jobs.smartrecruiters.com/NielsenIQ/744000082623858-machine-learning-engineer)** | Vadodara, GJ, India | On Site | Sep 18 |
+| **[Sopra Steria](https://www.soprasteria.com)** | **[Data Scientist / Machine Learning Engineer](https://jobs.smartrecruiters.com/SopraSteria1/744000082602105-data-scientist-machine-learning-engineer-)** | Nieuwegein, UT, Netherlands | On Site | Sep 18 |
 | **[Nearmap](https://www.nearmap.com)** | **[Machine Learning Engineer](https://jobs.smartrecruiters.com/Nearmap/744000082579576-machine-learning-engineer)** | Barangaroo, NSW, Australia | On Site | Sep 18 |
 | **[Philo](https://www.philo.com/)** | **[Sr. Machine Learning Engineer (Recommendation Systems)](https://job-boards.greenhouse.io/philo/jobs/7259010)** | San Francisco, CA | On Site | Sep 18 |
 | **[Field AI](https://fieldai.com)** | **[1.62 Machine learning Engineer](https://jobs.lever.co/field-ai/6e36c56b-03da-4fd1-b034-b4b148919f94)** | Seattle, Washington | On Site | Sep 18 |
+| **[Medtronic](https://www.medtronic.com/)** | **[Senior Machine Learning Engineer](https://medtronic.wd1.myworkdayjobs.com/en-US/RedeploymentMedtronicCareers/job/Pune-Maharashtra-India/Senior-Machine-Learning-Engineer_R44718)** | IND-MH Pune Viman Nagar, India | On Site | Sep 18 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Machine Learning Engineer II](https://jobs.careers.microsoft.com/global/en/job/1858486/)** | Redmond, Washington, United States | On Site | Sep 17 |
 | **[Faculty](https://faculty.ai)** | **[Machine Learning Engineer](https://jobs.ashbyhq.com/faculty/42346b75-f5aa-48f6-bd76-f9b3aed1e7f4)** | London - Hybrid | On Site | Sep 17 |
 | **[Inetum](https://www.inetum.com)** | **[Machine Learning Engineer](https://jobs.smartrecruiters.com/Inetum2/744000082526955-machine-learning-engineer)** | Mexico City, CDMX, Mexico | On Site | Sep 17 |
@@ -37,9 +42,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Affinity](https://www.affinity.co/)** | **[Senior Machine Learning Engineer, AI Insights](https://www.affinity.co/company/careers/job?gh_jid=7366843003)** | Canada (Remote); Toronto, Ontario | Remote | Sep 17 |
 | **[Waymo](https://waymo.com/)** | **[Senior Machine Learning Engineer, Computer Vision/VLM](https://careers.withwaymo.com/jobs?gh_jid=7249525)** | Mountain View, CA, USA; San Francisco, CA, USA | On Site | Sep 17 |
 | **[Ford Motor Company](https://corporate.ford.com/)** | **[Machine Learning Engineer](https://efds.fa.em5.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/50259)** | Palo Alto, CA, United States | On Site | Sep 17 |
-| **[Medtronic](https://www.medtronic.com/)** | **[Senior Machine Learning Engineer](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Duluth-Georgia-United-States-of-America/Senior-Machine-Learning-Engineer_R45877-1)** | USA-GA Duluth, United States | On Site | Sep 17 |
-| **[HP](https://www.hp.com/)** | **[AI Lab - Junior Machine Learning Engineer](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Lab---Junior-Machine-Learning-Engineer_3150991-2)** | BCN01 - Barcelona S.Cugat B1 (BCN01), Spain | On Site | Sep 17 |
 | **[Medtronic](https://www.medtronic.com/)** | **[Principal Machine Learning Engineer](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Duluth-Georgia-United-States-of-America/Principal-Machine-Learning-Engineer_R45875-1)** | USA-GA Duluth, United States | On Site | Sep 17 |
+| **[HP](https://www.hp.com/)** | **[AI Lab - Junior Machine Learning Engineer](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/AI-Lab---Junior-Machine-Learning-Engineer_3150991-2)** | BCN01 - Barcelona S.Cugat B1 (BCN01), Spain | On Site | Sep 17 |
 | **[Isla](https://www.islacare.co.uk/)** | **[(Contract) Computer Vision / Machine Learning Engineer](https://apply.workable.com/j/4929CE76A9/apply)** | United Kingdom - Remote | Remote | Sep 17 |
 | **[Leidos](https://www.leidos.com/)** | **[Machine Learning Engineer](https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Tewksbury-MA/Machine-Learning-Engineer_R-00166539)** | 2896 Tewksbury MA, United States | On Site | Sep 17 |
 | **[Waymo](https://waymo.com/)** | **[Machine Learning Engineer, Simulation](https://careers.withwaymo.com/jobs?gh_jid=6563663)** | London, UK | On Site | Sep 16 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Protegrity](https://www.protegrity.com)** | **[Machine Learning Engineer 757](https://jobs.ashbyhq.com/protegrity/fa94b3e9-2f4d-412f-9167-5f5ee34a15c8)** | Palo Alto, CA | Remote | Sep 16 |
 | **[Protegrity](https://www.protegrity.com)** | **[Machine Learning Engineer – GenAI 755](https://jobs.ashbyhq.com/protegrity/781b95af-7f1c-404c-b3ad-5e893805469d)** | Palo Alto, CA | Remote | Sep 16 |
 | **[Protegrity](https://www.protegrity.com)** | **[Machine Learning Engineer 756](https://jobs.ashbyhq.com/protegrity/35ed77e7-d002-4f61-b225-5ba6903f5bb3)** | Palo Alto, CA | Remote | Sep 16 |
-| **[ServiceNow](https://www.servicenow.com)** | **[Machine Learning Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000082184405-machine-learning-engineer)** | Hyderabad, India | On Site | Sep 16 |
-| **[ServiceNow](https://www.servicenow.com)** | **[Tech Lead Machine Learning Engineer - Data Platform & Snowflake](https://jobs.smartrecruiters.com/ServiceNow/744000082175345-tech-lead-machine-learning-engineer-data-platform-snowflake)** | Hyderabad, India | On Site | Sep 16 |
-| **[Woven by Toyota](https://woven.toyota/)** | **[Machine Learning Engineer, Robotics](https://jobs.lever.co/woven-by-toyota/3d6425dc-48a8-45da-b5e2-2b76dc2dcd22)** | Tokyo | On Site | Sep 16 |
-| **[Netcetera](https://www.netcetera.com/)** | **[Autumn/Winter Internship - Machine Learning Engineer (Skopje, Bitola, Ohrid)](https://apply.workable.com/j/0406A1F2FC/apply)** | Skopje, Greater Skopje, North Macedonia | On Site | Sep 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 33 companies | Avg salary: 226k  
+**Current Stats:** 50 jobs | 18% remote | 33 companies | Avg salary: 220k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
