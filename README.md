@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Sep 19, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Sep 19, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -19,6 +19,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, TikTok Search Local Services Intern - 2025 Start](https://lifeattiktok.com/search/7484140512455395592)** | Singapore, Singapore | On Site | Sep 19 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Senior Machine Learning Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000082878798-senior-machine-learning-engineer)** | Hyderabad, India | On Site | Sep 19 |
 | **[Coupang](https://www.coupang.jobs/)** | **[Senior Staff Machine Learning Engineer-Growth Marketing](https://www.coupang.jobs/en/jobs/?gh_jid=7261843)** | Shanghai, China | On Site | Sep 19 |
+| **[Flutter International](https://careers.flutterinternational.com/)** | **[Machine Learning Engineer](https://flutterbe.wd3.myworkdayjobs.com/en-US/FlutterInt_External/job/Hyderabad-India/Junior-Data-Scientist--AI-and-ML-_JR127508)** | Hyderabad, India | On Site | Sep 19 |
+| **[GEICO](https://www.geico.com/)** | **[Senior Machine Learning Engineer – AI Agent Platform](https://geico.wd1.myworkdayjobs.com/en-US/External/job/Chevy-Chase-MD/Senior-Machine-Learning-Engineer---AI-Agent-Platform_R0060280)** | MD Chevy Chase (Office) - JPS, United States | On Site | Sep 19 |
+| **[PayPal](https://www.paypal.com/)** | **[Sr Machine Learning Engineer](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Dublin-County-Dublin-Ireland/Sr-Machine-Learning-Engineer_R0128326-1)** | IRL - County Dublin - Dublin - Corp - Ballycoolin Business Park, Ireland | On Site | Sep 19 |
+| **[Workday](https://www.workday.com/)** | **[Prinicipal, Machine Learning Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/INDPune/Prinicipal--Machine-Learning-Engineer_JR-0100132)** | IND.Pune, India | On Site | Sep 19 |
+| **[GEICO](https://www.geico.com/)** | **[Sr. Machine Learning Engineer – Context Engineering](https://geico.wd1.myworkdayjobs.com/en-US/External/job/New-York-City-NY/Sr-Machine-Learning-Engineer---Context-Engineering_R0060276)** | NY Manhattan (Office) - JPS, United States | On Site | Sep 19 |
+| **[GEICO](https://www.geico.com/)** | **[Senior Staff Machine Learning Engineer – Agent Engineering](https://geico.wd1.myworkdayjobs.com/en-US/External/job/New-York-City-NY/Senior-Staff-Machine-Learning-Engineer---Agent-Engineering_R0060275)** | NY Manhattan (Office) - JPS, United States | On Site | Sep 19 |
 | **[Financial Ombudsman Service](https://www.financial-ombudsman.org.uk/)** | **[Machine Learning Engineer](https://financialombudsman.wd3.myworkdayjobs.com/en-US/FinancialOmbudsmanService/job/London---Exchange-Tower/Machine-Learning-Engineer_JR-02589)** | London - Exchange Tower, United Kingdom | On Site | Sep 19 |
 | **[Persona AI](https://personainc.ai/)** | **[Machine Learning Engineer, Data Infrastructure](https://jobs.ashbyhq.com/personainc.ai/150d4af6-2f3a-41b8-8c47-5d5119b92267)** | Pensacola, FL or Houston, TX | On Site | Sep 18 |
 | **[Anduril](https://www.anduril.com/)** | **[Senior Applied Machine Learning Engineer, Frontier AI](https://boards.greenhouse.io/andurilindustries/jobs/4912564007?gh_jid=4912564007)** | Boston, Massachusetts, United States; Costa Mesa, California, United States; Washington, District of Columbia, United States | On Site | Sep 18 |
@@ -42,14 +48,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Nearmap](https://www.nearmap.com)** | **[Machine Learning Engineer](https://jobs.smartrecruiters.com/Nearmap/744000082579576-machine-learning-engineer)** | Barangaroo, NSW, Australia | On Site | Sep 18 |
 | **[Philo](https://www.philo.com/)** | **[Sr. Machine Learning Engineer (Recommendation Systems)](https://job-boards.greenhouse.io/philo/jobs/7259010)** | San Francisco, CA | On Site | Sep 18 |
 | **[Field AI](https://fieldai.com)** | **[1.62 Machine learning Engineer](https://jobs.lever.co/field-ai/6e36c56b-03da-4fd1-b034-b4b148919f94)** | Seattle, Washington | On Site | Sep 18 |
-| **[PayPal](https://www.paypal.com/)** | **[Sr Machine Learning Engineer](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0128388-1)** | USA - California - San Jose - Corp - N First St, United States | On Site | Sep 18 |
 | **[PayPal](https://www.paypal.com/)** | **[Machine Learning Engineer Intern](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Machine-Learning-Engineer-Intern_R0130648)** | SGP - Central Singapore - Corp - Temasek Blvd | On Site | Sep 18 |
-| **[Medtronic](https://www.medtronic.com/)** | **[Senior Machine Learning Engineer](https://medtronic.wd1.myworkdayjobs.com/en-US/RedeploymentMedtronicCareers/job/Pune-Maharashtra-India/Senior-Machine-Learning-Engineer_R44718)** | IND-MH Pune Viman Nagar, India | On Site | Sep 18 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Senior Machine Learning Engineer, Ad Platforms](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Senior-Machine-Learning-Engineer_10129950)** | USA - WA - 925 4th Ave, United States | On Site | Sep 18 |
-| **[Autodesk](https://www.autodesk.com/)** | **[Principal Machine Learning Engineer – Foundation Models in AEC](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Senior-Principal-Machine-Learning-Engineer_25WD89306-1)** | AMER - Canada - Ontario - Toronto - University Ave | On Site | Sep 18 |
+| **[Quantiphi](https://www.linkedin.com/company/quantiphi/)** | **[Senior Machine Learning Engineer](https://quantiphi.wd1.myworkdayjobs.com/en-US/Careers_at_Quantiphi/job/IN-KL-Trivandrum/Senior-Machine-Learning-Engineer_JR7351-1)** | IN KL Trivandrum, India | On Site | Sep 18 |
+| **[Medtronic](https://www.medtronic.com/)** | **[Senior Machine Learning Engineer](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Pune-Maharashtra-India/Senior-Machine-Learning-Engineer_R44718-1)** | IND-MH Pune Viman Nagar, India | On Site | Sep 18 |
 | **[The Coca-Cola Company](https://www.coca-colacompany.com/)** | **[Senior Machine Learning Engineer](https://coke.wd1.myworkdayjobs.com/en-US/coca-cola-careers/job/US---GA---Atlanta/Senior-Manager--AI-Cloud-Innovation-Engineer_R-127668)** | US - GA - Atlanta, United States | On Site | Sep 18 |
 | **[Clarivate](https://www.clarivate.com/)** | **[Machine Learning Engineer](https://clarivate.wd3.myworkdayjobs.com/en-US/Clarivate_Careers/job/R271--Noida/ML-Ops-Engineer_JREQ130889-1)** | R271- Noida, India | On Site | Sep 18 |
-| **[Quantiphi](https://www.linkedin.com/company/quantiphi/)** | **[Senior Machine Learning Engineer](https://quantiphi.wd1.myworkdayjobs.com/en-US/Careers_at_Quantiphi/job/IN-KL-Trivandrum/Senior-Machine-Learning-Engineer_JR7351-1)** | IN KL Trivandrum, India | On Site | Sep 18 |
+| **[Autodesk](https://www.autodesk.com/)** | **[Principal Machine Learning Engineer – Foundation Models in AEC](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Toronto-ON-CAN/Senior-Principal-Machine-Learning-Engineer_25WD89306-1)** | AMER - Canada - Ontario - Toronto - University Ave | On Site | Sep 18 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Senior Machine Learning Engineer, Ad Platforms](https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Seattle-WA-USA/Senior-Machine-Learning-Engineer_10129950)** | USA - WA - 925 4th Ave, United States | On Site | Sep 18 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Machine Learning Engineer II](https://jobs.careers.microsoft.com/global/en/job/1858486/)** | Redmond, Washington, United States | On Site | Sep 17 |
 | **[Faculty](https://faculty.ai)** | **[Machine Learning Engineer](https://jobs.ashbyhq.com/faculty/42346b75-f5aa-48f6-bd76-f9b3aed1e7f4)** | London - Hybrid | On Site | Sep 17 |
 | **[Inetum](https://www.inetum.com)** | **[Machine Learning Engineer](https://jobs.smartrecruiters.com/Inetum2/744000082526955-machine-learning-engineer)** | Mexico City, CDMX, Mexico | On Site | Sep 17 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Robinhood](https://robinhood.com/)** | **[Senior Machine Learning Engineer, AI Research and Development](https://boards.greenhouse.io/robinhood/jobs/6535807?t=gh_src=&gh_jid=6535807)** | Bellevue, WA; Menlo Park, CA | On Site | Sep 17 |
 | **[Mission Lane](https://www.missionlane.com/)** | **[Principal Machine Learning Engineer](https://job-boards.greenhouse.io/missionlane/jobs/7917122002)** | Remote, United States | Remote | Sep 17 |
 | **[Qualtrics](https://www.qualtrics.com/)** | **[Senior Machine Learning Engineer - CFA, Seattle](https://www.qualtrics.com/careers/us/en/job/6752127?gh_jid=6752127)** | Seattle, Washington, United States | On Site | Sep 17 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search - 2026 Start (BS/MS)](https://lifeattiktok.com/search/7550436166929025298)** | Seattle, Washington, United States | On Site | Sep 17 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate - Global E-commerce Recommendation/Search - 2026 Start (PhD)](https://lifeattiktok.com/search/7550798923146250504)** | San Jose, California, United States | On Site | Sep 17 |
-| **[Multiverse Computing](https://multiversecomputing.com/)** | **[Machine Learning Engineer (Product)(9-month contract with bonus incentives)](https://multiversecomputing.teamtailor.com/jobs/6464516-machine-learning-engineer-product-9-month-contract-with-bonus-incentives)** | Barcelona, Spain | On Site | Sep 17 |
-| **[Emerson](https://www.emerson.com/)** | **[Sr. Machine Learning Engineer](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/25026083)** | PUNE, MAHARASHTRA, India | On Site | Sep 17 |
-| **[Experian](https://www.experian.com/)** | **[Machine Learning Engineer - AI Operations](https://jobs.smartrecruiters.com/Experian/744000082383755-machine-learning-engineer-ai-operations)** | Sofia , Bulgaria | On Site | Sep 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 6% remote | 41 companies | Avg salary: 206k  
+**Current Stats:** 50 jobs | 6% remote | 41 companies | Avg salary: 211k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
@@ -104,7 +104,7 @@ This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_s
 Looking for other opportunities? Check out these related job repositories:
 
 - [Data Science Jobs](https://github.com/jobs-jobr-pro/Data-Science-Jobs)
-- [Data Analysis Jobs](https://github.com/jobs-jobr-pro/Data-Analysis-Jobs)
+- [Data Analyst Jobs](https://github.com/jobs-jobr-pro/Data-Analyst-Jobs)
 
 
 
