@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Sep 20, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Sep 20, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - Global E-commerce Recommendation/Search](https://lifeattiktok.com/search/7551567421556001032)** | San Jose, California, United States | On Site | Sep 20 |
 | **[Unity](https://unity.com/)** | **[Staff Machine Learning Engineer](https://unity.com/careers/positions/7264885?gh_jid=7264885)** | Remote, USA | Remote | Sep 19 |
 | **[PlayStation Global](https://www.playstation.com/)** | **[Machine Learning Engineer - Recommender systems](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5651556004)** | Ireland, Dublin | On Site | Sep 19 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Machine Learning Engineer I](https://job-boards.greenhouse.io/pinterestjobadvertisements/jobs/7264418)** | San Francisco, CA, US; Remote, CA, US | Remote | Sep 19 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Risk Data Mining - USDS](https://lifeattiktok.com/search/7232408198401542437)** | Seattle, Washington, United States | On Site | Sep 18 |
 | **[TikTok](https://www.tiktok.com/)** | **[Senior Machine Learning Engineer, Risk Data Mining - USDS](https://lifeattiktok.com/search/7247891987910641978)** | Seattle, Washington, United States | On Site | Sep 18 |
 | **[NielsenIQ](https://nielseniq.com)** | **[Machine Learning Engineer](https://jobs.smartrecruiters.com/NielsenIQ/744000082623858-machine-learning-engineer)** | Vadodara, GJ, India | On Site | Sep 18 |
-| **[Grab](https://www.grab.com)** | **[Senior Machine Learning Engineer](https://jobs.smartrecruiters.com/Grab/744000082621415-senior-machine-learning-engineer)** | Petaling Jaya, Selangor, Malaysia | On Site | Sep 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 42 companies | Avg salary: 211k  
+**Current Stats:** 50 jobs | 22% remote | 41 companies | Avg salary: 211k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
