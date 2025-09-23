@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Sep 23, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Sep 23, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -14,13 +14,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Channel Talk](https://channel.io/)** | **[Machine Learning Engineer - Intern](https://jobs.lever.co/zoyi/b7ec891b-4159-4466-a841-80fbe22b7b0c)** | 서울 강남구 논현로 508, GS강남타워 | On Site | Sep 23 |
+| **[Vyro](https://vyro.ai/)** | **[Machine Learning Engineer / Researcher (Computer Vision – Optimization & Quantization)](https://vyro.applytojob.com/apply/T1TzpQ8rsQ/Machine-Learning-Engineer-Researcher-Computer-Vision-Optimization-Quantization)** | China, China | On Site | Sep 23 |
+| **[SGX Group](https://www.sgx.com)** | **[Machine Learning Engineer](https://careers.sgx.com/job/Singapore-Machine-Learning-Engineer/1327740766/)** | Singapore, SG | On Site | Sep 23 |
 | **[Reveal Technology](https://www.revealtech.ai)** | **[Computer Vision / Machine Learning Engineer](https://jobs.lever.co/revealtech/d5f2fc53-0183-4bd6-a641-d37e7e6ec398)** | Remote, USA | Remote | Sep 22 |
 | **[Block](https://block.xyz/)** | **[Senior Machine Learning Engineer (Modeling), Risk](http://block.xyz/careers/jobs/4930106008?gh_jid=4930106008)** | Melbourne, Australia | On Site | Sep 22 |
 | **[Lendbuzz](https://www.lendbuzz.com/)** | **[Co-op - Machine Learning Engineer (Spanish/Portuguese)](https://jobs.lever.co/lendbuzz/b10f1a92-80a1-438d-89b8-079de2386e74)** | Boston, MA | On Site | Sep 22 |
 | **[Hightouch](https://hightouch.com/)** | **[Machine Learning Engineer, AI Decisioning](https://job-boards.greenhouse.io/hightouch/jobs/5155115004)** | Remote (North America) | Remote | Sep 22 |
 | **[Nextdoor](https://about.nextdoor.com/)** | **[Machine Learning Engineer - New Grad 2026](https://about.nextdoor.com/careers-list/?gh_jid=7264954)** | Dallas, TX | On Site | Sep 22 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Senior Machine Learning Engineer](https://www.thoughtworks.com/careers/jobs/7228447?gh_jid=7228447)** | Quito | Remote | Sep 22 |
-| **[Unity](https://unity.com/)** | **[Senior Machine Learning Engineer, Ads Foundation Modeling](https://unity.com/careers/positions/7267794?gh_jid=7267794)** | Remote, USA | Remote | Sep 22 |
+| **[Unity](https://unity.com/)** | **[Senior Machine Learning Engineer, Ads Foundation Modeling](https://unity.com/careers/positions/7260983?gh_jid=7260983)** | San Francisco, CA, USA | On Site | Sep 22 |
 | **[Rent the Runway](https://www.renttherunway.com/)** | **[Machine Learning Engineer](https://job-boards.greenhouse.io/renttherunway/jobs/5409891)** | Galway, Ireland | On Site | Sep 22 |
 | **[Unity](https://unity.com/)** | **[Staff Machine Learning Engineer, Ads Foundation Modeling](https://unity.com/careers/positions/7260981?gh_jid=7260981)** | San Francisco, CA, USA | On Site | Sep 22 |
 | **[Robinhood](https://robinhood.com/)** | **[Machine Learning Engineer Intern, Agentic ML (Summer 2026)](https://boards.greenhouse.io/robinhood/jobs/7163239?t=gh_src=&gh_jid=7163239)** | Menlo Park, CA | On Site | Sep 22 |
@@ -32,9 +34,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Experian](https://www.experian.com/)** | **[Machine Learning Engineer - GenAI](https://jobs.smartrecruiters.com/Experian/744000083171937-machine-learning-engineer-genai-)** | London, United Kingdom | On Site | Sep 22 |
 | **[CarTrawler](https://corporate.cartrawler.com/)** | **[Machine Learning Engineer](https://jobs.lever.co/cartrawler/c1cfdace-ad10-434a-9eed-96b360541463)** | Dublin | On Site | Sep 22 |
 | **[Grab](https://www.grab.com)** | **[Senior Machine Learning Engineer (Fulfilment)](https://jobs.smartrecruiters.com/Grab/744000083145835-senior-machine-learning-engineer-fulfilment-)** | Singapore, Singapore | On Site | Sep 22 |
+| **[Weekday](https://www.weekday.works)** | **[Staff Lead Machine Learning Engineer](https://apply.workable.com/j/292AAAE4E0/apply)** | Bengaluru, Karnataka, India | On Site | Sep 22 |
 | **[TD](https://www.td.com/)** | **[Machine Learning Engineer I](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1443721)** | 661 University Avenue, Toronto, Ontario, Canada | On Site | Sep 22 |
 | **[Zillow](https://www.zillow.com/)** | **[Machine Learning Engineer, Agentic AI – User Understanding](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Remote-USA/Machine-Learning-Engineer--Agentic-AI---User-Understanding_P747938-1)** | Remote-USA, United States | Remote | Sep 22 |
-| **[Weekday](https://www.weekday.works)** | **[Staff Lead Machine Learning Engineer](https://apply.workable.com/j/292AAAE4E0/apply)** | Bengaluru, Karnataka, India | On Site | Sep 22 |
 | **[ACV Auctions](https://www.acvauctions.com/)** | **[Machine Learning Engineer III, MLOps](https://jobs.dayforcehcm.com/en-US/acv/IndiaCandidatePortal/jobs/26896)** | Chennai, TN, 600096, IN | On Site | Sep 21 |
 | **[Weave](https://www.getweave.com/)** | **[Senior Machine Learning Engineer](https://jobs.ashbyhq.com/weave/b58bc58b-dec3-411a-9237-9adf84a56438)** | US Remote | Remote | Sep 21 |
 | **[Docsumo](https://www.docsumo.com/)** | **[Senior Machine Learning Engineer (5+ years) \| Nepal](https://jobs.lever.co/docsumo/1247f9ba-6275-4de3-a569-40520efb0103)** | Kathmandu, Nepal | On Site | Sep 21 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Upskills](https://www.upskills.com/)** | **[Senior Machine Learning Engineer](https://upskills.zohorecruit.com/jobs/Careers/99489000015760481)** | Raffles Quay, Singapore | On Site | Sep 19 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate (Trust and Safety Platform)- 2026 Start (BS/MS)](https://lifeattiktok.com/search/7533511155060279559)** | Singapore, Singapore | On Site | Sep 19 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, TikTok Vertical Search Intern - 2025 Start](https://lifeattiktok.com/search/7484145153936476423)** | Singapore, Singapore | On Site | Sep 19 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, TikTok Search Local Services Intern - 2025 Start](https://lifeattiktok.com/search/7484140512455395592)** | Singapore, Singapore | On Site | Sep 19 |
-| **[ServiceNow](https://www.servicenow.com)** | **[Senior Machine Learning Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000082878798-senior-machine-learning-engineer)** | Hyderabad, India | On Site | Sep 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 32% remote | 40 companies | Avg salary: 183k  
+**Current Stats:** 50 jobs | 30% remote | 41 companies | Avg salary: 183k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
