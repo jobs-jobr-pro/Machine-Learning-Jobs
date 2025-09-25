@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Sep 25, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Sep 25, 2025 at 08:31 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,17 +13,28 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[1848 Ventures](https://www.1848ventures.com/)** | **[Machine Learning Engineer - Applied Modeling (TakeUp)](https://job-boards.greenhouse.io/1848ventures/jobs/5658964004)** | Remote US | Remote | Sep 25 |
+| **[Strata Decision Technology](https://www.stratadecision.com/)** | **[Applied Machine Learning Engineer](https://job-boards.greenhouse.io/stratacareers/jobs/7452181003)** | Chicago, IL | On Site | Sep 25 |
+| **[Freeform](https://freeform.co/)** | **[Senior Machine Learning Engineer](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7477275003)** | Los Angeles, CA (On-site) | On Site | Sep 25 |
+| **[eBay](https://www.ebay.com/)** | **[Machine Learning Engineer (T24)](https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Bengaluru-India/Machine-Learning-Engineer--T24-_R0069907)** | Bangalore, India | On Site | Sep 25 |
+| **[Headway](https://headway.co/)** | **[Staff Machine Learning Engineer](https://job-boards.greenhouse.io/headway/jobs/5657373004)** | San Francisco, California, United States | On Site | Sep 24 |
+| **[Waymo](https://waymo.com/)** | **[Machine Learning Engineer, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=6499165)** | Mountain View, CA, USA | On Site | Sep 24 |
+| **[XPeng Motors](https://www.heyxpeng.com/)** | **[Senior Machine Learning Engineer - Foundation Model](https://job-boards.greenhouse.io/xpengmotors/jobs/7813395002)** | Santa Clara, CA | On Site | Sep 24 |
+| **[Stripe](https://stripe.com/en-ch)** | **[Machine Learning Engineer, Supportability](https://stripe.com/jobs/search?gh_jid=7176812)** | San Francisco or Seattle | On Site | Sep 24 |
+| **[Upwork](https://www.upwork.com/)** | **[Contract: Senior Machine Learning Engineer](https://job-boards.greenhouse.io/upwork/jobs/7471483003)** | Remote-Europe | Remote | Sep 24 |
+| **[Wolt](https://wolt.com/)** | **[Senior Machine Learning Engineer, Logistics](https://job-boards.greenhouse.io/wolt/jobs/7267502)** | Helsinki, Finland | On Site | Sep 24 |
 | **[Marktine Technology Solutions Pvt Ltd](https://marktine.com/)** | **[Machine Learning Engineer](https://marktine.zohorecruit.com/jobs/Careers/634479000000586177)** | Remote | Remote | Sep 24 |
 | **[Navatech](https://navatech.ai/)** | **[Machine Learning Engineer](https://navatechgroup.zohorecruit.com/jobs/Careers/773417000000507009)** | Bengaluru, India | On Site | Sep 24 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - Global E-commerce Recommendation/Search](https://lifeattiktok.com/search/7551574702218627335)** | Seattle, Washington, United States | On Site | Sep 24 |
 | **[TikTok](https://www.tiktok.com/)** | **[Senior Machine Learning Engineer - TikTok Short Video Content Understanding/Multimodal Recommendation](https://lifeattiktok.com/search/7553187214310656274)** | San Jose, California, United States | On Site | Sep 24 |
 | **[Sia](https://www.sia-partners.com)** | **[Machine Learning Engineer](https://jobs.smartrecruiters.com/Sia/744000083611677-machine-learning-engineer)** | Antwerp, Belgium | On Site | Sep 24 |
+| **[OPSWAT](https://www.opswat.com/)** | **[Machine Learning Engineer](https://www.opswat.com/jobs/4549744005?gh_jid=4549744005)** | Ho Chi Minh City, Ho Chi Minh City, Vietnam | On Site | Sep 24 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Machine Learning Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000083605406-machine-learning-engineer)** | Hyderabad, India | On Site | Sep 24 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Principal Machine Learning Engineer, Ads Delivery](https://www.pinterestcareers.com/job-form?gh_jid=6963868)** | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | On Site | Sep 24 |
 | **[AI Sqaured](https://squared.ai/)** | **[Machine Learning Engineer](https://job-boards.greenhouse.io/aisquared/jobs/4604010006)** | Washington, DC | On Site | Sep 24 |
+| **[Automation Anywhere](https://www.automationanywhere.com/)** | **[Enterprise UI AI Machine Learning Engineer](https://automationanywhere.wd5.myworkdayjobs.com/en-US/AutomationAnywhereJobs/job/Bengaluru-India/Enterprise-UI-AI-Machine-Learning-Engineer_JR1040)** | IN Bengaluru, India | On Site | Sep 24 |
 | **[Workiva](https://www.workiva.com/)** | **[Principal Machine Learning Engineer](https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/USA---Remote/Principal-Machine-Learning-Engineer_R10787)** | Ames, United States | On Site | Sep 24 |
 | **[Clarivate](https://www.clarivate.com/)** | **[Machine Learning Engineer](https://clarivate.wd3.myworkdayjobs.com/en-US/Clarivate_Careers/job/R271--Noida/Machine-Learning-Engineer_JREQ130890)** | R271- Noida, India | On Site | Sep 24 |
-| **[Automation Anywhere](https://www.automationanywhere.com/)** | **[Enterprise UI AI Machine Learning Engineer](https://automationanywhere.wd5.myworkdayjobs.com/en-US/AutomationAnywhereJobs/job/Bengaluru-India/Enterprise-UI-AI-Machine-Learning-Engineer_JR1040)** | IN Bengaluru, India | On Site | Sep 24 |
 | **[Singtel](https://www.singtel.com/)** | **[Specialist Machine Learning Engineer](https://groupcareers.singtel.com/job/Macquarie-Park-Specialist-Machine-Learning-Engineer-Macq/1327814766/)** | Macquarie Park, Australia | On Site | Sep 24 |
 | **[Anduril](https://www.anduril.com/)** | **[Senior Machine Learning Engineer - Sentry Tower](https://boards.greenhouse.io/andurilindustries/jobs/4843842007?gh_jid=4843842007)** | Irvine, California, United States | On Site | Sep 23 |
 | **[Spring Health](https://www.springhealth.com/)** | **[Machine Learning Engineer II](https://job-boards.greenhouse.io/springhealth66/jobs/4611976005)** | San Francisco, CA (Hybrid) | On Site | Sep 23 |
@@ -51,22 +62,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Nextdoor](https://about.nextdoor.com/)** | **[Machine Learning Engineer - New Grad 2026](https://about.nextdoor.com/careers-list/?gh_jid=7264954)** | Dallas, TX | On Site | Sep 22 |
 | **[Unity](https://unity.com/)** | **[Senior Machine Learning Engineer, Ads Foundation Modeling](https://unity.com/careers/positions/7267794?gh_jid=7267794)** | Remote, USA | Remote | Sep 22 |
 | **[Rent the Runway](https://www.renttherunway.com/)** | **[Machine Learning Engineer](https://job-boards.greenhouse.io/renttherunway/jobs/5409891)** | Galway, Ireland | On Site | Sep 22 |
-| **[Unity](https://unity.com/)** | **[Staff Machine Learning Engineer, Ads Foundation Modeling](https://unity.com/careers/positions/7260981?gh_jid=7260981)** | San Francisco, CA, USA | On Site | Sep 22 |
-| **[Robinhood](https://robinhood.com/)** | **[Machine Learning Engineer Intern, Agentic ML (Summer 2026)](https://boards.greenhouse.io/robinhood/jobs/7163239?t=gh_src=&gh_jid=7163239)** | Menlo Park, CA | On Site | Sep 22 |
-| **[Robinhood](https://robinhood.com/)** | **[Machine Learning Engineer Intern, Applied ML (Summer 2026)](https://boards.greenhouse.io/robinhood/jobs/7163234?t=gh_src=&gh_jid=7163234)** | Menlo Park, CA | On Site | Sep 22 |
-| **[Ultra Tendency](https://www.ultratendency.com/)** | **[Senior Machine Learning Engineer - Databricks (m/f/*)](https://job-boards.eu.greenhouse.io/ultratendency/jobs/4678849101)** | Kathmandu, Bagmati, Nepal | On Site | Sep 22 |
-| **[Pinterest](https://www.pinterest.com/)** | **[Machine Learning Engineer I](https://job-boards.greenhouse.io/pinterestjobadvertisements/jobs/7264542)** | New York, NY, US; Remote, NY, US | Remote | Sep 22 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Risk Data Mining - USDS](https://lifeattiktok.com/search/7247892612371171640)** | San Jose, California, United States | On Site | Sep 22 |
-| **[Sopra Steria](https://www.soprasteria.com)** | **[Machine Learning Engineer Groningen](https://jobs.smartrecruiters.com/SopraSteria1/744000083194473-machine-learning-engineer-groningen)** | Groningen, GR, Netherlands | On Site | Sep 22 |
-| **[Experian](https://www.experian.com/)** | **[Machine Learning Engineer - GenAI](https://jobs.smartrecruiters.com/Experian/744000083171937-machine-learning-engineer-genai-)** | London, United Kingdom | On Site | Sep 22 |
-| **[CarTrawler](https://corporate.cartrawler.com/)** | **[Machine Learning Engineer](https://jobs.lever.co/cartrawler/c1cfdace-ad10-434a-9eed-96b360541463)** | Dublin | On Site | Sep 22 |
-| **[Grab](https://www.grab.com)** | **[Senior Machine Learning Engineer (Fulfilment)](https://jobs.smartrecruiters.com/Grab/744000083145835-senior-machine-learning-engineer-fulfilment-)** | Singapore, Singapore | On Site | Sep 22 |
-| **[TD](https://www.td.com/)** | **[Machine Learning Engineer I](https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Toronto-Ontario/Machine-Learning-Engineer-I_R_1443721)** | 661 University Avenue, Toronto, Ontario, Canada | On Site | Sep 22 |
-| **[Weekday](https://www.weekday.works)** | **[Staff Lead Machine Learning Engineer](https://apply.workable.com/j/292AAAE4E0/apply)** | Bengaluru, Karnataka, India | On Site | Sep 22 |
+| **[Unity](https://unity.com/)** | **[Staff Machine Learning Engineer, Ads Foundation Modeling](https://unity.com/careers/positions/7267872?gh_jid=7267872)** | Remote, USA | Remote | Sep 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 44 companies | Avg salary: 231k  
+**Current Stats:** 50 jobs | 22% remote | 47 companies | Avg salary: 259k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
