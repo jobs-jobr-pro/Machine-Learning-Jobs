@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Sep 26, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Sep 27, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -19,16 +19,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Block](https://block.xyz/)** | **[Machine Learning Engineer](http://block.xyz/careers/jobs/4912447008?gh_jid=4912447008)** | Melbourne, Australia | On Site | Sep 26 |
 | **[Coupang](https://www.coupang.com/)** | **[Staff Machine Learning Engineer (CMG Engineering)](https://boards.greenhouse.io/coupanginternal/jobs/7258673?gh_jid=7258673)** | Mountain View, USA | On Site | Sep 26 |
 | **[VIDIZMO](https://vidizmo.com/)** | **[Associate Machine Learning Engineer](https://vidizmo.bamboohr.com/careers/341)** | Karachi, Sindh, Pakistan | On Site | Sep 26 |
-| **[Elanco](https://www.elanco.com/)** | **[Machine Learning Engineer](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/UK---Hook/Machine-Learning-Engineer_R0023433-1)** | UK - Hook, United Kingdom | On Site | Sep 26 |
 | **[Centene Corporation](https://www.centene.com/)** | **[Cloud Machine Learning Engineer Intern (Graduate - Summer 2026)](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/Cloud-Machine-Learning-Engineer-Intern--Graduate---Summer-2026-_1593802)** | Remote-MO, United States | Remote | Sep 26 |
 | **[NN Group](https://www.nn-group.com/)** | **[Machine Learning Engineer](https://nngroup.wd3.myworkdayjobs.com/en-US/WDExternal/job/Madrid/Machine-Learning-Engineer_REQ2701230)** | Madrid-Alcobendas Vida, Spain | On Site | Sep 26 |
+| **[Elanco](https://www.elanco.com/)** | **[Machine Learning Engineer](https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/UK---Hook/Machine-Learning-Engineer_R0023433-1)** | UK - Hook, United Kingdom | On Site | Sep 26 |
 | **[Amgen](https://www.amgen.com/)** | **[Machine Learning Engineer](https://amgen.wd1.myworkdayjobs.com/en-US/Careers/job/Portugal---Lisbon/Machine-Learning-Engineer_R-223684)** | Portugal - ACC | On Site | Sep 26 |
 | **[WHOOP](https://www.whoop.com/)** | **[Senior Machine Learning Engineer (Health)](https://jobs.lever.co/whoop/d65ec99a-3ed8-4aba-8f63-6c35a64514d5)** | Boston, MA | On Site | Sep 25 |
 | **[ASRC Federal](https://www.asrcfederal.com/)** | **[Machine Learning Engineer](https://jobs.dayforcehcm.com/en-US/asrcfh/CANDIDATEPORTAL/jobs/15010)** | Huntsville, AL, US | On Site | Sep 25 |
 | **[Roblox](https://www.roblox.com/)** | **[Machine Learning Engineer, Safety Experience](https://careers.roblox.com/jobs/7272668?gh_jid=7272668)** | San Mateo, CA, United States | On Site | Sep 25 |
 | **[Zscaler](https://www.zscaler.com/careers)** | **[Sr. Staff Machine Learning Engineer](https://job-boards.greenhouse.io/zscaler/jobs/4620429007)** | San Jose, California, USA | On Site | Sep 25 |
-| **[Capital Rx](https://capitalrx.com/)** | **[Senior Machine Learning Engineer I](https://job-boards.greenhouse.io/capitalrx/jobs/4759211008)** | Remote | Remote | Sep 25 |
 | **[Capital Rx](https://capitalrx.com/)** | **[Senior Machine Learning Engineer II](https://job-boards.greenhouse.io/capitalrx/jobs/4749307008)** | Remote | Remote | Sep 25 |
+| **[Capital Rx](https://capitalrx.com/)** | **[Senior Machine Learning Engineer I](https://job-boards.greenhouse.io/capitalrx/jobs/4759211008)** | Remote | Remote | Sep 25 |
 | **[Udemy](https://www.udemy.com/)** | **[Machine Learning Engineer, Recommendations](https://job-boards.greenhouse.io/udemybedi/jobs/5632085004)** | San Francisco, CA | On Site | Sep 25 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Senior Staff Machine Learning Engineer](https://jobs.smartrecruiters.com/ServiceNow/744000083948236-senior-staff-machine-learning-engineer-)** | Santa Clara, CALIFORNIA, United States | On Site | Sep 25 |
 | **[Samsara](https://www.samsara.com/)** | **[Senior Machine Learning Engineer](https://www.samsara.com/company/careers/roles/7266188?gh_jid=7266188)** | Remote - US | Remote | Sep 25 |
@@ -43,11 +43,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[1848 Ventures](https://www.1848ventures.com/)** | **[Machine Learning Engineer - Applied Modeling (TakeUp)](https://job-boards.greenhouse.io/1848ventures/jobs/5658964004)** | Remote US | Remote | Sep 25 |
 | **[Strata Decision Technology](https://www.stratadecision.com/)** | **[Applied Machine Learning Engineer](https://job-boards.greenhouse.io/stratacareers/jobs/7452181003)** | Chicago, IL | On Site | Sep 25 |
 | **[Freeform](https://freeform.co/)** | **[Senior Machine Learning Engineer](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7477275003)** | Los Angeles, CA (On-site) | On Site | Sep 25 |
-| **[eBay](https://www.ebay.com/)** | **[Machine Learning Engineer (T24)](https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Bengaluru-India/Machine-Learning-Engineer--T24-_R0069906)** | Bangalore, India | On Site | Sep 25 |
+| **[eBay](https://www.ebay.com/)** | **[Machine Learning Engineer (T24)](https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Bengaluru-India/Machine-Learning-Engineer--T24-_R0069907)** | Bangalore, India | On Site | Sep 25 |
 | **[Corning](https://www.corning.com)** | **[Machine Learning Engineer - IT Manufacturing](https://corningjobs.corning.com/job/Charlotte-Machine-Learning-Engineer-IT-Manufacturing-NC-28216/1329248400/)** | Charlotte, NC, US, 28216 | On Site | Sep 25 |
-| **[Thomson Reuters](https://www.thomsonreuters.com/)** | **[Sr. Machine Learning Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Sr-Machine-Learning-Engineer---Recommender-Systems_JREQ194781)** | MEX-Distrito Federal-Reforma 26, Mexico | On Site | Sep 25 |
 | **[Evonik](https://www.evonik.com/)** | **[Senior Machine Learning Engineer / Senior (Gen) AI Engineer](https://evonik.wd3.myworkdayjobs.com/en-US/External_Careers/job/Selangor/Senior-Machine-Learning-Engineer---Senior--Gen--AI-Engineer_R43674)** | Selangor, Malaysia | On Site | Sep 25 |
 | **[McKesson](https://www.mckesson.com/)** | **[AI and Machine Learning Engineer Intern - Summer 2026](https://mckesson.wd3.myworkdayjobs.com/en-US/sourcer_on_req/job/USA-TX-Irving/AI-and-Machine-Learning-Engineer-Intern---Summer-2026_JR0135761)** | Irving, TX, USA - 6555 North State Highway 161 (P001), United States | On Site | Sep 25 |
+| **[Thomson Reuters](https://www.thomsonreuters.com/)** | **[Sr. Machine Learning Engineer](https://thomsonreuters.wd5.myworkdayjobs.com/en-US/External_Career_Site/job/MEX-Distrito-Federal-Reforma-26/Sr-Machine-Learning-Engineer---Recommender-Systems_JREQ194781)** | MEX-Distrito Federal-Reforma 26, Mexico | On Site | Sep 25 |
 | **[Headway](https://headway.co/)** | **[Staff Machine Learning Engineer](https://job-boards.greenhouse.io/headway/jobs/5657373004)** | San Francisco, California, United States | On Site | Sep 24 |
 | **[Waymo](https://waymo.com/)** | **[Machine Learning Engineer, Simulation Realism](https://careers.withwaymo.com/jobs?gh_jid=6499165)** | Mountain View, CA, USA | On Site | Sep 24 |
 | **[Canoe Intelligence](https://canoeintelligence.com/)** | **[Sr. Machine Learning Engineer](https://careers.canoeintelligence.com/jobs/302503-sr-machine-learning-engineer)** | New York, United States | Remote | Sep 24 |
