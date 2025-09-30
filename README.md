@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Sep 30, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Sep 30, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Google](https://www.google.com/)** | **[Staff Machine Learning Engineer, Search Quality](https://jobr.pro/job/29035380/staff-machine-learning-engineer-search-quality?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, Karnataka, India | On Site | Sep 30 |
+| **[Celfocus](https://www.celfocus.com)** | **[Machine Learning Engineer](https://jobr.pro/job/29033097/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lisboa, Portugal | On Site | Sep 30 |
 | **[Agoda](https://www.agoda.com/)** | **[Senior/Staff Machine Learning Engineer - Bidding (Bangkok based, relocation provided)](https://jobr.pro/job/29007301/seniorstaff-machine-learning-engineer-bidding-bangkok-based-relocation-provided?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangkok (Central World Office) | On Site | Sep 30 |
 | **[Suki](https://www.suki.ai/)** | **[Machine Learning Engineer III (ASR)](https://jobr.pro/job/29006981/machine-learning-engineer-iii-asr?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, India | On Site | Sep 30 |
 | **[MYOB](https://www.myob.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29000348/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Melbourne, Australia | On Site | Sep 30 |
@@ -21,6 +23,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Amazon.com](https://www.amazon.com/)** | **[Sr. Machine Learning Engineer, AWS](https://jobr.pro/job/28992333/sr-machine-learning-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tokyo, JPN | On Site | Sep 30 |
 | **[Intuitive](https://www.intuitive.com)** | **[Sr Machine Learning Engineer](https://jobr.pro/job/29002454/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale, CA, United States | On Site | Sep 29 |
 | **[Zscaler](https://www.zscaler.com/careers)** | **[Sr. Machine Learning Engineer- Agentic AI & Digital Experience](https://jobr.pro/job/28996840/sr-machine-learning-engineer-agentic-ai-digital-experience?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, USA | On Site | Sep 29 |
+| **[Microsoft](https://www.microsoft.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29037294/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Redmond, Washington, United States | On Site | Sep 29 |
 | **[Zoox](https://zoox.com/)** | **[Machine Learning Engineer, Simulation Scenario Generation](https://jobr.pro/job/28999681/machine-learning-engineer-simulation-scenario-generation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA | On Site | Sep 29 |
 | **[FingerprintJS](https://fingerprintjs.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/28993765/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Sep 29 |
 | **[Visa](https://visa.com)** | **[Machine Learning Engineer – Sr. Consultant level](https://jobr.pro/job/29001015/machine-learning-engineer-sr-consultant-level?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Austin, TX, United States | On Site | Sep 29 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Artera](https://artera.ai/)** | **[Machine Learning Engineer (Platform)](https://jobr.pro/job/28899489/machine-learning-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote-North America | Remote | Sep 28 |
 | **[Life360](https://www.life360.com/)** | **[Senior Machine Learning Engineer II](https://jobr.pro/job/28901806/senior-machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote, USA/Remote, Canada | Remote | Sep 27 |
 | **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Principal Machine Learning Engineer (AI Agents)](https://jobr.pro/job/28896761/principal-machine-learning-engineer-ai-agents?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CA, United States | On Site | Sep 27 |
-| **[Coupang](https://www.coupang.jobs/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/28837389/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, USA | On Site | Sep 27 |
-| **[HRL Laboratories](https://www.hrl.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/28837138/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lost hills | On Site | Sep 26 |
-| **[Moloco](https://www.moloco.com/)** | **[Machine Learning Engineer Intern](https://jobr.pro/job/28841591/machine-learning-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Redwood City, California, United States | On Site | Sep 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 43 companies | Avg salary: 198k  
+**Current Stats:** 50 jobs | 26% remote | 43 companies | Avg salary: 191k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
