@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Sep 30, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Sep 30, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -27,6 +27,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Amazon.com](https://www.amazon.com/)** | **[Sr. Machine Learning Engineer, AWS](https://jobr.pro/job/28992333/sr-machine-learning-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tokyo, JPN | On Site | Sep 30 |
 | **[Bertrandt](https://www.bertrandt.com)** | **[Machine Learning Engineer – Agricultural Applications (m/w/d)](https://jobr.pro/job/29050936/machine-learning-engineer-agricultural-applications-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Kaiserslautern, Germany | On Site | Sep 30 |
 | **[Sonos](https://www.sonos.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29056649/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris - SVE, France | On Site | Sep 30 |
+| **[CrowdStrike](https://www.crowdstrike.com/)** | **[Sr. Machine Learning Engineer, ML Platforms (Remote)](https://jobr.pro/job/29071350/sr-machine-learning-engineer-ml-platforms-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA CA Remote, United States | Remote | Sep 30 |
+| **[LEGO Group](https://www.lego.com/)** | **[Data Scientist / Machine Learning Engineer – Parental Leave Cover](https://jobr.pro/job/29073169/data-scientist-machine-learning-engineer-parental-leave-cover?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London Hub, United Kingdom | On Site | Sep 30 |
+| **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Senior AI and Machine Learning Engineer](https://jobr.pro/job/29075701/senior-ai-and-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Aguadilla, Puerto Rico, Puerto Rico | On Site | Sep 30 |
 | **[Intuitive](https://www.intuitive.com)** | **[Sr Machine Learning Engineer](https://jobr.pro/job/29002454/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale, CA, United States | On Site | Sep 29 |
 | **[Zscaler](https://www.zscaler.com/careers)** | **[Sr. Machine Learning Engineer- Agentic AI & Digital Experience](https://jobr.pro/job/28996840/sr-machine-learning-engineer-agentic-ai-digital-experience?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, USA | On Site | Sep 29 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29037294/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Redmond, Washington, United States | On Site | Sep 29 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[BJAK](https://bjak.my/)** | **[機械学習エンジニア（LLM）Machine Learning Engineer (LLM)](https://jobr.pro/job/28903197/llmmachine-learning-engineer-llm?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tokyo, Japan | Remote | Sep 28 |
 | **[BJAK](https://bjak.my/)** | **[머신러닝 엔지니어 (LLM) Machine Learning Engineer (LLM)](https://jobr.pro/job/28903194/-llm-machine-learning-engineer-llm?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seoul, Korea | Remote | Sep 28 |
 | **[BJAK](https://bjak.my/)** | **[Machine Learning Engineer (Diffusion / Vision)](https://jobr.pro/job/28903165/machine-learning-engineer-diffusion-vision?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Malaysia | On Site | Sep 28 |
-| **[B3 Consulting Group](https://www.b3.se/)** | **[Machine Learning Engineer](https://jobr.pro/job/28937899/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Stockholm, Sweden | On Site | Sep 28 |
-| **[Wizpresso](https://wizpresso.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/28917632/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hong Kong, Hong Kong SAR, Hong Kong | On Site | Sep 28 |
-| **[ZAUBAR](https://zaubar.com/)** | **[Generative Machine Learning Engineer](https://jobr.pro/job/28916894/generative-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Germany - Remote | Remote | Sep 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 41 companies | Avg salary: 189k  
+**Current Stats:** 50 jobs | 20% remote | 41 companies | Avg salary: 198k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
