@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 01, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 01, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern (Creative AI) - 2025 Summer (BS/MS)](https://jobr.pro/job/29133444/machine-learning-engineer-intern-creative-ai-2025-summer-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 01 |
 | **[Inetum](https://www.inetum.com)** | **[Machine Learning Engineer](https://jobr.pro/job/29107786/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bucharest, Bucharest, Romania | On Site | Oct 01 |
 | **[Launch Potato](https://launchpotato.com/)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/29096840/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Panama City, Panama (remote) | Remote | Oct 01 |
 | **[ING Nederland](https://www.ing.com/)** | **[Machine Learning Engineer @ COOA (Gen-AI CDD)](https://jobr.pro/job/29120201/machine-learning-engineer-cooa-gen-ai-cdd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | CDR (Amsterdam - Cedar), Netherlands | On Site | Oct 01 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Eneba](https://www.eneba.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29007647/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Sep 29 |
 | **[Sia](https://www.sia-partners.com)** | **[Machine Learning Engineer](https://jobr.pro/job/28947700/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Brussel, Belgium | On Site | Sep 29 |
 | **[Grab](https://www.grab.com)** | **[Principal Machine Learning Engineer, AI Platform – AI Infrastructure](https://jobr.pro/job/28904547/principal-machine-learning-engineer-ai-platform-ai-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Sep 29 |
-| **[Mercari, Inc.](https://www.mercari.com/)** | **[Machine Learning Engineer (AI/LLM) - Mercari](https://jobr.pro/job/28961971/machine-learning-engineer-aillm-mercari?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Minato City, Tokyo, Japan | On Site | Sep 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 46 companies | Avg salary: 209k  
+**Current Stats:** 50 jobs | 16% remote | 45 companies | Avg salary: 209k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
