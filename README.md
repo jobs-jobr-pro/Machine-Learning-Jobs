@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 01, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 01, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,7 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Inetum](https://www.inetum.com)** | **[Machine Learning Engineer](https://jobr.pro/job/29107786/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bucharest, Bucharest, Romania | On Site | Oct 01 |
 | **[Launch Potato](https://launchpotato.com/)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/29096840/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Panama City, Panama (remote) | Remote | Oct 01 |
+| **[ING Nederland](https://www.ing.com/)** | **[Machine Learning Engineer @ COOA (Gen-AI CDD)](https://jobr.pro/job/29120201/machine-learning-engineer-cooa-gen-ai-cdd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | CDR (Amsterdam - Cedar), Netherlands | On Site | Oct 01 |
 | **[SoFi](https://www.sofi.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29089953/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | CA - San Francisco | On Site | Sep 30 |
 | **[Trellis](https://trellisconnect.com/)** | **[Senior Machine Learning Engineer, Real-Time Bidding](https://jobr.pro/job/29096761/senior-machine-learning-engineer-real-time-bidding?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Sep 30 |
 | **[Tower Research Capital](https://www.tower-research.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29104605/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Gurgaon | On Site | Sep 30 |
@@ -41,9 +43,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Senior AI and Machine Learning Engineer](https://jobr.pro/job/29075701/senior-ai-and-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Aguadilla, Puerto Rico, Puerto Rico | On Site | Sep 30 |
 | **[Amazon.com](https://www.amazon.com/)** | **[Machine Learning Engineer, AWS](https://jobr.pro/job/28992332/machine-learning-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tokyo, JPN | On Site | Sep 30 |
 | **[Amazon.com](https://www.amazon.com/)** | **[Sr. Machine Learning Engineer, AWS](https://jobr.pro/job/28992333/sr-machine-learning-engineer-aws?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tokyo, JPN | On Site | Sep 30 |
-| **[Sonos](https://www.sonos.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29056649/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris - SVE, France | On Site | Sep 30 |
 | **[WEX](https://www.wexinc.com/)** | **[Junior AI/NLP/Machine Learning Engineer 2](https://jobr.pro/job/29077746/junior-ainlpmachine-learning-engineer-2?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Global Headquarters, United States | Remote | Sep 30 |
 | **[Zillow](https://www.zillow.com/)** | **[Machine Learning Engineer, Zillow Shopping AI](https://jobr.pro/job/29079956/machine-learning-engineer-zillow-shopping-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote-USA, United States | Remote | Sep 30 |
+| **[Sonos](https://www.sonos.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29056649/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris - SVE, France | On Site | Sep 30 |
 | **[Intuitive](https://www.intuitive.com)** | **[Sr Machine Learning Engineer](https://jobr.pro/job/29002454/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale, CA, United States | On Site | Sep 29 |
 | **[Zscaler](https://www.zscaler.com/careers)** | **[Sr. Machine Learning Engineer- Agentic AI & Digital Experience](https://jobr.pro/job/28996840/sr-machine-learning-engineer-agentic-ai-digital-experience?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, USA | On Site | Sep 29 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29037294/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Redmond, Washington, United States | On Site | Sep 29 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sia](https://www.sia-partners.com)** | **[Machine Learning Engineer](https://jobr.pro/job/28947700/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Brussel, Belgium | On Site | Sep 29 |
 | **[Grab](https://www.grab.com)** | **[Principal Machine Learning Engineer, AI Platform – AI Infrastructure](https://jobr.pro/job/28904547/principal-machine-learning-engineer-ai-platform-ai-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Sep 29 |
 | **[Mercari, Inc.](https://www.mercari.com/)** | **[Machine Learning Engineer (AI/LLM) - Mercari](https://jobr.pro/job/28961971/machine-learning-engineer-aillm-mercari?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Minato City, Tokyo, Japan | On Site | Sep 29 |
-| **[Elanco](https://www.elanco.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/28965261/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Indianapolis, IN, United States | On Site | Sep 29 |
-| **[Capital One](https://www.capitalonecareers.com/)** | **[Distinguished Machine Learning Engineer](https://jobr.pro/job/28933799/distinguished-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, In, India | On Site | Sep 29 |
 
 ---
 
