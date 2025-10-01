@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Sep 30, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 01, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -30,6 +30,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[CrowdStrike](https://www.crowdstrike.com/)** | **[Sr. Machine Learning Engineer, ML Platforms (Remote)](https://jobr.pro/job/29071350/sr-machine-learning-engineer-ml-platforms-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA CA Remote, United States | Remote | Sep 30 |
 | **[LEGO Group](https://www.lego.com/)** | **[Data Scientist / Machine Learning Engineer – Parental Leave Cover](https://jobr.pro/job/29073169/data-scientist-machine-learning-engineer-parental-leave-cover?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London Hub, United Kingdom | On Site | Sep 30 |
 | **[Hewlett Packard Enterprise](https://www.hpe.com/)** | **[Senior AI and Machine Learning Engineer](https://jobr.pro/job/29075701/senior-ai-and-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Aguadilla, Puerto Rico, Puerto Rico | On Site | Sep 30 |
+| **[WEX](https://www.wexinc.com/)** | **[Junior AI/NLP/Machine Learning Engineer 2](https://jobr.pro/job/29077746/junior-ainlpmachine-learning-engineer-2?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Global Headquarters, United States | Remote | Sep 30 |
+| **[Zillow](https://www.zillow.com/)** | **[Machine Learning Engineer, Zillow Shopping AI](https://jobr.pro/job/29079956/machine-learning-engineer-zillow-shopping-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote-USA, United States | Remote | Sep 30 |
 | **[Intuitive](https://www.intuitive.com)** | **[Sr Machine Learning Engineer](https://jobr.pro/job/29002454/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale, CA, United States | On Site | Sep 29 |
 | **[Zscaler](https://www.zscaler.com/careers)** | **[Sr. Machine Learning Engineer- Agentic AI & Digital Experience](https://jobr.pro/job/28996840/sr-machine-learning-engineer-agentic-ai-digital-experience?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, USA | On Site | Sep 29 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29037294/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Redmond, Washington, United States | On Site | Sep 29 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[BJAK](https://bjak.my/)** | **[Machine Learning Engineer (LLM)](https://jobr.pro/job/28903213/machine-learning-engineer-llm?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hong Kong | Remote | Sep 28 |
 | **[BJAK](https://bjak.my/)** | **[机器学习工程师（扩散模型 / 视觉方向） Machine Learning Engineer (Diffusion/Vision)](https://jobr.pro/job/28903202/-machine-learning-engineer-diffusionvision?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | China | Remote | Sep 28 |
 | **[BJAK](https://bjak.my/)** | **[機械学習エンジニア（LLM）Machine Learning Engineer (LLM)](https://jobr.pro/job/28903197/llmmachine-learning-engineer-llm?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tokyo, Japan | Remote | Sep 28 |
-| **[BJAK](https://bjak.my/)** | **[머신러닝 엔지니어 (LLM) Machine Learning Engineer (LLM)](https://jobr.pro/job/28903194/-llm-machine-learning-engineer-llm?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seoul, Korea | Remote | Sep 28 |
-| **[BJAK](https://bjak.my/)** | **[Machine Learning Engineer (Diffusion / Vision)](https://jobr.pro/job/28903165/machine-learning-engineer-diffusion-vision?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Malaysia | On Site | Sep 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 41 companies | Avg salary: 198k  
+**Current Stats:** 50 jobs | 22% remote | 43 companies | Avg salary: 192k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
