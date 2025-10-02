@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 02, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 02, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -24,6 +24,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Principal Machine Learning Engineer (AI Agents)](https://jobr.pro/job/29175426/principal-machine-learning-engineer-ai-agents?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CA, United States | On Site | Oct 01 |
 | **[Experian](https://www.experian.com/)** | **[Machine Learning Engineer, Remote](https://jobr.pro/job/29175804/machine-learning-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States, United Tstaes, United States | Remote | Oct 01 |
 | **[EarnIn](https://www.earnin.com/)** | **[Senior Platform Machine Learning Engineer](https://jobr.pro/job/29182105/senior-platform-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, US | On Site | Oct 01 |
+| **[University of Adelaide](https://www.adelaide.edu.au/)** | **[Machine Learning Engineer](https://jobr.pro/job/29216872/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Adelaide | On Site | Oct 01 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern (Creative AI) - 2025 Summer (BS/MS)](https://jobr.pro/job/29133444/machine-learning-engineer-intern-creative-ai-2025-summer-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 01 |
 | **[ASOS](https://www.asos.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29175869/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, England, United Kingdom | On Site | Oct 01 |
 | **[Provectus](https://provectus.com/)** | **[Senior Machine Learning Engineer – Marketing ROI Modeling (PhD in AI / Econometrics, Azure+Snowflake)](https://jobr.pro/job/29183697/senior-machine-learning-engineer-marketing-roi-modeling-phd-in-ai-econometrics-azuresnowflake?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Yerevan, Armenia | On Site | Oct 01 |
@@ -35,7 +36,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 19 jobs | 21% remote | 16 companies | Avg salary: 255k  
+**Current Stats:** 20 jobs | 20% remote | 17 companies | Avg salary: 233k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
