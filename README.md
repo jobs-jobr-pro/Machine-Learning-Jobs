@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 02, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 02, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Delivery Hero](https://www.deliveryhero.com)** | **[Senior Machine Learning Engineer - (Vendor Data)](https://jobr.pro/job/29227531/senior-machine-learning-engineer-vendor-data?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Berlin, Germany | On Site | Oct 02 |
 | **[Launch Potato](https://launchpotato.com/)** | **[Lead Machine Learning Engineer, Recommendation Systems](https://jobr.pro/job/29181242/lead-machine-learning-engineer-recommendation-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mississauga, Canada (remote) | Remote | Oct 02 |
 | **[Launch Potato](https://launchpotato.com/)** | **[Lead Machine Learning Engineer, Ad Performance](https://jobr.pro/job/29181136/lead-machine-learning-engineer-ad-performance?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Halifax, Canada (remote) | Remote | Oct 02 |
 | **[Nearmap](https://www.nearmap.com)** | **[Machine Learning Engineer - Agentic AI](https://jobr.pro/job/29190763/machine-learning-engineer-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Barangaroo, NSW, Australia | On Site | Oct 02 |
@@ -36,7 +37,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 20 jobs | 20% remote | 17 companies | Avg salary: 233k  
+**Current Stats:** 21 jobs | 19% remote | 18 companies | Avg salary: 233k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
