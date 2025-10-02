@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 02, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 02, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -18,6 +18,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Launch Potato](https://launchpotato.com/)** | **[Lead Machine Learning Engineer, Ad Performance](https://jobr.pro/job/29181136/lead-machine-learning-engineer-ad-performance?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Halifax, Canada (remote) | Remote | Oct 02 |
 | **[Nearmap](https://www.nearmap.com)** | **[Machine Learning Engineer - Agentic AI](https://jobr.pro/job/29190763/machine-learning-engineer-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Barangaroo, NSW, Australia | On Site | Oct 02 |
 | **[Anduril](https://www.anduril.com/)** | **[Senior Machine Learning Engineer, Imaging](https://jobr.pro/job/29182906/senior-machine-learning-engineer-imaging?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lexington, Massachusetts, United States | On Site | Oct 02 |
+| **[Guidewire Software](https://www.guidewire.com/)** | **[Senior/Staff Machine Learning Engineer](https://jobr.pro/job/29260365/seniorstaff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote (USA), United States | Remote | Oct 02 |
 | **[Sanctuary AI](https://sanctuary.ai/)** | **[Machine Learning Engineer](https://jobr.pro/job/29183961/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Vancouver, BC | On Site | Oct 01 |
 | **[Airbnb](https://www.airbnb.com/)** | **[Staff Machine Learning Engineer, Relevance and Personalization](https://jobr.pro/job/29193321/staff-machine-learning-engineer-relevance-and-personalization?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | On Site | Oct 01 |
 | **[Watershed](https://watershed.com)** | **[Staff machine learning engineer](https://jobr.pro/job/29188790/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York City | On Site | Oct 01 |
@@ -37,7 +38,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 21 jobs | 19% remote | 18 companies | Avg salary: 233k  
+**Current Stats:** 22 jobs | 23% remote | 19 companies | Avg salary: 238k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
