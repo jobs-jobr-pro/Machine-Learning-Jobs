@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 03, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 03, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Logic20/20 Inc.](https://www.logic2020.com)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/29265478/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, WA, United States | On Site | Oct 02 |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Principal Machine Learning Engineer (AI Agents)](https://jobr.pro/job/29265186/principal-machine-learning-engineer-ai-agents?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CA, United States | On Site | Oct 02 |
+| **[Visa](https://visa.com)** | **[Senior Machine Learning Engineer- Data Science Platform](https://jobr.pro/job/29265304/senior-machine-learning-engineer-data-science-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA, United States | On Site | Oct 02 |
 | **[Delivery Hero](https://www.deliveryhero.com)** | **[Senior Machine Learning Engineer - (Vendor Data)](https://jobr.pro/job/29227531/senior-machine-learning-engineer-vendor-data?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Berlin, Germany | On Site | Oct 02 |
 | **[Launch Potato](https://launchpotato.com/)** | **[Lead Machine Learning Engineer, Recommendation Systems](https://jobr.pro/job/29181242/lead-machine-learning-engineer-recommendation-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mississauga, Canada (remote) | Remote | Oct 02 |
 | **[Launch Potato](https://launchpotato.com/)** | **[Lead Machine Learning Engineer, Ad Performance](https://jobr.pro/job/29181136/lead-machine-learning-engineer-ad-performance?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Halifax, Canada (remote) | Remote | Oct 02 |
@@ -21,11 +24,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Guidewire Software](https://www.guidewire.com/)** | **[Senior/Staff Machine Learning Engineer](https://jobr.pro/job/29260365/seniorstaff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote (USA), United States | Remote | Oct 02 |
 | **[General Motors](https://www.gm.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/29263145/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Cruise Automation - Sunnyvale - Cruise Automation - Sunnyvale, United States | On Site | Oct 02 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lead AI/Machine Learning Engineer - Decision Science](https://jobr.pro/job/29262585/lead-aimachine-learning-engineer-decision-science?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - FL - Team Disney - Florida, United States | On Site | Oct 02 |
+| **[Workiva](https://www.workiva.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29268033/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - CO, United States | Remote | Oct 02 |
+| **[CVS Health](https://cvshealth.com/)** | **[Staff Security Machine Learning Engineer](https://jobr.pro/job/29268203/staff-security-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Work At Home-California, United States | On Site | Oct 02 |
 | **[Sanctuary AI](https://sanctuary.ai/)** | **[Machine Learning Engineer](https://jobr.pro/job/29183961/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Vancouver, BC | On Site | Oct 01 |
 | **[Airbnb](https://www.airbnb.com/)** | **[Staff Machine Learning Engineer, Relevance and Personalization](https://jobr.pro/job/29193321/staff-machine-learning-engineer-relevance-and-personalization?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | On Site | Oct 01 |
 | **[Watershed](https://watershed.com)** | **[Staff machine learning engineer](https://jobr.pro/job/29188790/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York City | On Site | Oct 01 |
-| **[Logic20/20 Inc.](https://www.logic2020.com)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/29175788/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, WA, United States | On Site | Oct 01 |
-| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Principal Machine Learning Engineer (AI Agents)](https://jobr.pro/job/29175426/principal-machine-learning-engineer-ai-agents?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CA, United States | On Site | Oct 01 |
 | **[Experian](https://www.experian.com/)** | **[Machine Learning Engineer, Remote](https://jobr.pro/job/29175804/machine-learning-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States, United Tstaes, United States | Remote | Oct 01 |
 | **[EarnIn](https://www.earnin.com/)** | **[Senior Platform Machine Learning Engineer](https://jobr.pro/job/29182105/senior-platform-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, US | On Site | Oct 01 |
 | **[University of Adelaide](https://www.adelaide.edu.au/)** | **[Machine Learning Engineer](https://jobr.pro/job/29216872/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Adelaide | On Site | Oct 01 |
@@ -40,7 +43,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 24 jobs | 21% remote | 21 companies | Avg salary: 237k  
+**Current Stats:** 27 jobs | 22% remote | 24 companies | Avg salary: 228k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
