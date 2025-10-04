@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 03, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 04, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -15,10 +15,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Harness](https://harness.io/)** | **[Manager - Machine Learning Engineer](https://jobr.pro/job/29271809/manager-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 03 |
 | **[Uni Systems](https://www.unisystems.com)** | **[Machine Learning Engineer](https://jobr.pro/job/29316122/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Ispra, Province of Varese, Italy | On Site | Oct 03 |
-| **[ABC Fitness](https://abcfitness.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29339663/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | India | On Site | Oct 03 |
 | **[Medtronic](https://www.medtronic.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29342720/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA-GA Duluth, United States | On Site | Oct 03 |
 | **[Medtronic](https://www.medtronic.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/29342716/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA-GA Duluth, United States | On Site | Oct 03 |
 | **[Zendesk](https://www.zendesk.com)** | **[AI Agent Engineer (Machine Learning Engineer)](https://jobr.pro/job/29343480/ai-agent-engineer-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Germany - Berlin - Office | On Site | Oct 03 |
+| **[ABC Fitness](https://abcfitness.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29339663/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | India | On Site | Oct 03 |
+| **[General Motors](https://www.gm.com/)** | **[Machine Learning Engineer - AI Research](https://jobr.pro/job/29347074/machine-learning-engineer-ai-research?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View Technical Center - Mountain View Technical Center, United States | On Site | Oct 03 |
+| **[CoStar Group](https://www.costargroup.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29347216/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | US-CA San Diego, United States | On Site | Oct 03 |
+| **[General Motors](https://www.gm.com/)** | **[Senior Machine Learning Engineer - AI Research](https://jobr.pro/job/29347056/senior-machine-learning-engineer-ai-research?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View Technical Center - Mountain View Technical Center, United States | On Site | Oct 03 |
+| **[The Cigna Group](https://www.thecignagroup.com/)** | **[Machine Learning Engineer Intern](https://jobr.pro/job/29348301/machine-learning-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | TX, Austin, 11501 Alterra Pkwy STE 500, United States | On Site | Oct 03 |
 | **[Logic20/20 Inc.](https://www.logic2020.com)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/29265478/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, WA, United States | On Site | Oct 02 |
 | **[Block](https://block.xyz/)** | **[Senior Machine Learning Engineer (Modeling), Financial Crimes](https://jobr.pro/job/29273313/senior-machine-learning-engineer-modeling-financial-crimes?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bay Area, CA, United States of America | On Site | Oct 02 |
 | **[Roblox](https://www.roblox.com/)** | **[Sr Machine Learning Engineer - Safety Experience](https://jobr.pro/job/29283076/sr-machine-learning-engineer-safety-experience?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA, United States | On Site | Oct 02 |
@@ -53,14 +57,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Launch Potato](https://launchpotato.com/)** | **[Lead Machine Learning Engineer, Ad Performance](https://jobr.pro/job/29181136/lead-machine-learning-engineer-ad-performance?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Halifax, Canada (remote) | Remote | Oct 02 |
 | **[Nearmap](https://www.nearmap.com)** | **[Machine Learning Engineer - Agentic AI](https://jobr.pro/job/29190763/machine-learning-engineer-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Barangaroo, NSW, Australia | On Site | Oct 02 |
 | **[Anduril](https://www.anduril.com/)** | **[Senior Machine Learning Engineer, Imaging](https://jobr.pro/job/29182906/senior-machine-learning-engineer-imaging?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lexington, Massachusetts, United States | On Site | Oct 02 |
-| **[Guidewire Software](https://www.guidewire.com/)** | **[Senior/Staff Machine Learning Engineer](https://jobr.pro/job/29260365/seniorstaff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote (USA), United States | Remote | Oct 02 |
-| **[General Motors](https://www.gm.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/29263145/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Cruise Automation - Sunnyvale - Cruise Automation - Sunnyvale, United States | On Site | Oct 02 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lead AI/Machine Learning Engineer - Decision Science](https://jobr.pro/job/29262585/lead-aimachine-learning-engineer-decision-science?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - FL - Team Disney - Florida, United States | On Site | Oct 02 |
-| **[Workiva](https://www.workiva.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29268033/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - CO, United States | Remote | Oct 02 |
 
 ---
 
-**Current Stats:** 44 jobs | 32% remote | 25 companies | Avg salary: 312k  
+**Current Stats:** 44 jobs | 27% remote | 24 companies | Avg salary: 309k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
