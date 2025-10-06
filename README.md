@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 06, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 06, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Capital One](https://www.capitalonecareers.com/)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/29433742/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, In, India | On Site | Oct 06 |
+| **[Huawei Ireland Research Centre](https://www.huawei.com/)** | **[2025 - Huawei Petal Ads - Ads Recommendation Machine Learning Engineer - Contractor](https://jobr.pro/job/29435356/2025-huawei-petal-ads-ads-recommendation-machine-learning-engineer-contractor?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Dublin, Ireland | On Site | Oct 05 |
+| **[greehill](https://www.greehill.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29435174/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Budapest, Hungary | On Site | Oct 05 |
 | **[ClanX](https://clanx.ai/)** | **[Senior Machine Learning Engineer - Hybrid](https://jobr.pro/job/29415887/senior-machine-learning-engineer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mumbai, Mahārāshtra, India | On Site | Oct 05 |
 | **[NewsBreak](https://www.newsbreak.com/)** | **[Machine Learning Engineer, Ad platform](https://jobr.pro/job/29420580/machine-learning-engineer-ad-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, California, United States | On Site | Oct 05 |
 | **[Trunk Tools](https://trunktools.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29419478/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York City HQ | On Site | Oct 05 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pinterest](https://www.pinterest.com/)** | **[Staff Machine Learning Engineer, Search](https://jobr.pro/job/29273970/staff-machine-learning-engineer-search?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA, US; Remote, US | Remote | Oct 02 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Staff Machine Learning Engineer, Monetization](https://jobr.pro/job/29273968/staff-machine-learning-engineer-monetization?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | On Site | Oct 02 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Staff Machine Learning Engineer - Ads Modules](https://jobr.pro/job/29273967/staff-machine-learning-engineer-ads-modules?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | On Site | Oct 02 |
-| **[Pinterest](https://www.pinterest.com/)** | **[Staff Machine Learning Engineer, Ads Delivery](https://jobr.pro/job/29273965/staff-machine-learning-engineer-ads-delivery?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | On Site | Oct 02 |
-| **[Pinterest](https://www.pinterest.com/)** | **[Sr. Staff Machine Learning Engineer, Search](https://jobr.pro/job/29273957/sr-staff-machine-learning-engineer-search?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA, US; Remote, US | Remote | Oct 02 |
-| **[Pinterest](https://www.pinterest.com/)** | **[Sr. Staff Machine Learning Engineer, Homefeed](https://jobr.pro/job/29273956/sr-staff-machine-learning-engineer-homefeed?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA, US; Remote, US | Remote | Oct 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 39 companies | Avg salary: 403k  
+**Current Stats:** 50 jobs | 10% remote | 42 companies | Avg salary: 404k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
