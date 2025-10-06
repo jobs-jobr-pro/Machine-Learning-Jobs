@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 06, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 06, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[AUTO1 Group](https://www.auto1-group.com)** | **[(Senior) Machine Learning Engineer, Remote/Europe (f/m/x)](https://jobr.pro/job/29437928/senior-machine-learning-engineer-remoteeurope-fmx?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Berlin, Germany | Remote | Oct 06 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Senior Staff Machine Learning Engineer - Ai/ML](https://jobr.pro/job/29437052/senior-staff-machine-learning-engineer-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hyderabad, India | On Site | Oct 06 |
+| **[Devoteam](https://www.devoteam.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29438001/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | South Jakarta, DKI Jakarta, Indonesia | On Site | Oct 06 |
 | **[Capital One](https://www.capitalonecareers.com/)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/29433742/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, In, India | On Site | Oct 06 |
 | **[Huawei Ireland Research Centre](https://www.huawei.com/)** | **[2025 - Huawei Petal Ads - Ads Recommendation Machine Learning Engineer - Contractor](https://jobr.pro/job/29435356/2025-huawei-petal-ads-ads-recommendation-machine-learning-engineer-contractor?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Dublin, Ireland | On Site | Oct 05 |
 | **[greehill](https://www.greehill.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29435174/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Budapest, Hungary | On Site | Oct 05 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mount Sinai Health System](https://www.mountsinai.org/)** | **[Machine Learning Engineer I - Multimodal Artificial Intelligence for Women's Health](https://jobr.pro/job/29324758/machine-learning-engineer-i-multimodal-artificial-intelligence-for-womens-health?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | On Site | Oct 02 |
 | **[Trustly](https://www.trustly.net/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29273281/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Vitória, Espírito Santo | Remote | Oct 02 |
 | **[Visa](https://visa.com)** | **[Senior Machine Learning Engineer- Data Science Platform](https://jobr.pro/job/29265304/senior-machine-learning-engineer-data-science-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA, United States | On Site | Oct 02 |
-| **[Pinterest](https://www.pinterest.com/)** | **[Staff Machine Learning Engineer, Search](https://jobr.pro/job/29273970/staff-machine-learning-engineer-search?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA, US; Remote, US | Remote | Oct 02 |
-| **[Pinterest](https://www.pinterest.com/)** | **[Staff Machine Learning Engineer, Monetization](https://jobr.pro/job/29273968/staff-machine-learning-engineer-monetization?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | On Site | Oct 02 |
-| **[Pinterest](https://www.pinterest.com/)** | **[Staff Machine Learning Engineer - Ads Modules](https://jobr.pro/job/29273967/staff-machine-learning-engineer-ads-modules?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | On Site | Oct 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 42 companies | Avg salary: 404k  
+**Current Stats:** 50 jobs | 10% remote | 44 companies | Avg salary: 407k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
