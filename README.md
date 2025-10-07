@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 07, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 07, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,10 +13,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Revecore](https://revecore.com/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/29547155/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote, United States | Remote | Oct 07 |
 | **[HARMAN International](https://www.harman.com/)** | **[Principal Machine Learning Engineer (m/f/d) Audio Digital Processing](https://jobr.pro/job/29522733/principal-machine-learning-engineer-mfd-audio-digital-processing?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Garching - Bavaria, Germany - Parking 1-5 Business Campus | On Site | Oct 07 |
 | **[Nuro, Inc.](https://www.nuro.ai/)** | **[Staff Machine Learning Engineer, Training Runtime Performance](https://jobr.pro/job/29478480/staff-machine-learning-engineer-training-runtime-performance?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, California (HQ) | On Site | Oct 07 |
 | **[Dell Technologies](https://www.delltechnologies.com/)** | **[Senior Machine Learning Engineer-AI, ML & Python, PyTorch](https://jobr.pro/job/29540712/senior-machine-learning-engineer-ai-ml-python-pytorch?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, India | On Site | Oct 07 |
 | **[Gemmo](https://gemmo.ai/)** | **[Machine Learning Engineer for Financial Services](https://jobr.pro/job/29502725/machine-learning-engineer-for-financial-services?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Genoa, Metropolitan City of Genoa, Italy | On Site | Oct 07 |
+| **[PayPal](https://www.paypal.com/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/29556867/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IRL - County Dublin - Dublin - Corp - Ballycoolin Business Park, Ireland | On Site | Oct 07 |
+| **[PayPal](https://www.paypal.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29556860/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - Texas - Austin - Corp - Alterra Pkwy, United States | On Site | Oct 07 |
+| **[Amgen](https://www.amgen.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29558340/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | US - California - Thousand Oaks, United States | On Site | Oct 07 |
+| **[GSK](https://www.gsk.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29552507/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London The Stanley Building, United Kingdom | On Site | Oct 07 |
 | **[EarnIn](https://www.earnin.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29479650/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, India | On Site | Oct 06 |
 | **[Nagarro](https://www.nagarro.com)** | **[Associate Staff Engineer - Machine Learning Engineer](https://jobr.pro/job/29484265/associate-staff-engineer-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Guadalajara (Hybrid), Mexico, Mexico | On Site | Oct 06 |
 | **[DoorDash](https://www.doordash.com/)** | **[Machine Learning Engineer, Dasher Earnings](https://jobr.pro/job/29475589/machine-learning-engineer-dasher-earnings?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA; Sunnyvale, CA; Seattle, WA | On Site | Oct 06 |
@@ -32,7 +37,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[New Relic](https://newrelic.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29471517/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, India | Remote | Oct 06 |
 | **[Capital One](https://www.capitalonecareers.com/)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/29433742/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, In, India | On Site | Oct 06 |
 | **[PayPal](https://www.paypal.com/)** | **[Sr Machine Learning Engineer](https://jobr.pro/job/29460270/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IND - Karnataka - Bangalore - Corp - Sarjapur Main Rd, India | On Site | Oct 06 |
-| **[PayPal](https://www.paypal.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29460269/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IND - Karnataka - Bangalore - Corp - Sarjapur Main Rd, India | On Site | Oct 06 |
 | **[Huawei Ireland Research Centre](https://www.huawei.com/)** | **[2025 - Huawei Petal Ads - Ads Recommendation Machine Learning Engineer - Contractor](https://jobr.pro/job/29435356/2025-huawei-petal-ads-ads-recommendation-machine-learning-engineer-contractor?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Dublin, Ireland | On Site | Oct 05 |
 | **[greehill](https://www.greehill.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29435174/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Budapest, Hungary | On Site | Oct 05 |
 | **[ClanX](https://clanx.ai/)** | **[Senior Machine Learning Engineer - Hybrid](https://jobr.pro/job/29415887/senior-machine-learning-engineer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mumbai, Mahārāshtra, India | On Site | Oct 05 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Smartly.io](https://www.smartly.io/)** | **[Staff Machine Learning Engineer (AI Product Lab)](https://jobr.pro/job/29359884/staff-machine-learning-engineer-ai-product-lab?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Berlin | On Site | Oct 03 |
 | **[Zscaler](https://www.zscaler.com/careers)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/29357728/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, IND | On Site | Oct 03 |
 | **[Bask Health](https://bask.health)** | **[Machine Learning Engineer](https://jobr.pro/job/29365731/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States - Remote | Remote | Oct 03 |
-| **[Latham & Watkins LLP](https://www.lw.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29367536/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Los Angeles, CA, United States | On Site | Oct 03 |
-| **[Harness](https://harness.io/)** | **[Manager - Machine Learning Engineer](https://jobr.pro/job/29271809/manager-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 03 |
-| **[Uni Systems](https://www.unisystems.com)** | **[Machine Learning Engineer](https://jobr.pro/job/29316122/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Ispra, Province of Varese, Italy | On Site | Oct 03 |
-| **[ABC Fitness](https://abcfitness.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29339663/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | India | On Site | Oct 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 45 companies | Avg salary: 438k  
+**Current Stats:** 50 jobs | 12% remote | 44 companies | Avg salary: 450k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
