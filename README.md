@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 07, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 07, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,7 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[HARMAN International](https://www.harman.com/)** | **[Principal Machine Learning Engineer (m/f/d) Audio Digital Processing](https://jobr.pro/job/29522733/principal-machine-learning-engineer-mfd-audio-digital-processing?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Garching - Bavaria, Germany - Parking 1-5 Business Campus | On Site | Oct 07 |
 | **[Nuro, Inc.](https://www.nuro.ai/)** | **[Staff Machine Learning Engineer, Training Runtime Performance](https://jobr.pro/job/29478480/staff-machine-learning-engineer-training-runtime-performance?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, California (HQ) | On Site | Oct 07 |
+| **[Dell Technologies](https://www.delltechnologies.com/)** | **[Senior Machine Learning Engineer-AI, ML & Python, PyTorch](https://jobr.pro/job/29540712/senior-machine-learning-engineer-ai-ml-python-pytorch?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, India | On Site | Oct 07 |
 | **[Gemmo](https://gemmo.ai/)** | **[Machine Learning Engineer for Financial Services](https://jobr.pro/job/29502725/machine-learning-engineer-for-financial-services?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Genoa, Metropolitan City of Genoa, Italy | On Site | Oct 07 |
 | **[EarnIn](https://www.earnin.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29479650/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, India | On Site | Oct 06 |
 | **[Nagarro](https://www.nagarro.com)** | **[Associate Staff Engineer - Machine Learning Engineer](https://jobr.pro/job/29484265/associate-staff-engineer-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Guadalajara (Hybrid), Mexico, Mexico | On Site | Oct 06 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Harness](https://harness.io/)** | **[Manager - Machine Learning Engineer](https://jobr.pro/job/29271809/manager-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, Karnataka, India | On Site | Oct 03 |
 | **[Uni Systems](https://www.unisystems.com)** | **[Machine Learning Engineer](https://jobr.pro/job/29316122/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Ispra, Province of Varese, Italy | On Site | Oct 03 |
 | **[ABC Fitness](https://abcfitness.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29339663/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | India | On Site | Oct 03 |
-| **[The Cigna Group](https://www.thecignagroup.com/)** | **[Machine Learning Engineer Intern](https://jobr.pro/job/29348301/machine-learning-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | TX, Austin, 11501 Alterra Pkwy STE 500, United States | On Site | Oct 03 |
-| **[Zendesk](https://www.zendesk.com)** | **[AI Agent Engineer (Machine Learning Engineer)](https://jobr.pro/job/29343480/ai-agent-engineer-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Germany - Berlin - Office | On Site | Oct 03 |
 
 ---
 
