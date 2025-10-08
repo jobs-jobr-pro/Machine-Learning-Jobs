@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 08, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 08, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Bigabid](https://www.bigabid.com/)** | **[Machine Learning Engineer Tech Lead](https://jobr.pro/job/29760536/machine-learning-engineer-tech-lead?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 08 |
+| **[Bosch Group](https://www.bosch.com)** | **[Machine Learning Engineer / AI Specialist (f/m/div.)](https://jobr.pro/job/29742481/machine-learning-engineer-ai-specialist-fmdiv?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Braga, Braga, Portugal | On Site | Oct 08 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/29589448/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hyderabad, India | On Site | Oct 08 |
 | **[NetApp](https://www.netapp.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29646047/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, Karnataka, IN | On Site | Oct 08 |
 | **[Launch Potato](https://launchpotato.com/)** | **[Senior Machine Learning Engineer, Recommendation Systems](https://jobr.pro/job/29585823/senior-machine-learning-engineer-recommendation-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Vancouver, Canada (remote) | Remote | Oct 07 |
@@ -51,12 +53,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sigma Software](https://career.sigma.software)** | **[Machine Learning Engineer](https://jobr.pro/job/29482701/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Kyiv, Kyiv city, Ukraine | On Site | Oct 06 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Senior Staff Machine Learning Engineer - Ai/ML](https://jobr.pro/job/29437052/senior-staff-machine-learning-engineer-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hyderabad, India | On Site | Oct 06 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29438001/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | South Jakarta, DKI Jakarta, Indonesia | On Site | Oct 06 |
-| **[New Relic](https://newrelic.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29471517/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, India | Remote | Oct 06 |
-| **[PayPal](https://www.paypal.com/)** | **[Sr Machine Learning Engineer](https://jobr.pro/job/29460270/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IND - Karnataka - Bangalore - Corp - Sarjapur Main Rd, India | On Site | Oct 06 |
 
 ---
 
-**Current Stats:** 40 jobs | 23% remote | 36 companies | Avg salary: 244k  
+**Current Stats:** 40 jobs | 20% remote | 37 companies | Avg salary: 244k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
