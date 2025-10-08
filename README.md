@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 08, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 08, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -17,6 +17,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bosch Group](https://www.bosch.com)** | **[Machine Learning Engineer / AI Specialist (f/m/div.)](https://jobr.pro/job/29742481/machine-learning-engineer-ai-specialist-fmdiv?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Braga, Braga, Portugal | On Site | Oct 08 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/29589448/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hyderabad, India | On Site | Oct 08 |
 | **[NetApp](https://www.netapp.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29646047/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, Karnataka, IN | On Site | Oct 08 |
+| **[Snap Inc.](https://snap.com/)** | **[Machine Learning Engineer, Level 5](https://jobr.pro/job/29793445/machine-learning-engineer-level-5?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Palo Alto - 395 Page Mill Rd, United States | On Site | Oct 08 |
 | **[Launch Potato](https://launchpotato.com/)** | **[Senior Machine Learning Engineer, Recommendation Systems](https://jobr.pro/job/29585823/senior-machine-learning-engineer-recommendation-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Vancouver, Canada (remote) | Remote | Oct 07 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29581624/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Toronto | Remote | Oct 07 |
 | **[Ideogram](https://ideogram.ai/)** | **[Machine Learning Engineer](https://jobr.pro/job/29578719/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Toronto Office | On Site | Oct 07 |
@@ -52,11 +53,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AUTO1 Group](https://www.auto1-group.com)** | **[(Senior) Machine Learning Engineer, Remote/Europe (f/m/x)](https://jobr.pro/job/29466760/senior-machine-learning-engineer-remoteeurope-fmx?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Berlin, Germany | Remote | Oct 06 |
 | **[Sigma Software](https://career.sigma.software)** | **[Machine Learning Engineer](https://jobr.pro/job/29482701/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Kyiv, Kyiv city, Ukraine | On Site | Oct 06 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Senior Staff Machine Learning Engineer - Ai/ML](https://jobr.pro/job/29437052/senior-staff-machine-learning-engineer-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hyderabad, India | On Site | Oct 06 |
-| **[Devoteam](https://www.devoteam.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29438001/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | South Jakarta, DKI Jakarta, Indonesia | On Site | Oct 06 |
 
 ---
 
-**Current Stats:** 40 jobs | 20% remote | 37 companies | Avg salary: 244k  
+**Current Stats:** 40 jobs | 20% remote | 37 companies | Avg salary: 250k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
