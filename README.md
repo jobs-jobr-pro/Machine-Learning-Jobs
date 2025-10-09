@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 09, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 09, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,11 +13,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[RemoteStar](https://www.remotestar.io/)** | **[Senior Machine Learning Engineer (Spain)](https://jobr.pro/job/29872498/senior-machine-learning-engineer-spain?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Cambourne, United Kingdom of Great Britain and Northern Ireland | On Site | Oct 09 |
+| **[Accesa & RaRo](https://accesa.eu)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29862645/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Employees can work remotely, Romania | Remote | Oct 09 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Senior Machine Learning Engineer - Data Platform](https://jobr.pro/job/29862258/senior-machine-learning-engineer-data-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hyderabad, India | On Site | Oct 09 |
 | **[Drooms](https://drooms.com/)** | **[Machine Learning Engineer (f/m/d/x)](https://jobr.pro/job/29849342/machine-learning-engineer-fmdx?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Frankfurt | On Site | Oct 09 |
 | **[Sertis](https://www.sertiscorp.com/)** | **[Tech Lead, Machine Learning Engineer](https://jobr.pro/job/29823677/tech-lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangkok, Bangkok Metropolis, Thailand | On Site | Oct 09 |
 | **[Sertis](https://www.sertiscorp.com/)** | **[Machine Learning Engineer (Mid-Senior level)](https://jobr.pro/job/29823675/machine-learning-engineer-mid-senior-level?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangkok, Bangkok Metropolis, Thailand | On Site | Oct 09 |
 | **[Tonic.ai](https://www.tonic.ai/)** | **[Machine Learning Engineer (NLP)](https://jobr.pro/job/29823194/machine-learning-engineer-nlp?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco Bay Area | On Site | Oct 09 |
 | **[NewsBreak](https://www.newsbreak.com/)** | **[Machine Learning Engineer, Recommendation (Junior & New Grad)](https://jobr.pro/job/29821125/machine-learning-engineer-recommendation-junior-new-grad?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, California, United States | On Site | Oct 09 |
+| **[UBS](https://www.ubs.com/)** | **[WorkFusion Machine Learning Engineer](https://jobr.pro/job/29865764/workfusion-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pune, India | On Site | Oct 09 |
 | **[Waymo](https://waymo.com/)** | **[Senior Machine Learning Engineer, Planning](https://jobr.pro/job/29817175/senior-machine-learning-engineer-planning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA USA; New York, NY USA; San Francisco, CA USA; | On Site | Oct 08 |
 | **[Delivery Hero](https://www.deliveryhero.com)** | **[Senior Machine Learning Engineer - (Logistics, Optimization)](https://jobr.pro/job/29809763/senior-machine-learning-engineer-logistics-optimization?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Berlin, Germany | On Site | Oct 08 |
 | **[Grab](https://www.grab.com)** | **[Principal Machine Learning Engineer, AI Platform (Agent Platform)](https://jobr.pro/job/29829119/principal-machine-learning-engineer-ai-platform-agent-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Oct 08 |
@@ -39,7 +43,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 23 jobs | 30% remote | 20 companies | Avg salary: 255k  
+**Current Stats:** 27 jobs | 30% remote | 23 companies | Avg salary: 255k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
