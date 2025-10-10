@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 10, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 10, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Experian](https://www.experian.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29900256/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hyderabad, India | On Site | Oct 09 |
+| **[Experian](https://www.experian.com/)** | **[Machine Learning Engineer - GenAI](https://jobr.pro/job/29899800/machine-learning-engineer-genai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, United Kingdom | On Site | Oct 09 |
 | **[RemoteStar](https://www.remotestar.io/)** | **[Senior Machine Learning Engineer (Spain)](https://jobr.pro/job/29872498/senior-machine-learning-engineer-spain?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Cambourne, United Kingdom of Great Britain and Northern Ireland | On Site | Oct 09 |
 | **[Accesa & RaRo](https://accesa.eu)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29862645/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Employees can work remotely, Romania | Remote | Oct 09 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Senior Machine Learning Engineer - Data Platform](https://jobr.pro/job/29862258/senior-machine-learning-engineer-data-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hyderabad, India | On Site | Oct 09 |
@@ -21,16 +23,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sertis](https://www.sertiscorp.com/)** | **[Machine Learning Engineer (Mid-Senior level)](https://jobr.pro/job/29823675/machine-learning-engineer-mid-senior-level?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangkok, Bangkok Metropolis, Thailand | On Site | Oct 09 |
 | **[Tonic.ai](https://www.tonic.ai/)** | **[Machine Learning Engineer (NLP)](https://jobr.pro/job/29823194/machine-learning-engineer-nlp?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco Bay Area | On Site | Oct 09 |
 | **[NewsBreak](https://www.newsbreak.com/)** | **[Machine Learning Engineer, Recommendation (Junior & New Grad)](https://jobr.pro/job/29821125/machine-learning-engineer-recommendation-junior-new-grad?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, California, United States | On Site | Oct 09 |
-| **[UBS](https://www.ubs.com/)** | **[WorkFusion Machine Learning Engineer](https://jobr.pro/job/29865764/workfusion-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pune, India | On Site | Oct 09 |
-| **[PayPal](https://www.paypal.com/)** | **[Sr Machine Learning Engineer](https://jobr.pro/job/29894600/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IND - Karnataka - Bangalore - Corp - Sarjapur Main Rd, India | On Site | Oct 09 |
-| **[PayPal](https://www.paypal.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29894592/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - Illinois - Chicago - Corp - W Merchandise Mart Plaza, United States | On Site | Oct 09 |
-| **[Netflix](https://www.netflix.com/)** | **[Machine Learning Engineer 5 - Platform Forecasting & Optimization](https://jobr.pro/job/29894889/machine-learning-engineer-5-platform-forecasting-optimization?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - Remote, United States | Remote | Oct 09 |
-| **[ABC Fitness](https://abcfitness.com/)** | **[Machine Learning Engineer – RAG & Fine-Tuning](https://jobr.pro/job/29889721/machine-learning-engineer-rag-fine-tuning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | India | On Site | Oct 09 |
 | **[Viridien](https://www.viridiengroup.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29894306/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | SGP-Singapore | On Site | Oct 09 |
 | **[Medtronic](https://www.medtronic.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29893083/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IND-MH Pune Viman Nagar, India | On Site | Oct 09 |
 | **[Clarivate](https://www.clarivate.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29888612/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | R271- Noida, India | On Site | Oct 09 |
 | **[CoStar Group](https://www.costargroup.com/)** | **[Machine Learning Engineer II](https://jobr.pro/job/29897381/machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | US-CA San Diego, United States | On Site | Oct 09 |
 | **[HARMAN International](https://www.harman.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29897239/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IN Bangalore EOIZ Indust Area Campus HCS, India | On Site | Oct 09 |
+| **[UBS](https://www.ubs.com/)** | **[WorkFusion Machine Learning Engineer](https://jobr.pro/job/29865764/workfusion-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pune, India | On Site | Oct 09 |
+| **[PayPal](https://www.paypal.com/)** | **[Sr Machine Learning Engineer](https://jobr.pro/job/29894600/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IND - Karnataka - Bangalore - Corp - Sarjapur Main Rd, India | On Site | Oct 09 |
+| **[PayPal](https://www.paypal.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29894592/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - Illinois - Chicago - Corp - W Merchandise Mart Plaza, United States | On Site | Oct 09 |
+| **[Netflix](https://www.netflix.com/)** | **[Machine Learning Engineer 5 - Platform Forecasting & Optimization](https://jobr.pro/job/29894889/machine-learning-engineer-5-platform-forecasting-optimization?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - Remote, United States | Remote | Oct 09 |
+| **[ABC Fitness](https://abcfitness.com/)** | **[Machine Learning Engineer – RAG & Fine-Tuning](https://jobr.pro/job/29889721/machine-learning-engineer-rag-fine-tuning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | India | On Site | Oct 09 |
 | **[Waymo](https://waymo.com/)** | **[Senior Machine Learning Engineer, Planning](https://jobr.pro/job/29817175/senior-machine-learning-engineer-planning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA USA; New York, NY USA; San Francisco, CA USA; | On Site | Oct 08 |
 | **[Delivery Hero](https://www.deliveryhero.com)** | **[Senior Machine Learning Engineer - (Logistics, Optimization)](https://jobr.pro/job/29809763/senior-machine-learning-engineer-logistics-optimization?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Berlin, Germany | On Site | Oct 08 |
 | **[Grab](https://www.grab.com)** | **[Principal Machine Learning Engineer, AI Platform (Agent Platform)](https://jobr.pro/job/29829119/principal-machine-learning-engineer-ai-platform-agent-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Oct 08 |
@@ -52,7 +54,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 36 jobs | 25% remote | 31 companies | Avg salary: 242k  
+**Current Stats:** 38 jobs | 24% remote | 32 companies | Avg salary: 242k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
