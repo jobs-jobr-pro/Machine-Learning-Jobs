@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 10, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 11, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -22,6 +22,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Woven by Toyota](https://woven.toyota/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29909550/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Palo Alto, CA | On Site | Oct 10 |
 | **[Woven by Toyota](https://woven.toyota/)** | **[Machine Learning Engineer](https://jobr.pro/job/29909548/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Palo Alto, CA | On Site | Oct 10 |
 | **[PayPal](https://www.paypal.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/29984071/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IND - Tamil Nadu - Chennai - Corp - Old Mahabalipuram Rd, India | On Site | Oct 10 |
+| **[HP](https://www.hp.com/)** | **[AI Lab - Machine Learning Engineer](https://jobr.pro/job/29989182/ai-lab-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | BCN01 - Barcelona S.Cugat B1 (BCN01), Spain | On Site | Oct 10 |
+| **[HP](https://www.hp.com/)** | **[AI Lab - Junior Machine Learning Engineer](https://jobr.pro/job/29989181/ai-lab-junior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | BCN01 - Barcelona S.Cugat B1 (BCN01), Spain | On Site | Oct 10 |
+| **[Thomson Reuters](https://www.thomsonreuters.com/)** | **[Associate Lead Engineer - Machine Learning Engineer](https://jobr.pro/job/29988710/associate-lead-engineer-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IND-BLR-Salarpuria Sattva Knowledge Court, India | On Site | Oct 10 |
 | **[EarnIn](https://www.earnin.com/)** | **[Staff Machine Learning Engineer (Platform)](https://jobr.pro/job/29923687/staff-machine-learning-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, US | On Site | Oct 09 |
 | **[AuditBoard](https://auditboard.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29913005/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | Remote | Oct 09 |
 | **[Instacart](https://www.instacart.com/)** | **[Senior Machine Learning Engineer II, Marketing](https://jobr.pro/job/29920274/senior-machine-learning-engineer-ii-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - Remote | Remote | Oct 09 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Delivery Hero](https://www.deliveryhero.com)** | **[Senior Machine Learning Engineer - (Logistics, Optimization)](https://jobr.pro/job/29809763/senior-machine-learning-engineer-logistics-optimization?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Berlin, Germany | On Site | Oct 08 |
 | **[Grab](https://www.grab.com)** | **[Principal Machine Learning Engineer, AI Platform (Agent Platform)](https://jobr.pro/job/29829119/principal-machine-learning-engineer-ai-platform-agent-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Oct 08 |
 | **[RepeatMD](https://repeatmd.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29816757/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Oct 08 |
-| **[Dailymotion](https://www.dailymotion.com/)** | **[Machine Learning Engineer - Ads](https://jobr.pro/job/29809875/machine-learning-engineer-ads?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Issy-les-Moulineaux, IDF, France | On Site | Oct 08 |
-| **[Instacart](https://www.instacart.com/)** | **[Senior Machine Learning Engineer - Fraud](https://jobr.pro/job/29819479/senior-machine-learning-engineer-fraud?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | US - Remote | Remote | Oct 08 |
-| **[Bigabid](https://www.bigabid.com/)** | **[Machine Learning Engineer Tech Lead](https://jobr.pro/job/29760536/machine-learning-engineer-tech-lead?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 43 companies | Avg salary: 239k  
+**Current Stats:** 50 jobs | 20% remote | 43 companies | Avg salary: 237k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
