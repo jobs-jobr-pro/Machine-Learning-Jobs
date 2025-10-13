@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 13, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Oct 13, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Canva](https://www.canva.com)** | **[Machine Learning Engineer - Data - AI Training](https://jobr.pro/job/30082420/machine-learning-engineer-data-ai-training?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sydney, Australia | On Site | Oct 13 |
+| **[GreenLite](https://www.greenlite.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30078865/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York City | On Site | Oct 12 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, TikTok BRIC Account Takeover](https://jobr.pro/job/30040595/machine-learning-engineer-tiktok-bric-account-takeover?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 11 |
 | **[Capgemini](https://www.capgemini.com)** | **[(GEN) AI and Machine Learning Engineer](https://jobr.pro/job/30004987/gen-ai-and-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Diegem, BE | On Site | Oct 11 |
 | **[Affinity](https://www.affinity.co/)** | **[Senior Machine Learning Engineer (AI Insights)](https://jobr.pro/job/30001996/senior-machine-learning-engineer-ai-insights?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Canada (Remote); Toronto, Ontario | Remote | Oct 10 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Torc Robotics](https://torc.ai/)** | **[Sr Machine Learning Engineer - ML Active Sensor & Camera Models](https://jobr.pro/job/29909320/sr-machine-learning-engineer-ml-active-sensor-camera-models?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Ann Arbor, MI | On Site | Oct 09 |
 | **[Motional](https://motional.com/)** | **[Senior Machine Learning Engineer-Perception](https://jobr.pro/job/29908080/senior-machine-learning-engineer-perception?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Oct 09 |
 | **[Agero](https://www.agero.com/)** | **[Principal Optimization and Machine Learning Engineer](https://jobr.pro/job/29913755/principal-optimization-and-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Oct 09 |
-| **[Experian](https://www.experian.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29900256/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hyderabad, India | On Site | Oct 09 |
-| **[Databricks](https://www.databricks.com/)** | **[Senior Machine Learning Engineer - GenAI Platform](https://jobr.pro/job/29910935/senior-machine-learning-engineer-genai-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, California | On Site | Oct 09 |
 
 ---
 
