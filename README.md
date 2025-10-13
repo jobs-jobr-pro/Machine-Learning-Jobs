@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 13, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 13, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,7 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Microsoft](https://www.microsoft.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/30093519/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Redmond, Washington, United States | On Site | Oct 13 |
 | **[Canva](https://www.canva.com)** | **[Machine Learning Engineer - Data - AI Training](https://jobr.pro/job/30082420/machine-learning-engineer-data-ai-training?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sydney, Australia | On Site | Oct 13 |
+| **[Coram AI](https://www.coram.ai/)** | **[Machine Learning Engineer (UK)](https://jobr.pro/job/30089619/machine-learning-engineer-uk?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, United Kingdom | On Site | Oct 12 |
+| **[Mozn](https://www.mozn.sa/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30088361/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Riyadh, Saudi Arabia | On Site | Oct 12 |
+| **[Hugging Face](https://huggingface.co/)** | **[Open-Source Machine Learning Engineer - International Remote](https://jobr.pro/job/30088074/open-source-machine-learning-engineer-international-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, New York, United States - Remote | Remote | Oct 12 |
 | **[GreenLite](https://www.greenlite.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30078865/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York City | On Site | Oct 12 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, TikTok BRIC Account Takeover](https://jobr.pro/job/30040595/machine-learning-engineer-tiktok-bric-account-takeover?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 11 |
 | **[Capgemini](https://www.capgemini.com)** | **[(GEN) AI and Machine Learning Engineer](https://jobr.pro/job/30004987/gen-ai-and-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Diegem, BE | On Site | Oct 11 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pinterest](https://www.pinterest.com/)** | **[PhD University Grad Machine Learning Engineer 2026 (USA)](https://jobr.pro/job/29904487/phd-university-grad-machine-learning-engineer-2026-usa?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | On Site | Oct 09 |
 | **[Alloy](https://www.alloy.com)** | **[Machine Learning Engineer, Predict](https://jobr.pro/job/29904770/machine-learning-engineer-predict?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York City | On Site | Oct 09 |
 | **[Anthropic](https://www.anthropic.com/)** | **[Machine Learning Engineer, Safeguards](https://jobr.pro/job/29909422/machine-learning-engineer-safeguards?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA \| New York City, NY | On Site | Oct 09 |
-| **[QuinStreet](https://www.quinstreet.com/)** | **[Senior Machine Learning Engineer - Ranking](https://jobr.pro/job/29918004/senior-machine-learning-engineer-ranking?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | On Site | Oct 09 |
-| **[Torc Robotics](https://torc.ai/)** | **[Sr Machine Learning Engineer - ML Active Sensor & Camera Models](https://jobr.pro/job/29909320/sr-machine-learning-engineer-ml-active-sensor-camera-models?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Ann Arbor, MI | On Site | Oct 09 |
-| **[Motional](https://motional.com/)** | **[Senior Machine Learning Engineer-Perception](https://jobr.pro/job/29908080/senior-machine-learning-engineer-perception?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Oct 09 |
-| **[Agero](https://www.agero.com/)** | **[Principal Optimization and Machine Learning Engineer](https://jobr.pro/job/29913755/principal-optimization-and-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Oct 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 30% remote | 43 companies | Avg salary: 221k  
+**Current Stats:** 50 jobs | 28% remote | 43 companies | Avg salary: 230k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
