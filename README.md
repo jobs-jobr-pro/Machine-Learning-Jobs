@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 13, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 13, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,8 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[WTW](https://www.wtwco.com/)** | **[Early Careers: 2026 Software AI & Machine Learning Engineer - Graduate Program Individual Marketplace India Delivery Center - Kolkata](https://jobr.pro/job/30101898/early-careers-2026-software-ai-machine-learning-engineer-graduate-program-individual-marketplace-india-delivery-center-kolkata?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Kolkata, West Bengal, India | On Site | Oct 13 |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Search - USDS](https://jobr.pro/job/30095061/machine-learning-engineer-search-usds?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 13 |
+| **[Multiverse Computing](https://multiversecomputing.com/)** | **[Machine Learning Engineer (Service) (Fixed-term contract)](https://jobr.pro/job/30095353/machine-learning-engineer-service-fixed-term-contract?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Barcelona, Spain | On Site | Oct 13 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/30093519/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Redmond, Washington, United States | On Site | Oct 13 |
 | **[Canva](https://www.canva.com)** | **[Machine Learning Engineer - Data - AI Training](https://jobr.pro/job/30082420/machine-learning-engineer-data-ai-training?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sydney, Australia | On Site | Oct 13 |
+| **[Genentech](https://www.gene.com/)** | **[Senior Machine Learning Engineer, Foundation Models (Prescient / AI for Drug Discovery)](https://jobr.pro/job/30106322/senior-machine-learning-engineer-foundation-models-prescient-ai-for-drug-discovery?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, United States | On Site | Oct 13 |
+| **[Voyantis](https://www.voyantis.ai/)** | **[Machine Learning Engineer](https://jobr.pro/job/30106916/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 12 |
 | **[Coram AI](https://www.coram.ai/)** | **[Machine Learning Engineer (UK)](https://jobr.pro/job/30089619/machine-learning-engineer-uk?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, United Kingdom | On Site | Oct 12 |
 | **[Mozn](https://www.mozn.sa/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30088361/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Riyadh, Saudi Arabia | On Site | Oct 12 |
 | **[Hugging Face](https://huggingface.co/)** | **[Open-Source Machine Learning Engineer - International Remote](https://jobr.pro/job/30088074/open-source-machine-learning-engineer-international-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, New York, United States - Remote | Remote | Oct 12 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AuditBoard](https://auditboard.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29913005/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | Remote | Oct 09 |
 | **[Instacart](https://www.instacart.com/)** | **[Senior Machine Learning Engineer II, Marketing](https://jobr.pro/job/29920274/senior-machine-learning-engineer-ii-marketing?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - Remote | Remote | Oct 09 |
 | **[Upwork](https://www.upwork.com/)** | **[Senior Lead Machine Learning Engineer](https://jobr.pro/job/29907508/senior-lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Oct 09 |
-| **[Thoughtworks](https://www.thoughtworks.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/29907935/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Chicago, Illinois | Remote | Oct 09 |
-| **[Prodigal](https://www.prodigaltech.com/)** | **[Lead - Machine Learning Engineer](https://jobr.pro/job/29907981/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, Mumbai | On Site | Oct 09 |
-| **[Pinterest](https://www.pinterest.com/)** | **[PhD University Grad Machine Learning Engineer 2026 (USA)](https://jobr.pro/job/29904487/phd-university-grad-machine-learning-engineer-2026-usa?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | On Site | Oct 09 |
-| **[Alloy](https://www.alloy.com)** | **[Machine Learning Engineer, Predict](https://jobr.pro/job/29904770/machine-learning-engineer-predict?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York City | On Site | Oct 09 |
-| **[Anthropic](https://www.anthropic.com/)** | **[Machine Learning Engineer, Safeguards](https://jobr.pro/job/29909422/machine-learning-engineer-safeguards?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA \| New York City, NY | On Site | Oct 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 43 companies | Avg salary: 230k  
+**Current Stats:** 50 jobs | 26% remote | 42 companies | Avg salary: 221k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
