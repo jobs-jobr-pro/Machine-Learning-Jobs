@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 15, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 15, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Visa](https://visa.com)** | **[Machine Learning Engineer Intern, Global Data Office – Summer 2026](https://jobr.pro/job/30211896/machine-learning-engineer-intern-global-data-office-summer-2026?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA, United States | On Site | Oct 14 |
 | **[Sybrin](https://sybrin.com/)** | **[Intermediate Machine Learning Engineer (Hybrid)](https://jobr.pro/job/30189250/intermediate-machine-learning-engineer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Johannesburg, South Africa | On Site | Oct 14 |
 | **[Compare the Market](https://www.comparethemarket.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30183604/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United Kingdom | On Site | Oct 14 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern, TikTok Search Ranking - 2025 Start](https://jobr.pro/job/30179007/machine-learning-engineer-intern-tiktok-search-ranking-2025-start?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Oct 14 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Affinity](https://www.affinity.co/)** | **[Senior Machine Learning Engineer (AI Insights)](https://jobr.pro/job/30001996/senior-machine-learning-engineer-ai-insights?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Canada (Remote); Toronto, Ontario | Remote | Oct 10 |
 | **[Prove](https://www.prove.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30013592/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Denver, CO | On Site | Oct 10 |
 | **[Apera AI](https://apera.ai/)** | **[Machine Learning Engineer](https://jobr.pro/job/30001957/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Vancouver | On Site | Oct 10 |
-| **[Samsara](https://www.samsara.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30002717/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - Canada | Remote | Oct 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 39 companies | Avg salary: 234k  
+**Current Stats:** 50 jobs | 6% remote | 39 companies | Avg salary: 228k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
