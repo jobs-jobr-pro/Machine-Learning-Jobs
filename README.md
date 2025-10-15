@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 15, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 15, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -25,6 +25,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Grab](https://www.grab.com)** | **[Senior Principal Machine Learning Engineer (Fulfilment)](https://jobr.pro/job/30232382/senior-principal-machine-learning-engineer-fulfilment?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Oct 15 |
 | **[Atlassian](https://www.atlassian.com/)** | **[Machine Learning Engineer II](https://jobr.pro/job/30253927/machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - India - Remote; Remote - Remote; Bengaluru - India - Bengaluru, 560071 India | Remote | Oct 15 |
 | **[Atlassian](https://www.atlassian.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30253931/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - India - Remote; Remote - Remote | Remote | Oct 15 |
+| **[PayPal](https://www.paypal.com/)** | **[Sr Staff Machine Learning Engineer](https://jobr.pro/job/30299604/sr-staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IND - Karnataka - Bangalore - Corp - Sarjapur Main Rd, India | On Site | Oct 15 |
+| **[Magna International](https://www.magna.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/30290141/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 5-8F TOWER C, 788 JINZHONG ROAD, 200052, CHANGNING, CN, China | On Site | Oct 15 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Principal Machine Learning Engineer - Microsoft Teams](https://jobr.pro/job/30253141/principal-machine-learning-engineer-microsoft-teams?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Redmond, Washington, United States | On Site | Oct 14 |
 | **[StubHub](https://www.stubhub.com/)** | **[Staff Machine Learning Engineer - Acquisition Paid Search](https://jobr.pro/job/30215240/staff-machine-learning-engineer-acquisition-paid-search?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Aliso Viejo, California, United States | On Site | Oct 14 |
 | **[Upwork](https://www.upwork.com/)** | **[Lead Machine Learning Engineer - AI Agents](https://jobr.pro/job/30223772/lead-machine-learning-engineer-ai-agents?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Oct 14 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[WTW](https://www.wtwco.com/)** | **[Early Careers: 2026 Software AI & Machine Learning Engineer - Graduate Program Individual Marketplace India Delivery Center - Kolkata](https://jobr.pro/job/30101898/early-careers-2026-software-ai-machine-learning-engineer-graduate-program-individual-marketplace-india-delivery-center-kolkata?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Kolkata, West Bengal, India | On Site | Oct 13 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Search - USDS](https://jobr.pro/job/30095061/machine-learning-engineer-search-usds?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 13 |
 | **[Apotea](https://www.apotea.se/)** | **[Senior Machine Learning Engineer \| Stockholm](https://jobr.pro/job/30177547/senior-machine-learning-engineer-stockholm?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Stockholm, Sweden | On Site | Oct 13 |
-| **[Celonis](https://www.celonis.com/)** | **[Senior Data & Machine Learning Engineer](https://jobr.pro/job/30144848/senior-data-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Munich, Germany | On Site | Oct 13 |
-| **[Multiverse Computing](https://multiversecomputing.com/)** | **[Machine Learning Engineer (Service) (Fixed-term contract)](https://jobr.pro/job/30095353/machine-learning-engineer-service-fixed-term-contract?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Barcelona, Spain | On Site | Oct 13 |
 
 ---
 
