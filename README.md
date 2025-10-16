@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 16, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 16, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,7 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[KPN](https://www.kpn.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30258106/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Amsterdam, NH, Netherlands | On Site | Oct 15 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Manager, Machine Learning Engineer Management](https://jobr.pro/job/30310986/manager-machine-learning-engineer-management?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CALIFORNIA, United States | On Site | Oct 15 |
+| **[AUTO1 Group](https://www.auto1-group.com)** | **[(Senior) Machine Learning Engineer, Remote/Europe (f/m/x)](https://jobr.pro/job/30311049/senior-machine-learning-engineer-remoteeurope-fmx?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Carnaxide, Lisboa, Portugal | Remote | Oct 15 |
+| **[Accesa & RaRo](https://accesa.eu)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30311051/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Employees can work remotely, Romania | Remote | Oct 15 |
+| **[KPN](https://www.kpn.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30311052/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Amsterdam, NH, Netherlands | On Site | Oct 15 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern - TikTok Search Team - 2026 Start (PhD)](https://jobr.pro/job/30255739/machine-learning-engineer-intern-tiktok-search-team-2026-start-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 15 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate (BRIC) - 2026 Start (BS/MS)](https://jobr.pro/job/30255735/machine-learning-engineer-graduate-bric-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 15 |
 | **[Ocwen Financial Corporation](https://www.ocwen.com/)** | **[Manager, Data Scientist and Machine Learning Engineer](https://jobr.pro/job/30256249/manager-data-scientist-and-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, India | On Site | Oct 15 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Qualtrics](https://www.qualtrics.com/)** | **[Machine Learning Engineer II](https://jobr.pro/job/30142911/machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Oct 13 |
 | **[Airbnb](https://www.airbnb.com/)** | **[Staff Machine Learning Engineer, AI Translation](https://jobr.pro/job/30146144/staff-machine-learning-engineer-ai-translation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | On Site | Oct 13 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Senior Machine Learning Engineer (Multiple Positions)](https://jobr.pro/job/30176979/senior-machine-learning-engineer-multiple-positions?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, California, United States | On Site | Oct 13 |
-| **[WTW](https://www.wtwco.com/)** | **[Early Careers: 2026 Software AI & Machine Learning Engineer - Graduate Program Individual Marketplace India Delivery Center - Kolkata](https://jobr.pro/job/30101898/early-careers-2026-software-ai-machine-learning-engineer-graduate-program-individual-marketplace-india-delivery-center-kolkata?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Kolkata, West Bengal, India | On Site | Oct 13 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Search - USDS](https://jobr.pro/job/30095061/machine-learning-engineer-search-usds?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 13 |
-| **[Apotea](https://www.apotea.se/)** | **[Senior Machine Learning Engineer \| Stockholm](https://jobr.pro/job/30177547/senior-machine-learning-engineer-stockholm?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Stockholm, Sweden | On Site | Oct 13 |
 
 ---
 
-**Current Stats:** 50 jobs | 12% remote | 36 companies | Avg salary: 246k  
+**Current Stats:** 50 jobs | 16% remote | 36 companies | Avg salary: 249k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
