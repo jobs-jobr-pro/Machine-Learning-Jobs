@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 17, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 17, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,9 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Seeing Machines](https://seeingmachines.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30451799/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Fyshwick, Australia | On Site | Oct 17 |
 | **[BJAK](https://bjak.my/)** | **[Machine Learning Engineer (LLM)](https://jobr.pro/job/30423583/machine-learning-engineer-llm?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United Kingdom | Remote | Oct 17 |
 | **[BJAK](https://bjak.my/)** | **[머신러닝 엔지니어 (확산 모델 / 비전) Machine Learning Engineer (Diffusion/Vision)](https://jobr.pro/job/30423611/-machine-learning-engineer-diffusionvision?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seoul, Korea | Remote | Oct 17 |
 | **[BJAK](https://bjak.my/)** | **[머신러닝 엔지니어 (LLM) Machine Learning Engineer (LLM)](https://jobr.pro/job/30423616/-llm-machine-learning-engineer-llm?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seoul, Korea | Remote | Oct 17 |
+| **[Capital One](https://www.capitalonecareers.com/)** | **[Senior Distinguished Machine Learning Engineer](https://jobr.pro/job/30453981/senior-distinguished-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, In, India | On Site | Oct 17 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Machine Learning Engineer](https://jobr.pro/job/30411002/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, California, United States | On Site | Oct 16 |
 | **[HubSpot](https://www.hubspot.com/)** | **[Senior Machine Learning Engineer II](https://jobr.pro/job/30426440/senior-machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Flex - Cambridge, Massachusetts | On Site | Oct 16 |
 | **[NielsenIQ](https://nielseniq.com)** | **[Machine Learning Engineer](https://jobr.pro/job/30411019/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Madrid, M, Spain | On Site | Oct 16 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern - TikTok Search Team - 2026 Start (PhD)](https://jobr.pro/job/30255739/machine-learning-engineer-intern-tiktok-search-team-2026-start-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 15 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate (BRIC) - 2026 Start (BS/MS)](https://jobr.pro/job/30255735/machine-learning-engineer-graduate-bric-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 15 |
 | **[Ocwen Financial Corporation](https://www.ocwen.com/)** | **[Manager, Data Scientist and Machine Learning Engineer](https://jobr.pro/job/30256249/manager-data-scientist-and-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, India | On Site | Oct 15 |
-| **[Constructor Knowledge](https://constructor.org/)** | **[Team Lead Machine Learning Engineer](https://jobr.pro/job/30323367/team-lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Zurich, Switzerland | On Site | Oct 15 |
-| **[Telnyx](https://telnyx.com/)** | **[Senior Machine Learning Engineer (Speech Synthesis)](https://jobr.pro/job/30321036/senior-machine-learning-engineer-speech-synthesis?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Dublin; Amsterdam; Krakow | Remote | Oct 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 40 companies | Avg salary: 271k  
+**Current Stats:** 50 jobs | 32% remote | 40 companies | Avg salary: 271k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
