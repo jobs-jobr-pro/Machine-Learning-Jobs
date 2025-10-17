@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 17, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 17, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Compare the Market](https://www.comparethemarket.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30459333/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United Kingdom | On Site | Oct 17 |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern (Infrastructure Platform) - 2026 Start (PhD)](https://jobr.pro/job/30454783/machine-learning-engineer-intern-infrastructure-platform-2026-start-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 17 |
 | **[Seeing Machines](https://seeingmachines.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30451799/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Fyshwick, Australia | On Site | Oct 17 |
 | **[BJAK](https://bjak.my/)** | **[Machine Learning Engineer (LLM)](https://jobr.pro/job/30423583/machine-learning-engineer-llm?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United Kingdom | Remote | Oct 17 |
 | **[BJAK](https://bjak.my/)** | **[머신러닝 엔지니어 (확산 모델 / 비전) Machine Learning Engineer (Diffusion/Vision)](https://jobr.pro/job/30423611/-machine-learning-engineer-diffusionvision?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seoul, Korea | Remote | Oct 17 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[KPN](https://www.kpn.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30311052/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Amsterdam, NH, Netherlands | On Site | Oct 15 |
 | **[Coursera](https://www.coursera.org/)** | **[Machine Learning Engineer II](https://jobr.pro/job/30324530/machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | India | On Site | Oct 15 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern - TikTok Search Team - 2026 Start (PhD)](https://jobr.pro/job/30255739/machine-learning-engineer-intern-tiktok-search-team-2026-start-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 15 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate (BRIC) - 2026 Start (BS/MS)](https://jobr.pro/job/30255735/machine-learning-engineer-graduate-bric-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 15 |
-| **[Ocwen Financial Corporation](https://www.ocwen.com/)** | **[Manager, Data Scientist and Machine Learning Engineer](https://jobr.pro/job/30256249/manager-data-scientist-and-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, India | On Site | Oct 15 |
 
 ---
 
