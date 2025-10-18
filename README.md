@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 18, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 18, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Inetum](https://www.inetum.com)** | **[Machine Learning Engineer](https://jobr.pro/job/30495563/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bogotá, Bogota, Colombia | On Site | Oct 17 |
+| **[H&M Group](https://hmgroup.com/)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/30495571/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Stockholm, Stockholms län, Sweden | On Site | Oct 17 |
 | **[Compare the Market](https://www.comparethemarket.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30459333/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United Kingdom | On Site | Oct 17 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern (Infrastructure Platform) - 2026 Start (PhD)](https://jobr.pro/job/30454783/machine-learning-engineer-intern-infrastructure-platform-2026-start-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 17 |
 | **[Seeing Machines](https://seeingmachines.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30451799/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Fyshwick, Australia | On Site | Oct 17 |
@@ -22,6 +24,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Capital One](https://www.capitalonecareers.com/)** | **[Senior Distinguished Machine Learning Engineer](https://jobr.pro/job/30453981/senior-distinguished-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, In, India | On Site | Oct 17 |
 | **[AeroVironment](https://www.avinc.com/)** | **[Machine Learning Engineer III](https://jobr.pro/job/30487543/machine-learning-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 5870 Trinity Parkway, Centreville, VA, United States | On Site | Oct 17 |
 | **[PayPal](https://www.paypal.com/)** | **[Sr Machine Learning Engineer](https://jobr.pro/job/30487887/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IND - Karnataka - Bangalore - Corp - Sarjapur Main Rd, India | On Site | Oct 17 |
+| **[Adobe](https://www.adobe.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30499220/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, United States | On Site | Oct 17 |
+| **[Quantiphi](https://www.linkedin.com/company/quantiphi/)** | **[Machine Learning Engineer - Junior - US](https://jobr.pro/job/30494968/machine-learning-engineer-junior-us?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - Remote, United States | Remote | Oct 17 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Machine Learning Engineer](https://jobr.pro/job/30411002/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, California, United States | On Site | Oct 16 |
 | **[HubSpot](https://www.hubspot.com/)** | **[Senior Machine Learning Engineer II](https://jobr.pro/job/30426440/senior-machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Flex - Cambridge, Massachusetts | On Site | Oct 16 |
 | **[NielsenIQ](https://nielseniq.com)** | **[Machine Learning Engineer](https://jobr.pro/job/30411019/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Madrid, M, Spain | On Site | Oct 16 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30320420/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Brasil | Remote | Oct 15 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Manager, Machine Learning Engineer Management](https://jobr.pro/job/30310986/manager-machine-learning-engineer-management?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CALIFORNIA, United States | On Site | Oct 15 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Staff Machine Learning Engineer, Content Recommendations](https://jobr.pro/job/30322056/staff-machine-learning-engineer-content-recommendations?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Toronto, ON, CA; Remote, CA | Remote | Oct 15 |
-| **[AUTO1 Group](https://www.auto1-group.com)** | **[(Senior) Machine Learning Engineer, Remote/Europe (f/m/x)](https://jobr.pro/job/30311049/senior-machine-learning-engineer-remoteeurope-fmx?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Carnaxide, Lisboa, Portugal | Remote | Oct 15 |
-| **[Indie Campers](https://indiecampers.com/)** | **[Senior Data and Machine Learning Engineer](https://jobr.pro/job/30335859/senior-data-and-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lisbon | On Site | Oct 15 |
-| **[Accesa & RaRo](https://accesa.eu)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30311051/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Employees can work remotely, Romania | Remote | Oct 15 |
-| **[KPN](https://www.kpn.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30311052/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Amsterdam, NH, Netherlands | On Site | Oct 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 32% remote | 41 companies | Avg salary: 267k  
+**Current Stats:** 50 jobs | 30% remote | 41 companies | Avg salary: 274k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
