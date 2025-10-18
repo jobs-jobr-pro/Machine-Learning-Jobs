@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 18, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 18, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Meta](https://www.meta.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30529353/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Menlo Park, CA | On Site | Oct 18 |
 | **[Block](https://block.xyz/)** | **[Staff Machine Learning Engineer, Risk Signals & Controls](https://jobr.pro/job/30508348/staff-machine-learning-engineer-risk-signals-controls?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bay Area, CA, United States of America | On Site | Oct 18 |
 | **[Block](https://block.xyz/)** | **[Staff Machine Learning Engineer, Fraud & Abuse](https://jobr.pro/job/30508347/staff-machine-learning-engineer-fraud-abuse?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bay Area, CA, United States of America | On Site | Oct 17 |
 | **[Lyra Health](https://www.lyrahealth.com/)** | **[Sr. Machine Learning Engineer (ML/AI)](https://jobr.pro/job/30500481/sr-machine-learning-engineer-mlai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | Remote | Oct 17 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Yahoo](https://www.yahooinc.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/30409670/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | US - United States of America | On Site | Oct 16 |
 | **[Dorsia](https://www.dorsia.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30321072/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York City | On Site | Oct 15 |
 | **[Mercor](https://mercor.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30332043/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco | On Site | Oct 15 |
-| **[Pave](https://www.pave.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30331563/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA & New York, NY | On Site | Oct 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 40 companies | Avg salary: 281k  
+**Current Stats:** 50 jobs | 22% remote | 40 companies | Avg salary: 279k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
