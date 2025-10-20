@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 20, 2025 at 09:32 UTC</small></sub>
+<sub><small>Last updated: Oct 20, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,8 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Reliant AI](https://www.reliant.ai/)** | **[Machine Learning Engineer](https://jobr.pro/job/30568878/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Berlin, Berlin, Germany | On Site | Oct 19 |
+| **[Hola Consultores, S.L.](https://www.holacons.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30566248/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Barcelona | On Site | Oct 19 |
+| **[EvolutionaryScale](https://www.evolutionaryscale.ai/)** | **[Machine Learning Engineer](https://jobr.pro/job/30562872/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, NY // San Francisco, CA, United States | On Site | Oct 19 |
+| **[Haystack News](https://haystack.tv/)** | **[Machine Learning Engineer](https://jobr.pro/job/30560397/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lima Office | On Site | Oct 19 |
+| **[MoneyLion](https://www.moneylion.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30558934/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Kuala Lumpur, Kuala Lumpur, Malaysia | On Site | Oct 19 |
 | **[Meta](https://www.meta.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30529353/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Menlo Park, CA | On Site | Oct 18 |
 | **[Block](https://block.xyz/)** | **[Staff Machine Learning Engineer, Risk Signals & Controls](https://jobr.pro/job/30508348/staff-machine-learning-engineer-risk-signals-controls?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bay Area, CA, United States of America | On Site | Oct 18 |
+| **[Devsinc](https://devsinc.com/)** | **[Senior AI/Machine Learning Engineer](https://jobr.pro/job/30571957/senior-aimachine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lahore, Punjab, Pakistan | On Site | Oct 18 |
 | **[Block](https://block.xyz/)** | **[Staff Machine Learning Engineer, Fraud & Abuse](https://jobr.pro/job/30508347/staff-machine-learning-engineer-fraud-abuse?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bay Area, CA, United States of America | On Site | Oct 17 |
 | **[Lyra Health](https://www.lyrahealth.com/)** | **[Sr. Machine Learning Engineer (ML/AI)](https://jobr.pro/job/30500481/sr-machine-learning-engineer-mlai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | Remote | Oct 17 |
 | **[Inetum](https://www.inetum.com)** | **[Machine Learning Engineer](https://jobr.pro/job/30495563/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bogotá, Bogota, Colombia | On Site | Oct 17 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Plaid Inc.](https://plaid.com/)** | **[Staff Machine Learning Engineer - Fraud Data](https://jobr.pro/job/30415384/staff-machine-learning-engineer-fraud-data?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco | On Site | Oct 16 |
 | **[Retell AI](https://www.retellai.com/)** | **[Founding Senior Machine Learning Engineer](https://jobr.pro/job/30329788/founding-senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco Bay Area | On Site | Oct 16 |
 | **[SailPoint](https://www.sailpoint.com/)** | **[Staff Machine Learning Engineer (Remote)](https://jobr.pro/job/30404995/staff-machine-learning-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States, United States | Remote | Oct 16 |
-| **[Yahoo](https://www.yahooinc.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30409675/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IE - Ireland | On Site | Oct 16 |
-| **[Yahoo](https://www.yahooinc.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/30409670/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | US - United States of America | On Site | Oct 16 |
-| **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30386115/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA, DC, Washington (20 M St SE), United States | On Site | Oct 16 |
-| **[Red Hat](https://www.redhat.com/)** | **[Principal Machine Learning Engineer, Distributed vLLM Inference and Kubernetes](https://jobr.pro/job/30389147/principal-machine-learning-engineer-distributed-vllm-inference-and-kubernetes?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boston, United States | Remote | Oct 16 |
-| **[Dorsia](https://www.dorsia.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30321072/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York City | On Site | Oct 15 |
-| **[Mercor](https://mercor.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30332043/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco | On Site | Oct 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 40 companies | Avg salary: 279k  
+**Current Stats:** 50 jobs | 20% remote | 41 companies | Avg salary: 275k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
