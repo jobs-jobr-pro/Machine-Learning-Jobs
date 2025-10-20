@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 20, 2025 at 16:31 UTC</small></sub>
+<sub><small>Last updated: Oct 20, 2025 at 20:57 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -14,6 +14,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[DLK Group](https://www.dlkgroup.com)** | **[Machine Learning Engineer (Specialist)](https://jobr.pro/job/30579433/machine-learning-engineer-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Cape Town, South Africa | On Site | Oct 20 |
+| **[Fiserv](https://www.fiserv.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30593377/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Alpharetta, Georgia, United States | On Site | Oct 20 |
+| **[Grubhub](https://www.grubhub.com/)** | **[Sr. Machine Learning Engineer](https://jobr.pro/job/30606790/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York City Bryant Park Office, United States | On Site | Oct 20 |
 | **[Inside](https://insidegroup.fr/)** | **[Machine Learning Engineer F/H](https://jobr.pro/job/30576453/machine-learning-engineer-fh?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bordeaux, France | On Site | Oct 19 |
 | **[Hyro](https://www.hyro.ai/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30585574/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Oct 19 |
 | **[Reliant AI](https://www.reliant.ai/)** | **[Machine Learning Engineer](https://jobr.pro/job/30568878/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Berlin, Berlin, Germany | On Site | Oct 19 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[KUNGFU.AI](https://www.kungfu.ai/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30417983/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Oct 16 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30372401/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hyderabad, India | On Site | Oct 16 |
 | **[LITIT](https://www.litit.tech/)** | **[MACHINE LEARNING ENGINEER / AI ENGINEER (CLOUD FOCUS)](https://jobr.pro/job/30416137/machine-learning-engineer-ai-engineer-cloud-focus?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote job | Remote | Oct 16 |
-| **[Wayve](https://wayve.ai/)** | **[Machine Learning Engineer, Japan](https://jobr.pro/job/30418931/machine-learning-engineer-japan?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Japan | On Site | Oct 16 |
-| **[Plaid Inc.](https://plaid.com/)** | **[Machine Learning Engineer - Fraud Data](https://jobr.pro/job/30415380/machine-learning-engineer-fraud-data?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco | On Site | Oct 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 42 companies | Avg salary: 275k  
+**Current Stats:** 50 jobs | 18% remote | 42 companies | Avg salary: 271k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
