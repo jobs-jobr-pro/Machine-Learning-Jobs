@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 21, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 21, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -18,6 +18,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Grab](https://www.grab.com)** | **[Machine Learning Engineer (Fulfilment ETA)](https://jobr.pro/job/30638281/machine-learning-engineer-fulfilment-eta?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Beijing, China | On Site | Oct 21 |
 | **[SAP](https://www.sap.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30631854/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, SG, 117440 | On Site | Oct 21 |
 | **[Genentech](https://www.gene.com/)** | **[Senior Machine Learning Engineer, AI for Drug Discovery (Lab in the Loop)](https://jobr.pro/job/30675087/senior-machine-learning-engineer-ai-for-drug-discovery-lab-in-the-loop?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, United States | On Site | Oct 21 |
+| **[Snap Inc.](https://snap.com/)** | **[Senior Principal Machine Learning Engineer](https://jobr.pro/job/30703015/senior-principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Monica - 2850 Ocean Park Blvd, United States | On Site | Oct 21 |
 | **[HRL Laboratories](https://www.hrl.com/)** | **[Machine Learning Engineer - Advanced AI and Cognitive Systems](https://jobr.pro/job/30622588/machine-learning-engineer-advanced-ai-and-cognitive-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Calabasas, CA | On Site | Oct 20 |
 | **[Samsara](https://www.samsara.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30631931/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - US | Remote | Oct 20 |
 | **[Bot Auto](https://bot.auto/)** | **[Machine Learning Engineer – HD Map](https://jobr.pro/job/30623990/machine-learning-engineer-hd-map?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Houston, TX preferred, open to remote | Remote | Oct 20 |
@@ -45,11 +46,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Haystack News](https://haystack.tv/)** | **[Machine Learning Engineer](https://jobr.pro/job/30560397/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lima Office | On Site | Oct 19 |
 | **[MoneyLion](https://www.moneylion.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30558934/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Kuala Lumpur, Kuala Lumpur, Malaysia | On Site | Oct 19 |
 | **[Meta](https://www.meta.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30529353/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Menlo Park, CA | On Site | Oct 18 |
-| **[Block](https://block.xyz/)** | **[Staff Machine Learning Engineer, Risk Signals & Controls](https://jobr.pro/job/30508348/staff-machine-learning-engineer-risk-signals-controls?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bay Area, CA, United States of America | On Site | Oct 18 |
 
 ---
 
-**Current Stats:** 33 jobs | 27% remote | 31 companies | Avg salary: 259k  
+**Current Stats:** 33 jobs | 27% remote | 31 companies | Avg salary: 266k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
