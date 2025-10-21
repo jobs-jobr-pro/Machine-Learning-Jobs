@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 21, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 21, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,8 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern (Monetization Technology)- 2026 Summer (BS/MS)](https://jobr.pro/job/30658941/machine-learning-engineer-intern-monetization-technology-2026-summer-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 21 |
+| **[Accesa & RaRo](https://accesa.eu)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30661299/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Employees can work remotely, Romania | Remote | Oct 21 |
 | **[Grab](https://www.grab.com)** | **[Machine Learning Engineer (Fulfilment ETA)](https://jobr.pro/job/30638281/machine-learning-engineer-fulfilment-eta?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Beijing, China | On Site | Oct 21 |
 | **[SAP](https://www.sap.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30631854/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, SG, 117440 | On Site | Oct 21 |
+| **[Genentech](https://www.gene.com/)** | **[Senior Machine Learning Engineer, AI for Drug Discovery (Lab in the Loop)](https://jobr.pro/job/30675087/senior-machine-learning-engineer-ai-for-drug-discovery-lab-in-the-loop?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, United States | On Site | Oct 21 |
 | **[HRL Laboratories](https://www.hrl.com/)** | **[Machine Learning Engineer - Advanced AI and Cognitive Systems](https://jobr.pro/job/30622588/machine-learning-engineer-advanced-ai-and-cognitive-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Calabasas, CA | On Site | Oct 20 |
 | **[Samsara](https://www.samsara.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30631931/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - US | Remote | Oct 20 |
 | **[Bot Auto](https://bot.auto/)** | **[Machine Learning Engineer – HD Map](https://jobr.pro/job/30623990/machine-learning-engineer-hd-map?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Houston, TX preferred, open to remote | Remote | Oct 20 |
@@ -43,14 +46,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[MoneyLion](https://www.moneylion.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30558934/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Kuala Lumpur, Kuala Lumpur, Malaysia | On Site | Oct 19 |
 | **[Meta](https://www.meta.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30529353/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Menlo Park, CA | On Site | Oct 18 |
 | **[Block](https://block.xyz/)** | **[Staff Machine Learning Engineer, Risk Signals & Controls](https://jobr.pro/job/30508348/staff-machine-learning-engineer-risk-signals-controls?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bay Area, CA, United States of America | On Site | Oct 18 |
-| **[Devsinc](https://devsinc.com/)** | **[Senior AI/Machine Learning Engineer](https://jobr.pro/job/30571957/senior-aimachine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lahore, Punjab, Pakistan | On Site | Oct 18 |
-| **[Block](https://block.xyz/)** | **[Staff Machine Learning Engineer, Fraud & Abuse](https://jobr.pro/job/30508347/staff-machine-learning-engineer-fraud-abuse?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bay Area, CA, United States of America | On Site | Oct 17 |
-| **[Lyra Health](https://www.lyrahealth.com/)** | **[Sr. Machine Learning Engineer (ML/AI)](https://jobr.pro/job/30500481/sr-machine-learning-engineer-mlai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | Remote | Oct 17 |
-| **[Inetum](https://www.inetum.com)** | **[Machine Learning Engineer](https://jobr.pro/job/30495563/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bogotá, Bogota, Colombia | On Site | Oct 17 |
 
 ---
 
-**Current Stats:** 34 jobs | 26% remote | 31 companies | Avg salary: 271k  
+**Current Stats:** 33 jobs | 27% remote | 31 companies | Avg salary: 259k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
