@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 21, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 21, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Grab](https://www.grab.com)** | **[Machine Learning Engineer (Fulfilment ETA)](https://jobr.pro/job/30638281/machine-learning-engineer-fulfilment-eta?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Beijing, China | On Site | Oct 21 |
 | **[SAP](https://www.sap.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30631854/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, SG, 117440 | On Site | Oct 21 |
 | **[HRL Laboratories](https://www.hrl.com/)** | **[Machine Learning Engineer - Advanced AI and Cognitive Systems](https://jobr.pro/job/30622588/machine-learning-engineer-advanced-ai-and-cognitive-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Calabasas, CA | On Site | Oct 20 |
 | **[Samsara](https://www.samsara.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30631931/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - US | Remote | Oct 20 |
@@ -46,11 +47,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Block](https://block.xyz/)** | **[Staff Machine Learning Engineer, Fraud & Abuse](https://jobr.pro/job/30508347/staff-machine-learning-engineer-fraud-abuse?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bay Area, CA, United States of America | On Site | Oct 17 |
 | **[Lyra Health](https://www.lyrahealth.com/)** | **[Sr. Machine Learning Engineer (ML/AI)](https://jobr.pro/job/30500481/sr-machine-learning-engineer-mlai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | Remote | Oct 17 |
 | **[Inetum](https://www.inetum.com)** | **[Machine Learning Engineer](https://jobr.pro/job/30495563/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bogotá, Bogota, Colombia | On Site | Oct 17 |
-| **[Instacart](https://www.instacart.com/)** | **[Machine Learning Engineer II, Fraud](https://jobr.pro/job/30500004/machine-learning-engineer-ii-fraud?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Canada | On Site | Oct 17 |
 
 ---
 
-**Current Stats:** 34 jobs | 26% remote | 31 companies | Avg salary: 264k  
+**Current Stats:** 34 jobs | 26% remote | 31 companies | Avg salary: 271k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
