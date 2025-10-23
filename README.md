@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 22, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 23, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -19,10 +19,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Parspec](https://www.parspec.io/)** | **[Senior Machine Learning Engineer - 1](https://jobr.pro/job/30720887/senior-machine-learning-engineer-1?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hybrid - Bangalore, India | On Site | Oct 22 |
 | **[Roblox](https://www.roblox.com/)** | **[Principal Machine Learning Engineer, Content & Communication Safety](https://jobr.pro/job/30726471/principal-machine-learning-engineer-content-communication-safety?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA, United States | On Site | Oct 22 |
 | **[Hadrian Automation](https://www.hadrian.co/)** | **[Machine Learning Engineer , Computer Vision](https://jobr.pro/job/30718727/machine-learning-engineer-computer-vision?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Los Angeles | On Site | Oct 22 |
+| **[Snap Inc.](https://snap.com/)** | **[Machine Learning Engineer, Level 3](https://jobr.pro/job/30798118/machine-learning-engineer-level-3?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Palo Alto - 395 Page Mill Rd, United States | On Site | Oct 22 |
 | **[Harrods](https://www.harrodscareers.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30777753/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hammersmith - 37.5 hrs, United Kingdom | On Site | Oct 22 |
 | **[Williams Lea](https://www.williamslea.com/)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/30794773/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | WL GBR Work from home default, United Kingdom | Remote | Oct 22 |
 | **[Williams Lea](https://www.williamslea.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30794770/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | WL GBR Work from home default, United Kingdom | Remote | Oct 22 |
-| **[Snap Inc.](https://snap.com/)** | **[Machine Learning Engineer, Level 3](https://jobr.pro/job/30798118/machine-learning-engineer-level-3?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Palo Alto - 395 Page Mill Rd, United States | On Site | Oct 22 |
 | **[Mapbox](https://www.mapbox.com/)** | **[Machine Learning Engineer II, Search Data](https://jobr.pro/job/30720242/machine-learning-engineer-ii-search-data?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mapbox US | On Site | Oct 21 |
 | **[Rocket Lab USA](https://www.rocketlabusa.com/)** | **[Machine Learning Engineer II](https://jobr.pro/job/30721399/machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Auckland, NZ | On Site | Oct 21 |
 | **[Twilio](https://www.twilio.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30729605/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - US | Remote | Oct 21 |
