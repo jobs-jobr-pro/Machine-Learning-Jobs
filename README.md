@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 23, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 23, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Revecore](https://revecore.com/)** | **[Senior Machine Learning Engineer-JT12345](https://jobr.pro/job/30874177/senior-machine-learning-engineer-jt12345?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote, United States | Remote | Oct 23 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern (TikTok-Business Risk Integrated Control) - 2026 Summer (BS/MS)](https://jobr.pro/job/30848718/machine-learning-engineer-intern-tiktok-business-risk-integrated-control-2026-summer-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 23 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate (Recommendations, USDS) - 2025 Start (MS)](https://jobr.pro/job/30848688/machine-learning-engineer-graduate-recommendations-usds-2025-start-ms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 23 |
 | **[Bloomreach](https://www.bloomreach.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30817647/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | India | Remote | Oct 23 |
@@ -24,6 +25,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[HeyGen](https://www.heygen.com/)** | **[Machine Learning Engineer, Video Translation](https://jobr.pro/job/30813664/machine-learning-engineer-video-translation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, Palo Alto, Los Angeles, Toronto | On Site | Oct 23 |
 | **[Rokt](https://www.rokt.com/)** | **[Junior Machine Learning Engineer (8x Roles)](https://jobr.pro/job/30821356/junior-machine-learning-engineer-8x-roles?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sydney, New South Wales, Australia | On Site | Oct 23 |
 | **[Atlassian](https://www.atlassian.com/)** | **[Senior Machine Learning Engineer - Security](https://jobr.pro/job/30847077/senior-machine-learning-engineer-security?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru - India - Bengaluru, 560071 India; Remote - India - Remote | Remote | Oct 23 |
+| **[Capital Group](https://www.capitalgroup.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30870892/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Los Angeles, United States | On Site | Oct 23 |
+| **[Viridien](https://www.viridiengroup.com/)** | **[Machine Learning Engineer/Researcher - 2025 Programme](https://jobr.pro/job/30883745/machine-learning-engineerresearcher-2025-programme?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | GBR-Crawley Crompton Way, United Kingdom | On Site | Oct 23 |
+| **[Resolution Life](https://www.resolutionlife.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30882894/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 2 Park Street, Sydney, Australia | On Site | Oct 23 |
 | **[Quora](https://www.careers.quora.com)** | **[Machine Learning Engineer Intern - Poe (Remote)](https://jobr.pro/job/30812865/machine-learning-engineer-intern-poe-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - Canada | Remote | Oct 22 |
 | **[Wayve](https://wayve.ai/)** | **[Principal Machine Learning Engineer - Autonomy](https://jobr.pro/job/30815194/principal-machine-learning-engineer-autonomy?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale | On Site | Oct 22 |
 | **[Informa Group Plc.](https://www.informa.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30802634/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, NY, United States | Remote | Oct 22 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Universe Group](https://uni.tech/)** | **[Machine Learning Engineer (FORMA)](https://jobr.pro/job/30713054/machine-learning-engineer-forma?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Kyiv, Kyiv, Ukraine | On Site | Oct 21 |
 | **[Grab](https://www.grab.com)** | **[Machine Learning Engineer (Fulfilment ETA)](https://jobr.pro/job/30638281/machine-learning-engineer-fulfilment-eta?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Beijing, China | On Site | Oct 21 |
 | **[Genentech](https://www.gene.com/)** | **[Senior Machine Learning Engineer, AI for Drug Discovery (Lab in the Loop)](https://jobr.pro/job/30675087/senior-machine-learning-engineer-ai-for-drug-discovery-lab-in-the-loop?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, United States | On Site | Oct 21 |
-| **[SAP](https://www.sap.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30631854/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, SG, 117440 | On Site | Oct 21 |
-| **[Snap Inc.](https://snap.com/)** | **[Senior Principal Machine Learning Engineer](https://jobr.pro/job/30703015/senior-principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Monica - 2850 Ocean Park Blvd, United States | On Site | Oct 21 |
-| **[HRL Laboratories](https://www.hrl.com/)** | **[Machine Learning Engineer - Advanced AI and Cognitive Systems](https://jobr.pro/job/30622588/machine-learning-engineer-advanced-ai-and-cognitive-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Calabasas, CA | On Site | Oct 20 |
-| **[Samsara](https://www.samsara.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30631931/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - US | Remote | Oct 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 42 companies | Avg salary: 519k  
+**Current Stats:** 50 jobs | 38% remote | 43 companies | Avg salary: 551k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
