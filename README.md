@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 23, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 23, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Informa Group Plc.](https://www.informa.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30802634/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, NY, United States | Remote | Oct 22 |
+| **[Fortune Brands Innovations](https://www.fbin.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30802687/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Deerfield, ILLINOIS, United States | On Site | Oct 22 |
 | **[Tesco](https://www.tesco.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30761612/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, United Kingdom of Great Britain and Northern Ireland | On Site | Oct 22 |
 | **[Bosch Group](https://www.bosch.com)** | **[Machine Learning Engineer / AI Specialist (f/m/div.)](https://jobr.pro/job/30758633/machine-learning-engineer-ai-specialist-fmdiv?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Braga, Braga, Portugal | On Site | Oct 22 |
 | **[KPN](https://www.kpn.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30759638/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Amsterdam, NH, Netherlands | On Site | Oct 22 |
@@ -20,9 +22,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Roblox](https://www.roblox.com/)** | **[Principal Machine Learning Engineer, Content & Communication Safety](https://jobr.pro/job/30726471/principal-machine-learning-engineer-content-communication-safety?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA, United States | On Site | Oct 22 |
 | **[Hadrian Automation](https://www.hadrian.co/)** | **[Machine Learning Engineer , Computer Vision](https://jobr.pro/job/30718727/machine-learning-engineer-computer-vision?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Los Angeles | On Site | Oct 22 |
 | **[Snap Inc.](https://snap.com/)** | **[Machine Learning Engineer, Level 3](https://jobr.pro/job/30798118/machine-learning-engineer-level-3?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Palo Alto - 395 Page Mill Rd, United States | On Site | Oct 22 |
-| **[Harrods](https://www.harrodscareers.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30777753/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hammersmith - 37.5 hrs, United Kingdom | On Site | Oct 22 |
 | **[Williams Lea](https://www.williamslea.com/)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/30794773/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | WL GBR Work from home default, United Kingdom | Remote | Oct 22 |
 | **[Williams Lea](https://www.williamslea.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30794770/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | WL GBR Work from home default, United Kingdom | Remote | Oct 22 |
+| **[Harrods](https://www.harrodscareers.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30777753/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hammersmith - 37.5 hrs, United Kingdom | On Site | Oct 22 |
 | **[Mapbox](https://www.mapbox.com/)** | **[Machine Learning Engineer II, Search Data](https://jobr.pro/job/30720242/machine-learning-engineer-ii-search-data?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mapbox US | On Site | Oct 21 |
 | **[Rocket Lab USA](https://www.rocketlabusa.com/)** | **[Machine Learning Engineer II](https://jobr.pro/job/30721399/machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Auckland, NZ | On Site | Oct 21 |
 | **[Twilio](https://www.twilio.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30729605/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - US | Remote | Oct 21 |
@@ -55,7 +57,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 39 jobs | 41% remote | 35 companies | Avg salary: 257k  
+**Current Stats:** 41 jobs | 41% remote | 37 companies | Avg salary: 245k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
