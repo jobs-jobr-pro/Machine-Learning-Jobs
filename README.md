@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 23, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Oct 23, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern (TikTok-Business Risk Integrated Control) - 2026 Summer (BS/MS)](https://jobr.pro/job/30848718/machine-learning-engineer-intern-tiktok-business-risk-integrated-control-2026-summer-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 23 |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate (Recommendations, USDS) - 2025 Start (MS)](https://jobr.pro/job/30848688/machine-learning-engineer-graduate-recommendations-usds-2025-start-ms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 23 |
 | **[Bloomreach](https://www.bloomreach.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30817647/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | India | Remote | Oct 23 |
 | **[HappyRobot](https://www.happyrobot.ai/)** | **[Machine Learning Engineer](https://jobr.pro/job/30813763/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Barcelona | Remote | Oct 23 |
 | **[BJAK](https://bjak.my/)** | **[머신러닝 엔지니어 (확산 모델 / 비전) Machine Learning Engineer (Diffusion/Vision)](https://jobr.pro/job/30815403/-machine-learning-engineer-diffusionvision?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seoul, Korea | Remote | Oct 23 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Snap Inc.](https://snap.com/)** | **[Senior Principal Machine Learning Engineer](https://jobr.pro/job/30703015/senior-principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Monica - 2850 Ocean Park Blvd, United States | On Site | Oct 21 |
 | **[HRL Laboratories](https://www.hrl.com/)** | **[Machine Learning Engineer - Advanced AI and Cognitive Systems](https://jobr.pro/job/30622588/machine-learning-engineer-advanced-ai-and-cognitive-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Calabasas, CA | On Site | Oct 20 |
 | **[Samsara](https://www.samsara.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30631931/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - US | Remote | Oct 20 |
-| **[Bot Auto](https://bot.auto/)** | **[Machine Learning Engineer – HD Map](https://jobr.pro/job/30623990/machine-learning-engineer-hd-map?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Houston, TX preferred, open to remote | Remote | Oct 20 |
-| **[Grammarly](https://www.grammarly.com/)** | **[Machine Learning Engineer, AI Agent Platform](https://jobr.pro/job/30625954/machine-learning-engineer-ai-agent-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco; Hybrid | On Site | Oct 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 40% remote | 44 companies | Avg salary: 511k  
+**Current Stats:** 50 jobs | 38% remote | 42 companies | Avg salary: 519k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
