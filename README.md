@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 24, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 24, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -29,6 +29,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Viridien](https://www.viridiengroup.com/)** | **[Machine Learning Engineer/Researcher - 2025 Programme](https://jobr.pro/job/30883745/machine-learning-engineerresearcher-2025-programme?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | GBR-Crawley Crompton Way, United Kingdom | On Site | Oct 23 |
 | **[Resolution Life](https://www.resolutionlife.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30882894/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 2 Park Street, Sydney, Australia | On Site | Oct 23 |
 | **[ING](https://www.ing.com/)** | **[Machine Learning Engineer @ COOA (Gen-AI CDD)](https://jobr.pro/job/30890167/machine-learning-engineer-cooa-gen-ai-cdd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | CDR (Amsterdam - Cedar), Netherlands | On Site | Oct 23 |
+| **[TD](https://www.td.com/)** | **[Machine Learning Engineer I](https://jobr.pro/job/30893855/machine-learning-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 661 University Avenue, Toronto, Ontario, Canada | On Site | Oct 23 |
 | **[Quora](https://www.careers.quora.com)** | **[Machine Learning Engineer Intern - Poe (Remote)](https://jobr.pro/job/30812865/machine-learning-engineer-intern-poe-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - Canada | Remote | Oct 22 |
 | **[Wayve](https://wayve.ai/)** | **[Principal Machine Learning Engineer - Autonomy](https://jobr.pro/job/30815194/principal-machine-learning-engineer-autonomy?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale | On Site | Oct 22 |
 | **[Informa Group Plc.](https://www.informa.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30802634/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, NY, United States | Remote | Oct 22 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern (Monetization Technology)- 2026 Summer (BS/MS)](https://jobr.pro/job/30658941/machine-learning-engineer-intern-monetization-technology-2026-summer-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 21 |
 | **[Accesa & RaRo](https://accesa.eu)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30661299/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Employees can work remotely, Romania | Remote | Oct 21 |
 | **[Universe Group](https://uni.tech/)** | **[Machine Learning Engineer (FORMA)](https://jobr.pro/job/30713054/machine-learning-engineer-forma?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Kyiv, Kyiv, Ukraine | On Site | Oct 21 |
-| **[Grab](https://www.grab.com)** | **[Machine Learning Engineer (Fulfilment ETA)](https://jobr.pro/job/30638281/machine-learning-engineer-fulfilment-eta?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Beijing, China | On Site | Oct 21 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 43 companies | Avg salary: 551k  
+**Current Stats:** 50 jobs | 38% remote | 43 companies | Avg salary: 525k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
