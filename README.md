@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 25, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 25, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Sr Staff Machine Learning Engineer (DNS Security)](https://jobr.pro/job/30979845/sr-staff-machine-learning-engineer-dns-security?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CA, United States | On Site | Oct 24 |
 | **[TikTok](https://www.tiktok.com/)** | **[Tech Lead Machine Learning Engineer, TikTok AI Search (LLM) - USDS](https://jobr.pro/job/30936611/tech-lead-machine-learning-engineer-tiktok-ai-search-llm-usds?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 24 |
 | **[momox](https://momox.biz/)** | **[Senior Machine Learning Engineer (m/f/d) in Berlin \| momox SE](https://jobr.pro/job/30929026/senior-machine-learning-engineer-mfd-in-berlin-momox-se?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Berlin, Germany | Remote | Oct 24 |
 | **[Nearmap](https://www.nearmap.com)** | **[Machine Learning Engineer - Deep Learning Specialist](https://jobr.pro/job/30939016/machine-learning-engineer-deep-learning-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Barangaroo, NSW, Australia | Remote | Oct 24 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Robinhood](https://robinhood.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30808689/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Menlo Park, CA | On Site | Oct 22 |
 | **[Wayve](https://wayve.ai/)** | **[Staff Machine Learning Engineer - Autonomy](https://jobr.pro/job/30815197/staff-machine-learning-engineer-autonomy?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale | On Site | Oct 22 |
 | **[ClanX](https://clanx.ai/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30808301/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mumbai, Mahārāshtra, India | On Site | Oct 22 |
-| **[Allica Bank](https://www.allica.bank/)** | **[Machine Learning Engineer](https://jobr.pro/job/30814123/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London Office | Remote | Oct 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 42 companies | Avg salary: 512k  
+**Current Stats:** 50 jobs | 36% remote | 42 companies | Avg salary: 495k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
