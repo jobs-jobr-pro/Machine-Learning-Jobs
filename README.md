@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 24, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Oct 25, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -19,6 +19,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Matific](https://www.matific.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30952042/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Colombo, colombo, LK | On Site | Oct 24 |
 | **[Unitary](https://unitary.ai)** | **[Senior Machine Learning Engineer (Customers)](https://jobr.pro/job/30935724/senior-machine-learning-engineer-customers?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, England, United Kingdom - Remote | Remote | Oct 24 |
 | **[PayPal](https://www.paypal.com/)** | **[Sr Machine Learning Engineer](https://jobr.pro/job/30971777/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IRL - County Dublin - Dublin - Corp - Ballycoolin Business Park, Ireland | On Site | Oct 24 |
+| **[Thomson Reuters](https://www.thomsonreuters.com/)** | **[Sr. Generative AI & Machine Learning Engineer](https://jobr.pro/job/30976082/sr-generative-ai-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA-McLean-1410 Spring Hill Rd Suite 125, United States | On Site | Oct 24 |
+| **[Comcast](https://corporate.comcast.com/)** | **[Comcast Data Analytics/Machine Learning Engineer Co-op](https://jobr.pro/job/30973550/comcast-data-analyticsmachine-learning-engineer-co-op?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | PA - Philadelphia, 1800 Arch St, United States | On Site | Oct 24 |
 | **[Chewy](https://www.chewy.com/)** | **[Machine Learning Engineer II](https://jobr.pro/job/30897540/machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boston, MA | On Site | Oct 23 |
 | **[EarnIn](https://www.earnin.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30902301/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, India | On Site | Oct 23 |
 | **[Chan Zuckerberg Initiative](https://chanzuckerberg.com/)** | **[Machine Learning Engineer, Education](https://jobr.pro/job/30906904/machine-learning-engineer-education?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Redwood City, CA (Hybrid) | On Site | Oct 23 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Wayve](https://wayve.ai/)** | **[Staff Machine Learning Engineer - Autonomy](https://jobr.pro/job/30815197/staff-machine-learning-engineer-autonomy?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale | On Site | Oct 22 |
 | **[ClanX](https://clanx.ai/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/30808301/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mumbai, Mahārāshtra, India | On Site | Oct 22 |
 | **[Allica Bank](https://www.allica.bank/)** | **[Machine Learning Engineer](https://jobr.pro/job/30814123/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London Office | Remote | Oct 22 |
-| **[Tesco](https://www.tesco.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/30761612/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, United Kingdom of Great Britain and Northern Ireland | On Site | Oct 22 |
-| **[Bosch Group](https://www.bosch.com)** | **[Machine Learning Engineer / AI Specialist (f/m/div.)](https://jobr.pro/job/30758633/machine-learning-engineer-ai-specialist-fmdiv?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Braga, Braga, Portugal | On Site | Oct 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 42 companies | Avg salary: 532k  
+**Current Stats:** 50 jobs | 38% remote | 42 companies | Avg salary: 512k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
