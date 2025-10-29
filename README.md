@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 29, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Oct 29, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Emerson](https://www.emerson.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31233963/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | PUNE, MAHARASHTRA, India | On Site | Oct 29 |
 | **[Bertelsmann](https://www.bertelsmann.com/)** | **[Machine Learning Engineer - AI](https://jobr.pro/job/31210951/machine-learning-engineer-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Morrisville, NC, US, 27560 | On Site | Oct 29 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Senior Machine Learning Engineer - Full Stack Engineer with Deep AI competence](https://jobr.pro/job/31208753/senior-machine-learning-engineer-full-stack-engineer-with-deep-ai-competence?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hyderabad, India | On Site | Oct 29 |
 | **[Sony Interactive Entertainment](https://sonyinteractive.com/)** | **[Machine Learning Engineer (PlayStation™Network)](https://jobr.pro/job/31199389/machine-learning-engineer-playstationnetwork?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Japan, Tokyo | On Site | Oct 29 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Faire Wholesale, Inc.](https://www.faire.com/)** | **[Senior Data Scientist / Machine Learning Engineer - Listing Quality](https://jobr.pro/job/30987526/senior-data-scientist-machine-learning-engineer-listing-quality?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Toronto, ON | On Site | Oct 25 |
 | **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Sr Staff Machine Learning Engineer (DNS Security)](https://jobr.pro/job/30979845/sr-staff-machine-learning-engineer-dns-security?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CA, United States | On Site | Oct 24 |
 | **[EarnIn](https://www.earnin.com/)** | **[Staff Machine Learning Engineer (Applied ML)](https://jobr.pro/job/30998670/staff-machine-learning-engineer-applied-ml?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, US | On Site | Oct 24 |
-| **[DigitalOcean](https://www.digitalocean.com/)** | **[Applied Machine Learning Engineer](https://jobr.pro/job/30992754/applied-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle | Remote | Oct 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 41 companies | Avg salary: 235k  
+**Current Stats:** 50 jobs | 24% remote | 41 companies | Avg salary: 232k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
