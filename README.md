@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 31, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Oct 31, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Grab](https://www.grab.com)** | **[Principal Machine Learning Engineer, AI Platform – AI Infrastructure](https://jobr.pro/job/31370699/principal-machine-learning-engineer-ai-platform-ai-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Oct 30 |
+| **[Sia](https://www.sia-partners.com)** | **[Machine Learning Engineer - H/F](https://jobr.pro/job/31371083/machine-learning-engineer-hf?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris, IDF, France | On Site | Oct 30 |
 | **[F-Secure](https://www.f-secure.com/)** | **[Machine Learning Engineer (Data)](https://jobr.pro/job/31350657/machine-learning-engineer-data?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru | On Site | Oct 30 |
 | **[Microsoft](https://www.microsoft.com/)** | **[Senior Machine Learning Engineer (Multiple Positions)](https://jobr.pro/job/31328941/senior-machine-learning-engineer-multiple-positions?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, California, United States | On Site | Oct 30 |
 | **[BJAK](https://bjak.my/)** | **[머신러닝 엔지니어 (확산 모델 / 비전) Machine Learning Engineer (Diffusion/Vision)](https://jobr.pro/job/31294905/-machine-learning-engineer-diffusionvision?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seoul, Korea | Remote | Oct 30 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AB InBev](https://www.ab-inbev.com/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/31272282/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, New York, United States | On Site | Oct 29 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31276623/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lisbon, Portugal | On Site | Oct 29 |
 | **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Principal Machine Learning Engineer (Cortex Xpanse)](https://jobr.pro/job/31192868/principal-machine-learning-engineer-cortex-xpanse?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, NY, United States | On Site | Oct 28 |
-| **[Tkxel](https://tkxel.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31149734/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lahore, Pakistan | On Site | Oct 28 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - E-commerce Merchant Growth (LLM & Agentic Systems)](https://jobr.pro/job/31145530/machine-learning-engineer-e-commerce-merchant-growth-llm-agentic-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Oct 28 |
 
 ---
 
