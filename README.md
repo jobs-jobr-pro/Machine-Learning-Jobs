@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 31, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Oct 31, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -18,6 +18,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[C3.ai](https://c3.ai/)** | **[Machine Learning Engineer / Senior Machine Learning Engineer](https://jobr.pro/job/31379693/machine-learning-engineer-senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Redwood City, CA | On Site | Oct 31 |
 | **[Cepal Hellas Financial Services S.A.](https://www.cepal.gr)** | **[Machine Learning Engineer](https://jobr.pro/job/31413975/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Nea Smyrni, Attica, Greece | On Site | Oct 31 |
 | **[Elanco](https://www.elanco.com/)** | **[Lead Machine learning engineer](https://jobr.pro/job/31434850/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IN - Bangalore, India | On Site | Oct 31 |
+| **[Fiserv](https://www.fiserv.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/31438074/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale, California, United States | On Site | Oct 31 |
+| **[Zendesk](https://www.zendesk.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/31447390/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Estonia - Tallinn - Office | Remote | Oct 31 |
+| **[Netflix](https://www.netflix.com/)** | **[Machine Learning Engineer, AI for Member Systems](https://jobr.pro/job/31448225/machine-learning-engineer-ai-for-member-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - Remote, United States | Remote | Oct 31 |
+| **[Amgen](https://www.amgen.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/31448560/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | India - Hyderabad | On Site | Oct 31 |
 | **[Block](https://block.xyz/)** | **[Senior Machine Learning Engineer, ML Platform](https://jobr.pro/job/31389328/senior-machine-learning-engineer-ml-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bay Area, CA, United States of America | On Site | Oct 30 |
 | **[Lucid Motors](https://lucidmotors.com/)** | **[Sr. Machine Learning Engineer, Autonomous Driving & Parking](https://jobr.pro/job/31378526/sr-machine-learning-engineer-autonomous-driving-parking?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Southfield, MI | On Site | Oct 30 |
 | **[Abnormal AI](https://abnormal.ai/)** | **[Staff Machine Learning Engineer - Message Security Detection](https://jobr.pro/job/31392492/staff-machine-learning-engineer-message-security-detection?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - Canada | Remote | Oct 30 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern (FeatureStore) - 2025 Summer (BS/MS)](https://jobr.pro/job/31238355/machine-learning-engineer-intern-featurestore-2025-summer-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 29 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern (Training Pre-processing) - 2025 Summer (PhD)](https://jobr.pro/job/31238351/machine-learning-engineer-intern-training-pre-processing-2025-summer-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 29 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern (Training Pre-processing) - 2025 Summer (BS/MS)](https://jobr.pro/job/31238349/machine-learning-engineer-intern-training-pre-processing-2025-summer-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 29 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern (FeatureStore) - 2025 Summer (PhD)](https://jobr.pro/job/31238347/machine-learning-engineer-intern-featurestore-2025-summer-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Oct 29 |
-| **[Emerson](https://www.emerson.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31233963/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | PUNE, MAHARASHTRA, India | On Site | Oct 29 |
-| **[Sia](https://www.sia-partners.com)** | **[Machine learning Engineer](https://jobr.pro/job/31241005/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Rotterdam, Netherlands | On Site | Oct 29 |
-| **[Bertelsmann](https://www.bertelsmann.com/)** | **[Machine Learning Engineer - AI](https://jobr.pro/job/31210951/machine-learning-engineer-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Morrisville, NC, US, 27560 | On Site | Oct 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 37 companies | Avg salary: 284k  
+**Current Stats:** 50 jobs | 38% remote | 39 companies | Avg salary: 304k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
