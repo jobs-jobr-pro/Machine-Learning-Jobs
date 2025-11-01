@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Oct 31, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 01, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -17,11 +17,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[BJAK](https://bjak.my/)** | **[Machine Learning Engineer (LLM)](https://jobr.pro/job/31384035/machine-learning-engineer-llm?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United Kingdom | Remote | Oct 31 |
 | **[C3.ai](https://c3.ai/)** | **[Machine Learning Engineer / Senior Machine Learning Engineer](https://jobr.pro/job/31379693/machine-learning-engineer-senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Redwood City, CA | On Site | Oct 31 |
 | **[Cepal Hellas Financial Services S.A.](https://www.cepal.gr)** | **[Machine Learning Engineer](https://jobr.pro/job/31413975/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Nea Smyrni, Attica, Greece | On Site | Oct 31 |
-| **[Elanco](https://www.elanco.com/)** | **[Lead Machine learning engineer](https://jobr.pro/job/31434850/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IN - Bangalore, India | On Site | Oct 31 |
-| **[Fiserv](https://www.fiserv.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/31438074/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale, California, United States | On Site | Oct 31 |
 | **[Zendesk](https://www.zendesk.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/31447390/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Estonia - Tallinn - Office | Remote | Oct 31 |
-| **[Netflix](https://www.netflix.com/)** | **[Machine Learning Engineer, AI for Member Systems](https://jobr.pro/job/31448225/machine-learning-engineer-ai-for-member-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - Remote, United States | Remote | Oct 31 |
+| **[Fiserv](https://www.fiserv.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/31438074/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale, California, United States | On Site | Oct 31 |
 | **[Amgen](https://www.amgen.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/31448560/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | India - Hyderabad | On Site | Oct 31 |
+| **[Elanco](https://www.elanco.com/)** | **[Lead Machine learning engineer](https://jobr.pro/job/31434850/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IN - Bangalore, India | On Site | Oct 31 |
+| **[Netflix](https://www.netflix.com/)** | **[Machine Learning Engineer, AI for Member Systems](https://jobr.pro/job/31448225/machine-learning-engineer-ai-for-member-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - Remote, United States | Remote | Oct 31 |
 | **[Block](https://block.xyz/)** | **[Senior Machine Learning Engineer, ML Platform](https://jobr.pro/job/31389328/senior-machine-learning-engineer-ml-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bay Area, CA, United States of America | On Site | Oct 30 |
 | **[Lucid Motors](https://lucidmotors.com/)** | **[Sr. Machine Learning Engineer, Autonomous Driving & Parking](https://jobr.pro/job/31378526/sr-machine-learning-engineer-autonomous-driving-parking?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Southfield, MI | On Site | Oct 30 |
 | **[Abnormal AI](https://abnormal.ai/)** | **[Staff Machine Learning Engineer - Message Security Detection](https://jobr.pro/job/31392492/staff-machine-learning-engineer-message-security-detection?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - Canada | Remote | Oct 30 |
