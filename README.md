@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 03, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 03, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -16,6 +16,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Coupang](https://www.coupang.jobs/)** | **[Senior Staff Machine Learning Engineer (Ads Tech)](https://jobr.pro/job/31539946/senior-staff-machine-learning-engineer-ads-tech?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, USA | On Site | Nov 03 |
 | **[Bosch Group](https://www.bosch.com)** | **[\[EDS\] Intern - AI and Machine Learning Engineer](https://jobr.pro/job/31538120/eds-intern-ai-and-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tân Bình, Hồ Chí Minh, Vietnam | On Site | Nov 03 |
 | **[Financial Ombudsman Service](https://www.financial-ombudsman.org.uk/)** | **[Machine Learning Engineer](https://jobr.pro/job/31549029/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London - Exchange Tower, United Kingdom | On Site | Nov 03 |
+| **[GE HealthCare](https://www.gehealthcare.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/31572778/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote, United Kingdom | Remote | Nov 03 |
+| **[PayPal](https://www.paypal.com/)** | **[Staff Machine Learning Engineer, AI Labs](https://jobr.pro/job/31583116/staff-machine-learning-engineer-ai-labs?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - California - San Jose - Corp - N First St, United States | On Site | Nov 03 |
 | **[Postcode Lottery Group](https://www.postcodelotterygroup.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31567500/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Amsterdam | On Site | Nov 02 |
 | **[Match Group](https://mtch.com/)** | **[Staff Machine Learning Engineer, Growth](https://jobr.pro/job/31537216/staff-machine-learning-engineer-growth?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, New York | On Site | Nov 02 |
 | **[Filevine](https://www.filevine.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31536810/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Prague | On Site | Nov 02 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[BJAK](https://bjak.my/)** | **[머신러닝 엔지니어 (확산 모델 / 비전) Machine Learning Engineer (Diffusion/Vision)](https://jobr.pro/job/31294905/-machine-learning-engineer-diffusionvision?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seoul, Korea | Remote | Oct 30 |
 | **[BJAK](https://bjak.my/)** | **[머신러닝 엔지니어 (LLM) Machine Learning Engineer (LLM)](https://jobr.pro/job/31294901/-llm-machine-learning-engineer-llm?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seoul, Korea | Remote | Oct 30 |
 | **[BJAK](https://bjak.my/)** | **[機械学習エンジニア（LLM）Machine Learning Engineer (LLM)](https://jobr.pro/job/31294894/llmmachine-learning-engineer-llm?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tokyo, Japan | Remote | Oct 30 |
-| **[moomoo](https://www.moomoo.com/)** | **[Fresh Grad Hire - Machine Learning Engineer (Large Model Applications)](https://jobr.pro/job/31321282/fresh-grad-hire-machine-learning-engineer-large-model-applications?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Shenzhen, Guangdong Province, China | On Site | Oct 30 |
-| **[Recursion](https://www.recursion.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/31286272/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, New York; Salt Lake City, Utah | On Site | Oct 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 44 companies | Avg salary: 265k  
+**Current Stats:** 50 jobs | 36% remote | 44 companies | Avg salary: 270k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
