@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 03, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 04, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Xiaomi](https://www.xiaomi.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31588506/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 新加坡 | On Site | Nov 03 |
 | **[Coupang](https://www.coupang.jobs/)** | **[Senior Staff Machine Learning Engineer (Ads Tech)](https://jobr.pro/job/31539946/senior-staff-machine-learning-engineer-ads-tech?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, USA | On Site | Nov 03 |
 | **[Bosch Group](https://www.bosch.com)** | **[\[EDS\] Intern - AI and Machine Learning Engineer](https://jobr.pro/job/31538120/eds-intern-ai-and-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tân Bình, Hồ Chí Minh, Vietnam | On Site | Nov 03 |
 | **[Financial Ombudsman Service](https://www.financial-ombudsman.org.uk/)** | **[Machine Learning Engineer](https://jobr.pro/job/31549029/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London - Exchange Tower, United Kingdom | On Site | Nov 03 |
@@ -22,7 +23,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Match Group](https://mtch.com/)** | **[Staff Machine Learning Engineer, Growth](https://jobr.pro/job/31537216/staff-machine-learning-engineer-growth?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, New York | On Site | Nov 02 |
 | **[Filevine](https://www.filevine.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31536810/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Prague | On Site | Nov 02 |
 | **[Zoox](https://zoox.com/)** | **[Senior/Staff Software Engineer - Learned Trajectory Machine Learning Engineer](https://jobr.pro/job/31535493/seniorstaff-software-engineer-learned-trajectory-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA | On Site | Nov 02 |
-| **[Xiaomi](https://www.xiaomi.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31520716/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 新加坡 | On Site | Nov 01 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - E-commerce Merchant Growth (LLM & Agentic Systems)](https://jobr.pro/job/31493338/machine-learning-engineer-e-commerce-merchant-growth-llm-agentic-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Nov 01 |
 | **[Dell Technologies](https://www.delltechnologies.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31507714/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Nov 01 |
 | **[Zendesk](https://www.zendesk.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/31515765/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Estonia - Tallinn - Office | Remote | Nov 01 |
