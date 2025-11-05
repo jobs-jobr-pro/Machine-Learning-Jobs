@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 04, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 05, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -19,6 +19,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[MaintainX](https://www.getmaintainx.com)** | **[Senior Applied Machine Learning Engineer - Predictive Maintenance](https://jobr.pro/job/31600211/senior-applied-machine-learning-engineer-predictive-maintenance?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Montreal, Toronto, San Francisco | On Site | Nov 04 |
 | **[Braze](https://www.braze.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/31607000/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Toronto | On Site | Nov 04 |
 | **[GCash](https://www.gcash.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/31649518/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | NCR - WGC, Philippines | On Site | Nov 04 |
+| **[Thomson Reuters](https://www.thomsonreuters.com/)** | **[Sr. Machine Learning Engineer](https://jobr.pro/job/31690735/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | MEX-Distrito Federal-Reforma 26, Mexico | On Site | Nov 04 |
 | **[Anthropic](https://www.anthropic.com/)** | **[Staff Machine Learning Engineer, Virtual Collaborator](https://jobr.pro/job/31601710/staff-machine-learning-engineer-virtual-collaborator?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | Nov 03 |
 | **[Waymo](https://waymo.com/)** | **[Machine Learning Engineer, Runtime & Optimization](https://jobr.pro/job/31611664/machine-learning-engineer-runtime-optimization?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, California, USA | On Site | Nov 03 |
 | **[Wayve](https://wayve.ai/)** | **[Machine Learning Engineer - Pre-Training](https://jobr.pro/job/31601440/machine-learning-engineer-pre-training?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London | On Site | Nov 03 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Fiserv](https://www.fiserv.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/31438074/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale, California, United States | On Site | Oct 31 |
 | **[Elanco](https://www.elanco.com/)** | **[Lead Machine learning engineer](https://jobr.pro/job/31434850/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IN - Bangalore, India | On Site | Oct 31 |
 | **[Cepal Hellas Financial Services S.A.](https://www.cepal.gr)** | **[Machine Learning Engineer](https://jobr.pro/job/31413975/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Nea Smyrni, Attica, Greece | On Site | Oct 31 |
-| **[Netflix](https://www.netflix.com/)** | **[Machine Learning Engineer, AI for Member Systems](https://jobr.pro/job/31448225/machine-learning-engineer-ai-for-member-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - Remote, United States | Remote | Oct 31 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 49 companies | Avg salary: 277k  
+**Current Stats:** 50 jobs | 22% remote | 49 companies | Avg salary: 253k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
