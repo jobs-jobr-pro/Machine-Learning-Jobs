@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 05, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 06, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -22,6 +22,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Coinbase](https://www.coinbase.com/)** | **[Senior Staff Machine Learning Engineer - Risk AI/ML](https://jobr.pro/job/31702826/senior-staff-machine-learning-engineer-risk-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - Canada | Remote | Nov 05 |
 | **[Red Hat](https://www.redhat.com/)** | **[Senior Principal Machine Learning Engineer - Data & AI Platform (London Office, United Kingdom)](https://jobr.pro/job/31762940/senior-principal-machine-learning-engineer-data-ai-platform-london-office-united-kingdom?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London - New, United Kingdom | Remote | Nov 05 |
 | **[Viridien](https://www.viridiengroup.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31780742/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | SGP-Singapore | On Site | Nov 05 |
+| **[Clarios](https://www.clarios.com/)** | **[Machine Learning Engineer - Technical Lead](https://jobr.pro/job/31788456/machine-learning-engineer-technical-lead?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Florist Tower HQ Glendale, United States | Remote | Nov 05 |
 | **[Rice University](https://www.rice.edu/)** | **[Senior Associate, Machine Learning Engineer](https://jobr.pro/job/31756369/senior-associate-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Houston, TX, United States | On Site | Nov 04 |
 | **[Factored](https://www.factored.ai/)** | **[Become a Machine Learning Engineer, Generative AI & LLMs Expert](https://jobr.pro/job/31710357/become-a-machine-learning-engineer-generative-ai-llms-expert?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Latin America | On Site | Nov 04 |
 | **[NEORIS](https://www.neoris.com)** | **[Machine Learning Engineer – GenAI Projects (Senior)](https://jobr.pro/job/31703037/machine-learning-engineer-genai-projects-senior?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Madrid, Spain | On Site | Nov 04 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Dell Technologies](https://www.delltechnologies.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31507714/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Nov 01 |
 | **[Zendesk](https://www.zendesk.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/31515763/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Australia - Melbourne - Office | On Site | Nov 01 |
 | **[Cognitiv](https://cognitiv.ai/)** | **[Machine Learning Engineer](https://jobr.pro/job/31459468/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bellevue, WA | On Site | Oct 31 |
-| **[Reddit](https://www.redditinc.com/)** | **[Senior Machine Learning Engineer, Dev Platform Data and Discovery](https://jobr.pro/job/31460299/senior-machine-learning-engineer-dev-platform-data-and-discovery?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - United States | Remote | Oct 31 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 49 companies | Avg salary: 256k  
+**Current Stats:** 50 jobs | 22% remote | 49 companies | Avg salary: 248k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
