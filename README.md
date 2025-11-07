@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 07, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 07, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer (LLM)- E-commerce Risk Control](https://jobr.pro/job/31923715/machine-learning-engineer-llm-e-commerce-risk-control?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Nov 07 |
 | **[Launch Potato](https://launchpotato.com/)** | **[Principal Machine Learning Engineer, Ad Performance](https://jobr.pro/job/31884074/principal-machine-learning-engineer-ad-performance?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Halifax, Canada (remote) | Remote | Nov 07 |
 | **[Launch Potato](https://launchpotato.com/)** | **[Principal Machine Learning Engineer, Recommendation Systems](https://jobr.pro/job/31884290/principal-machine-learning-engineer-recommendation-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Victoria, Canada (remote) | Remote | Nov 07 |
 | **[Anduril](https://www.anduril.com/)** | **[Senior Machine Learning Engineer, Sentry Tower](https://jobr.pro/job/31896308/senior-machine-learning-engineer-sentry-tower?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Irvine, California, United States | On Site | Nov 07 |
@@ -20,6 +21,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Woven by Toyota](https://woven.toyota/)** | **[Senior/Staff Machine Learning Engineer, Behavior Planning & Prediction](https://jobr.pro/job/31883761/seniorstaff-machine-learning-engineer-behavior-planning-prediction?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tokyo | On Site | Nov 07 |
 | **[Outschool](https://outschool.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31883498/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco (Hybrid) | Remote | Nov 07 |
 | **[SAP](https://www.sap.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31896732/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, IN, 560066 | On Site | Nov 07 |
+| **[Weekday](https://www.weekday.works)** | **[Machine Learning Engineer](https://jobr.pro/job/31932243/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 07 |
 | **[Medal](https://medal.tv/)** | **[Senior Machine Learning Engineer / Researcher (NYC)](https://jobr.pro/job/31890271/senior-machine-learning-engineer-researcher-nyc?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York City | On Site | Nov 06 |
 | **[Medal](https://medal.tv/)** | **[Senior Machine Learning Engineer / Researcher (SF)](https://jobr.pro/job/31890270/senior-machine-learning-engineer-researcher-sf?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco | On Site | Nov 06 |
 | **[Liftoff](https://liftoff.io/)** | **[Staff Machine Learning Engineer, Auction Intelligence](https://jobr.pro/job/31883865/staff-machine-learning-engineer-auction-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Beijing | On Site | Nov 06 |
@@ -36,7 +38,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 20 jobs | 30% remote | 15 companies | Avg salary: 342k  
+**Current Stats:** 22 jobs | 27% remote | 17 companies | Avg salary: 342k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
