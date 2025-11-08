@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 08, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 08, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -23,6 +23,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Outschool](https://outschool.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31883498/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco (Hybrid) | Remote | Nov 07 |
 | **[SAP](https://www.sap.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31896732/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, IN, 560066 | On Site | Nov 07 |
 | **[Weekday](https://www.weekday.works)** | **[Machine Learning Engineer](https://jobr.pro/job/31932243/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, Karnataka, India | On Site | Nov 07 |
+| **[Yahoo](https://www.yahooinc.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31968661/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | US - United States of America | On Site | Nov 07 |
+| **[Amazon.com](https://www.amazon.com/)** | **[Machine Learning Engineer II, Special Projects](https://jobr.pro/job/31975972/machine-learning-engineer-ii-special-projects?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, USA | On Site | Nov 07 |
 | **[Medal](https://medal.tv/)** | **[Senior Machine Learning Engineer / Researcher (NYC)](https://jobr.pro/job/31890271/senior-machine-learning-engineer-researcher-nyc?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York City | On Site | Nov 06 |
 | **[Medal](https://medal.tv/)** | **[Senior Machine Learning Engineer / Researcher (SF)](https://jobr.pro/job/31890270/senior-machine-learning-engineer-researcher-sf?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco | On Site | Nov 06 |
 | **[Liftoff](https://liftoff.io/)** | **[Staff Machine Learning Engineer, Auction Intelligence](https://jobr.pro/job/31883865/staff-machine-learning-engineer-auction-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Beijing | On Site | Nov 06 |
@@ -39,7 +41,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 23 jobs | 26% remote | 18 companies | Avg salary: 342k  
+**Current Stats:** 25 jobs | 24% remote | 20 companies | Avg salary: 321k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
