@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 08, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 08, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -14,6 +14,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31968443/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 新加坡 | On Site | Nov 07 |
+| **[Airbnb](https://www.airbnb.com/)** | **[Senior Machine Learning Engineer, Automation Platform](https://jobr.pro/job/31986451/senior-machine-learning-engineer-automation-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote-USA | Remote | Nov 07 |
+| **[GoFundMe](https://www.gofundme.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/31985354/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Buenos Aires, Argentina | On Site | Nov 07 |
+| **[Spotify](https://spotifyjobs.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/31978323/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, NY | On Site | Nov 07 |
+| **[Exadel](https://exadel.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31983184/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bulgaria, Lithuania, Poland, Romania | On Site | Nov 07 |
+| **[Caylent](https://caylent.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/31983046/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | MEXICO | Remote | Nov 07 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer (LLM)- E-commerce Risk Control](https://jobr.pro/job/31923715/machine-learning-engineer-llm-e-commerce-risk-control?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Nov 07 |
 | **[Launch Potato](https://launchpotato.com/)** | **[Principal Machine Learning Engineer, Ad Performance](https://jobr.pro/job/31884074/principal-machine-learning-engineer-ad-performance?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Halifax, Canada (remote) | Remote | Nov 07 |
 | **[Launch Potato](https://launchpotato.com/)** | **[Principal Machine Learning Engineer, Recommendation Systems](https://jobr.pro/job/31884290/principal-machine-learning-engineer-recommendation-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Victoria, Canada (remote) | Remote | Nov 07 |
@@ -41,7 +46,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 25 jobs | 24% remote | 20 companies | Avg salary: 321k  
+**Current Stats:** 30 jobs | 27% remote | 25 companies | Avg salary: 298k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
