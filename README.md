@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 10, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 10, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -18,6 +18,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Grab](https://www.grab.com)** | **[Machine Learning Engineer (Fulfilment ETA)](https://jobr.pro/job/32054319/machine-learning-engineer-fulfilment-eta?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Beijing, China | On Site | Nov 10 |
 | **[MoneyLion](https://www.moneylion.com)** | **[Machine Learning Engineer](https://jobr.pro/job/32054812/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Kuala Lumpur, Kuala Lumpur, Malaysia | On Site | Nov 10 |
 | **[Atlassian](https://www.atlassian.com/)** | **[Machine Learning Engineer II](https://jobr.pro/job/32066091/machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - India - Remote; Remote - Remote | Remote | Nov 10 |
+| **[Viridien](https://www.viridiengroup.com/)** | **[Machine Learning Engineer Intern](https://jobr.pro/job/32091025/machine-learning-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | GBR-Crawley Crompton Way, United Kingdom | On Site | Nov 10 |
+| **[Hiscox](https://www.hiscoxgroup.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32102030/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | York, United Kingdom | On Site | Nov 10 |
+| **[PayPal](https://www.paypal.com/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/32102827/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - Illinois - Chicago - Corp - W Merchandise Mart Plaza, United States | On Site | Nov 10 |
+| **[PayPal](https://www.paypal.com/)** | **[Sr Machine Learning Engineer](https://jobr.pro/job/32102825/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - Illinois - Chicago - Corp - W Merchandise Mart Plaza, United States | On Site | Nov 10 |
 | **[Woven by Toyota](https://woven.toyota/)** | **[Machine Learning Engineer - Perception, Odometry and Localization](https://jobr.pro/job/32050685/machine-learning-engineer-perception-odometry-and-localization?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Palo Alto, CA | On Site | Nov 09 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31968443/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 新加坡 | On Site | Nov 07 |
 | **[Airbnb](https://www.airbnb.com/)** | **[Senior Machine Learning Engineer, Automation Platform](https://jobr.pro/job/31986451/senior-machine-learning-engineer-automation-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote-USA | Remote | Nov 07 |
@@ -43,14 +47,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Liftoff](https://liftoff.io/)** | **[Staff Machine Learning Engineer, Auction Intelligence](https://jobr.pro/job/31883865/staff-machine-learning-engineer-auction-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Beijing | On Site | Nov 06 |
 | **[Zscaler](https://www.zscaler.com/careers)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/31883683/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, USA | On Site | Nov 06 |
 | **[Reddit](https://www.redditinc.com/)** | **[Senior Staff Machine Learning Engineer, Feed Relevance](https://jobr.pro/job/31888329/senior-staff-machine-learning-engineer-feed-relevance?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - United States | Remote | Nov 06 |
-| **[Pinterest](https://www.pinterest.com/)** | **[Staff Machine Learning Engineer, User Understanding](https://jobr.pro/job/31886050/staff-machine-learning-engineer-user-understanding?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA, US; Remote, US | Remote | Nov 06 |
-| **[Cirrus Logic](https://www.cirrus.com/)** | **[Machine Learning Engineer (AI/ML)](https://jobr.pro/job/31897669/machine-learning-engineer-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Austin, Texas | On Site | Nov 06 |
-| **[The Rank Group plc](https://www.rank.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31879269/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, England, United Kingdom | On Site | Nov 06 |
-| **[Faculty](https://faculty.ai)** | **[Machine Learning Engineer](https://jobr.pro/job/31891266/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London - Hybrid | On Site | Nov 06 |
 
 ---
 
-**Current Stats:** 34 jobs | 24% remote | 28 companies | Avg salary: 272k  
+**Current Stats:** 34 jobs | 21% remote | 28 companies | Avg salary: 265k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
