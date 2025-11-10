@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 10, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 10, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[TikTok](https://www.tiktok.com/)** | **[Tech Lead, Machine Learning Engineer, TikTok Search Ranking (NLP, Ranking, Relevance, Understanding, User Engagement,LLM))](https://jobr.pro/job/32068921/tech-lead-machine-learning-engineer-tiktok-search-ranking-nlp-ranking-relevance-understanding-user-engagementllm?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Nov 10 |
+| **[Fortnox](https://www.fortnox.se/)** | **[Machine Learning Engineer](https://jobr.pro/job/32070420/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Växjö, Sweden | On Site | Nov 10 |
 | **[Grab](https://www.grab.com)** | **[Machine Learning Engineer (Fulfilment ETA)](https://jobr.pro/job/32054319/machine-learning-engineer-fulfilment-eta?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Beijing, China | On Site | Nov 10 |
 | **[MoneyLion](https://www.moneylion.com)** | **[Machine Learning Engineer](https://jobr.pro/job/32054812/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Kuala Lumpur, Kuala Lumpur, Malaysia | On Site | Nov 10 |
 | **[Atlassian](https://www.atlassian.com/)** | **[Machine Learning Engineer II](https://jobr.pro/job/32066091/machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - India - Remote; Remote - Remote | Remote | Nov 10 |
@@ -45,8 +47,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Cirrus Logic](https://www.cirrus.com/)** | **[Machine Learning Engineer (AI/ML)](https://jobr.pro/job/31897669/machine-learning-engineer-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Austin, Texas | On Site | Nov 06 |
 | **[The Rank Group plc](https://www.rank.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31879269/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, England, United Kingdom | On Site | Nov 06 |
 | **[Faculty](https://faculty.ai)** | **[Machine Learning Engineer](https://jobr.pro/job/31891266/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London - Hybrid | On Site | Nov 06 |
-| **[Faculty](https://faculty.ai)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/31891269/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London - Hybrid | On Site | Nov 06 |
-| **[Veo](https://www.veo.co)** | **[Student Worker - Machine Learning Engineer](https://jobr.pro/job/31885877/student-worker-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Copenhagen | On Site | Nov 06 |
 
 ---
 
