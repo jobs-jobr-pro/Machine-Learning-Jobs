@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 10, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 10, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -15,6 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Grab](https://www.grab.com)** | **[Machine Learning Engineer (Fulfilment ETA)](https://jobr.pro/job/32054319/machine-learning-engineer-fulfilment-eta?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Beijing, China | On Site | Nov 10 |
 | **[MoneyLion](https://www.moneylion.com)** | **[Machine Learning Engineer](https://jobr.pro/job/32054812/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Kuala Lumpur, Kuala Lumpur, Malaysia | On Site | Nov 10 |
+| **[Atlassian](https://www.atlassian.com/)** | **[Machine Learning Engineer II](https://jobr.pro/job/32066091/machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - India - Remote; Remote - Remote | Remote | Nov 10 |
 | **[Woven by Toyota](https://woven.toyota/)** | **[Machine Learning Engineer - Perception, Odometry and Localization](https://jobr.pro/job/32050685/machine-learning-engineer-perception-odometry-and-localization?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Palo Alto, CA | On Site | Nov 09 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31968443/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 新加坡 | On Site | Nov 07 |
 | **[Airbnb](https://www.airbnb.com/)** | **[Senior Machine Learning Engineer, Automation Platform](https://jobr.pro/job/31986451/senior-machine-learning-engineer-automation-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote-USA | Remote | Nov 07 |
@@ -49,7 +50,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 33 jobs | 21% remote | 27 companies | Avg salary: 272k  
+**Current Stats:** 34 jobs | 24% remote | 28 companies | Avg salary: 272k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
