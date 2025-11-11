@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 11, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 11, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,11 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[小米科技](https://www.mi.com/)** | **[Machine Learning Engineer Intern](https://jobr.pro/job/32222746/machine-learning-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 新加坡 | On Site | Nov 11 |
 | **[Docplanner](https://www.docplanner.com)** | **[Senior Machine Learning Engineer (100% remote-friendly within Poland)](https://jobr.pro/job/32188205/senior-machine-learning-engineer-100-remote-friendly-within-poland?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Warsaw, Masovian Voivodeship, Poland | Remote | Nov 11 |
 | **[Docplanner](https://www.docplanner.com)** | **[Senior Machine Learning Engineer (100% remote-friendly within Spain)](https://jobr.pro/job/32188212/senior-machine-learning-engineer-100-remote-friendly-within-spain?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Barcelona, CT, Spain | Remote | Nov 11 |
 | **[MYOB](https://www.myob.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/32142042/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sydney, Australia | On Site | Nov 11 |
-| **[Medtronic](https://www.medtronic.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/32198766/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IND-MH Pune Viman Nagar, India | On Site | Nov 11 |
 | **[Dell Technologies](https://www.delltechnologies.com/)** | **[Senior Machine Learning Engineer-AI, ML & Python, PyTorch](https://jobr.pro/job/32206809/senior-machine-learning-engineer-ai-ml-python-pytorch?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, India | On Site | Nov 11 |
+| **[Medtronic](https://www.medtronic.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/32198766/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IND-MH Pune Viman Nagar, India | On Site | Nov 11 |
+| **[PayPal](https://www.paypal.com/)** | **[Sr Machine Learning Engineer](https://jobr.pro/job/32228853/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | CHN - Shanghai - Corp - Dongfang Rd, China | On Site | Nov 11 |
 | **[Freeform](https://freeform.co/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/32155989/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Los Angeles, CA (On-site) | On Site | Nov 10 |
 | **[Affinity](https://www.affinity.co/)** | **[Senior Machine Learning Engineer, AI Insights](https://jobr.pro/job/32143686/senior-machine-learning-engineer-ai-insights?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, NY; San Francisco, CA; USA (Remote) | Remote | Nov 10 |
 | **[Nearmap](https://www.nearmap.com)** | **[Machine Learning Engineer - Agentic AI](https://jobr.pro/job/32125203/machine-learning-engineer-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Barangaroo, NSW, Australia | On Site | Nov 10 |
@@ -35,7 +37,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Viridien](https://www.viridiengroup.com/)** | **[Machine Learning Engineer Intern](https://jobr.pro/job/32091025/machine-learning-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | GBR-Crawley Crompton Way, United Kingdom | On Site | Nov 10 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32102030/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | York, United Kingdom | On Site | Nov 10 |
 | **[PayPal](https://www.paypal.com/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/32102827/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - Illinois - Chicago - Corp - W Merchandise Mart Plaza, United States | On Site | Nov 10 |
-| **[PayPal](https://www.paypal.com/)** | **[Sr Machine Learning Engineer](https://jobr.pro/job/32102825/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - Illinois - Chicago - Corp - W Merchandise Mart Plaza, United States | On Site | Nov 10 |
 | **[Woven by Toyota](https://woven.toyota/)** | **[Machine Learning Engineer - Perception, Odometry and Localization](https://jobr.pro/job/32050685/machine-learning-engineer-perception-odometry-and-localization?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Palo Alto, CA | On Site | Nov 09 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31968443/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 新加坡 | On Site | Nov 07 |
 | **[Airbnb](https://www.airbnb.com/)** | **[Senior Machine Learning Engineer, Automation Platform](https://jobr.pro/job/31986451/senior-machine-learning-engineer-automation-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote-USA | Remote | Nov 07 |
@@ -51,7 +52,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 35 jobs | 23% remote | 29 companies | Avg salary: 201k  
+**Current Stats:** 36 jobs | 22% remote | 30 companies | Avg salary: 197k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
