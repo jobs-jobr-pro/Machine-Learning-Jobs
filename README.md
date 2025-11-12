@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 12, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 12, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,11 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Xiaomi](https://www.xiaomi.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32318756/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 新加坡 | On Site | Nov 12 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Ads Ranking - USDS](https://jobr.pro/job/32278602/machine-learning-engineer-ads-ranking-usds?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Nov 12 |
 | **[MaintainX](https://www.getmaintainx.com)** | **[Machine Learning Engineer, Predictive Maintenance](https://jobr.pro/job/32253164/machine-learning-engineer-predictive-maintenance?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Montreal, Toronto | On Site | Nov 12 |
 | **[DoorDash](https://www.doordash.com/)** | **[Staff Machine Learning Engineer - Ads Economics](https://jobr.pro/job/32248059/staff-machine-learning-engineer-ads-economics?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA; Sunnyvale, CA | On Site | Nov 12 |
 | **[DoorDash](https://www.doordash.com/)** | **[Machine Learning Engineer, Ads Economics](https://jobr.pro/job/32248058/machine-learning-engineer-ads-economics?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA; Sunnyvale, CA | On Site | Nov 12 |
 | **[Capital One](https://www.capitalonecareers.com/)** | **[Senior Distinguished Machine Learning Engineer](https://jobr.pro/job/32277528/senior-distinguished-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, In, India | On Site | Nov 12 |
+| **[athenahealth](https://www.athenahealth.com/)** | **[Senior Machine Learning Engineer – Clinical Foundations](https://jobr.pro/job/32318664/senior-machine-learning-engineer-clinical-foundations?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boston MA, United States | On Site | Nov 12 |
 | **[XPeng Motors](https://www.heyxpeng.com/)** | **[Senior Staff Machine Learning Engineer - Foundation Model](https://jobr.pro/job/32245748/senior-staff-machine-learning-engineer-foundation-model?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CA | On Site | Nov 11 |
 | **[小米科技](https://www.mi.com/)** | **[Machine Learning Engineer Intern](https://jobr.pro/job/32222746/machine-learning-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 新加坡 | On Site | Nov 11 |
 | **[Reddit](https://www.redditinc.com/)** | **[Staff Machine Learning Engineer, ML Platform](https://jobr.pro/job/32244534/staff-machine-learning-engineer-ml-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - United States | Remote | Nov 11 |
@@ -48,7 +50,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32102030/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | York, United Kingdom | On Site | Nov 10 |
 | **[PayPal](https://www.paypal.com/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/32102827/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - Illinois - Chicago - Corp - W Merchandise Mart Plaza, United States | On Site | Nov 10 |
 | **[Woven by Toyota](https://woven.toyota/)** | **[Machine Learning Engineer - Perception, Odometry and Localization](https://jobr.pro/job/32050685/machine-learning-engineer-perception-odometry-and-localization?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Palo Alto, CA | On Site | Nov 09 |
-| **[Xiaomi](https://www.xiaomi.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/31968443/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 新加坡 | On Site | Nov 07 |
 | **[Airbnb](https://www.airbnb.com/)** | **[Senior Machine Learning Engineer, Automation Platform](https://jobr.pro/job/31986451/senior-machine-learning-engineer-automation-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote-USA | Remote | Nov 07 |
 | **[GoFundMe](https://www.gofundme.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/31985354/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Buenos Aires, Argentina | On Site | Nov 07 |
 | **[Spotify](https://spotifyjobs.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/31978323/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, NY | On Site | Nov 07 |
@@ -62,7 +63,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 46 jobs | 24% remote | 38 companies | Avg salary: 238k  
+**Current Stats:** 47 jobs | 23% remote | 39 companies | Avg salary: 239k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
