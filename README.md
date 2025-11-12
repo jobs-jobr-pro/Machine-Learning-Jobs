@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 12, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 12, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Ads Ranking - USDS](https://jobr.pro/job/32278602/machine-learning-engineer-ads-ranking-usds?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Nov 12 |
 | **[MaintainX](https://www.getmaintainx.com)** | **[Machine Learning Engineer, Predictive Maintenance](https://jobr.pro/job/32253164/machine-learning-engineer-predictive-maintenance?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Montreal, Toronto | On Site | Nov 12 |
 | **[DoorDash](https://www.doordash.com/)** | **[Staff Machine Learning Engineer - Ads Economics](https://jobr.pro/job/32248059/staff-machine-learning-engineer-ads-economics?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA; Sunnyvale, CA | On Site | Nov 12 |
 | **[DoorDash](https://www.doordash.com/)** | **[Machine Learning Engineer, Ads Economics](https://jobr.pro/job/32248058/machine-learning-engineer-ads-economics?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA; Sunnyvale, CA | On Site | Nov 12 |
@@ -61,7 +62,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 45 jobs | 24% remote | 38 companies | Avg salary: 238k  
+**Current Stats:** 46 jobs | 24% remote | 38 companies | Avg salary: 238k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
