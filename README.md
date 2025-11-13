@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 13, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 13, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -16,6 +16,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Google](https://www.google.com/)** | **[Senior Machine Learning Engineer, GenAI, Google Cloud](https://jobr.pro/job/32369093/senior-machine-learning-engineer-genai-google-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Warsaw, Poland | On Site | Nov 13 |
 | **[Continua](https://www.continua.ai/)** | **[Machine Learning Engineer](https://jobr.pro/job/32339227/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, WA | Remote | Nov 13 |
 | **[Prometeia](https://www.prometeia.com/)** | **[Senior Data Scientist / Machine Learning Engineer](https://jobr.pro/job/32364812/senior-data-scientist-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Istanbul, Türkiye | On Site | Nov 13 |
+| **[SmartAssets](https://www.smartassets.ai/)** | **[AI Engineer / Machine Learning Engineer](https://jobr.pro/job/32386799/ai-engineer-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Barcelona, Catalonia, Spain | On Site | Nov 13 |
 | **[Niche](https://www.niche.com/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/32341975/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Nov 12 |
 | **[Bot Auto](https://bot.auto/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/32339617/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Houston, TX preferred, open to remote | Remote | Nov 12 |
 | **[Moveworks](https://www.moveworks.com/)** | **[Sr. Machine Learning Engineer, GAI Search Platform](https://jobr.pro/job/32332280/sr-machine-learning-engineer-gai-search-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA | On Site | Nov 12 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Fortnox](https://www.fortnox.se/)** | **[Machine Learning Engineer](https://jobr.pro/job/32070420/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Växjö, Sweden | On Site | Nov 10 |
 | **[Grab](https://www.grab.com)** | **[Machine Learning Engineer (Fulfilment ETA)](https://jobr.pro/job/32054319/machine-learning-engineer-fulfilment-eta?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Beijing, China | On Site | Nov 10 |
 | **[MoneyLion](https://www.moneylion.com)** | **[Machine Learning Engineer](https://jobr.pro/job/32054812/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Kuala Lumpur, Kuala Lumpur, Malaysia | On Site | Nov 10 |
-| **[Viridien](https://www.viridiengroup.com/)** | **[Machine Learning Engineer Intern](https://jobr.pro/job/32091025/machine-learning-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | GBR-Crawley Crompton Way, United Kingdom | On Site | Nov 10 |
 
 ---
 
