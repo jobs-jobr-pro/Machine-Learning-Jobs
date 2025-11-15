@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 15, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 15, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -17,6 +17,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[XPeng Motors](https://www.heyxpeng.com/)** | **[Staff Machine Learning Engineer - AI Foundation](https://jobr.pro/job/32422931/staff-machine-learning-engineer-ai-foundation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CA | On Site | Nov 14 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32503074/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lisbon, Portugal | On Site | Nov 14 |
 | **[Saxo Bank](https://www.home.saxo/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/32504556/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Headquarters, Denmark | On Site | Nov 14 |
+| **[Manulife](https://www.manulife.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32506805/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA, Massachusetts, Boston, 200 Berkeley Street, United States | On Site | Nov 14 |
 | **[Exadel](https://exadel.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/32424966/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bulgaria | On Site | Nov 13 |
 | **[Zoox](https://zoox.com/)** | **[Senior Machine Learning Engineer, Autonomy Validation](https://jobr.pro/job/32426391/senior-machine-learning-engineer-autonomy-validation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA | On Site | Nov 13 |
 | **[Experian](https://www.experian.com/)** | **[Machine Learning Engineer, MLOps Engineer (Remote)](https://jobr.pro/job/32418836/machine-learning-engineer-mlops-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | UNITED STATES, UNITED STATES, United States | Remote | Nov 13 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Docplanner](https://www.docplanner.com)** | **[Senior Machine Learning Engineer (100% remote-friendly within Poland)](https://jobr.pro/job/32188205/senior-machine-learning-engineer-100-remote-friendly-within-poland?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Warsaw, Masovian Voivodeship, Poland | Remote | Nov 11 |
 | **[Docplanner](https://www.docplanner.com)** | **[Senior Machine Learning Engineer (100% remote-friendly within Spain)](https://jobr.pro/job/32188212/senior-machine-learning-engineer-100-remote-friendly-within-spain?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Barcelona, CT, Spain | Remote | Nov 11 |
 | **[MYOB](https://www.myob.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/32142042/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sydney, Australia | On Site | Nov 11 |
-| **[PayPal](https://www.paypal.com/)** | **[Sr Machine Learning Engineer](https://jobr.pro/job/32228853/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | CHN - Shanghai - Corp - Dongfang Rd, China | On Site | Nov 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 40 companies | Avg salary: 252k  
+**Current Stats:** 50 jobs | 34% remote | 40 companies | Avg salary: 248k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
