@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 15, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 15, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -20,6 +20,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Unity](https://unity.com/)** | **[Senior Machine Learning Engineer, AI Authoring](https://jobr.pro/job/32516426/senior-machine-learning-engineer-ai-authoring?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA-Mountain View | On Site | Nov 14 |
 | **[Stripe](https://stripe.com/en-ch)** | **[Machine Learning Engineer, Identity Product](https://jobr.pro/job/32528266/machine-learning-engineer-identity-product?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, Seattle | On Site | Nov 14 |
 | **[Shipwell](https://www.shipwell.com)** | **[Machine Learning Engineer](https://jobr.pro/job/32524856/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Nov 14 |
+| **[Emerson](https://www.emerson.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32552833/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pittsburgh, PA, United States | On Site | Nov 14 |
 | **[VTEX](https://vtex.com/)** | **[Machine Learning Engineer - LLMs](https://jobr.pro/job/32527170/machine-learning-engineer-llms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Brazil | On Site | Nov 14 |
 | **[Wynd Labs](https://www.wyndlabs.ai/)** | **[Machine Learning Engineer](https://jobr.pro/job/32521684/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | On Site | Nov 14 |
 | **[GoCardless](https://gocardless.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32525216/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, UK | On Site | Nov 14 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Reddit](https://www.redditinc.com/)** | **[Senior Machine Learning Engineer, Core Experience and Growth](https://jobr.pro/job/32334976/senior-machine-learning-engineer-core-experience-and-growth?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - United States | Remote | Nov 12 |
 | **[Lyft](https://www.lyft.com/)** | **[Machine Learning Engineer, Mapping](https://jobr.pro/job/32335655/machine-learning-engineer-mapping?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Toronto, Canada | On Site | Nov 12 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Ads Ranking - USDS](https://jobr.pro/job/32278602/machine-learning-engineer-ads-ranking-usds?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Nov 12 |
-| **[MaintainX](https://www.getmaintainx.com)** | **[Machine Learning Engineer, Predictive Maintenance](https://jobr.pro/job/32253164/machine-learning-engineer-predictive-maintenance?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Montreal, Toronto | On Site | Nov 12 |
 
 ---
 
