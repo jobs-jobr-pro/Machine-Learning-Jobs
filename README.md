@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 17, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 18, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -30,6 +30,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Synechron](https://www.synechron.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32630334/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Serbia - Novi Sad | On Site | Nov 17 |
 | **[Zendesk](https://www.zendesk.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/32640831/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Portugal - Lisbon - Office | On Site | Nov 17 |
 | **[Zendesk](https://www.zendesk.com)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/32640837/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Portugal - Lisbon - Office | On Site | Nov 17 |
+| **[Quantiphi](https://www.linkedin.com/company/quantiphi/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/32648095/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IN KA Bengaluru, India | On Site | Nov 17 |
 | **[T-Systems International](https://www.t-systems.com)** | **[Machine Learning Engineer (LLM Specialist)](https://jobr.pro/job/32599224/machine-learning-engineer-llm-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Spain, Andalucía, Spain | On Site | Nov 16 |
 | **[Samsung Research and Development Center Israel](https://research.samsung.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/32625227/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tel Aviv-Jaffa, Tel Aviv District, IL | On Site | Nov 16 |
 | **[Advansys ESC](https://www.advansys-esc.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/32613243/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Nasr City, Al Manteqah Al Oula, Egypt | On Site | Nov 16 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[XPeng Motors](https://www.heyxpeng.com/)** | **[Staff Machine Learning Engineer - AI Foundation](https://jobr.pro/job/32422931/staff-machine-learning-engineer-ai-foundation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CA | On Site | Nov 14 |
 | **[Hiscox](https://www.hiscoxgroup.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32503074/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lisbon, Portugal | On Site | Nov 14 |
 | **[Manulife](https://www.manulife.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32506805/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA, Massachusetts, Boston, 200 Berkeley Street, United States | On Site | Nov 14 |
-| **[Saxo Bank](https://www.home.saxo/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/32504556/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Headquarters, Denmark | On Site | Nov 14 |
 
 ---
 
