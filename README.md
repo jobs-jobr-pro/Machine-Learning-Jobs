@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 18, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 18, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -16,6 +16,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PitchBook Data](https://pitchbook.com/)** | **[Sr. Machine Learning Engineer](https://jobr.pro/job/32655938/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, New York, United States | On Site | Nov 18 |
 | **[PitchBook Data](https://pitchbook.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32655934/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, New York, United States | On Site | Nov 18 |
 | **[Gemmo](https://gemmo.ai/)** | **[Machine Learning Engineer for Financial Services](https://jobr.pro/job/32694080/machine-learning-engineer-for-financial-services?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Italy - Remote | Remote | Nov 18 |
+| **[CAE](https://www.cae.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/32730918/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Orlando, FL, USA, United States | On Site | Nov 18 |
+| **[S&P Global](https://www.spglobal.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32732136/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | PL - GDANSK UL MARYNARKI POLSKIEJ 163, Poland | On Site | Nov 18 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Staff Machine Learning Engineer, Risk AI/ML](https://jobr.pro/job/32661080/staff-machine-learning-engineer-risk-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - Canada; Remote - USA | Remote | Nov 17 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Senior Machine Learning Engineer, Risk AI/ML](https://jobr.pro/job/32661062/senior-machine-learning-engineer-risk-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - Canada; Remote - USA | Remote | Nov 17 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Machine Learning Engineer, Risk AI/ML](https://jobr.pro/job/32661058/machine-learning-engineer-risk-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - Canada; Remote - USA | Remote | Nov 17 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mistral AI](https://mistral.ai)** | **[Applied AI, Forward Deployed Machine Learning Engineer - EMEA](https://jobr.pro/job/32595910/applied-ai-forward-deployed-machine-learning-engineer-emea?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris | On Site | Nov 16 |
 | **[Zoox](https://zoox.com/)** | **[Senior Machine Learning Engineer - Perception](https://jobr.pro/job/32594705/senior-machine-learning-engineer-perception?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA | On Site | Nov 16 |
 | **[Capgemini](https://www.capgemini.com)** | **[Machine Learning Engineer](https://jobr.pro/job/32595864/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Cairo, EG | On Site | Nov 16 |
-| **[MaintainX](https://www.getmaintainx.com)** | **[Senior Applied Machine Learning Engineer - Asset Intelligence](https://jobr.pro/job/32595144/senior-applied-machine-learning-engineer-asset-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco (Remote) | Remote | Nov 15 |
-| **[MaintainX](https://www.getmaintainx.com)** | **[Machine Learning Engineer, Predictive Maintenance](https://jobr.pro/job/32595143/machine-learning-engineer-predictive-maintenance?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco (Remote) | Remote | Nov 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 30% remote | 34 companies | Avg salary: 235k  
+**Current Stats:** 50 jobs | 26% remote | 35 companies | Avg salary: 235k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
