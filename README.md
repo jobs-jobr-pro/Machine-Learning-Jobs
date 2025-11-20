@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 20, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 20, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -32,9 +32,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - Trae USDS](https://jobr.pro/job/32781756/machine-learning-engineer-trae-usds?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Nov 19 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32783993/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Praha 1, Hlavní město Praha, Czechia | On Site | Nov 19 |
 | **[Bloomreach](https://www.bloomreach.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/32841848/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | India | Remote | Nov 19 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lead AI/Machine Learning Engineer](https://jobr.pro/job/32830458/lead-aimachine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - FL - Team Disney - Florida, United States | On Site | Nov 19 |
 | **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[Agentic AI Machine Learning Engineer](https://jobr.pro/job/32804016/agentic-ai-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA, DC, Washington (901 15th St NW), United States | On Site | Nov 19 |
 | **[MLabs](https://mlabs.city)** | **[Machine Learning Engineer, AI Decisioning](https://jobr.pro/job/32781967/machine-learning-engineer-ai-decisioning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, California, United States - Remote | Remote | Nov 19 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Lead AI/Machine Learning Engineer](https://jobr.pro/job/32830458/lead-aimachine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - FL - Team Disney - Florida, United States | On Site | Nov 19 |
 | **[Kinetic](https://www.kinetic.auto/)** | **[Machine Learning Engineer](https://jobr.pro/job/32767765/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Ana, CA; Remote (Oakland, California, US) | Remote | Nov 18 |
 | **[Scale AI](https://scale.com/)** | **[Machine Learning Engineer - Model Evaluations, Public Sector](https://jobr.pro/job/32742522/machine-learning-engineer-model-evaluations-public-sector?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC | On Site | Nov 18 |
 | **[Zoox](https://zoox.com/)** | **[Machine Learning Engineer Intern, Autonomy Behavior](https://jobr.pro/job/32746413/machine-learning-engineer-intern-autonomy-behavior?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA | On Site | Nov 18 |
@@ -49,9 +49,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Flex](https://getflex.com/)** | **[Sr. Staff AI/Machine Learning Engineer](https://jobr.pro/job/32739444/sr-staff-aimachine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote (U.S.) | Remote | Nov 18 |
 | **[PitchBook Data](https://pitchbook.com/)** | **[Sr. Machine Learning Engineer](https://jobr.pro/job/32655938/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, New York, United States | On Site | Nov 18 |
 | **[PitchBook Data](https://pitchbook.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32655934/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, New York, United States | On Site | Nov 18 |
-| **[S&P Global](https://www.spglobal.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32732136/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | PL - GDANSK UL MARYNARKI POLSKIEJ 163, Poland | On Site | Nov 18 |
 | **[Gemmo](https://gemmo.ai/)** | **[Machine Learning Engineer for Financial Services](https://jobr.pro/job/32694080/machine-learning-engineer-for-financial-services?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Italy - Remote | Remote | Nov 18 |
 | **[CAE](https://www.cae.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/32730918/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Orlando, FL, USA, United States | On Site | Nov 18 |
+| **[S&P Global](https://www.spglobal.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32732136/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | PL - GDANSK UL MARYNARKI POLSKIEJ 163, Poland | On Site | Nov 18 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Staff Machine Learning Engineer, Risk AI/ML](https://jobr.pro/job/32661080/staff-machine-learning-engineer-risk-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - Canada; Remote - USA | Remote | Nov 17 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Senior Machine Learning Engineer, Risk AI/ML](https://jobr.pro/job/32661062/senior-machine-learning-engineer-risk-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - Canada; Remote - USA | Remote | Nov 17 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Machine Learning Engineer, Risk AI/ML](https://jobr.pro/job/32661058/machine-learning-engineer-risk-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - Canada; Remote - USA | Remote | Nov 17 |
