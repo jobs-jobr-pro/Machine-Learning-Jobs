@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 20, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 20, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,9 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[IFS](https://www.ifs.com/)** | **[Machine Learning Engineer (Python)- IFS Loops](https://jobr.pro/job/32858278/machine-learning-engineer-python-ifs-loops?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Colombo, WP, Sri Lanka | On Site | Nov 20 |
 | **[Upstart](https://www.upstart.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/32840515/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States \| Remote | Remote | Nov 20 |
 | **[Tubi](https://tubitv.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/32853394/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Toronto, Canada (Hybrid) | On Site | Nov 19 |
 | **[Tubi](https://tubitv.com/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/32853395/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Toronto, Canada (Hybrid) | On Site | Nov 19 |
+| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[2026 Asset Wealth Management Machine Learning Engineer-Summer Associate](https://jobr.pro/job/32874465/2026-asset-wealth-management-machine-learning-engineer-summer-associate?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Jersey City, NJ, United States | On Site | Nov 19 |
 | **[Instacart](https://www.instacart.com/)** | **[Machine Learning Engineer II, Economist](https://jobr.pro/job/32838145/machine-learning-engineer-ii-economist?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States - Remote | Remote | Nov 19 |
 | **[Swish Analytics](https://swishanalytics.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32837689/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA - Remote | Remote | Nov 19 |
 | **[SoFi](https://www.sofi.com/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/32855191/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | CA - San Francisco | On Site | Nov 19 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mitratech](https://mitratech.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/32654674/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote US | Remote | Nov 17 |
 | **[SentinelOne](https://www.sentinelone.com/)** | **[Senior Machine Learning Engineer, Prompt Security](https://jobr.pro/job/32668007/senior-machine-learning-engineer-prompt-security?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Israel | On Site | Nov 17 |
 | **[Synapse Analytics](https://www.synapse-analytics.io/)** | **[Machine Learning Engineer II (Computer Vision)](https://jobr.pro/job/32655194/machine-learning-engineer-ii-computer-vision?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Maadi, Al Qāhirah, Egypt | On Site | Nov 17 |
-| **[Synapse Analytics](https://www.synapse-analytics.io/)** | **[Senior Machine Learning Engineer (Computer Vision)](https://jobr.pro/job/32655195/senior-machine-learning-engineer-computer-vision?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Maadi, Al Qāhirah, Egypt | On Site | Nov 17 |
-| **[Trustpilot](https://www.trustpilot.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/32655018/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London | On Site | Nov 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 40 companies | Avg salary: 234k  
+**Current Stats:** 50 jobs | 34% remote | 41 companies | Avg salary: 234k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
