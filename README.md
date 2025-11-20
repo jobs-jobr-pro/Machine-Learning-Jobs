@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 20, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 20, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Ambush](https://www.getambush.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32890948/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | State of Rio Grande do Sul, Porto Alegre, Brazil | On Site | Nov 20 |
+| **[Bungee Tech](https://bungeetech.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32889614/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tamil Nadu, Chennai, India | On Site | Nov 20 |
 | **[IFS](https://www.ifs.com/)** | **[Machine Learning Engineer (Python)- IFS Loops](https://jobr.pro/job/32858278/machine-learning-engineer-python-ifs-loops?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Colombo, WP, Sri Lanka | On Site | Nov 20 |
 | **[Upstart](https://www.upstart.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/32840515/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States \| Remote | Remote | Nov 20 |
 | **[Tubi](https://tubitv.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/32853394/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Toronto, Canada (Hybrid) | On Site | Nov 19 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SageSure](https://www.sagesure.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/32657485/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Jersey City, NJ | Remote | Nov 17 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/32649413/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Atlanta, Georgia, United States | On Site | Nov 17 |
 | **[Mitratech](https://mitratech.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/32654674/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote US | Remote | Nov 17 |
-| **[SentinelOne](https://www.sentinelone.com/)** | **[Senior Machine Learning Engineer, Prompt Security](https://jobr.pro/job/32668007/senior-machine-learning-engineer-prompt-security?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Israel | On Site | Nov 17 |
-| **[Synapse Analytics](https://www.synapse-analytics.io/)** | **[Machine Learning Engineer II (Computer Vision)](https://jobr.pro/job/32655194/machine-learning-engineer-ii-computer-vision?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Maadi, Al Qāhirah, Egypt | On Site | Nov 17 |
 
 ---
 
