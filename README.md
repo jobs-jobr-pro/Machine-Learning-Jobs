@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 21, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 21, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,11 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Xiaomi](https://www.xiaomi.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32995986/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 新加坡 | On Site | Nov 21 |
 | **[CD PROJEKT RED](https://www.cdprojekt.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32963271/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Vancouver, BC, Canada | On Site | Nov 21 |
 | **[Block](https://block.xyz/)** | **[Staff Machine Learning Engineer, AI Engineering Tools](https://jobr.pro/job/32923947/staff-machine-learning-engineer-ai-engineering-tools?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bay Area, CA, United States of America | On Site | Nov 21 |
 | **[Roblox](https://www.roblox.com/)** | **[\[2026\] Senior Machine Learning Engineer, Natural Language Processing - PhD Early Career (Funnel)](https://jobr.pro/job/32928245/2026-senior-machine-learning-engineer-natural-language-processing-phd-early-career-funnel?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA, United States | On Site | Nov 21 |
 | **[Roblox](https://www.roblox.com/)** | **[\[2026\] Senior Machine Learning Engineer, Natural Language Processing - PhD Early Career](https://jobr.pro/job/32928244/2026-senior-machine-learning-engineer-natural-language-processing-phd-early-career?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA, United States | On Site | Nov 21 |
 | **[Block](https://block.xyz/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/32923943/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Melbourne, Australia | On Site | Nov 21 |
+| **[Smadex](https://smadex.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32984449/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Barcelona, Barcelona | On Site | Nov 21 |
 | **[Block](https://block.xyz/)** | **[Senior Staff Machine Learning Engineer, AI Engineering Tools](https://jobr.pro/job/32923945/senior-staff-machine-learning-engineer-ai-engineering-tools?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bay Area, CA, United States of America | On Site | Nov 20 |
 | **[Roblox](https://www.roblox.com/)** | **[\[2026\] Senior Machine Learning Engineer, AI Platform - PhD Early Career](https://jobr.pro/job/32928243/2026-senior-machine-learning-engineer-ai-platform-phd-early-career?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA, United States | On Site | Nov 20 |
 | **[XPeng Motors](https://www.heyxpeng.com/)** | **[Machine Learning Engineer - LLM, AI & Robotics](https://jobr.pro/job/32927082/machine-learning-engineer-llm-ai-robotics?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CA | On Site | Nov 20 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Scale AI](https://scale.com/)** | **[Machine Learning Engineer - Model Evaluations, Public Sector](https://jobr.pro/job/32742522/machine-learning-engineer-model-evaluations-public-sector?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC | On Site | Nov 18 |
 | **[Zoox](https://zoox.com/)** | **[Machine Learning Engineer Intern, Autonomy Behavior](https://jobr.pro/job/32746413/machine-learning-engineer-intern-autonomy-behavior?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA | On Site | Nov 18 |
 | **[Zoox](https://zoox.com/)** | **[Machine Learning Engineer Intern, Perception](https://jobr.pro/job/32746414/machine-learning-engineer-intern-perception?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA | On Site | Nov 18 |
-| **[Zoox](https://zoox.com/)** | **[Machine Learning Engineer Intern, Simulation](https://jobr.pro/job/32746415/machine-learning-engineer-intern-simulation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA | On Site | Nov 18 |
-| **[Waymo](https://waymo.com/)** | **[Senior Machine Learning Engineer, Computer Vision/VLM](https://jobr.pro/job/32738431/senior-machine-learning-engineer-computer-visionvlm?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA; San Francisco, CA, USA | On Site | Nov 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 42 companies | Avg salary: 354k  
+**Current Stats:** 50 jobs | 18% remote | 43 companies | Avg salary: 358k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
