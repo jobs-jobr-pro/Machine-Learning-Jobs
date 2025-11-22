@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 22, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 22, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -25,6 +25,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32995986/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 新加坡 | On Site | Nov 21 |
 | **[Cartesian](https://www.cartesian.systems/)** | **[Machine Learning Engineer](https://jobr.pro/job/33009745/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Cambridge, MA, US | On Site | Nov 21 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Senior Machine Learning Engineer, Risk AI/ML](https://jobr.pro/job/33014577/senior-machine-learning-engineer-risk-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - Canada | Remote | Nov 21 |
+| **[Softeq](https://www.softeq.com/)** | **[Senior Machine Learning Engineer (Sports Tech / Edge AI)](https://jobr.pro/job/33035346/senior-machine-learning-engineer-sports-tech-edge-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Warsaw, Poland | Remote | Nov 21 |
 | **[CD PROJEKT RED](https://www.cdprojekt.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/32963271/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Vancouver, BC, Canada | On Site | Nov 21 |
 | **[Block](https://block.xyz/)** | **[Staff Machine Learning Engineer, AI Engineering Tools](https://jobr.pro/job/32923947/staff-machine-learning-engineer-ai-engineering-tools?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bay Area, CA, United States of America | On Site | Nov 21 |
 | **[Roblox](https://www.roblox.com/)** | **[\[2026\] Senior Machine Learning Engineer, Natural Language Processing - PhD Early Career (Funnel)](https://jobr.pro/job/32928245/2026-senior-machine-learning-engineer-natural-language-processing-phd-early-career-funnel?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA, United States | On Site | Nov 21 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Manychat](https://manychat.com/)** | **[Machine Learning Engineer (AI Core Team)](https://jobr.pro/job/32853969/machine-learning-engineer-ai-core-team?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Barcelona, Spain | On Site | Nov 19 |
 | **[SimplePractice](https://www.simplepractice.com/)** | **[Senior Machine Learning Engineer, Platform (Hybrid)](https://jobr.pro/job/32853843/senior-machine-learning-engineer-platform-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mexico City | On Site | Nov 19 |
 | **[Stripe](https://stripe.com/en-ch)** | **[Machine Learning Engineer, Payments ML Accelerator](https://jobr.pro/job/32844012/machine-learning-engineer-payments-ml-accelerator?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle; San Francisco; New York City | On Site | Nov 19 |
-| **[Nagarro](https://www.nagarro.com)** | **[Principal Machine Learning Engineer - AI & ML Solutions (m/f/d)](https://jobr.pro/job/32846425/principal-machine-learning-engineer-ai-ml-solutions-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote, Germany | Remote | Nov 19 |
 
 ---
 
