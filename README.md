@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 25, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Nov 25, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -20,6 +20,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[BJAK](https://bjak.my/)** | **[Machine Learning Engineer (Diffusion / Vision) (Remote)](https://jobr.pro/job/33124696/machine-learning-engineer-diffusion-vision-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hong Kong | Remote | Nov 25 |
 | **[BJAK](https://bjak.my/)** | **[机器学习工程师（扩散模型 / 视觉方向） Machine Learning Engineer (Diffusion/Vision)](https://jobr.pro/job/33124705/-machine-learning-engineer-diffusionvision?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | China | Remote | Nov 25 |
 | **[Underdog Fantasy](https://underdogfantasy.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/33135394/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States/Remote | Remote | Nov 25 |
+| **[DNV](https://www.dnv.com/)** | **[Senior Machine Learning Engineer - Energy](https://jobr.pro/job/33157614/senior-machine-learning-engineer-energy?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Oakland, CA, United States | On Site | Nov 25 |
 | **[Vodafone](https://www.vodafone.com)** | **[Machine Learning Engineer (VOIS)](https://jobr.pro/job/33123979/machine-learning-engineer-vois?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Cairo, EG | On Site | Nov 25 |
 | **[Vodafone](https://www.vodafone.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33123977/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Cairo, EG | On Site | Nov 25 |
 | **[Roblox](https://www.roblox.com/)** | **[Senior/Principal Machine Learning Engineer - Avatar Core AI](https://jobr.pro/job/33134861/seniorprincipal-machine-learning-engineer-avatar-core-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA, United States | On Site | Nov 24 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer (CV/NLP/Multimodal/LLM) Graduate (E-Commerce Governance)-2025 Start (PhD)](https://jobr.pro/job/33079361/machine-learning-engineer-cvnlpmultimodalllm-graduate-e-commerce-governance-2025-start-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Nov 24 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern (E-commerce-Intelligent Customer Service) - 2025 Summer/Fall (MS)](https://jobr.pro/job/33079360/machine-learning-engineer-intern-e-commerce-intelligent-customer-service-2025-summerfall-ms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Nov 24 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, University Graduate (E-Commerce Risk Control)- 2025 Start (Phd)](https://jobr.pro/job/33079359/machine-learning-engineer-university-graduate-e-commerce-risk-control-2025-start-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Nov 24 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern (E-commerce Governance Algorithms) - 2025 Summer/Fall (BS/MS)](https://jobr.pro/job/33079352/machine-learning-engineer-intern-e-commerce-governance-algorithms-2025-summerfall-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Nov 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 15 companies | Avg salary: 270k  
+**Current Stats:** 50 jobs | 20% remote | 16 companies | Avg salary: 254k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
