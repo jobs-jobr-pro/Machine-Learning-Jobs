@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 25, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Nov 25, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/33108708/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 新加坡 | On Site | Nov 24 |
+| **[SIXT](https://www.sixt.com)** | **[Machine Learning Engineer – (Revenue Management & Price Optimization) (m/f/d)](https://jobr.pro/job/33115884/machine-learning-engineer-revenue-management-price-optimization-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lisbon, Portugal | On Site | Nov 24 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning engineer - TikTok Search](https://jobr.pro/job/33079475/machine-learning-engineer-tiktok-search?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Nov 24 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer (Data Compass) Intern, TikTok Global E-Commerce - 2025 Start](https://jobr.pro/job/33079469/machine-learning-engineer-data-compass-intern-tiktok-global-e-commerce-2025-start?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Nov 24 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer (User Growth & Intelligent Marketing), Global e-Commerce](https://jobr.pro/job/33079463/machine-learning-engineer-user-growth-intelligent-marketing-global-e-commerce?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Nov 24 |
@@ -62,14 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - E-commerce Risk Control](https://jobr.pro/job/33079254/machine-learning-engineer-e-commerce-risk-control?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Nov 24 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Recommendations - USDS](https://jobr.pro/job/33079253/machine-learning-engineer-recommendations-usds?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Nov 24 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern (E-commerce-Intelligent Customer Service) - 2025 Summer/Fall (PhD)](https://jobr.pro/job/33079242/machine-learning-engineer-intern-e-commerce-intelligent-customer-service-2025-summerfall-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Nov 24 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Multimodality](https://jobr.pro/job/33079231/machine-learning-engineer-multimodality?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Nov 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 0% remote | 2 companies | Avg salary: Not specified  
+**Current Stats:** 50 jobs | 0% remote | 3 companies | Avg salary: Not specified  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** Various technologies  
+**Trending Skills:** tensorflow, pytorch, mlops, kubernetes, docker  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
