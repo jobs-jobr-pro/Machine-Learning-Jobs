@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 26, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 26, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,13 +13,22 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Capgemini](https://www.capgemini.com)** | **[Gen AI - Machine learning engineer](https://jobr.pro/job/33208081/gen-ai-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Vigo, ES | On Site | Nov 26 |
+| **[Counterpart](https://yourcounterpart.com/)** | **[Machine Learning Engineer (Contract)](https://jobr.pro/job/33207581/machine-learning-engineer-contract?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - Argentina, Brazil, Colombia, Mexico, Dominican Republic | Remote | Nov 25 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Senior Staff Machine Learning Engineer](https://jobr.pro/job/33200846/senior-staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, California, United States | On Site | Nov 25 |
 | **[Visa](https://visa.com)** | **[Machine Learning Engineer](https://jobr.pro/job/33200854/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA, United States | On Site | Nov 25 |
+| **[Until](https://www.untillabs.com)** | **[Machine Learning Engineer / Scientist](https://jobr.pro/job/33207222/machine-learning-engineer-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bay Area | On Site | Nov 25 |
+| **[Lightspeed Commerce](https://www.lightspeedhq.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33216488/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Montreal, Quebec, Canada | On Site | Nov 25 |
+| **[Upwork](https://www.upwork.com/)** | **[Contract: Senior Machine Learning Engineer](https://jobr.pro/job/33204854/contract-senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote-Latin America | Remote | Nov 25 |
+| **[Affinity](https://www.affinity.co/)** | **[Senior Machine Learning Engineer (AI Insights)](https://jobr.pro/job/33204845/senior-machine-learning-engineer-ai-insights?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Canada (Remote); Toronto, Ontario | Remote | Nov 25 |
+| **[Blackshark.ai](https://blackshark.ai/)** | **[Machine Learning Engineer (Computer Vision / Geospatial AI)](https://jobr.pro/job/33219016/machine-learning-engineer-computer-vision-geospatial-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Graz | On Site | Nov 25 |
 | **[TikTok](https://www.tiktok.com/)** | **[（General Hire）Machine Learning Engineer Graduate (E-Commerce)- 2026 Start (Phd)](https://jobr.pro/job/33161179/general-hiremachine-learning-engineer-graduate-e-commerce-2026-start-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Nov 25 |
 | **[Aqilea](https://aqilea.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33163888/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Stockholm, Stockholms län, Sweden | On Site | Nov 25 |
 | **[Sia](https://www.sia-partners.com)** | **[Machine Learning Engineer - H/F](https://jobr.pro/job/33163890/machine-learning-engineer-hf?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris, IDF, France | On Site | Nov 25 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Senior Conversational AI & Machine Learning Engineer (m/w/d)](https://jobr.pro/job/33136376/senior-conversational-ai-machine-learning-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Leipzig, DE | On Site | Nov 25 |
 | **[Deloitte](https://www.deloitte.com/)** | **[Conversational AI & Machine Learning Engineer (m/w/d)](https://jobr.pro/job/33136372/conversational-ai-machine-learning-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Leipzig, DE | On Site | Nov 25 |
+| **[GeoYeti](https://geoyeti.com)** | **[Machine Learning Engineer](https://jobr.pro/job/33217848/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Dulles, VA, United States | On Site | Nov 25 |
+| **[Spotify](https://spotifyjobs.com/)** | **[Machine Learning Engineer, GenRecs, Personalization](https://jobr.pro/job/33206159/machine-learning-engineer-genrecs-personalization?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, NY | On Site | Nov 25 |
 | **[Waymo](https://waymo.com/)** | **[Staff Machine Learning Engineer, DUE](https://jobr.pro/job/33121175/staff-machine-learning-engineer-due?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA | On Site | Nov 25 |
 | **[BJAK](https://bjak.my/)** | **[Machine Learning Engineer (LLM)](https://jobr.pro/job/33124698/machine-learning-engineer-llm?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hong Kong | Remote | Nov 25 |
 | **[BJAK](https://bjak.my/)** | **[Machine Learning Engineer (Diffusion / Vision) (Remote)](https://jobr.pro/job/33124696/machine-learning-engineer-diffusion-vision-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hong Kong | Remote | Nov 25 |
@@ -54,19 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, TikTok Search - 2025 Start](https://jobr.pro/job/33079417/machine-learning-engineer-tiktok-search-2025-start?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Nov 24 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer intern, TikTok eCommerce (Risk Control) - 2025 Start](https://jobr.pro/job/33079416/machine-learning-engineer-intern-tiktok-ecommerce-risk-control-2025-start?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Nov 24 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer (Platform Governance) Intern, TikTok Global E-Commerce - 2025 Start](https://jobr.pro/job/33079414/machine-learning-engineer-platform-governance-intern-tiktok-global-e-commerce-2025-start?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Nov 24 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Global E-commerce (Commercial Platform) - 2025 Start](https://jobr.pro/job/33079412/machine-learning-engineer-global-e-commerce-commercial-platform-2025-start?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Nov 24 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate (eCommerce Business Growth)-2025 Start (MS/PhD)](https://jobr.pro/job/33079410/machine-learning-engineer-graduate-ecommerce-business-growth-2025-start-msphd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Nov 24 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer (Platform Governance), TikTok Global E-Commerce - 2025 Start](https://jobr.pro/job/33079408/machine-learning-engineer-platform-governance-tiktok-global-e-commerce-2025-start?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Nov 24 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate (eCommerce Recommendation) - 2025 Start (BS/MA)](https://jobr.pro/job/33079405/machine-learning-engineer-graduate-ecommerce-recommendation-2025-start-bsma?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Nov 24 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate (TikTok E-Commerce - Conversational AI)-2025 Start (MS)](https://jobr.pro/job/33079403/machine-learning-engineer-graduate-tiktok-e-commerce-conversational-ai-2025-start-ms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Nov 24 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate (TikTok E-Commerce - Conversational AI)-2025 Start (BS/MS)](https://jobr.pro/job/33079399/machine-learning-engineer-graduate-tiktok-e-commerce-conversational-ai-2025-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Nov 24 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate (E-Commerce Risk Control)- 2025 Start (MS)](https://jobr.pro/job/33079393/machine-learning-engineer-graduate-e-commerce-risk-control-2025-start-ms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Nov 24 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate (Ads Core Global) - 2025 Start (BS/MS)](https://jobr.pro/job/33079391/machine-learning-engineer-graduate-ads-core-global-2025-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Nov 24 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer (CV/NLP/Multimodal/LLM) Graduate (E-Commerce Governance)-2025 Start (BS/MS)](https://jobr.pro/job/33079388/machine-learning-engineer-cvnlpmultimodalllm-graduate-e-commerce-governance-2025-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Nov 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 25 companies | Avg salary: 258k  
+**Current Stats:** 50 jobs | 26% remote | 34 companies | Avg salary: 233k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
