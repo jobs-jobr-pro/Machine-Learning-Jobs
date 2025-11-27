@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 27, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Nov 27, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,8 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Tesco](https://www.tesco.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/33327955/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, United Kingdom of Great Britain and Northern Ireland | On Site | Nov 27 |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - Applied AIGC, TikTok Monetization GenAI](https://jobr.pro/job/33325277/machine-learning-engineer-applied-aigc-tiktok-monetization-genai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Nov 27 |
+| **[TikTok](https://www.tiktok.com/)** | **[Engineer Graduate: (Machine Learning Engineer, Data-Search-Recommendation TikTok.US - Seattle) - 2026 Start (BS/MS)](https://jobr.pro/job/33325170/engineer-graduate-machine-learning-engineer-data-search-recommendation-tiktokus-seattle-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Nov 27 |
+| **[Experian](https://www.experian.com/)** | **[Assistant Machine Learning Engineer](https://jobr.pro/job/33326815/assistant-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sofia, Bulgaria | On Site | Nov 27 |
 | **[Block](https://block.xyz/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33293160/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bay Area, CA, United States of America | On Site | Nov 27 |
 | **[SAP](https://www.sap.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/33301785/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Gurgaon, IN, 122002 | On Site | Nov 27 |
+| **[Accenture](https://www.accenture.com/)** | **[Lead Machine Learning Engineer/ AI Systems Architect](https://jobr.pro/job/33336624/lead-machine-learning-engineer-ai-systems-architect?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Cluj-Napoca, Hexagon Office, Romania | On Site | Nov 27 |
+| **[Elsevier](https://www.elsevier.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33331036/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | NLD Amsterdam (Radarweg), Netherlands | On Site | Nov 27 |
 | **[Waymo](https://waymo.com/)** | **[Machine Learning Engineer, ML Resources](https://jobr.pro/job/33292826/machine-learning-engineer-ml-resources?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA | On Site | Nov 26 |
 | **[Modjo](https://www.modjo.ai/)** | **[Machine Learning Engineer](https://jobr.pro/job/33291283/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris | On Site | Nov 26 |
 | **[Faculty](https://faculty.ai)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/33297991/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London - Hybrid | On Site | Nov 26 |
@@ -57,16 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[BJAK](https://bjak.my/)** | **[机器学习工程师（扩散模型 / 视觉方向） Machine Learning Engineer (Diffusion/Vision)](https://jobr.pro/job/33124705/-machine-learning-engineer-diffusionvision?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | China | Remote | Nov 25 |
 | **[Underdog Fantasy](https://underdogfantasy.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/33135394/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States/Remote | Remote | Nov 25 |
 | **[DNV](https://www.dnv.com/)** | **[Senior Machine Learning Engineer - Energy](https://jobr.pro/job/33157614/senior-machine-learning-engineer-energy?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Oakland, CA, United States | On Site | Nov 25 |
-| **[Vodafone](https://www.vodafone.com)** | **[Machine Learning Engineer (VOIS)](https://jobr.pro/job/33123979/machine-learning-engineer-vois?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Cairo, EG | On Site | Nov 25 |
-| **[Vodafone](https://www.vodafone.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33123977/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Cairo, EG | On Site | Nov 25 |
-| **[Clarios](https://www.clarios.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/33199461/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Monterrey Business Center, Mexico | On Site | Nov 25 |
-| **[LEGO Group](https://www.lego.com/)** | **[Data Scientist / Machine Learning Engineer – Parental Leave Cover](https://jobr.pro/job/33188679/data-scientist-machine-learning-engineer-parental-leave-cover?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Billund LEGO Campus, Denmark | On Site | Nov 25 |
-| **[PayPal](https://www.paypal.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/33195465/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IND - Karnataka - Bangalore - Corp - Sarjapur Main Rd, India | On Site | Nov 25 |
-| **[Reserve Bank of Australia](https://www.rba.gov.au/)** | **[Machine Learning Engineer](https://jobr.pro/job/33182224/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Head Office, Australia | On Site | Nov 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 40 companies | Avg salary: 203k  
+**Current Stats:** 50 jobs | 24% remote | 39 companies | Avg salary: 203k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
