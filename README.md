@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 28, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 29, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -31,8 +31,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Snap Inc.](https://snap.com/)** | **[Machine Learning Engineer, CV](https://jobr.pro/job/33354449/machine-learning-engineer-cv?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Vienna - Austria | On Site | Nov 27 |
 | **[Elsevier](https://www.elsevier.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33331036/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | NLD Amsterdam (Radarweg), Netherlands | On Site | Nov 27 |
 | **[Accenture](https://www.accenture.com/)** | **[Lead Machine Learning Engineer/ AI Systems Architect](https://jobr.pro/job/33336624/lead-machine-learning-engineer-ai-systems-architect?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Cluj-Napoca, Hexagon Office, Romania | On Site | Nov 27 |
-| **[ING](https://www.ing.com/)** | **[Senior Machine Learning Engineer @ COOA (Gen-AI CDD)](https://jobr.pro/job/33357267/senior-machine-learning-engineer-cooa-gen-ai-cdd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | CDR (Amsterdam - Cedar), Netherlands | On Site | Nov 27 |
 | **[Daimler Truck North America](https://www.daimlertruck.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/33369406/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Downtown Santa Fe, Mexico | On Site | Nov 27 |
+| **[ING](https://www.ing.com/)** | **[Senior Machine Learning Engineer @ COOA (Gen-AI CDD)](https://jobr.pro/job/33357267/senior-machine-learning-engineer-cooa-gen-ai-cdd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | CDR (Amsterdam - Cedar), Netherlands | On Site | Nov 27 |
 | **[Amazon.com](https://www.amazon.com/)** | **[Machine Learning Engineer, AWS Generative AI Innovation Center](https://jobr.pro/job/33361618/machine-learning-engineer-aws-generative-ai-innovation-center?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, England, GBR | On Site | Nov 27 |
 | **[Waymo](https://waymo.com/)** | **[Machine Learning Engineer, ML Resources](https://jobr.pro/job/33292826/machine-learning-engineer-ml-resources?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA | On Site | Nov 26 |
 | **[Modjo](https://www.modjo.ai/)** | **[Machine Learning Engineer](https://jobr.pro/job/33291283/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris | On Site | Nov 26 |
