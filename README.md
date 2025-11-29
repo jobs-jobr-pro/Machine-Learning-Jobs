@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 29, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Nov 29, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,7 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Waymo](https://waymo.com/)** | **[Staff Machine Learning Engineer, Simulation](https://jobr.pro/job/33407607/staff-machine-learning-engineer-simulation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, UK | On Site | Nov 28 |
+| **[Irembo](https://irembo.com/)** | **[Machine Learning Engineer, Consultant](https://jobr.pro/job/33409595/machine-learning-engineer-consultant?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Kigali, Rwanda | On Site | Nov 28 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Access Safety - TikTok BRIC - Singapore](https://jobr.pro/job/33380460/machine-learning-engineer-access-safety-tiktok-bric-singapore?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Nov 28 |
+| **[T-Systems International](https://www.t-systems.com)** | **[Machine Learning Engineer (LLM Specialist)](https://jobr.pro/job/33414997/machine-learning-engineer-llm-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Spain, Andalucía, Spain | On Site | Nov 28 |
+| **[Portcast](https://portcast.io/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33409390/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore | On Site | Nov 28 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Senior Staff Machine Learning Engineer](https://jobr.pro/job/33369249/senior-staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Causeway Bay, Hong Kong | On Site | Nov 28 |
 | **[Magna International](https://www.magna.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/33386603/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Piata Consiliul Europei 2C, 300627, Timisoara, RO, Romania | On Site | Nov 28 |
 | **[Abysalto](https://abysalto.eu/)** | **[Machine Learning Engineer (m/f)](https://jobr.pro/job/33344416/machine-learning-engineer-mf?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Zagreb, Croatia (Hybrid) | On Site | Nov 27 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Visa](https://visa.com)** | **[Machine Learning Engineer](https://jobr.pro/job/33200854/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA, United States | On Site | Nov 25 |
 | **[Until](https://www.untillabs.com)** | **[Machine Learning Engineer / Scientist](https://jobr.pro/job/33207222/machine-learning-engineer-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bay Area | On Site | Nov 25 |
 | **[Lightspeed Commerce](https://www.lightspeedhq.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33216488/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Montreal, Quebec, Canada | On Site | Nov 25 |
-| **[Upwork](https://www.upwork.com/)** | **[Contract: Senior Machine Learning Engineer](https://jobr.pro/job/33204854/contract-senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote-Latin America | Remote | Nov 25 |
-| **[Affinity](https://www.affinity.co/)** | **[Senior Machine Learning Engineer (AI Insights)](https://jobr.pro/job/33204845/senior-machine-learning-engineer-ai-insights?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Canada (Remote); Toronto, Ontario | Remote | Nov 25 |
-| **[Blackshark.ai](https://blackshark.ai/)** | **[Machine Learning Engineer (Computer Vision / Geospatial AI)](https://jobr.pro/job/33219016/machine-learning-engineer-computer-vision-geospatial-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Graz | On Site | Nov 25 |
-| **[TikTok](https://www.tiktok.com/)** | **[（General Hire）Machine Learning Engineer Graduate (E-Commerce)- 2026 Start (Phd)](https://jobr.pro/job/33161179/general-hiremachine-learning-engineer-graduate-e-commerce-2026-start-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Nov 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 41 companies | Avg salary: 198k  
+**Current Stats:** 50 jobs | 14% remote | 41 companies | Avg salary: 208k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
