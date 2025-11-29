@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Nov 29, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Nov 29, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Waymo](https://waymo.com/)** | **[Staff Machine Learning Engineer, Simulation](https://jobr.pro/job/33407607/staff-machine-learning-engineer-simulation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, UK | On Site | Nov 28 |
+| **[Voltai](https://voltai.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/33434772/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Menlo Park, CA | On Site | Nov 28 |
 | **[Irembo](https://irembo.com/)** | **[Machine Learning Engineer, Consultant](https://jobr.pro/job/33409595/machine-learning-engineer-consultant?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Kigali, Rwanda | On Site | Nov 28 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Access Safety - TikTok BRIC - Singapore](https://jobr.pro/job/33380460/machine-learning-engineer-access-safety-tiktok-bric-singapore?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Nov 28 |
 | **[T-Systems International](https://www.t-systems.com)** | **[Machine Learning Engineer (LLM Specialist)](https://jobr.pro/job/33414997/machine-learning-engineer-llm-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Spain, Andalucía, Spain | On Site | Nov 28 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Counterpart](https://yourcounterpart.com/)** | **[Machine Learning Engineer (Contract)](https://jobr.pro/job/33207581/machine-learning-engineer-contract?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - Argentina, Brazil, Colombia, Mexico, Dominican Republic | Remote | Nov 25 |
 | **[Visa](https://visa.com)** | **[Machine Learning Engineer](https://jobr.pro/job/33200854/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA, United States | On Site | Nov 25 |
 | **[Until](https://www.untillabs.com)** | **[Machine Learning Engineer / Scientist](https://jobr.pro/job/33207222/machine-learning-engineer-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bay Area | On Site | Nov 25 |
-| **[Lightspeed Commerce](https://www.lightspeedhq.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33216488/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Montreal, Quebec, Canada | On Site | Nov 25 |
 
 ---
 
