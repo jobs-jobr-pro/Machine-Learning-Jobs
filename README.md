@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 03, 2025 at 12:31 UTC</small></sub>
+<sub><small>Last updated: Dec 03, 2025 at 16:31 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,10 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Corsearch](https://www.corsearch.com)** | **[Machine Learning Engineer](https://jobr.pro/job/33640012/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, United Kingdom | On Site | Dec 03 |
+| **[Wix](https://www.wix.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/33642324/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Kyiv, Ukraine | On Site | Dec 03 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/33614054/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, WA, US | On Site | Dec 03 |
 | **[Sephora](https://www.sephora.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33620278/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, SG | On Site | Dec 03 |
 | **[Attain](https://attaindata.io/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33611936/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Redwood City, CA | On Site | Dec 02 |
 | **[SimplePractice](https://www.simplepractice.com/)** | **[Senior Machine Learning Engineer, Platform (Hybrid)](https://jobr.pro/job/33612783/senior-machine-learning-engineer-platform-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mexico City | On Site | Dec 02 |
+| **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[2026 Asset Wealth Management Machine Learning Engineer - Summer Associate](https://jobr.pro/job/33650768/2026-asset-wealth-management-machine-learning-engineer-summer-associate?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Jersey City, NJ, United States | On Site | Dec 02 |
 | **[Airbnb](https://www.airbnb.com/)** | **[Staff Machine Learning Engineer, Communication & Connectivity](https://jobr.pro/job/33605020/staff-machine-learning-engineer-communication-connectivity?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - USA | Remote | Dec 02 |
 | **[Motional](https://motional.com/)** | **[Machine Learning Engineer - Behaviors](https://jobr.pro/job/33607376/machine-learning-engineer-behaviors?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boston, Massachusetts, United States; Pittsburgh, Pennsylvania, United States; Remote U.S. | Remote | Dec 02 |
 | **[Motional](https://motional.com/)** | **[Machine Learning Engineer - Prediction](https://jobr.pro/job/33607379/machine-learning-engineer-prediction?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boston, Massachusetts, United States; Pittsburgh, Pennsylvania, United States; Remote U.S. | Remote | Dec 02 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Recommendations - USDS](https://jobr.pro/job/33459428/machine-learning-engineer-recommendations-usds?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Dec 01 |
 | **[IMC Trading](https://www.imc.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/33443298/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Amsterdam, Netherlands; Chicago, United States; Hong Kong, Hong Kong; London, United Kingdom; New York, United States; Sydney, Australia | On Site | Dec 01 |
 | **[Red Hat](https://www.redhat.com/)** | **[Principal Machine Learning Engineer - PyTorch](https://jobr.pro/job/33471758/principal-machine-learning-engineer-pytorch?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore - Carina, India | Remote | Dec 01 |
-| **[Allstate](https://www.allstate.com/)** | **[Applied Machine Learning Engineer Senior Consultant II](https://jobr.pro/job/33471096/applied-machine-learning-engineer-senior-consultant-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Belfast 10 Mays Meadow, United Kingdom | On Site | Dec 01 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Senior Machine Learning Engineer, Ad Platforms](https://jobr.pro/job/33492190/senior-machine-learning-engineer-ad-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - CA - 1200 Grand Central Ave, United States | On Site | Dec 01 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com/)** | **[Senior Principal Machine Learning Engineer, Advertising Platforms](https://jobr.pro/job/33492188/senior-principal-machine-learning-engineer-advertising-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - CA - 2450 Broadway, United States | On Site | Dec 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 30% remote | 43 companies | Avg salary: 251k  
+**Current Stats:** 50 jobs | 30% remote | 44 companies | Avg salary: 249k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
