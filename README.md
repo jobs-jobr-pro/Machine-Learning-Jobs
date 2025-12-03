@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 03, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 03, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -24,6 +24,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Calix](https://www.calix.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33588891/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, India | On Site | Dec 02 |
 | **[Yahoo](https://www.yahooinc.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33590206/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | US - United States of America | On Site | Dec 02 |
 | **[Workhuman](https://www.workhuman.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33586778/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Dublin, Ireland (HQ) | On Site | Dec 02 |
+| **[Arrow Electronics](https://www.arrow.com/)** | **[Data Scientist / Senior Machine Learning Engineer](https://jobr.pro/job/33590880/data-scientist-senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | EG-Cairo, Egypt (Al Emdad & Al Tamween) | On Site | Dec 02 |
 | **[Solera](https://www.solera.com/)** | **[Machine Learning Engineer - AI Core](https://jobr.pro/job/33573279/machine-learning-engineer-ai-core?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Virtual Spain | Remote | Dec 02 |
 | **[PayPal](https://www.paypal.com/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/33586391/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - California - San Jose - Corp - N First St, United States | On Site | Dec 02 |
 | **[Guidewire Software](https://www.guidewire.com/)** | **[Machine Learning Engineer III](https://jobr.pro/job/33586278/machine-learning-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo HQ, United States | On Site | Dec 02 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[T-Systems International](https://www.t-systems.com)** | **[Machine Learning Engineer (LLM Specialist)](https://jobr.pro/job/33414997/machine-learning-engineer-llm-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Spain, Andalucía, Spain | On Site | Nov 28 |
 | **[Portcast](https://portcast.io/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33409390/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore | On Site | Nov 28 |
 | **[Magna International](https://www.magna.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/33386603/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Piata Consiliul Europei 2C, 300627, Timisoara, RO, Romania | On Site | Nov 28 |
-| **[Abysalto](https://abysalto.eu/)** | **[Machine Learning Engineer (m/f)](https://jobr.pro/job/33344416/machine-learning-engineer-mf?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Zagreb, Croatia (Hybrid) | On Site | Nov 27 |
 
 ---
 
