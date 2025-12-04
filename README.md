@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 04, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 04, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -16,6 +16,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer (Community Health) - TikTok BRIC Singapore](https://jobr.pro/job/33670360/machine-learning-engineer-community-health-tiktok-bric-singapore?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 04 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33672416/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hyderabad, India | On Site | Dec 04 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/33672417/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hyderabad, India | On Site | Dec 04 |
+| **[LSEG](https://www.lseg.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33695543/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IND-Bangalore-TowerE,RMZ Infin, India | On Site | Dec 04 |
+| **[LSEG](https://www.lseg.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/33695449/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IND-Bangalore-TowerE,RMZ Infin, India | On Site | Dec 04 |
+| **[Zendesk](https://www.zendesk.com)** | **[Senior Machine Learning Engineer, AI/ML Infrastructure & GenAI Platforms](https://jobr.pro/job/33706069/senior-machine-learning-engineer-aiml-infrastructure-genai-platforms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Portugal - Lisbon - Office | On Site | Dec 04 |
 | **[ASOS](https://www.asos.com)** | **[Senior Machine Learning Engineer - ML Infrastructure](https://jobr.pro/job/33672432/senior-machine-learning-engineer-ml-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, England, United Kingdom | On Site | Dec 03 |
 | **[H&M Group](https://hmgroup.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33672433/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Stockholm, Stockholms län, Sweden | On Site | Dec 03 |
 | **[Corsearch](https://www.corsearch.com)** | **[Machine Learning Engineer](https://jobr.pro/job/33640012/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, United Kingdom | On Site | Dec 03 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Wave](https://www.wave.com/)** | **[Applied Machine Learning Engineer](https://jobr.pro/job/33504583/applied-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Ghana; Kenya; Spain; United Kingdom | Remote | Dec 01 |
 | **[Motional](https://motional.com/)** | **[Senior Machine Learning Engineer - ML Planner](https://jobr.pro/job/33508874/senior-machine-learning-engineer-ml-planner?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boston, Massachusetts, United States; Pittsburgh, Pennsylvania, United States; Remote U.S. | Remote | Dec 01 |
 | **[Woven by Toyota](https://woven.toyota/)** | **[Machine Learning Engineer, Online Mapping](https://jobr.pro/job/33504539/machine-learning-engineer-online-mapping?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Palo Alto, CA | On Site | Dec 01 |
-| **[Quizlet](https://quizlet.com/)** | **[Senior Staff Machine Learning Engineer, Personalization & Recommendations](https://jobr.pro/job/33505581/senior-staff-machine-learning-engineer-personalization-recommendations?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | Dec 01 |
-| **[Xiaomi](https://www.xiaomi.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/33491751/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 新加坡 | On Site | Dec 01 |
-| **[Dandy](https://www.meetdandy.com/)** | **[Machine Learning Engineer II](https://jobr.pro/job/33508726/machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - Remote | Remote | Dec 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 42 companies | Avg salary: 241k  
+**Current Stats:** 50 jobs | 24% remote | 41 companies | Avg salary: 247k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
