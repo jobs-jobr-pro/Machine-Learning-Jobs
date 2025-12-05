@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 05, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 05, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Informa Group Plc.](https://www.informa.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33716503/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, NY, United States | Remote | Dec 04 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/33716599/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, California, United States | On Site | Dec 04 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer (Community Health) - TikTok BRIC Singapore](https://jobr.pro/job/33670360/machine-learning-engineer-community-health-tiktok-bric-singapore?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 04 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33672416/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hyderabad, India | On Site | Dec 04 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/33672417/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hyderabad, India | On Site | Dec 04 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Guidewire Software](https://www.guidewire.com/)** | **[Machine Learning Engineer III](https://jobr.pro/job/33586278/machine-learning-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo HQ, United States | On Site | Dec 02 |
 | **[ICEYE](https://www.iceye.com/)** | **[Machine Learning Engineer - Satellite Fleet Automation](https://jobr.pro/job/33549735/machine-learning-engineer-satellite-fleet-automation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Helsinki, Uusimaa, Finland | On Site | Dec 02 |
 | **[Wave](https://www.wave.com/)** | **[Applied Machine Learning Engineer](https://jobr.pro/job/33504583/applied-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Ghana; Kenya; Spain; United Kingdom | Remote | Dec 01 |
-| **[Motional](https://motional.com/)** | **[Senior Machine Learning Engineer - ML Planner](https://jobr.pro/job/33508874/senior-machine-learning-engineer-ml-planner?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boston, Massachusetts, United States; Pittsburgh, Pennsylvania, United States; Remote U.S. | Remote | Dec 01 |
-| **[Woven by Toyota](https://woven.toyota/)** | **[Machine Learning Engineer, Online Mapping](https://jobr.pro/job/33504539/machine-learning-engineer-online-mapping?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Palo Alto, CA | On Site | Dec 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 41 companies | Avg salary: 247k  
+**Current Stats:** 50 jobs | 24% remote | 41 companies | Avg salary: 259k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
