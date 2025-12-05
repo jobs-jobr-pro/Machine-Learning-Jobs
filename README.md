@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 05, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 05, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -43,11 +43,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Corsearch](https://www.corsearch.com)** | **[Machine Learning Engineer](https://jobr.pro/job/33640012/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, United Kingdom | On Site | Dec 03 |
 | **[Wix](https://www.wix.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/33642324/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Kyiv, Ukraine | On Site | Dec 03 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/33614054/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, WA, US | On Site | Dec 03 |
-| **[DraftKings Inc.](https://www.draftkings.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33660277/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, UK, United Kingdom | On Site | Dec 03 |
-| **[Sephora](https://www.sephora.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33620278/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, SG | On Site | Dec 03 |
 | **[Rappi](https://www.rappi.com.mx/)** | **[Senior Machine Learning Engineer II](https://jobr.pro/job/33659678/senior-machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | COL-Bogotá, Colombia | On Site | Dec 03 |
 | **[PayPal](https://www.paypal.com/)** | **[Machine Learning Engineer PhD Intern](https://jobr.pro/job/33659973/machine-learning-engineer-phd-intern?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - California - San Jose - Corp - N First St, United States | On Site | Dec 03 |
 | **[PayPal](https://www.paypal.com/)** | **[Sr Machine Learning Engineer](https://jobr.pro/job/33659977/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IND - Karnataka - Bangalore - Corp - Sarjapur Main Rd, India | On Site | Dec 03 |
+| **[DraftKings Inc.](https://www.draftkings.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33660277/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, UK, United Kingdom | On Site | Dec 03 |
+| **[Sephora](https://www.sephora.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33620278/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, SG | On Site | Dec 03 |
 | **[Attain](https://attaindata.io/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33611936/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Redwood City, CA | On Site | Dec 02 |
 | **[SimplePractice](https://www.simplepractice.com/)** | **[Senior Machine Learning Engineer, Platform (Hybrid)](https://jobr.pro/job/33612783/senior-machine-learning-engineer-platform-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mexico City | On Site | Dec 02 |
 | **[JPMorgan Chase & Co.](https://www.jpmorganchase.com/)** | **[2026 Asset Wealth Management Machine Learning Engineer - Summer Associate](https://jobr.pro/job/33650768/2026-asset-wealth-management-machine-learning-engineer-summer-associate?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Jersey City, NJ, United States | On Site | Dec 02 |
