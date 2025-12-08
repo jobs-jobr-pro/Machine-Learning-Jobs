@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 08, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 08, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,9 +13,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[LSports](https://www.lsports.eu/)** | **[Machine Learning Engineer](https://jobr.pro/job/33931719/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 08 |
+| **[Sybrin](https://sybrin.com/)** | **[Machine Learning Engineer Internship](https://jobr.pro/job/33929597/machine-learning-engineer-internship?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Johannesburg, South Africa | Remote | Dec 08 |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer (Platform Governance), TikTok Global E-Commerce - 2025 Start (PhD)](https://jobr.pro/job/33921792/machine-learning-engineer-platform-governance-tiktok-global-e-commerce-2025-start-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 08 |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer (CV/NLP/Multimodal/LLM), TikTok Global E-Commerce - 2025 Start (PhD)](https://jobr.pro/job/33921727/machine-learning-engineer-cvnlpmultimodalllm-tiktok-global-e-commerce-2025-start-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 08 |
 | **[Canva](https://www.canva.com)** | **[Senior Machine Learning Engineer - Evaluations (Design Generation)](https://jobr.pro/job/33909601/senior-machine-learning-engineer-evaluations-design-generation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sydney, NSW, Australia | On Site | Dec 08 |
 | **[Woven by Toyota](https://woven.toyota/)** | **[Senior Machine Learning Engineer, Vehicle Perception](https://jobr.pro/job/33905854/senior-machine-learning-engineer-vehicle-perception?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tokyo | On Site | Dec 08 |
 | **[PitchBook Data](https://pitchbook.com/)** | **[Sr. Machine Learning Engineer](https://jobr.pro/job/33904487/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, New York, United States | On Site | Dec 08 |
+| **[Red Hat](https://www.redhat.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33932151/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Waterford City, Ireland | Remote | Dec 08 |
+| **[Julius Baer](https://www.juliusbaer.com/)** | **[IT Working Student - Junior Machine Learning Engineer 60%-100% (f/m/d)](https://jobr.pro/job/33929854/it-working-student-junior-machine-learning-engineer-60-100-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Zurich, Switzerland | On Site | Dec 08 |
+| **[Dell Technologies](https://www.delltechnologies.com/)** | **[AI Machine Learning Engineer](https://jobr.pro/job/33934949/ai-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 08 |
+| **[Tooploox](https://tooploox.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33921956/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Warszawa, Poland | On Site | Dec 07 |
 | **[SciTec](https://scitec.com/)** | **[Senior Staff/Senior Machine Learning Engineer](https://jobr.pro/job/33910637/senior-staffsenior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Huntsville, Alabama, United States | On Site | Dec 07 |
 | **[Medal](https://medal.tv/)** | **[Generative AI / Machine Learning Engineer - NYC](https://jobr.pro/job/33906396/generative-ai-machine-learning-engineer-nyc?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York City | On Site | Dec 07 |
 | **[Dexterity](https://www.dexterity.ai/)** | **[Senior/Staff Machine Learning Engineer](https://jobr.pro/job/33905286/seniorstaff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Redwood City | On Site | Dec 07 |
@@ -46,7 +54,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Box](https://www.box.com/)** | **[Machine Learning Engineer III, AI Agents](https://jobr.pro/job/33734750/machine-learning-engineer-iii-ai-agents?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Redwood City, CA, United States | On Site | Dec 05 |
 | **[BJAK](https://bjak.my/)** | **[Founding Machine Learning Engineer](https://jobr.pro/job/33735039/founding-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Brussels | Remote | Dec 05 |
 | **[Adobe](https://www.adobe.com/)** | **[Staff Machine Learning Engineer, Adobe Firefly Services](https://jobr.pro/job/33836959/staff-machine-learning-engineer-adobe-firefly-services?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, United States | On Site | Dec 05 |
-| **[Red Hat](https://www.redhat.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33812012/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boston, United States | Remote | Dec 05 |
 | **[Zoox](https://zoox.com/)** | **[Senior Machine Learning Engineer - Perception Mapping](https://jobr.pro/job/33731184/senior-machine-learning-engineer-perception-mapping?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA | On Site | Dec 04 |
 | **[Informa Group Plc.](https://www.informa.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33716503/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, NY, United States | Remote | Dec 04 |
 | **[Roblox](https://www.roblox.com/)** | **[\[2026\] Senior Machine Learning Engineer, Engine Optimization - PhD Early Career](https://jobr.pro/job/33734172/2026-senior-machine-learning-engineer-engine-optimization-phd-early-career?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA, United States | On Site | Dec 04 |
@@ -56,17 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Match Group](https://mtch.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33735310/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Vancouver, British Columbia | On Site | Dec 04 |
 | **[Unity](https://unity.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/33745401/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote, USA | Remote | Dec 04 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/33716599/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, California, United States | On Site | Dec 04 |
-| **[Truelogic](https://www.truelogic.io/)** | **[Machine Learning Engineer (GenAI & Multimodal Systems) - Creative Tech Studio (DR)](https://jobr.pro/job/33738999/machine-learning-engineer-genai-multimodal-systems-creative-tech-studio-dr?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santo Domingo | Remote | Dec 04 |
-| **[Truelogic](https://www.truelogic.io/)** | **[Machine Learning Engineer (GenAI & Multimodal Systems) - Creative Tech Studio (Brazil)](https://jobr.pro/job/33738998/machine-learning-engineer-genai-multimodal-systems-creative-tech-studio-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | São Paulo | Remote | Dec 04 |
-| **[Truelogic](https://www.truelogic.io/)** | **[Machine Learning Engineer (GenAI & Multimodal Systems) - Creative Tech Studio (Mexico)](https://jobr.pro/job/33738997/machine-learning-engineer-genai-multimodal-systems-creative-tech-studio-mexico?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mexico City | Remote | Dec 04 |
-| **[Truelogic](https://www.truelogic.io/)** | **[Machine Learning Engineer (GenAI & Multimodal Systems) - Creative Tech Studio (Colombia)](https://jobr.pro/job/33738996/machine-learning-engineer-genai-multimodal-systems-creative-tech-studio-colombia?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bogota | Remote | Dec 04 |
-| **[Truelogic](https://www.truelogic.io/)** | **[Machine Learning Engineer (GenAI & Multimodal Systems) - Creative Tech Studio](https://jobr.pro/job/33738986/machine-learning-engineer-genai-multimodal-systems-creative-tech-studio?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | LatAm | Remote | Dec 04 |
-| **[Dedrone by Axon](https://www.dedrone.com/)** | **[Senior Machine Learning Engineer, Computer Vision](https://jobr.pro/job/33730576/senior-machine-learning-engineer-computer-vision?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sterling, Virginia, United States | On Site | Dec 04 |
-| **[Dedrone by Axon](https://www.dedrone.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33730575/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sterling, Virginia, United States | On Site | Dec 04 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 35 companies | Avg salary: 254k  
+**Current Stats:** 50 jobs | 30% remote | 40 companies | Avg salary: 253k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
