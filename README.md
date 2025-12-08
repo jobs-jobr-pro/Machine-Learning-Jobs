@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 08, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 08, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -16,6 +16,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Canva](https://www.canva.com)** | **[Senior Machine Learning Engineer - Evaluations (Design Generation)](https://jobr.pro/job/33909601/senior-machine-learning-engineer-evaluations-design-generation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sydney, NSW, Australia | On Site | Dec 08 |
 | **[Woven by Toyota](https://woven.toyota/)** | **[Senior Machine Learning Engineer, Vehicle Perception](https://jobr.pro/job/33905854/senior-machine-learning-engineer-vehicle-perception?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tokyo | On Site | Dec 08 |
 | **[PitchBook Data](https://pitchbook.com/)** | **[Sr. Machine Learning Engineer](https://jobr.pro/job/33904487/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, New York, United States | On Site | Dec 08 |
+| **[SciTec](https://scitec.com/)** | **[Senior Staff/Senior Machine Learning Engineer](https://jobr.pro/job/33910637/senior-staffsenior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Huntsville, Alabama, United States | On Site | Dec 07 |
 | **[Medal](https://medal.tv/)** | **[Generative AI / Machine Learning Engineer - NYC](https://jobr.pro/job/33906396/generative-ai-machine-learning-engineer-nyc?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York City | On Site | Dec 07 |
 | **[Dexterity](https://www.dexterity.ai/)** | **[Senior/Staff Machine Learning Engineer](https://jobr.pro/job/33905286/seniorstaff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Redwood City | On Site | Dec 07 |
 | **[Extreme Networks](https://www.extremenetworks.com/)** | **[AI Staff Machine Learning Engineer (10030)](https://jobr.pro/job/33903032/ai-staff-machine-learning-engineer-10030?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Dec 07 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Truelogic](https://www.truelogic.io/)** | **[Machine Learning Engineer (GenAI & Multimodal Systems) - Creative Tech Studio](https://jobr.pro/job/33738986/machine-learning-engineer-genai-multimodal-systems-creative-tech-studio?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | LatAm | Remote | Dec 04 |
 | **[Dedrone by Axon](https://www.dedrone.com/)** | **[Senior Machine Learning Engineer, Computer Vision](https://jobr.pro/job/33730576/senior-machine-learning-engineer-computer-vision?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sterling, Virginia, United States | On Site | Dec 04 |
 | **[Dedrone by Axon](https://www.dedrone.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33730575/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sterling, Virginia, United States | On Site | Dec 04 |
-| **[Toyota Research Institute](https://www.tri.global/)** | **[Robotics Machine Learning Engineer - Platforms for Vision Language Action Foundation Models](https://jobr.pro/job/33723256/robotics-machine-learning-engineer-platforms-for-vision-language-action-foundation-models?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Los Altos, CA | On Site | Dec 04 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 35 companies | Avg salary: 260k  
+**Current Stats:** 50 jobs | 38% remote | 35 companies | Avg salary: 254k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
