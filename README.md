@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 08, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 08, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -23,6 +23,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Red Hat](https://www.redhat.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33932151/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Waterford City, Ireland | Remote | Dec 08 |
 | **[Julius Baer](https://www.juliusbaer.com/)** | **[IT Working Student - Junior Machine Learning Engineer 60%-100% (f/m/d)](https://jobr.pro/job/33929854/it-working-student-junior-machine-learning-engineer-60-100-fmd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Zurich, Switzerland | On Site | Dec 08 |
 | **[Dell Technologies](https://www.delltechnologies.com/)** | **[AI Machine Learning Engineer](https://jobr.pro/job/33934949/ai-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 08 |
+| **[Bluesky](https://bsky.app)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33937721/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Fully Remote - Overlap with PST working hours | Remote | Dec 07 |
 | **[Tooploox](https://tooploox.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33921956/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Warszawa, Poland | On Site | Dec 07 |
 | **[SciTec](https://scitec.com/)** | **[Senior Staff/Senior Machine Learning Engineer](https://jobr.pro/job/33910637/senior-staffsenior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Huntsville, Alabama, United States | On Site | Dec 07 |
 | **[Medal](https://medal.tv/)** | **[Generative AI / Machine Learning Engineer - NYC](https://jobr.pro/job/33906396/generative-ai-machine-learning-engineer-nyc?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York City | On Site | Dec 07 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Goodfire](https://www.goodfire.ai/)** | **[Machine Learning Engineer](https://jobr.pro/job/33755519/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | Dec 04 |
 | **[Match Group](https://mtch.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33735310/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Vancouver, British Columbia | On Site | Dec 04 |
 | **[Unity](https://unity.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/33745401/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote, USA | Remote | Dec 04 |
-| **[ServiceNow](https://www.servicenow.com)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/33716599/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, California, United States | On Site | Dec 04 |
 
 ---
 
-**Current Stats:** 50 jobs | 30% remote | 40 companies | Avg salary: 253k  
+**Current Stats:** 50 jobs | 32% remote | 41 companies | Avg salary: 245k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
