@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 09, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 09, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -23,6 +23,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Whalar](https://www.whalar.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/33960694/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, NY | On Site | Dec 08 |
 | **[Federato](https://www.federato.ai/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33960072/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Dec 08 |
 | **[NEXTON](https://www.nexton-consulting.com/)** | **[Machine Learning Engineer H/F](https://jobr.pro/job/33952180/machine-learning-engineer-hf?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bordeaux, Nouvelle-Aquitaine, France | On Site | Dec 08 |
+| **[CleanSlate Technology Group](https://www.cleanslatetg.com/)** | **[AI/Machine Learning Engineer](https://jobr.pro/job/33988100/aimachine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Carmel, Indiana- Hybrid OR St. Louis, Missouri | On Site | Dec 08 |
 | **[Doctrine](https://www.doctrine.fr/)** | **[Experienced Machine Learning Engineer - Germany 🇩🇪 (German speaking)](https://jobr.pro/job/33961637/experienced-machine-learning-engineer-germany-german-speaking?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris | On Site | Dec 08 |
 | **[LSports](https://www.lsports.eu/)** | **[Machine Learning Engineer](https://jobr.pro/job/33931719/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Dec 08 |
 | **[Sybrin](https://sybrin.com/)** | **[Machine Learning Engineer Internship](https://jobr.pro/job/33929597/machine-learning-engineer-internship?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Johannesburg, South Africa | Remote | Dec 08 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Truelogic](https://www.truelogic.io/)** | **[Lead Machine Learning Engineer (GenAI & Multimodal Systems) – Digital Innovation Agency (DR)](https://jobr.pro/job/33845690/lead-machine-learning-engineer-genai-multimodal-systems-digital-innovation-agency-dr?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santo Domingo | Remote | Dec 05 |
 | **[Truelogic](https://www.truelogic.io/)** | **[Lead Machine Learning Engineer (GenAI & Multimodal Systems) – Digital Innovation Agency (Brazil)](https://jobr.pro/job/33845689/lead-machine-learning-engineer-genai-multimodal-systems-digital-innovation-agency-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | São Paulo | Remote | Dec 05 |
 | **[Truelogic](https://www.truelogic.io/)** | **[Lead Machine Learning Engineer (GenAI & Multimodal Systems) – Digital Innovation Agency (Colombia)](https://jobr.pro/job/33845688/lead-machine-learning-engineer-genai-multimodal-systems-digital-innovation-agency-colombia?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bogota | Remote | Dec 05 |
-| **[Truelogic](https://www.truelogic.io/)** | **[Lead Machine Learning Engineer (GenAI & Multimodal Systems) – Digital Innovation Agency (Mexico)](https://jobr.pro/job/33845687/lead-machine-learning-engineer-genai-multimodal-systems-digital-innovation-agency-mexico?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mexico City | Remote | Dec 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 41 companies | Avg salary: 230k  
+**Current Stats:** 50 jobs | 26% remote | 42 companies | Avg salary: 230k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
