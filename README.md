@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 09, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 10, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -25,6 +25,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zendesk](https://www.zendesk.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34030456/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Portugal - All - Fully Flexible | On Site | Dec 09 |
 | **[Comcast](https://corporate.comcast.com/)** | **[Sr. Machine Learning Engineer](https://jobr.pro/job/34036261/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | DC - Washington, 1325 G ST NW STE 300, United States | On Site | Dec 09 |
 | **[SailPoint](https://www.sailpoint.com/)** | **[Senior Machine Learning Engineer (REMOTE)](https://jobr.pro/job/34033896/senior-machine-learning-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States, United States | Remote | Dec 09 |
+| **[CompuGroup Medical](https://www.cgm.com/)** | **[Machine Learning Engineer (m/f/d)](https://jobr.pro/job/34037634/machine-learning-engineer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Koblenz \| Maria Trost 21, Tyskland | On Site | Dec 09 |
+| **[MUFG](https://www.bk.mufg.jp/)** | **[Machine Learning Engineer - Data Pipelines, Analyst](https://jobr.pro/job/34036811/machine-learning-engineer-data-pipelines-analyst?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New Jersey Office - 210 Hudson Street, United States | On Site | Dec 09 |
 | **[Lucid Motors](https://lucidmotors.com/)** | **[Perception Machine Learning Engineer – ADAS](https://jobr.pro/job/33969093/perception-machine-learning-engineer-adas?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Southfield, MI | On Site | Dec 08 |
 | **[LUUM](https://www.luumlash.com)** | **[Computer Vision and Machine Learning Engineer](https://jobr.pro/job/33956938/computer-vision-and-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Oakland, CA | On Site | Dec 08 |
 | **[Waymo](https://waymo.com/)** | **[Senior Machine Learning Engineer, Simulation](https://jobr.pro/job/33959833/senior-machine-learning-engineer-simulation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA; New York, NY, USA | On Site | Dec 08 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SciTec](https://scitec.com/)** | **[Senior Staff/Senior Machine Learning Engineer](https://jobr.pro/job/33910637/senior-staffsenior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Huntsville, Alabama, United States | On Site | Dec 07 |
 | **[Medal](https://medal.tv/)** | **[Generative AI / Machine Learning Engineer - NYC](https://jobr.pro/job/33906396/generative-ai-machine-learning-engineer-nyc?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York City | On Site | Dec 07 |
 | **[Dexterity](https://www.dexterity.ai/)** | **[Senior/Staff Machine Learning Engineer](https://jobr.pro/job/33905286/seniorstaff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Redwood City | On Site | Dec 07 |
-| **[Extreme Networks](https://www.extremenetworks.com/)** | **[AI Staff Machine Learning Engineer (10030)](https://jobr.pro/job/33903032/ai-staff-machine-learning-engineer-10030?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Dec 07 |
-| **[Coinbase](https://www.coinbase.com/)** | **[Senior Machine Learning Engineer, Platform](https://jobr.pro/job/33905537/senior-machine-learning-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - India | Remote | Dec 06 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 42 companies | Avg salary: 233k  
+**Current Stats:** 50 jobs | 26% remote | 42 companies | Avg salary: 227k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
