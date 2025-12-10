@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 10, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 10, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Virtuos](https://www.virtuosgames.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34084066/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | China | On Site | Dec 10 |
 | **[Crunchyroll Inc.](https://www.crunchyroll.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34055849/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA, United States | On Site | Dec 09 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/34048843/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Brasil | Remote | Dec 09 |
 | **[Waymo](https://waymo.com/)** | **[Machine Learning Engineer - Mapping](https://jobr.pro/job/34045826/machine-learning-engineer-mapping?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA | On Site | Dec 09 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Rasa](https://rasa.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33963782/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - Serbia | Remote | Dec 08 |
 | **[Xometry](https://www.xometry.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/33968906/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Georgia | Remote | Dec 08 |
 | **[Bland.ai](https://bland.ai/)** | **[Machine Learning Engineer](https://jobr.pro/job/33964987/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco | On Site | Dec 08 |
-| **[Canva](https://www.canva.com)** | **[Senior Machine Learning Engineer - Evaluations (Design Generation)](https://jobr.pro/job/33909601/senior-machine-learning-engineer-evaluations-design-generation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sydney, NSW, Australia | On Site | Dec 08 |
 
 ---
 
