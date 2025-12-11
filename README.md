@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 11, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 11, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,7 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Sia](https://www.sia-partners.com)** | **[Machine Learning Engineer - H/F](https://jobr.pro/job/34131268/machine-learning-engineer-hf?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris, IDF, France | On Site | Dec 10 |
+| **[Northwestern Memorial Healthcare](https://www.nm.org)** | **[Machine Learning Engineer](https://jobr.pro/job/34131279/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Chicago, IL, United States | On Site | Dec 10 |
 | **[Virtuos](https://www.virtuosgames.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34084066/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | China | On Site | Dec 10 |
+| **[NVIDIA](https://www.nvidia.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34133238/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | US, CA, Santa Clara, United States | On Site | Dec 10 |
 | **[Morningstar](https://www.morningstar.com/)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/34129681/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mumbai, India | On Site | Dec 10 |
 | **[Vanguard](https://www.vanguard.com/)** | **[Senior Machine Learning Engineer, Specialist](https://jobr.pro/job/34128715/senior-machine-learning-engineer-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Malvern, PA, United States | On Site | Dec 10 |
 | **[Crunchyroll Inc.](https://www.crunchyroll.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34055849/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA, United States | On Site | Dec 09 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sybrin](https://sybrin.com/)** | **[Machine Learning Engineer Internship](https://jobr.pro/job/33929597/machine-learning-engineer-internship?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Johannesburg, South Africa | Remote | Dec 08 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer (Platform Governance), TikTok Global E-Commerce - 2025 Start (PhD)](https://jobr.pro/job/33921792/machine-learning-engineer-platform-governance-tiktok-global-e-commerce-2025-start-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 08 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer (CV/NLP/Multimodal/LLM), TikTok Global E-Commerce - 2025 Start (PhD)](https://jobr.pro/job/33921727/machine-learning-engineer-cvnlpmultimodalllm-tiktok-global-e-commerce-2025-start-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 08 |
-| **[Hawk-Eye Innovations (HEI)](https://www.hawkeyeinnovations.com/)** | **[Machine Learning Engineer - Sports AI](https://jobr.pro/job/33965198/machine-learning-engineer-sports-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hungary, Budapest | On Site | Dec 08 |
-| **[Sertis](https://www.sertiscorp.com/)** | **[Tech Lead, Machine Learning Engineer](https://jobr.pro/job/33956862/tech-lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangkok, Bangkok Metropolis, Thailand | On Site | Dec 08 |
-| **[Rasa](https://rasa.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33963782/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - Serbia | Remote | Dec 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 41 companies | Avg salary: 227k  
+**Current Stats:** 50 jobs | 26% remote | 41 companies | Avg salary: 239k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
