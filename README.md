@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 11, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 11, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -21,6 +21,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Reddit](https://www.redditinc.com/)** | **[Senior Staff Machine Learning Engineer](https://jobr.pro/job/34147167/senior-staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - United States | Remote | Dec 11 |
 | **[Block](https://block.xyz/)** | **[Senior Machine Learning Engineer, Risk](https://jobr.pro/job/34139511/senior-machine-learning-engineer-risk?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bay Area, CA, United States of America | On Site | Dec 11 |
 | **[Waymo](https://waymo.com/)** | **[Machine Learning Engineer, Sensor Pipelines](https://jobr.pro/job/34150979/machine-learning-engineer-sensor-pipelines?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA | On Site | Dec 11 |
+| **[S&P Global](https://www.spglobal.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34173533/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IN - HYDERABAD SKYVIEW, India | On Site | Dec 11 |
+| **[S&P Global](https://www.spglobal.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34173525/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IN - HYDERABAD SKYVIEW, India | On Site | Dec 11 |
 | **[Waymo](https://waymo.com/)** | **[Staff Machine Learning Engineer, Simulation](https://jobr.pro/job/34150995/staff-machine-learning-engineer-simulation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, England, United Kingdom | On Site | Dec 10 |
 | **[Waymo](https://waymo.com/)** | **[Senior Staff Machine Learning Engineer, Simulation](https://jobr.pro/job/34150986/senior-staff-machine-learning-engineer-simulation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View,CA, USA; San Francisco, CA, USA; New York, NY, USA | On Site | Dec 10 |
 | **[Instacart](https://www.instacart.com/)** | **[Senior Machine Learning Engineer - Logistics](https://jobr.pro/job/34152624/senior-machine-learning-engineer-logistics?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States -Remote | Remote | Dec 10 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Almedia](https://www.almedia.co/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/34052605/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Berlin | On Site | Dec 09 |
 | **[BJAK](https://bjak.my/)** | **[Founding Machine Learning Engineer](https://jobr.pro/job/33965486/founding-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Berlin | Remote | Dec 09 |
 | **[Conviva](https://www.conviva.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33957179/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA | On Site | Dec 09 |
-| **[Red Hat](https://www.redhat.com/)** | **[Principal Machine Learning Engineer - PyTorch](https://jobr.pro/job/34014815/principal-machine-learning-engineer-pytorch?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore - Carina, India | Remote | Dec 09 |
-| **[Red Hat](https://www.redhat.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/34014814/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore - Carina, India | Remote | Dec 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 37 companies | Avg salary: 244k  
+**Current Stats:** 50 jobs | 20% remote | 37 companies | Avg salary: 244k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
