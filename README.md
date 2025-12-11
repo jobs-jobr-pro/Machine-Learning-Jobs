@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 11, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 11, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -25,6 +25,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Waymo](https://waymo.com/)** | **[Machine Learning Engineer, Sensor Pipelines](https://jobr.pro/job/34150979/machine-learning-engineer-sensor-pipelines?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA | On Site | Dec 11 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34173533/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IN - HYDERABAD SKYVIEW, India | On Site | Dec 11 |
 | **[S&P Global](https://www.spglobal.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34173525/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IN - HYDERABAD SKYVIEW, India | On Site | Dec 11 |
+| **[G-Research](https://www.gresearch.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34209036/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, United Kingdom | On Site | Dec 11 |
+| **[Zendesk](https://www.zendesk.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34210465/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Australia - Melbourne - Office | On Site | Dec 11 |
 | **[Waymo](https://waymo.com/)** | **[Staff Machine Learning Engineer, Simulation](https://jobr.pro/job/34150995/staff-machine-learning-engineer-simulation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, England, United Kingdom | On Site | Dec 10 |
 | **[Waymo](https://waymo.com/)** | **[Senior Staff Machine Learning Engineer, Simulation](https://jobr.pro/job/34150986/senior-staff-machine-learning-engineer-simulation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View,CA, USA; San Francisco, CA, USA; New York, NY, USA | On Site | Dec 10 |
 | **[Instacart](https://www.instacart.com/)** | **[Senior Machine Learning Engineer - Logistics](https://jobr.pro/job/34152624/senior-machine-learning-engineer-logistics?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States -Remote | Remote | Dec 10 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Shop Ads - USDS](https://jobr.pro/job/33998076/machine-learning-engineer-shop-ads-usds?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Los Angeles, California, United States | On Site | Dec 09 |
 | **[TikTok](https://www.tiktok.com/)** | **[Senior Machine Learning Engineer, Ads Pangle - USDS](https://jobr.pro/job/33998063/senior-machine-learning-engineer-ads-pangle-usds?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Dec 09 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Expert (User Growth & Intelligent Marketing) - Global e-Commerce](https://jobr.pro/job/33998050/machine-learning-engineer-expert-user-growth-intelligent-marketing-global-e-commerce?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 09 |
-| **[KPN](https://www.kpn.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34065234/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Amsterdam, NH, Netherlands | On Site | Dec 09 |
-| **[Almedia](https://www.almedia.co/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/34052605/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Berlin | On Site | Dec 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 36 companies | Avg salary: 245k  
+**Current Stats:** 50 jobs | 18% remote | 36 companies | Avg salary: 250k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
