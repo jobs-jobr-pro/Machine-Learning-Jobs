@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 11, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 11, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Codvo.ai](https://www.codvo.ai/)** | **[Machine Learning Engineer](https://jobr.pro/job/34188964/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Maharashtra, Pune, India | On Site | Dec 11 |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate, Trust and Safety, USDS - 2025 Start (MS)](https://jobr.pro/job/34180324/machine-learning-engineer-graduate-trust-and-safety-usds-2025-start-ms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Dec 11 |
 | **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Sr Principal Machine Learning Engineer (Prisma AIRS)](https://jobr.pro/job/34150095/sr-principal-machine-learning-engineer-prisma-airs?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CA, United States | On Site | Dec 11 |
 | **[Affirm](https://www.affirm.com/)** | **[Senior Staff Machine Learning Engineer, (ML Underwriting)](https://jobr.pro/job/34149814/senior-staff-machine-learning-engineer-ml-underwriting?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote Canada | Remote | Dec 11 |
 | **[Waymo](https://waymo.com/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/34150994/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA | On Site | Dec 11 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Expert (User Growth & Intelligent Marketing) - Global e-Commerce](https://jobr.pro/job/33998050/machine-learning-engineer-expert-user-growth-intelligent-marketing-global-e-commerce?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 09 |
 | **[KPN](https://www.kpn.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34065234/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Amsterdam, NH, Netherlands | On Site | Dec 09 |
 | **[Almedia](https://www.almedia.co/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/34052605/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Berlin | On Site | Dec 09 |
-| **[BJAK](https://bjak.my/)** | **[Founding Machine Learning Engineer](https://jobr.pro/job/33965486/founding-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Berlin | Remote | Dec 09 |
-| **[Conviva](https://www.conviva.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/33957179/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA | On Site | Dec 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 37 companies | Avg salary: 244k  
+**Current Stats:** 50 jobs | 18% remote | 36 companies | Avg salary: 245k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
