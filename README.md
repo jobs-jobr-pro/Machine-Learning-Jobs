@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 12, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 12, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -27,6 +27,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Novibet](https://www.novibet.com)** | **[Machine Learning Engineer](https://jobr.pro/job/34249722/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Athens, Attica, Greece | On Site | Dec 12 |
 | **[Zoom](https://www.zoom.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34261618/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle (WA), United States | On Site | Dec 12 |
 | **[Synechron](https://www.synechron.com/)** | **[Junior Machine Learning Engineer](https://jobr.pro/job/34271668/junior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Serbia - Novi Sad | On Site | Dec 12 |
+| **[PayPal](https://www.paypal.com/)** | **[Sr Machine Learning Engineer](https://jobr.pro/job/34278629/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IND - Karnataka - Bangalore - Corp - Sarjapur Main Rd, India | On Site | Dec 12 |
+| **[Crowe](https://www.crowe.com/)** | **[Machine Learning Engineer 2](https://jobr.pro/job/34274759/machine-learning-engineer-2?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hyderabad, India | On Site | Dec 12 |
 | **[Moloco](https://www.moloco.com/)** | **[Machine Learning Engineer Intern](https://jobr.pro/job/34215299/machine-learning-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, England, United Kingdom | On Site | Dec 11 |
 | **[Cohere Health](https://coherehealth.com/)** | **[Machine Learning Engineer ll](https://jobr.pro/job/34216520/machine-learning-engineer-ll?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | Remote | Dec 11 |
 | **[Block](https://block.xyz/)** | **[Machine Learning Engineer](https://jobr.pro/job/34216611/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Melbourne, Australia | On Site | Dec 11 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[S&P Global](https://www.spglobal.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34173525/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IN - HYDERABAD SKYVIEW, India | On Site | Dec 11 |
 | **[Amazon.com](https://www.amazon.com/)** | **[Senior Machine Learning Engineer, Model Customization, Generative AI Innovation Center](https://jobr.pro/job/34214570/senior-machine-learning-engineer-model-customization-generative-ai-innovation-center?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, California, USA | On Site | Dec 11 |
 | **[G-Research](https://www.gresearch.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34209036/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, United Kingdom | On Site | Dec 11 |
-| **[Zendesk](https://www.zendesk.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34210465/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Australia - Melbourne - Office | On Site | Dec 11 |
-| **[Waymo](https://waymo.com/)** | **[Staff Machine Learning Engineer, Simulation](https://jobr.pro/job/34150995/staff-machine-learning-engineer-simulation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, England, United Kingdom | On Site | Dec 10 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 30 companies | Avg salary: 259k  
+**Current Stats:** 50 jobs | 8% remote | 31 companies | Avg salary: 266k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
