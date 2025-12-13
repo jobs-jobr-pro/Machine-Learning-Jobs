@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 13, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 13, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Xiaomi](https://www.xiaomi.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34347130/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 新加坡 | On Site | Dec 13 |
 | **[Coupang](https://www.coupang.jobs/)** | **[Senior Staff Machine Learning Engineer (Ads Tech)](https://jobr.pro/job/34300323/senior-staff-machine-learning-engineer-ads-tech?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, USA | On Site | Dec 13 |
 | **[PitchBook Data](https://pitchbook.com/)** | **[Staff Machine Learning Engineer, Data Collections AI & ML](https://jobr.pro/job/34300981/staff-machine-learning-engineer-data-collections-ai-ml?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Dec 12 |
 | **[Intuitive](https://www.intuitive.com)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/34302430/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale, CA, United States | On Site | Dec 12 |
@@ -26,6 +27,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Graphcore](https://www.graphcore.ai/)** | **[Senior Machine Learning Engineer (Large Systems)](https://jobr.pro/job/34309790/senior-machine-learning-engineer-large-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, UK | On Site | Dec 12 |
 | **[Axon](https://www.axon.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34308924/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Dec 12 |
 | **[Unity](https://unity.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34296593/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA, USA | On Site | Dec 12 |
+| **[BioRender](https://biorender.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34338858/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - US; CA | Remote | Dec 12 |
 | **[TikTok](https://www.tiktok.com/)** | **[Risk Control Machine Learning Engineer (CV/NLP) - TikTok BRIC Singapore](https://jobr.pro/job/34252720/risk-control-machine-learning-engineer-cvnlp-tiktok-bric-singapore?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 12 |
 | **[TikTok](https://www.tiktok.com/)** | **[Engineer Graduate: (Machine Learning Engineer Graduate -Search E-Commerce- San Jose) - 2026 Start (PhD)](https://jobr.pro/job/34252627/engineer-graduate-machine-learning-engineer-graduate-search-e-commerce-san-jose-2026-start-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Dec 12 |
 | **[TikTok](https://www.tiktok.com/)** | **[Engineer Graduate: (Machine Learning Engineer Graduate - Search E-Commerce - Seattle) - 2026 Start (PhD)](https://jobr.pro/job/34252623/engineer-graduate-machine-learning-engineer-graduate-search-e-commerce-seattle-2026-start-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Dec 12 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Wayve](https://wayve.ai/)** | **[Machine Learning Engineer - Pre-Training](https://jobr.pro/job/34214810/machine-learning-engineer-pre-training?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London | On Site | Dec 11 |
 | **[Wayve](https://wayve.ai/)** | **[Machine Learning Engineer, Inference Optimisation](https://jobr.pro/job/34214809/machine-learning-engineer-inference-optimisation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London | On Site | Dec 11 |
 | **[Wayve](https://wayve.ai/)** | **[Machine Learning Engineer - Evaluation](https://jobr.pro/job/34214808/machine-learning-engineer-evaluation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London; Sunnyvale; Vancouver | On Site | Dec 11 |
-| **[Codvo.ai](https://www.codvo.ai/)** | **[Machine Learning Engineer](https://jobr.pro/job/34188964/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Maharashtra, Pune, India | On Site | Dec 11 |
-| **[NielsenIQ](https://nielseniq.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34213419/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Kuala Lumpur, 14, Malaysia | On Site | Dec 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 8% remote | 35 companies | Avg salary: 255k  
+**Current Stats:** 50 jobs | 10% remote | 35 companies | Avg salary: 255k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
