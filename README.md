@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 15, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 16, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -23,6 +23,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Canva](https://www.canva.com)** | **[Senior Machine Learning Engineer - AI Platform Enablement (ANZ remote)](https://jobr.pro/job/34358145/senior-machine-learning-engineer-ai-platform-enablement-anz-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sydney, NSW, Australia | Remote | Dec 15 |
 | **[Coupang](https://www.coupang.jobs/)** | **[Staff, Machine Learning Engineer - Coupang Play](https://jobr.pro/job/34356637/staff-machine-learning-engineer-coupang-play?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seoul, South Korea | On Site | Dec 15 |
 | **[Amgen](https://www.amgen.com/)** | **[Associate Director, Machine Learning Engineer](https://jobr.pro/job/34393970/associate-director-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | US - Texas - Houston - Field/Remote, United States | Remote | Dec 15 |
+| **[Capital One](https://www.capitalonecareers.com/)** | **[Senior Lead Machine Learning Engineer](https://jobr.pro/job/34401144/senior-lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, NY, United States | On Site | Dec 15 |
+| **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[Artificial Intelligence/Machine Learning Engineer](https://jobr.pro/job/34401922/artificial-intelligencemachine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Undisclosed Location - USA, VA, Mclean, United States | On Site | Dec 15 |
 | **[Unity](https://unity.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34352348/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA, USA | On Site | Dec 14 |
 | **[Bayesian Health](https://www.bayesianhealth.com/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/34355826/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Dec 14 |
 | **[HP IQ](https://hp-iq.com)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/34355509/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | Dec 14 |
@@ -56,17 +58,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zoom](https://www.zoom.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34261625/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle (WA), United States | On Site | Dec 12 |
 | **[Zoom](https://www.zoom.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34261618/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle (WA), United States | On Site | Dec 12 |
 | **[Novibet](https://www.novibet.com)** | **[Machine Learning Engineer](https://jobr.pro/job/34249722/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Athens, Attica, Greece | On Site | Dec 12 |
+| **[Crowe](https://www.crowe.com/)** | **[Machine Learning Engineer 2](https://jobr.pro/job/34274759/machine-learning-engineer-2?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hyderabad, India | On Site | Dec 12 |
+| **[Synechron](https://www.synechron.com/)** | **[Junior Machine Learning Engineer](https://jobr.pro/job/34271668/junior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Serbia - Novi Sad | On Site | Dec 12 |
 | **[MediaRadar](https://mediaradar.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34238579/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Madrid, Community of Madrid, Spain - Remote | Remote | Dec 12 |
 | **[HP](https://www.hp.com/)** | **[AI Lab - Junior Machine Learning Engineer](https://jobr.pro/job/34261705/ai-lab-junior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | BCN01 - Barcelona S.Cugat B1 (BCN01), Spain | On Site | Dec 12 |
 | **[PayPal](https://www.paypal.com/)** | **[Sr Machine Learning Engineer](https://jobr.pro/job/34278629/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IND - Karnataka - Bangalore - Corp - Sarjapur Main Rd, India | On Site | Dec 12 |
-| **[Crowe](https://www.crowe.com/)** | **[Machine Learning Engineer 2](https://jobr.pro/job/34274759/machine-learning-engineer-2?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hyderabad, India | On Site | Dec 12 |
-| **[Synechron](https://www.synechron.com/)** | **[Junior Machine Learning Engineer](https://jobr.pro/job/34271668/junior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Serbia - Novi Sad | On Site | Dec 12 |
-| **[Moloco](https://www.moloco.com/)** | **[Machine Learning Engineer Intern](https://jobr.pro/job/34215299/machine-learning-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, England, United Kingdom | On Site | Dec 11 |
-| **[Cohere Health](https://coherehealth.com/)** | **[Machine Learning Engineer ll](https://jobr.pro/job/34216520/machine-learning-engineer-ll?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | Remote | Dec 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 36 companies | Avg salary: 269k  
+**Current Stats:** 50 jobs | 18% remote | 36 companies | Avg salary: 280k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
