@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 17, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 17, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,7 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - Live Content AI (Multimodal)](https://jobr.pro/job/34532196/machine-learning-engineer-live-content-ai-multimodal?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 17 |
 | **[Grab](https://www.grab.com)** | **[Principal Machine Learning Engineer, AI Platform (Foundation Model Post-Training)](https://jobr.pro/job/34510517/principal-machine-learning-engineer-ai-platform-foundation-model-post-training?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 17 |
+| **[Capital One](https://www.capitalonecareers.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34549303/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Cambridge, MA, United States | On Site | Dec 17 |
+| **[GE HealthCare](https://www.gehealthcare.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34549089/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote, United Kingdom | Remote | Dec 17 |
 | **[Zscaler](https://www.zscaler.com/careers)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/34504147/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, USA | On Site | Dec 16 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Senior Machine Learning Engineer (WGD)](https://jobr.pro/job/34503171/senior-machine-learning-engineer-wgd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Brasil | Remote | Dec 16 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/34503170/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Brasil | Remote | Dec 16 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PitchBook Data](https://pitchbook.com/)** | **[Staff Machine Learning Engineer, Data Collections AI & ML](https://jobr.pro/job/34300981/staff-machine-learning-engineer-data-collections-ai-ml?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Dec 12 |
 | **[Intuitive](https://www.intuitive.com)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/34302430/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale, CA, United States | On Site | Dec 12 |
 | **[Waymo](https://waymo.com/)** | **[Senior Machine Learning Engineer, Sensor Validation](https://jobr.pro/job/34310015/senior-machine-learning-engineer-sensor-validation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA | On Site | Dec 12 |
-| **[Frontera Health](https://fronterahealth.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34310516/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Denver, Colorado | On Site | Dec 12 |
-| **[Waymo](https://waymo.com/)** | **[Senior Staff Machine Learning Engineer, Simulation](https://jobr.pro/job/34310016/senior-staff-machine-learning-engineer-simulation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, UK | On Site | Dec 12 |
-| **[Squarespace](https://www.squarespace.com/)** | **[Senior Machine Learning Engineer - Data Science & Machine Learning](https://jobr.pro/job/34303156/senior-machine-learning-engineer-data-science-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York City | On Site | Dec 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 40 companies | Avg salary: 231k  
+**Current Stats:** 50 jobs | 26% remote | 39 companies | Avg salary: 233k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
