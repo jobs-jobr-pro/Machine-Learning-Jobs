@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 17, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 17, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[KPN](https://www.kpn.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34488794/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Amsterdam, NH, Netherlands | On Site | Dec 16 |
 | **[Canva](https://www.canva.com)** | **[Senior Machine Learning Engineer - Visual Suite - Productivity Group](https://jobr.pro/job/34420731/senior-machine-learning-engineer-visual-suite-productivity-group?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sydney, NSW, Australia | On Site | Dec 16 |
 | **[OLX](https://www.olxgroup.com/)** | **[Principal Machine Learning Engineer (Search Platform)](https://jobr.pro/job/34418864/principal-machine-learning-engineer-search-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote Poland, Poland | Remote | Dec 16 |
 | **[GeoComply](https://www.geocomply.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34410998/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Ho Chi Minh, Vietnam | On Site | Dec 16 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Engineer Graduate: (Machine Learning Engineer - Local Services Search) - 2026 Start (PhD)](https://jobr.pro/job/34252622/engineer-graduate-machine-learning-engineer-local-services-search-2026-start-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Dec 12 |
 | **[TikTok](https://www.tiktok.com/)** | **[Engineer Graduate: (Machine Learning Engineer, Data-Search-TikTok Recommendation - Seattle) - 2026 Start (PhD)](https://jobr.pro/job/34252618/engineer-graduate-machine-learning-engineer-data-search-tiktok-recommendation-seattle-2026-start-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Dec 12 |
 | **[TikTok](https://www.tiktok.com/)** | **[Engineer Graduate: (Machine Learning Engineer, Data-Search-TikTok.US - San Jose) - 2026 Start (PhD)](https://jobr.pro/job/34252613/engineer-graduate-machine-learning-engineer-data-search-tiktokus-san-jose-2026-start-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Dec 12 |
-| **[Siili Solutions](https://www.siili.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34325402/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Helsinki, Finland | On Site | Dec 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 36 companies | Avg salary: 245k  
+**Current Stats:** 50 jobs | 20% remote | 36 companies | Avg salary: 235k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
