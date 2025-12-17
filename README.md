@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 17, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 17, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -18,6 +18,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Senior Machine Learning Engineer (WGD)](https://jobr.pro/job/34503171/senior-machine-learning-engineer-wgd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Brasil | Remote | Dec 16 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/34503170/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Brasil | Remote | Dec 16 |
 | **[Samsung Research America Internship](https://www.sra.samsung.com/open-positions/)** | **[2026 Intern, Machine Learning Engineer (Summer)](https://jobr.pro/job/34498693/2026-intern-machine-learning-engineer-summer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 665 Clyde Avenue, Mountain View, CA, USA | On Site | Dec 16 |
+| **[Rowden](https://www.rowdentech.com/)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/34515283/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bristol, UK | On Site | Dec 16 |
 | **[Handoff](https://www.handoff.ai/)** | **[Staff AI/Machine Learning Engineer](https://jobr.pro/job/34496576/staff-aimachine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | São Paulo | On Site | Dec 16 |
 | **[MARGO](https://www.margo.com/)** | **[Machine Learning Engineer – Practice IA MARGO](https://jobr.pro/job/34496143/machine-learning-engineer-practice-ia-margo?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris | On Site | Dec 16 |
 | **[KPN](https://www.kpn.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34488794/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Amsterdam, NH, Netherlands | On Site | Dec 16 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Frontera Health](https://fronterahealth.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34310516/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Denver, Colorado | On Site | Dec 12 |
 | **[Waymo](https://waymo.com/)** | **[Senior Staff Machine Learning Engineer, Simulation](https://jobr.pro/job/34310016/senior-staff-machine-learning-engineer-simulation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, UK | On Site | Dec 12 |
 | **[Squarespace](https://www.squarespace.com/)** | **[Senior Machine Learning Engineer - Data Science & Machine Learning](https://jobr.pro/job/34303156/senior-machine-learning-engineer-data-science-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York City | On Site | Dec 12 |
-| **[Stensul](https://stensul.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34300001/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Argentina | On Site | Dec 12 |
 
 ---
 
