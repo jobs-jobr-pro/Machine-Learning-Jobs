@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 18, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 18, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ServiceNow](https://www.servicenow.com)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/34573770/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CALIFORNIA, United States | On Site | Dec 17 |
+| **[Devoteam](https://www.devoteam.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34573486/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Marseille, Provence-Alpes-Côte d'Azur, France | On Site | Dec 17 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - Live Content AI (Multimodal)](https://jobr.pro/job/34532196/machine-learning-engineer-live-content-ai-multimodal?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 17 |
 | **[Grab](https://www.grab.com)** | **[Principal Machine Learning Engineer, AI Platform (Foundation Model Post-Training)](https://jobr.pro/job/34510517/principal-machine-learning-engineer-ai-platform-foundation-model-post-training?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 17 |
 | **[CVS Health](https://cvshealth.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34568223/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Wellesley-93 Worcester St, United States | On Site | Dec 17 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bayesian Health](https://www.bayesianhealth.com/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/34355826/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Dec 14 |
 | **[HP IQ](https://hp-iq.com)** | **[Senior Machine Learning Engineer, Recommender Systems](https://jobr.pro/job/34355516/senior-machine-learning-engineer-recommender-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Palo Alto, CA | On Site | Dec 14 |
 | **[HP IQ](https://hp-iq.com)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/34355509/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | Dec 14 |
-| **[Xiaomi](https://www.xiaomi.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34347130/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 新加坡 | On Site | Dec 13 |
-| **[Coinbase](https://www.coinbase.com/)** | **[Senior Staff Machine Learning Engineer - AI Platform](https://jobr.pro/job/34352188/senior-staff-machine-learning-engineer-ai-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - India | Remote | Dec 13 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 39 companies | Avg salary: 222k  
+**Current Stats:** 50 jobs | 24% remote | 40 companies | Avg salary: 228k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
