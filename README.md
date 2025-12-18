@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 17, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 18, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -20,6 +20,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[GE HealthCare](https://www.gehealthcare.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34549089/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote, United Kingdom | Remote | Dec 17 |
 | **[Adobe](https://www.adobe.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34567113/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, United States | On Site | Dec 17 |
 | **[Adobe](https://www.adobe.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34567078/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, United States | On Site | Dec 17 |
+| **[ING](https://www.ing.com/)** | **[Senior Machine Learning Engineer in COO Analytics](https://jobr.pro/job/34570495/senior-machine-learning-engineer-in-coo-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | CDR (Amsterdam - Cedar), Netherlands | On Site | Dec 17 |
 | **[Zscaler](https://www.zscaler.com/careers)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/34504147/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, USA | On Site | Dec 16 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Senior Machine Learning Engineer (WGD)](https://jobr.pro/job/34503171/senior-machine-learning-engineer-wgd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Brasil | Remote | Dec 16 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/34503170/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Brasil | Remote | Dec 16 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[HP IQ](https://hp-iq.com)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/34355509/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | Dec 14 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34347130/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 新加坡 | On Site | Dec 13 |
 | **[Coinbase](https://www.coinbase.com/)** | **[Senior Staff Machine Learning Engineer - AI Platform](https://jobr.pro/job/34352188/senior-staff-machine-learning-engineer-ai-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - India | Remote | Dec 13 |
-| **[Coupang](https://www.coupang.jobs/)** | **[Senior Staff Machine Learning Engineer (Ads Tech)](https://jobr.pro/job/34300323/senior-staff-machine-learning-engineer-ads-tech?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, USA | On Site | Dec 13 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 38 companies | Avg salary: 229k  
+**Current Stats:** 50 jobs | 26% remote | 39 companies | Avg salary: 222k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
