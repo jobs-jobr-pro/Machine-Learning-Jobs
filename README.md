@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 18, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 18, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Seagate Technology](https://www.seagate.com/)** | **[Machine Learning Engineer - Smart Factory (Manufacturing), Korat](https://jobr.pro/job/34596472/machine-learning-engineer-smart-factory-manufacturing-korat?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Nakhon Ratchasima, TH | On Site | Dec 18 |
 | **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Sr Principal Machine Learning Engineer (Prisma AIRS)](https://jobr.pro/job/34582033/sr-principal-machine-learning-engineer-prisma-airs?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CA, United States | On Site | Dec 18 |
 | **[Waymo](https://waymo.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34576891/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA | On Site | Dec 17 |
 | **[Waymo](https://waymo.com/)** | **[Senior/Staff Machine Learning Engineer](https://jobr.pro/job/34576902/seniorstaff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA | On Site | Dec 17 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Canva](https://www.canva.com)** | **[Senior Machine Learning Engineer - AI Platform Enablement (ANZ remote)](https://jobr.pro/job/34358145/senior-machine-learning-engineer-ai-platform-enablement-anz-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sydney, NSW, Australia | Remote | Dec 15 |
 | **[Boson AI](https://boson.ai/)** | **[Machine Learning Engineer - Enterprise](https://jobr.pro/job/34407559/machine-learning-engineer-enterprise?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Toronto | On Site | Dec 15 |
 | **[Coupang](https://www.coupang.jobs/)** | **[Staff, Machine Learning Engineer - Coupang Play](https://jobr.pro/job/34356637/staff-machine-learning-engineer-coupang-play?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seoul, South Korea | On Site | Dec 15 |
-| **[Amgen](https://www.amgen.com/)** | **[Associate Director, Machine Learning Engineer](https://jobr.pro/job/34393970/associate-director-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | US - Texas - Houston - Field/Remote, United States | Remote | Dec 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 41 companies | Avg salary: 230k  
+**Current Stats:** 50 jobs | 20% remote | 41 companies | Avg salary: 230k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
