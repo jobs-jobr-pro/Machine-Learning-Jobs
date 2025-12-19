@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 18, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 19, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -15,6 +15,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34641749/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 新加坡 | On Site | Dec 18 |
 | **[oOh!media](https://oohmedia.com.au/)** | **[Machine Learning Engineer](https://jobr.pro/job/34627841/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | North Sydney, NSW, AU | On Site | Dec 18 |
+| **[SIXT](https://www.sixt.com)** | **[Machine Learning Engineer – (Revenue Management & Price Optimization) (m/f/d)](https://jobr.pro/job/34650671/machine-learning-engineer-revenue-management-price-optimization-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lisbon, Portugal | On Site | Dec 18 |
+| **[H&M Group](https://hmgroup.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34650672/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Stockholm, Stockholms län, Sweden | On Site | Dec 18 |
 | **[Ambush](https://www.getambush.com/)** | **[Machine Learning Engineer (MLOps)](https://jobr.pro/job/34618430/machine-learning-engineer-mlops?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | State of Rio Grande do Sul, Porto Alegre, Brazil | On Site | Dec 18 |
 | **[Seagate Technology](https://www.seagate.com/)** | **[Machine Learning Engineer - Smart Factory (Manufacturing), Korat](https://jobr.pro/job/34596472/machine-learning-engineer-smart-factory-manufacturing-korat?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Nakhon Ratchasima, TH | On Site | Dec 18 |
 | **[Acusensus](https://www.acusensus.com/)** | **[Graduate Machine Learning Engineer](https://jobr.pro/job/34634191/graduate-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Ingleburn, New South Wales 1890, Australia | On Site | Dec 18 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Codvo.ai](https://www.codvo.ai/)** | **[Machine Learning Engineer (Remote)](https://jobr.pro/job/34376129/machine-learning-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Maharashtra, Pune, India | Remote | Dec 15 |
 | **[Vivino](https://www.vivino.com/)** | **[Senior Machine Learning Engineer, Copenhagen](https://jobr.pro/job/34441359/senior-machine-learning-engineer-copenhagen?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | København S, Denmark | On Site | Dec 15 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern (Monetization Technology-Ads Core Technology) - 2025 Start (PhD)](https://jobr.pro/job/34368874/machine-learning-engineer-intern-monetization-technology-ads-core-technology-2025-start-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Dec 15 |
-| **[TikTok](https://www.tiktok.com/)** | **[General Hire: Machine Learning Engineer (Data and Eng, USDS) - 2025 Start (MS)](https://jobr.pro/job/34368857/general-hire-machine-learning-engineer-data-and-eng-usds-2025-start-ms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Dec 15 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate (Risk Data Mining, USDS) Start 2025 (MS)](https://jobr.pro/job/34368832/machine-learning-engineer-graduate-risk-data-mining-usds-start-2025-ms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Dec 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 43 companies | Avg salary: 230k  
+**Current Stats:** 50 jobs | 20% remote | 45 companies | Avg salary: 230k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
