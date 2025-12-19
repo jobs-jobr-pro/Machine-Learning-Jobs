@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 19, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 19, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -16,6 +16,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Grab](https://www.grab.com)** | **[Lead Machine Learning Engineer (Fulfilment)](https://jobr.pro/job/34672067/lead-machine-learning-engineer-fulfilment?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 19 |
 | **[Inovalon](https://www.inovalon.com/)** | **[Senior Full Stack Machine Learning Engineer](https://jobr.pro/job/34652958/senior-full-stack-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Gurugram, India | On Site | Dec 19 |
 | **[Serve Robotics](https://www.serverobotics.com/)** | **[Sr Machine Learning Engineer, Auto Labeling](https://jobr.pro/job/34663507/sr-machine-learning-engineer-auto-labeling?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bay Area / Remote | Remote | Dec 19 |
+| **[Adobe](https://www.adobe.com/)** | **[Machine Learning Engineer 4](https://jobr.pro/job/34688145/machine-learning-engineer-4?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, United States | On Site | Dec 19 |
 | **[Pickle Robot](https://picklerobot.com/)** | **[Senior Machine Learning Engineer - Perception](https://jobr.pro/job/34656450/senior-machine-learning-engineer-perception?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Charlestown, MA | On Site | Dec 18 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34641749/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 新加坡 | On Site | Dec 18 |
 | **[Waymo](https://waymo.com/)** | **[Staff Machine Learning Engineer, Simulation](https://jobr.pro/job/34658924/staff-machine-learning-engineer-simulation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, NY, USA; Mountain View, CA, USA; San Francisco, CA, USA | On Site | Dec 18 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Coinbase](https://www.coinbase.com/)** | **[Senior Machine Learning Engineer, Platform](https://jobr.pro/job/34498301/senior-machine-learning-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - India | Remote | Dec 16 |
 | **[Wise](https://wise.com)** | **[Senior Machine Learning Engineer/ Scientist - Servicing Platform](https://jobr.pro/job/34503087/senior-machine-learning-engineer-scientist-servicing-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tallinn, Estonia | On Site | Dec 16 |
 | **[Unifonic](https://www.unifonic.com/)** | **[Senior Machine Learning Engineer (Personalization)](https://jobr.pro/job/34492762/senior-machine-learning-engineer-personalization?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote job | Remote | Dec 16 |
-| **[TransPerfect](https://www.transperfect.com/about/data-privacy-recruiting)** | **[Machine Learning Engineer - 01T](https://jobr.pro/job/34493550/machine-learning-engineer-01t?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Central Singapore, Singapore | On Site | Dec 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 43 companies | Avg salary: 232k  
+**Current Stats:** 50 jobs | 18% remote | 42 companies | Avg salary: 234k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
