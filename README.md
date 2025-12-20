@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 20, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 20, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -22,6 +22,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zoox](https://zoox.com/)** | **[Machine Learning Engineer - Perception Offline Driving Intelligence](https://jobr.pro/job/34739802/machine-learning-engineer-perception-offline-driving-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boston, MA | On Site | Dec 19 |
 | **[Zoox](https://zoox.com/)** | **[Senior/Staff Machine Learning Engineer - Perception Offline Driving Intelligence](https://jobr.pro/job/34739806/seniorstaff-machine-learning-engineer-perception-offline-driving-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boston, MA | On Site | Dec 19 |
 | **[Corelight](https://corelight.com/)** | **[Sr. Machine Learning Engineer](https://jobr.pro/job/34737080/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Dec 19 |
+| **[Chrono24](https://www.chrono24.com/)** | **[Machine Learning Engineer (m/w/d)](https://jobr.pro/job/34759516/machine-learning-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Karlsruhe - Burg | On Site | Dec 19 |
 | **[PitchBook Data](https://pitchbook.com/)** | **[Associate Machine Learning Engineer](https://jobr.pro/job/34738561/associate-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, New York, United States | On Site | Dec 19 |
 | **[Everience Benelux](https://www.everience.com)** | **[Machine Learning Engineer (Hyperautomation)](https://jobr.pro/job/34731294/machine-learning-engineer-hyperautomation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Nova Milanese, Lombardy, Italy | On Site | Dec 19 |
 | **[Everience Benelux](https://www.everience.com)** | **[Machine Learning Engineer](https://jobr.pro/job/34695579/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Nova Milanese, Lombardy, Italy | On Site | Dec 19 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zoox](https://zoox.com/)** | **[Senior Machine Learning Engineer - ML Agents and Planning](https://jobr.pro/job/34576856/senior-machine-learning-engineer-ml-agents-and-planning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA | On Site | Dec 17 |
 | **[Devoteam](https://www.devoteam.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34573486/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Marseille, Provence-Alpes-Côte d'Azur, France | On Site | Dec 17 |
 | **[Upwork](https://www.upwork.com/)** | **[Senior Lead Machine Learning Engineer, Agentic AI](https://jobr.pro/job/34575824/senior-lead-machine-learning-engineer-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Toronto, Ontario, Canada | On Site | Dec 17 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - Live Content AI (Multimodal)](https://jobr.pro/job/34532196/machine-learning-engineer-live-content-ai-multimodal?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 39 companies | Avg salary: 254k  
+**Current Stats:** 50 jobs | 14% remote | 40 companies | Avg salary: 254k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
