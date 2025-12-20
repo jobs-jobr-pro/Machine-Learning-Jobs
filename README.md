@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 20, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 20, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Everience Benelux](https://www.everience.com)** | **[Machine Learning Engineer (Hyperautomation)](https://jobr.pro/job/34731294/machine-learning-engineer-hyperautomation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Nova Milanese, Lombardy, Italy | On Site | Dec 19 |
 | **[Everience Benelux](https://www.everience.com)** | **[Machine Learning Engineer](https://jobr.pro/job/34695579/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Nova Milanese, Lombardy, Italy | On Site | Dec 19 |
 | **[TikTok](https://www.tiktok.com/)** | **[(General Hire) Machine Learning Engineer Intern (TikTok- Video Recommendation) - 2026 Summer (BS/MS)](https://jobr.pro/job/34693975/general-hire-machine-learning-engineer-intern-tiktok-video-recommendation-2026-summer-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Dec 19 |
 | **[F-Secure](https://www.f-secure.com/)** | **[Machine Learning Engineer (Data)](https://jobr.pro/job/34716810/machine-learning-engineer-data?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru | On Site | Dec 19 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Capital One](https://www.capitalonecareers.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34549303/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Cambridge, MA, United States | On Site | Dec 17 |
 | **[Zscaler](https://www.zscaler.com/careers)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/34504147/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, USA | On Site | Dec 16 |
 | **[Thoughtworks](https://www.thoughtworks.com/)** | **[Senior Machine Learning Engineer (WGD)](https://jobr.pro/job/34503171/senior-machine-learning-engineer-wgd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Brasil | Remote | Dec 16 |
-| **[Thoughtworks](https://www.thoughtworks.com/)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/34503170/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Brasil | Remote | Dec 16 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 39 companies | Avg salary: 249k  
+**Current Stats:** 50 jobs | 14% remote | 39 companies | Avg salary: 249k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
