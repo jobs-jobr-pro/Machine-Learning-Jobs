@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 22, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 22, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Steampunk](https://steampunk.com)** | **[Machine Learning Engineer](https://jobr.pro/job/34803789/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | McLean, VA, United States | On Site | Dec 21 |
+| **[BJAK](https://bjak.my/)** | **[Founding Machine Learning Engineer](https://jobr.pro/job/34803098/founding-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Stockholm | Remote | Dec 20 |
 | **[Adobe](https://www.adobe.com/)** | **[2026 Intern - Applied Science/Machine Learning Engineer](https://jobr.pro/job/34796980/2026-intern-applied-sciencemachine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, United States | On Site | Dec 20 |
 | **[Waymo](https://waymo.com/)** | **[Staff Machine Learning Engineer, Perception, Sensor Pipelines](https://jobr.pro/job/34734725/staff-machine-learning-engineer-perception-sensor-pipelines?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, California, United States; San Francisco, California, United States | On Site | Dec 19 |
 | **[DoorDash](https://www.doordash.com/)** | **[Staff Machine Learning Engineer - DashPass](https://jobr.pro/job/34734363/staff-machine-learning-engineer-dashpass?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA; Sunnyvale, CA | On Site | Dec 19 |
@@ -32,10 +34,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Grab](https://www.grab.com)** | **[Lead Machine Learning Engineer (Fulfilment)](https://jobr.pro/job/34672067/lead-machine-learning-engineer-fulfilment?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 19 |
 | **[Inovalon](https://www.inovalon.com/)** | **[Senior Full Stack Machine Learning Engineer](https://jobr.pro/job/34652958/senior-full-stack-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Gurugram, India | On Site | Dec 19 |
 | **[Serve Robotics](https://www.serverobotics.com/)** | **[Sr Machine Learning Engineer, Auto Labeling](https://jobr.pro/job/34663507/sr-machine-learning-engineer-auto-labeling?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bay Area / Remote | Remote | Dec 19 |
-| **[Adobe](https://www.adobe.com/)** | **[Machine Learning Engineer 4](https://jobr.pro/job/34688145/machine-learning-engineer-4?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, United States | On Site | Dec 19 |
 | **[General Motors](https://www.gm.com/)** | **[2026 Summer Intern - Machine Learning Engineer- Autonomous Vehicle Engineering (PhD)](https://jobr.pro/job/34728423/2026-summer-intern-machine-learning-engineer-autonomous-vehicle-engineering-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale Technical Center - Sunnyvale Technical Center (CL), United States | On Site | Dec 19 |
 | **[General Motors](https://www.gm.com/)** | **[2026 Summer Intern, Machine Learning Engineer, Trajectory Generation (Masters)](https://jobr.pro/job/34728440/2026-summer-intern-machine-learning-engineer-trajectory-generation-masters?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale Technical Center - Sunnyvale Technical Center (CL), United States | On Site | Dec 19 |
 | **[General Motors](https://www.gm.com/)** | **[2026 Summer Intern, Machine Learning Engineer, Trajectory Generation (PhD)](https://jobr.pro/job/34728439/2026-summer-intern-machine-learning-engineer-trajectory-generation-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale Technical Center - Sunnyvale Technical Center (CL), United States | On Site | Dec 19 |
+| **[Adobe](https://www.adobe.com/)** | **[Machine Learning Engineer 4](https://jobr.pro/job/34688145/machine-learning-engineer-4?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, United States | On Site | Dec 19 |
 | **[WVU Medicine](https://wvumedicine.org/)** | **[Machine Learning Engineer Remote - Healthcare Focused](https://jobr.pro/job/34723356/machine-learning-engineer-remote-healthcare-focused?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Home Work - Monongalia County WV (Local), United States | Remote | Dec 19 |
 | **[Viridien](https://www.viridiengroup.com/)** | **[Machine Learning Engineer Intern](https://jobr.pro/job/34725769/machine-learning-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | SGP-Singapore | On Site | Dec 19 |
 | **[Pickle Robot](https://picklerobot.com/)** | **[Senior Machine Learning Engineer - Perception](https://jobr.pro/job/34656450/senior-machine-learning-engineer-perception?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Charlestown, MA | On Site | Dec 18 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Waymo](https://waymo.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34576891/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA | On Site | Dec 17 |
 | **[Waymo](https://waymo.com/)** | **[Senior/Staff Machine Learning Engineer](https://jobr.pro/job/34576902/seniorstaff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA | On Site | Dec 17 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/34573770/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CALIFORNIA, United States | On Site | Dec 17 |
-| **[Zoox](https://zoox.com/)** | **[Senior Machine Learning Engineer - ML Agents and Planning](https://jobr.pro/job/34576856/senior-machine-learning-engineer-ml-agents-and-planning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA | On Site | Dec 17 |
-| **[Devoteam](https://www.devoteam.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34573486/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Marseille, Provence-Alpes-Côte d'Azur, France | On Site | Dec 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 14% remote | 39 companies | Avg salary: 246k  
+**Current Stats:** 50 jobs | 16% remote | 40 companies | Avg salary: 240k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
