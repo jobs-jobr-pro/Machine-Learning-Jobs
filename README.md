@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 22, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 22, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[LPL Financial](https://www.lpl.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34839255/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Fort Mill/Charlotte, United States | On Site | Dec 22 |
 | **[Atlassian](https://www.atlassian.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34814126/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru - India - Bengaluru, 560071 India; Remote - Remote | Remote | Dec 22 |
 | **[Bertrandt](https://www.bertrandt.com)** | **[AI / Machine Learning Engineer (m/w/d)](https://jobr.pro/job/34820027/ai-machine-learning-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Ehningen, Germany | On Site | Dec 22 |
 | **[Steampunk](https://steampunk.com)** | **[Machine Learning Engineer](https://jobr.pro/job/34803789/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | McLean, VA, United States | On Site | Dec 21 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Palo Alto Networks](https://www.paloaltonetworks.com)** | **[Sr Principal Machine Learning Engineer (Prisma AIRS)](https://jobr.pro/job/34582033/sr-principal-machine-learning-engineer-prisma-airs?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CA, United States | On Site | Dec 18 |
 | **[Mindrift](https://mindrift.ai/)** | **[Freelance Machine Learning Engineer (Python)](https://jobr.pro/job/34614906/freelance-machine-learning-engineer-python?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Philippines - Remote | Remote | Dec 18 |
 | **[ING](https://www.ing.com/)** | **[Machine Learning Engineer - Stageur](https://jobr.pro/job/34612202/machine-learning-engineer-stageur?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | MILAN, Italy | On Site | Dec 18 |
-| **[Waymo](https://waymo.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34576891/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA | On Site | Dec 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 41 companies | Avg salary: 235k  
+**Current Stats:** 50 jobs | 18% remote | 42 companies | Avg salary: 233k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
