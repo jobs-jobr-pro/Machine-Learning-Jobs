@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 22, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 22, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Atlassian](https://www.atlassian.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34814126/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru - India - Bengaluru, 560071 India; Remote - Remote | Remote | Dec 22 |
 | **[Steampunk](https://steampunk.com)** | **[Machine Learning Engineer](https://jobr.pro/job/34803789/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | McLean, VA, United States | On Site | Dec 21 |
 | **[BJAK](https://bjak.my/)** | **[Founding Machine Learning Engineer](https://jobr.pro/job/34803098/founding-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Stockholm | Remote | Dec 20 |
 | **[Adobe](https://www.adobe.com/)** | **[2026 Intern - Applied Science/Machine Learning Engineer](https://jobr.pro/job/34796980/2026-intern-applied-sciencemachine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, United States | On Site | Dec 20 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ING](https://www.ing.com/)** | **[Machine Learning Engineer - Stageur](https://jobr.pro/job/34612202/machine-learning-engineer-stageur?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | MILAN, Italy | On Site | Dec 18 |
 | **[Waymo](https://waymo.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34576891/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA | On Site | Dec 17 |
 | **[Waymo](https://waymo.com/)** | **[Senior/Staff Machine Learning Engineer](https://jobr.pro/job/34576902/seniorstaff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA | On Site | Dec 17 |
-| **[ServiceNow](https://www.servicenow.com)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/34573770/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CALIFORNIA, United States | On Site | Dec 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 40 companies | Avg salary: 240k  
+**Current Stats:** 50 jobs | 18% remote | 40 companies | Avg salary: 237k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
