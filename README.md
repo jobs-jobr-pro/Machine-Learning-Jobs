@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 23, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 24, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -16,6 +16,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer , TikTok Search Ranking](https://jobr.pro/job/34882997/machine-learning-engineer-tiktok-search-ranking?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 23 |
 | **[Experian](https://www.experian.com/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/34885202/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hyderabad, India | On Site | Dec 23 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Machine Learning Engineer II](https://jobr.pro/job/34853436/machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Toronto, ON, CA | Remote | Dec 23 |
+| **[Zoom](https://www.zoom.com/)** | **[Trust & Safety Machine Learning Engineer](https://jobr.pro/job/34917489/trust-safety-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose (CA), United States | On Site | Dec 23 |
+| **[Gap Inc.](https://www.gapinc.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/34920847/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 4440 Rosewood Drive, United States | On Site | Dec 23 |
 | **[Weekday](https://www.weekday.works)** | **[Data and Machine Learning Engineer](https://jobr.pro/job/34875354/data-and-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 23 |
 | **[TheIncLab](https://www.theinclab.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34865507/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | McLean, Virginia, United States | On Site | Dec 23 |
 | **[DraftKings Inc.](https://www.draftkings.com/)** | **[Lead Machine Learning Engineer, Platform](https://jobr.pro/job/34899229/lead-machine-learning-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boston, MA, United States | On Site | Dec 23 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Serve Robotics](https://www.serverobotics.com/)** | **[Sr Machine Learning Engineer, Auto Labeling](https://jobr.pro/job/34663507/sr-machine-learning-engineer-auto-labeling?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bay Area / Remote | Remote | Dec 19 |
 | **[General Motors](https://www.gm.com/)** | **[2026 Summer Intern - Machine Learning Engineer- Autonomous Vehicle Engineering (PhD)](https://jobr.pro/job/34728423/2026-summer-intern-machine-learning-engineer-autonomous-vehicle-engineering-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale Technical Center - Sunnyvale Technical Center (CL), United States | On Site | Dec 19 |
 | **[General Motors](https://www.gm.com/)** | **[2026 Summer Intern, Machine Learning Engineer, Trajectory Generation (Masters)](https://jobr.pro/job/34728440/2026-summer-intern-machine-learning-engineer-trajectory-generation-masters?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale Technical Center - Sunnyvale Technical Center (CL), United States | On Site | Dec 19 |
-| **[General Motors](https://www.gm.com/)** | **[2026 Summer Intern, Machine Learning Engineer, Trajectory Generation (PhD)](https://jobr.pro/job/34728439/2026-summer-intern-machine-learning-engineer-trajectory-generation-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale Technical Center - Sunnyvale Technical Center (CL), United States | On Site | Dec 19 |
-| **[Adobe](https://www.adobe.com/)** | **[Machine Learning Engineer 4](https://jobr.pro/job/34688145/machine-learning-engineer-4?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, United States | On Site | Dec 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 40 companies | Avg salary: 228k  
+**Current Stats:** 50 jobs | 18% remote | 42 companies | Avg salary: 229k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
