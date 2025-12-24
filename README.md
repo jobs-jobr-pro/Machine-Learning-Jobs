@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 24, 2025 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Dec 24, 2025 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -15,6 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Masters India IT Solutions](https://www.mastersindia.co/)** | **[Machine Learning Engineer](https://jobr.pro/job/34937250/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Noida, UP, India | On Site | Dec 24 |
 | **[Paramount](https://www.paramount.com/)** | **[Machine Learning Engineer Intern (Summer 2026 - In Person- LA / NYC / SF)](https://jobr.pro/job/34926328/machine-learning-engineer-intern-summer-2026-in-person-la-nyc-sf?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Burbank, CA, US, 91505 | On Site | Dec 24 |
+| **[ING Nederland](https://www.ing.com/)** | **[Senior Machine Learning Engineer in COO Analytics](https://jobr.pro/job/34948861/senior-machine-learning-engineer-in-coo-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | CDR (Amsterdam - Cedar), Netherlands | On Site | Dec 24 |
 | **[adMarketplace](https://admarketplace.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34933891/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, New York, United States | On Site | Dec 23 |
 | **[OLX](https://www.olxgroup.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34936342/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote Poland, Poland | Remote | Dec 23 |
 | **[Upstart](https://www.upstart.com/)** | **[Staff Applied Machine Learning Engineer, LLM Applications](https://jobr.pro/job/34923630/staff-applied-machine-learning-engineer-llm-applications?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States \| Remote | Remote | Dec 23 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zoox](https://zoox.com/)** | **[Senior Machine Learning Engineer - Simulation Scenario Generation](https://jobr.pro/job/34739804/senior-machine-learning-engineer-simulation-scenario-generation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA | On Site | Dec 19 |
 | **[Zoox](https://zoox.com/)** | **[Machine Learning Engineer - Perception Offline Driving Intelligence](https://jobr.pro/job/34739802/machine-learning-engineer-perception-offline-driving-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boston, MA | On Site | Dec 19 |
 | **[Zoox](https://zoox.com/)** | **[Senior/Staff Machine Learning Engineer - Perception Offline Driving Intelligence](https://jobr.pro/job/34739806/seniorstaff-machine-learning-engineer-perception-offline-driving-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boston, MA | On Site | Dec 19 |
-| **[Corelight](https://corelight.com/)** | **[Sr. Machine Learning Engineer](https://jobr.pro/job/34737080/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Dec 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 42 companies | Avg salary: 228k  
+**Current Stats:** 50 jobs | 18% remote | 42 companies | Avg salary: 228k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
