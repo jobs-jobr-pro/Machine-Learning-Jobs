@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 24, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 24, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Grab](https://www.grab.com)** | **[Senior Machine Learning Engineer (Business Observability and Insights)](https://jobr.pro/job/34922058/senior-machine-learning-engineer-business-observability-and-insights?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 23 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer , TikTok Search Ranking](https://jobr.pro/job/34882997/machine-learning-engineer-tiktok-search-ranking?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 23 |
 | **[Experian](https://www.experian.com/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/34885202/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hyderabad, India | On Site | Dec 23 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Machine Learning Engineer II](https://jobr.pro/job/34853436/machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Toronto, ON, CA | Remote | Dec 23 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Inovalon](https://www.inovalon.com/)** | **[Senior Full Stack Machine Learning Engineer](https://jobr.pro/job/34652958/senior-full-stack-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Gurugram, India | On Site | Dec 19 |
 | **[Serve Robotics](https://www.serverobotics.com/)** | **[Sr Machine Learning Engineer, Auto Labeling](https://jobr.pro/job/34663507/sr-machine-learning-engineer-auto-labeling?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bay Area / Remote | Remote | Dec 19 |
 | **[General Motors](https://www.gm.com/)** | **[2026 Summer Intern - Machine Learning Engineer- Autonomous Vehicle Engineering (PhD)](https://jobr.pro/job/34728423/2026-summer-intern-machine-learning-engineer-autonomous-vehicle-engineering-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale Technical Center - Sunnyvale Technical Center (CL), United States | On Site | Dec 19 |
-| **[General Motors](https://www.gm.com/)** | **[2026 Summer Intern, Machine Learning Engineer, Trajectory Generation (Masters)](https://jobr.pro/job/34728440/2026-summer-intern-machine-learning-engineer-trajectory-generation-masters?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale Technical Center - Sunnyvale Technical Center (CL), United States | On Site | Dec 19 |
 
 ---
 
