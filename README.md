@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 24, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 24, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer (Recommendation) - CapCut](https://jobr.pro/job/34956262/machine-learning-engineer-recommendation-capcut?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 24 |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - CV/NLP/Multimodal LLM (TikTok Trust and Safety) - 2026 Start(PHD)](https://jobr.pro/job/34956144/machine-learning-engineer-cvnlpmultimodal-llm-tiktok-trust-and-safety-2026-startphd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Dec 24 |
 | **[Masters India IT Solutions](https://www.mastersindia.co/)** | **[Machine Learning Engineer](https://jobr.pro/job/34937250/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Noida, UP, India | On Site | Dec 24 |
 | **[Paramount](https://www.paramount.com/)** | **[Machine Learning Engineer Intern (Summer 2026 - In Person- LA / NYC / SF)](https://jobr.pro/job/34926328/machine-learning-engineer-intern-summer-2026-in-person-la-nyc-sf?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Burbank, CA, US, 91505 | On Site | Dec 24 |
 | **[ING Nederland](https://www.ing.com/)** | **[Senior Machine Learning Engineer in COO Analytics](https://jobr.pro/job/34948861/senior-machine-learning-engineer-in-coo-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | CDR (Amsterdam - Cedar), Netherlands | On Site | Dec 24 |
@@ -28,10 +30,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bloom & Wild Group](https://www.bloomandwild.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34923867/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Amsterdam | On Site | Dec 23 |
 | **[Grab](https://www.grab.com)** | **[Senior Machine Learning Engineer (Python expertise)](https://jobr.pro/job/34933151/senior-machine-learning-engineer-python-expertise?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Cluj-Napoca, CJ, Romania | On Site | Dec 23 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Machine Learning Engineer II](https://jobr.pro/job/34853436/machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Toronto, ON, CA | Remote | Dec 23 |
-| **[Zoom](https://www.zoom.com/)** | **[Trust & Safety Machine Learning Engineer](https://jobr.pro/job/34917489/trust-safety-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose (CA), United States | On Site | Dec 23 |
-| **[Gap Inc.](https://www.gapinc.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/34920847/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 4440 Rosewood Drive, United States | On Site | Dec 23 |
 | **[Weekday](https://www.weekday.works)** | **[Data and Machine Learning Engineer](https://jobr.pro/job/34875354/data-and-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 23 |
 | **[TheIncLab](https://www.theinclab.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34865507/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | McLean, Virginia, United States | On Site | Dec 23 |
+| **[Zoom](https://www.zoom.com/)** | **[Trust & Safety Machine Learning Engineer](https://jobr.pro/job/34917489/trust-safety-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose (CA), United States | On Site | Dec 23 |
+| **[Gap Inc.](https://www.gapinc.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/34920847/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 4440 Rosewood Drive, United States | On Site | Dec 23 |
 | **[DraftKings Inc.](https://www.draftkings.com/)** | **[Lead Machine Learning Engineer, Platform](https://jobr.pro/job/34899229/lead-machine-learning-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boston, MA, United States | On Site | Dec 23 |
 | **[Waymo](https://waymo.com/)** | **[Senior Machine Learning Engineer, Perception (LLM/VLM)](https://jobr.pro/job/34849331/senior-machine-learning-engineer-perception-llmvlm?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA USA; San Francisco, CA USA; | On Site | Dec 22 |
 | **[Waymo](https://waymo.com/)** | **[Machine Learning Engineer, Perception (LLM/VLM)](https://jobr.pro/job/34849326/machine-learning-engineer-perception-llmvlm?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA USA; San Francisco, CA USA; | On Site | Dec 22 |
@@ -49,9 +51,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Govini](https://govini.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34847771/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pittsburgh, PA | On Site | Dec 22 |
 | **[Govini](https://govini.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34847768/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pittsburgh, PA | On Site | Dec 22 |
 | **[GoTo Group](https://www.gotocompany.com/)** | **[Machine Learning Engineer (Singapore)](https://jobr.pro/job/34844411/machine-learning-engineer-singapore?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore | On Site | Dec 22 |
+| **[LPL Financial](https://www.lpl.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34839255/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Fort Mill/Charlotte, United States | On Site | Dec 22 |
 | **[Atlassian](https://www.atlassian.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34814126/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru - India - Bengaluru, 560071 India; Remote - Remote | Remote | Dec 22 |
 | **[Bertrandt](https://www.bertrandt.com)** | **[AI / Machine Learning Engineer (m/w/d)](https://jobr.pro/job/34820027/ai-machine-learning-engineer-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Ehningen, Germany | On Site | Dec 22 |
-| **[LPL Financial](https://www.lpl.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34839255/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Fort Mill/Charlotte, United States | On Site | Dec 22 |
 | **[Steampunk](https://steampunk.com)** | **[Machine Learning Engineer](https://jobr.pro/job/34803789/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | McLean, VA, United States | On Site | Dec 21 |
 | **[BJAK](https://bjak.my/)** | **[Founding Machine Learning Engineer](https://jobr.pro/job/34803098/founding-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Stockholm | Remote | Dec 20 |
 | **[Adobe](https://www.adobe.com/)** | **[2026 Intern - Applied Science/Machine Learning Engineer](https://jobr.pro/job/34796980/2026-intern-applied-sciencemachine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, United States | On Site | Dec 20 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Goodfire](https://www.goodfire.ai/)** | **[Machine Learning Engineer, Life Sciences](https://jobr.pro/job/34742056/machine-learning-engineer-life-sciences?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | Dec 19 |
 | **[Unity](https://unity.com/)** | **[Senior Machine Learning Engineer, Ads Foundation Modeling](https://jobr.pro/job/34735639/senior-machine-learning-engineer-ads-foundation-modeling?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA, USA | On Site | Dec 19 |
 | **[Zoox](https://zoox.com/)** | **[Senior Machine Learning Engineer - Simulation Scenario Generation](https://jobr.pro/job/34739804/senior-machine-learning-engineer-simulation-scenario-generation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA | On Site | Dec 19 |
-| **[Zoox](https://zoox.com/)** | **[Machine Learning Engineer - Perception Offline Driving Intelligence](https://jobr.pro/job/34739802/machine-learning-engineer-perception-offline-driving-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boston, MA | On Site | Dec 19 |
-| **[Zoox](https://zoox.com/)** | **[Senior/Staff Machine Learning Engineer - Perception Offline Driving Intelligence](https://jobr.pro/job/34739806/seniorstaff-machine-learning-engineer-perception-offline-driving-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boston, MA | On Site | Dec 19 |
 
 ---
 
