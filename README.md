@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 24, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 25, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -17,10 +17,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - CV/NLP/Multimodal LLM (TikTok Trust and Safety) - 2026 Start(PHD)](https://jobr.pro/job/34956144/machine-learning-engineer-cvnlpmultimodal-llm-tiktok-trust-and-safety-2026-startphd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Dec 24 |
 | **[Masters India IT Solutions](https://www.mastersindia.co/)** | **[Machine Learning Engineer](https://jobr.pro/job/34937250/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Noida, UP, India | On Site | Dec 24 |
 | **[Paramount](https://www.paramount.com/)** | **[Machine Learning Engineer Intern (Summer 2026 - In Person- LA / NYC / SF)](https://jobr.pro/job/34926328/machine-learning-engineer-intern-summer-2026-in-person-la-nyc-sf?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Burbank, CA, US, 91505 | On Site | Dec 24 |
-| **[ING Nederland](https://www.ing.com/)** | **[Senior Machine Learning Engineer in COO Analytics](https://jobr.pro/job/34948861/senior-machine-learning-engineer-in-coo-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | CDR (Amsterdam - Cedar), Netherlands | On Site | Dec 24 |
 | **[ING](https://www.ing.com/)** | **[Senior Machine Learning Engineer in COO Analytics](https://jobr.pro/job/34978341/senior-machine-learning-engineer-in-coo-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | CDR (Amsterdam - Cedar), Netherlands | On Site | Dec 24 |
-| **[Manulife Financial](https://www.manulife.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34982895/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA, Massachusetts, Boston, 200 Berkeley Street, United States | On Site | Dec 24 |
+| **[ING Nederland](https://www.ing.com/)** | **[Senior Machine Learning Engineer in COO Analytics](https://jobr.pro/job/34948861/senior-machine-learning-engineer-in-coo-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | CDR (Amsterdam - Cedar), Netherlands | On Site | Dec 24 |
 | **[Medtronic](https://www.medtronic.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34979692/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IND-MH Pune Viman Nagar, India | On Site | Dec 24 |
+| **[Manulife Financial](https://www.manulife.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34982895/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA, Massachusetts, Boston, 200 Berkeley Street, United States | On Site | Dec 24 |
 | **[adMarketplace](https://admarketplace.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34933891/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, New York, United States | On Site | Dec 23 |
 | **[OLX](https://www.olxgroup.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34936342/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote Poland, Poland | Remote | Dec 23 |
 | **[Upstart](https://www.upstart.com/)** | **[Staff Applied Machine Learning Engineer, LLM Applications](https://jobr.pro/job/34923630/staff-applied-machine-learning-engineer-llm-applications?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States \| Remote | Remote | Dec 23 |
