@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 25, 2025 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Dec 25, 2025 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Devoteam](https://www.devoteam.com/)** | **[Distributed Cloud \| AI/Machine Learning Engineer](https://jobr.pro/job/34985103/distributed-cloud-aimachine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Porto, Porto, Portugal | On Site | Dec 24 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer (Recommendation) - CapCut](https://jobr.pro/job/34956262/machine-learning-engineer-recommendation-capcut?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 24 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - CV/NLP/Multimodal LLM (TikTok Trust and Safety) - 2026 Start(PHD)](https://jobr.pro/job/34956144/machine-learning-engineer-cvnlpmultimodal-llm-tiktok-trust-and-safety-2026-startphd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Dec 24 |
 | **[Masters India IT Solutions](https://www.mastersindia.co/)** | **[Machine Learning Engineer](https://jobr.pro/job/34937250/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Noida, UP, India | On Site | Dec 24 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Adobe](https://www.adobe.com/)** | **[2026 Intern - Applied Science/Machine Learning Engineer](https://jobr.pro/job/34796980/2026-intern-applied-sciencemachine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, United States | On Site | Dec 20 |
 | **[Waymo](https://waymo.com/)** | **[Staff Machine Learning Engineer, Perception, Sensor Pipelines](https://jobr.pro/job/34734725/staff-machine-learning-engineer-perception-sensor-pipelines?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, California, United States; San Francisco, California, United States | On Site | Dec 19 |
 | **[DoorDash](https://www.doordash.com/)** | **[Staff Machine Learning Engineer - DashPass](https://jobr.pro/job/34734363/staff-machine-learning-engineer-dashpass?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA; Sunnyvale, CA | On Site | Dec 19 |
-| **[Valo Health](https://www.valohealth.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34741042/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lexington, Massachusetts, United States; Remote | Remote | Dec 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 42 companies | Avg salary: 215k  
+**Current Stats:** 50 jobs | 16% remote | 41 companies | Avg salary: 216k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
