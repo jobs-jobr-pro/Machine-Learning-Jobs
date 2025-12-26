@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 26, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 26, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,11 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Agoda](https://www.agoda.com/)** | **[Staff Machine Learning Engineer (India based, relocation provided)](https://jobr.pro/job/35016471/staff-machine-learning-engineer-india-based-relocation-provided?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Gurgaon | On Site | Dec 26 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - LIVE Recommendation - Singapore](https://jobr.pro/job/35001107/machine-learning-engineer-live-recommendation-singapore?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 25 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Core Feed Recommendation - Singapore](https://jobr.pro/job/35001108/machine-learning-engineer-core-feed-recommendation-singapore?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 25 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - Feed E-Commerce - Singapore](https://jobr.pro/job/35001097/machine-learning-engineer-feed-e-commerce-singapore?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 25 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Commerce Ads Ranking](https://jobr.pro/job/35001090/machine-learning-engineer-commerce-ads-ranking?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Dec 25 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - Location Product](https://jobr.pro/job/35001080/machine-learning-engineer-location-product?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 25 |
+| **[Govini](https://govini.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/35017411/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pittsburgh, PA | On Site | Dec 25 |
+| **[Govini](https://govini.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35017408/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pittsburgh, PA | On Site | Dec 25 |
 | **[Guidewire Software](https://www.guidewire.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35015741/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote (ON, Canada) | Remote | Dec 25 |
 | **[Amazon.com](https://www.amazon.com/)** | **[Machine Learning Engineer, Search Relevance](https://jobr.pro/job/35016457/machine-learning-engineer-search-relevance?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, USA | On Site | Dec 25 |
 | **[Signifyd](https://www.signifyd.com/)** | **[Senior Machine Learning Engineer I](https://jobr.pro/job/34991260/senior-machine-learning-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States (Remote); | Remote | Dec 24 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Squarespace](https://www.squarespace.com/)** | **[Senior Machine Learning Engineer - Data Science & Machine Learning](https://jobr.pro/job/34848223/senior-machine-learning-engineer-data-science-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York City | On Site | Dec 22 |
 | **[Chalice Custom Algorithms](https://www.chalice.ai/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34853159/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hybrid/Remote | Remote | Dec 22 |
 | **[Liftoff](https://liftoff.io/)** | **[Machine Learning Engineer](https://jobr.pro/job/34861103/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United Kingdom (Remote) | Remote | Dec 22 |
-| **[N26](https://n26.com/)** | **[Machine Learning Engineer (AI Platform)](https://jobr.pro/job/34852752/machine-learning-engineer-ai-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Berlin | On Site | Dec 22 |
-| **[Devoteam](https://www.devoteam.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34843199/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Marseille, Provence-Alpes-Côte d'Azur, France | On Site | Dec 22 |
-| **[Wave](https://www.wave.com/)** | **[Applied Machine Learning Engineer](https://jobr.pro/job/34845252/applied-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Ghana; Kenya; Spain; United Kingdom | Remote | Dec 22 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 37 companies | Avg salary: 216k  
+**Current Stats:** 50 jobs | 16% remote | 37 companies | Avg salary: 216k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
