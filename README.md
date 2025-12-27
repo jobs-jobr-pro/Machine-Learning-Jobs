@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 27, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 27, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -18,6 +18,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Truelogic](https://www.truelogic.io/)** | **[Lead Machine Learning Engineer (GenAI & Multimodal Systems) – Digital Innovation Agency (Brazil)](https://jobr.pro/job/35037031/lead-machine-learning-engineer-genai-multimodal-systems-digital-innovation-agency-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | São Paulo | Remote | Dec 26 |
 | **[Truelogic](https://www.truelogic.io/)** | **[Lead Machine Learning Engineer (GenAI & Multimodal Systems) – Digital Innovation Agency (DR)](https://jobr.pro/job/35037032/lead-machine-learning-engineer-genai-multimodal-systems-digital-innovation-agency-dr?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santo Domingo | Remote | Dec 26 |
 | **[Truelogic](https://www.truelogic.io/)** | **[Lead Machine Learning Engineer (GenAI & Multimodal Systems) – Digital Innovation Agency](https://jobr.pro/job/35037033/lead-machine-learning-engineer-genai-multimodal-systems-digital-innovation-agency?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | LatAm | Remote | Dec 26 |
+| **[Tiger Analytics](https://www.tigeranalytics.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35045124/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Richardson, Texas, United States - Remote | Remote | Dec 26 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - Core Feed Recommendation - Singapore](https://jobr.pro/job/35020604/machine-learning-engineer-core-feed-recommendation-singapore?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 26 |
 | **[NetSPI](https://www.netspi.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/35037026/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pune, Maharashtra, India | On Site | Dec 26 |
 | **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35039401/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Livonia, MI, United States | On Site | Dec 26 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TheIncLab](https://www.theinclab.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34865507/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | McLean, Virginia, United States | On Site | Dec 23 |
 | **[Zoom](https://www.zoom.com/)** | **[Trust & Safety Machine Learning Engineer](https://jobr.pro/job/34917489/trust-safety-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose (CA), United States | On Site | Dec 23 |
 | **[Gap Inc.](https://www.gapinc.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/34920847/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 4440 Rosewood Drive, United States | On Site | Dec 23 |
-| **[DraftKings Inc.](https://www.draftkings.com/)** | **[Lead Machine Learning Engineer, Platform](https://jobr.pro/job/34899229/lead-machine-learning-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boston, MA, United States | On Site | Dec 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 34 companies | Avg salary: 204k  
+**Current Stats:** 50 jobs | 24% remote | 34 companies | Avg salary: 206k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
