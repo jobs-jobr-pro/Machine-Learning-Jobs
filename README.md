@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 27, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Dec 28, 2025 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -24,6 +24,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35039401/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Livonia, MI, United States | On Site | Dec 26 |
 | **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/35039393/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Livonia, MI, United States | On Site | Dec 26 |
 | **[Agoda](https://www.agoda.com/)** | **[Staff Machine Learning Engineer (India based, relocation provided)](https://jobr.pro/job/35016471/staff-machine-learning-engineer-india-based-relocation-provided?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Gurgaon | On Site | Dec 26 |
+| **[Red Hat](https://www.redhat.com/)** | **[Machine Learning Engineer, llama.cpp](https://jobr.pro/job/35058031/machine-learning-engineer-llamacpp?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boston, United States | Remote | Dec 26 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - LIVE Recommendation - Singapore](https://jobr.pro/job/35001107/machine-learning-engineer-live-recommendation-singapore?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 25 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - Feed E-Commerce - Singapore](https://jobr.pro/job/35001097/machine-learning-engineer-feed-e-commerce-singapore?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 25 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Commerce Ads Ranking](https://jobr.pro/job/35001090/machine-learning-engineer-commerce-ads-ranking?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Dec 25 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Weekday](https://www.weekday.works)** | **[Data and Machine Learning Engineer](https://jobr.pro/job/34875354/data-and-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, Karnataka, India | On Site | Dec 23 |
 | **[TheIncLab](https://www.theinclab.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/34865507/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | McLean, Virginia, United States | On Site | Dec 23 |
 | **[Zoom](https://www.zoom.com/)** | **[Trust & Safety Machine Learning Engineer](https://jobr.pro/job/34917489/trust-safety-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose (CA), United States | On Site | Dec 23 |
-| **[Gap Inc.](https://www.gapinc.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/34920847/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 4440 Rosewood Drive, United States | On Site | Dec 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 34 companies | Avg salary: 206k  
+**Current Stats:** 50 jobs | 26% remote | 34 companies | Avg salary: 215k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
