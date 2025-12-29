@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 29, 2025 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Dec 29, 2025 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate - CV/NLP/Multimodal LLM (TikTok Trust and Safety) - 2026 Start(PHD)](https://jobr.pro/job/35075048/machine-learning-engineer-graduate-cvnlpmultimodal-llm-tiktok-trust-and-safety-2026-startphd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Dec 29 |
+| **[Celfocus](https://www.celfocus.com)** | **[Machine Learning Engineer](https://jobr.pro/job/35074984/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Porto, Portugal | On Site | Dec 29 |
 | **[Match Group](https://mtch.com/)** | **[Machine Learning Engineer (Match Group AI \| 전문연구요원 편입/전직 가능)](https://jobr.pro/job/35063408/machine-learning-engineer-match-group-ai-?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seoul, South Korea | On Site | Dec 28 |
 | **[Match Group](https://mtch.com/)** | **[Senior Machine Learning Engineer (Match Group AI)](https://jobr.pro/job/35063409/senior-machine-learning-engineer-match-group-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seoul, South Korea | On Site | Dec 28 |
 | **[Zoox](https://zoox.com/)** | **[Machine Learning Engineer - Perception Offline Driving Intelligence](https://jobr.pro/job/35060924/machine-learning-engineer-perception-offline-driving-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA | On Site | Dec 28 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TransPerfect](https://www.transperfect.com/)** | **[Machine Learning Engineer - 01T](https://jobr.pro/job/34924967/machine-learning-engineer-01t?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Central Singapore, Singapore | On Site | Dec 23 |
 | **[TransPerfect](https://www.transperfect.com/)** | **[Machine Learning Engineer - 04V](https://jobr.pro/job/34924972/machine-learning-engineer-04v?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Central Singapore, Singapore | On Site | Dec 23 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer , TikTok Search Ranking](https://jobr.pro/job/34882997/machine-learning-engineer-tiktok-search-ranking?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 23 |
-| **[Experian](https://www.experian.com/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/34885202/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hyderabad, India | On Site | Dec 23 |
-| **[Zscaler](https://www.zscaler.com/careers)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/34923979/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, IND | On Site | Dec 23 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 32 companies | Avg salary: 207k  
+**Current Stats:** 50 jobs | 28% remote | 31 companies | Avg salary: 207k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
