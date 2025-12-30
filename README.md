@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 30, 2025 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Dec 30, 2025 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Xiaomi](https://www.xiaomi.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35157913/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 新加坡 | On Site | Dec 30 |
 | **[Grab](https://www.grab.com)** | **[Senior Machine Learning Engineer (Fulfilment)](https://jobr.pro/job/35109176/senior-machine-learning-engineer-fulfilment?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 30 |
 | **[Rocket Lab USA](https://www.rocketlabusa.com/)** | **[Senior Machine Learning Engineer I](https://jobr.pro/job/35112073/senior-machine-learning-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Chantilly, VA | On Site | Dec 30 |
 | **[Rocket Lab USA](https://www.rocketlabusa.com/)** | **[Senior Machine Learning Engineer I/II](https://jobr.pro/job/35112075/senior-machine-learning-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Chantilly, VA | On Site | Dec 30 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[UiPath](https://www.uipath.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34990079/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Jaipur | On Site | Dec 24 |
 | **[Masters India IT Solutions](https://www.mastersindia.co/)** | **[Machine Learning Engineer](https://jobr.pro/job/34937250/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Noida, UP, India | On Site | Dec 24 |
 | **[Kiddom](https://www.kiddom.co/)** | **[Machine Learning Engineer](https://jobr.pro/job/34989297/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco | On Site | Dec 24 |
-| **[ING](https://www.ing.com/)** | **[Senior Machine Learning Engineer in COO Analytics](https://jobr.pro/job/34978341/senior-machine-learning-engineer-in-coo-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | CDR (Amsterdam - Cedar), Netherlands | On Site | Dec 24 |
 
 ---
 
