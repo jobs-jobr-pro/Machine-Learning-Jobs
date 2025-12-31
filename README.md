@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2025
 
-<sub><small>Last updated: Dec 31, 2025 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Dec 31, 2025 at 08:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2025**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,7 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Coupang](https://www.coupang.jobs/)** | **[Senior Machine Learning Engineer, Generative AI Search](https://jobr.pro/job/35175358/senior-machine-learning-engineer-generative-ai-search?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, USA | On Site | Dec 30 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35157913/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 新加坡 | On Site | Dec 30 |
+| **[Applaudo Studios](https://applaudostudios.com)** | **[Machine Learning Engineer](https://jobr.pro/job/35168428/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Salvador, San Salvador Department, El Salvador | On Site | Dec 30 |
 | **[Grab](https://www.grab.com)** | **[Senior Machine Learning Engineer (Fulfilment)](https://jobr.pro/job/35109176/senior-machine-learning-engineer-fulfilment?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 30 |
 | **[Rocket Lab USA](https://www.rocketlabusa.com/)** | **[Senior Machine Learning Engineer I](https://jobr.pro/job/35112073/senior-machine-learning-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Chantilly, VA | On Site | Dec 30 |
 | **[Rocket Lab USA](https://www.rocketlabusa.com/)** | **[Senior Machine Learning Engineer I/II](https://jobr.pro/job/35112075/senior-machine-learning-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Chantilly, VA | On Site | Dec 30 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer (Recommendation) - CapCut](https://jobr.pro/job/34956262/machine-learning-engineer-recommendation-capcut?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 24 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - CV/NLP/Multimodal LLM (TikTok Trust and Safety) - 2026 Start(PHD)](https://jobr.pro/job/34956144/machine-learning-engineer-cvnlpmultimodal-llm-tiktok-trust-and-safety-2026-startphd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Dec 24 |
 | **[UiPath](https://www.uipath.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34990079/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Jaipur | On Site | Dec 24 |
-| **[Masters India IT Solutions](https://www.mastersindia.co/)** | **[Machine Learning Engineer](https://jobr.pro/job/34937250/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Noida, UP, India | On Site | Dec 24 |
-| **[Kiddom](https://www.kiddom.co/)** | **[Machine Learning Engineer](https://jobr.pro/job/34989297/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco | On Site | Dec 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 33 companies | Avg salary: 219k  
+**Current Stats:** 50 jobs | 26% remote | 33 companies | Avg salary: 217k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
