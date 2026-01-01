@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2026
 
-<sub><small>Last updated: Jan 01, 2026 at 04:30 UTC</small></sub>
+<sub><small>Last updated: Jan 01, 2026 at 08:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Prima](https://www.helloprima.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/35221839/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London | On Site | Dec 31 |
+| **[JioStar](https://www.jiostar.com/)** | **[Senior Machine Learning Engineer - Viewer Experience](https://jobr.pro/job/35216240/senior-machine-learning-engineer-viewer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru | On Site | Dec 31 |
+| **[Channel Talk](https://channel.io/)** | **[Machine Learning Engineer](https://jobr.pro/job/35216165/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 서울 강남구 논현로 508, GS강남타워 | On Site | Dec 31 |
 | **[PayPal](https://www.paypal.com/)** | **[Senior Staff Machine Learning Engineer](https://jobr.pro/job/35211951/senior-staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - California - San Jose - Corp - N First St, United States | On Site | Dec 31 |
 | **[Coupang](https://www.coupang.jobs/)** | **[Senior Machine Learning Engineer, Generative AI Search](https://jobr.pro/job/35175358/senior-machine-learning-engineer-generative-ai-search?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, USA | On Site | Dec 30 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35157913/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 新加坡 | On Site | Dec 30 |
@@ -61,7 +64,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 45 jobs | 24% remote | 30 companies | Avg salary: 232k  
+**Current Stats:** 48 jobs | 23% remote | 33 companies | Avg salary: 232k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
