@@ -1,9 +1,9 @@
 <!-- prettier-ignore-start -->
-# Machine learning engineer Jobs 2025
+# Machine learning engineer Jobs 2026
 
-<sub><small>Last updated: Dec 31, 2025 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 01, 2026 at 00:30 UTC</small></sub>
 
-This repository collects curated **Machine learning engineer opportunities in 2025**.  
+This repository collects curated **Machine learning engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
 
 Visit [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs) — **you choose the job, we handle the paperwork**.  
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[PayPal](https://www.paypal.com/)** | **[Senior Staff Machine Learning Engineer](https://jobr.pro/job/35211951/senior-staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - California - San Jose - Corp - N First St, United States | On Site | Dec 31 |
 | **[Coupang](https://www.coupang.jobs/)** | **[Senior Machine Learning Engineer, Generative AI Search](https://jobr.pro/job/35175358/senior-machine-learning-engineer-generative-ai-search?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, USA | On Site | Dec 30 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35157913/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 新加坡 | On Site | Dec 30 |
 | **[Applaudo Studios](https://applaudostudios.com)** | **[Machine Learning Engineer](https://jobr.pro/job/35168428/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Salvador, San Salvador Department, El Salvador | On Site | Dec 30 |
@@ -57,16 +58,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - Location Product](https://jobr.pro/job/35001080/machine-learning-engineer-location-product?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 25 |
 | **[Guidewire Software](https://www.guidewire.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35015741/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote (ON, Canada) | Remote | Dec 25 |
 | **[Amazon.com](https://www.amazon.com/)** | **[Machine Learning Engineer, Search Relevance](https://jobr.pro/job/35016457/machine-learning-engineer-search-relevance?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, USA | On Site | Dec 25 |
-| **[Signifyd](https://www.signifyd.com/)** | **[Senior Machine Learning Engineer I](https://jobr.pro/job/34991260/senior-machine-learning-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States (Remote); | Remote | Dec 24 |
-| **[Oowlish Technology](https://www.oowlish.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34988552/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Brasília, Federal District, Brazil | Remote | Dec 24 |
-| **[Devoteam](https://www.devoteam.com/)** | **[Distributed Cloud \| AI/Machine Learning Engineer](https://jobr.pro/job/34985103/distributed-cloud-aimachine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Porto, Porto, Portugal | On Site | Dec 24 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer (Recommendation) - CapCut](https://jobr.pro/job/34956262/machine-learning-engineer-recommendation-capcut?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 24 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - CV/NLP/Multimodal LLM (TikTok Trust and Safety) - 2026 Start(PHD)](https://jobr.pro/job/34956144/machine-learning-engineer-cvnlpmultimodal-llm-tiktok-trust-and-safety-2026-startphd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Dec 24 |
-| **[UiPath](https://www.uipath.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/34990079/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Jaipur | On Site | Dec 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 33 companies | Avg salary: 217k  
+**Current Stats:** 45 jobs | 24% remote | 30 companies | Avg salary: 232k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
