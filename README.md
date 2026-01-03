@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2026
 
-<sub><small>Last updated: Jan 03, 2026 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Jan 03, 2026 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[webAI](https://www.webai.com/)** | **[On-Device Machine Learning Engineer](https://jobr.pro/job/35275589/on-device-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Austin, TX | On Site | Jan 02 |
+| **[ShopFully](https://shopfully.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/35272601/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Italy | On Site | Jan 02 |
+| **[ShopFully](https://shopfully.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35272593/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Italy | On Site | Jan 02 |
+| **[BJAK](https://bjak.my/)** | **[Founding Lead Machine Learning Engineer](https://jobr.pro/job/35275938/founding-lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Malaysia | On Site | Jan 02 |
+| **[Mavenoid](https://www.mavenoid.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/35280252/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London | Remote | Jan 02 |
+| **[Tekion](https://tekion.com/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/35274315/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, India | On Site | Jan 02 |
 | **[SAP](https://www.sap.com/)** | **[Associate Machine Learning Engineer- Python, CAP Java](https://jobr.pro/job/35253653/associate-machine-learning-engineer-python-cap-java?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, IN, 560066 | On Site | Jan 02 |
 | **[Spokeo](https://www.spokeo.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/35232606/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pasadena, United States | Remote | Dec 31 |
 | **[Prima](https://www.helloprima.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/35221839/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London | On Site | Dec 31 |
@@ -48,7 +54,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 ---
 
-**Current Stats:** 32 jobs | 13% remote | 27 companies | Avg salary: 226k  
+**Current Stats:** 38 jobs | 13% remote | 32 companies | Avg salary: 205k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
