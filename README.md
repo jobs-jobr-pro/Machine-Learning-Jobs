@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2026
 
-<sub><small>Last updated: Jan 02, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 03, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[SAP](https://www.sap.com/)** | **[Associate Machine Learning Engineer- Python, CAP Java](https://jobr.pro/job/35253653/associate-machine-learning-engineer-python-cap-java?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, IN, 560066 | On Site | Jan 02 |
 | **[Spokeo](https://www.spokeo.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/35232606/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pasadena, United States | Remote | Dec 31 |
 | **[Prima](https://www.helloprima.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/35221839/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London | On Site | Dec 31 |
 | **[JioStar](https://www.jiostar.com/)** | **[Senior Machine Learning Engineer - Viewer Experience](https://jobr.pro/job/35216240/senior-machine-learning-engineer-viewer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru | On Site | Dec 31 |
@@ -44,22 +45,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Insider One](https://insiderone.com)** | **[Machine Learning Engineer (Search)](https://jobr.pro/job/35060815/machine-learning-engineer-search?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Istanbul, Turkiye | Remote | Dec 28 |
 | **[Govini](https://govini.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35059551/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pittsburgh, PA | On Site | Dec 28 |
 | **[Govini](https://govini.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/35059556/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pittsburgh, PA | On Site | Dec 28 |
-| **[Truelogic](https://www.truelogic.io/)** | **[Lead Machine Learning Engineer (GenAI & Multimodal Systems) – Digital Innovation Agency (Mexico)](https://jobr.pro/job/35037034/lead-machine-learning-engineer-genai-multimodal-systems-digital-innovation-agency-mexico?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mexico City | Remote | Dec 26 |
-| **[Truelogic](https://www.truelogic.io/)** | **[Lead Machine Learning Engineer (GenAI & Multimodal Systems) – Digital Innovation Agency (Colombia)](https://jobr.pro/job/35037030/lead-machine-learning-engineer-genai-multimodal-systems-digital-innovation-agency-colombia?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bogota | Remote | Dec 26 |
-| **[Truelogic](https://www.truelogic.io/)** | **[Lead Machine Learning Engineer (GenAI & Multimodal Systems) – Digital Innovation Agency (Brazil)](https://jobr.pro/job/35037031/lead-machine-learning-engineer-genai-multimodal-systems-digital-innovation-agency-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | São Paulo | Remote | Dec 26 |
-| **[Truelogic](https://www.truelogic.io/)** | **[Lead Machine Learning Engineer (GenAI & Multimodal Systems) – Digital Innovation Agency (DR)](https://jobr.pro/job/35037032/lead-machine-learning-engineer-genai-multimodal-systems-digital-innovation-agency-dr?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santo Domingo | Remote | Dec 26 |
-| **[Truelogic](https://www.truelogic.io/)** | **[Lead Machine Learning Engineer (GenAI & Multimodal Systems) – Digital Innovation Agency](https://jobr.pro/job/35037033/lead-machine-learning-engineer-genai-multimodal-systems-digital-innovation-agency?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | LatAm | Remote | Dec 26 |
-| **[Tiger Analytics](https://www.tigeranalytics.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35045124/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Richardson, Texas, United States - Remote | Remote | Dec 26 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - Core Feed Recommendation - Singapore](https://jobr.pro/job/35020604/machine-learning-engineer-core-feed-recommendation-singapore?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Dec 26 |
-| **[NetSPI](https://www.netspi.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/35037026/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pune, Maharashtra, India | On Site | Dec 26 |
-| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35039401/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Livonia, MI, United States | On Site | Dec 26 |
-| **[AAA Life Insurance Company](https://www.aaalife.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/35039393/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Livonia, MI, United States | On Site | Dec 26 |
-| **[Agoda](https://www.agoda.com/)** | **[Staff Machine Learning Engineer (India based, relocation provided)](https://jobr.pro/job/35016471/staff-machine-learning-engineer-india-based-relocation-provided?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Gurgaon | On Site | Dec 26 |
-| **[Red Hat](https://www.redhat.com/)** | **[Machine Learning Engineer, llama.cpp](https://jobr.pro/job/35058031/machine-learning-engineer-llamacpp?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boston, United States | Remote | Dec 26 |
 
 ---
 
-**Current Stats:** 43 jobs | 26% remote | 32 companies | Avg salary: 233k  
+**Current Stats:** 32 jobs | 13% remote | 27 companies | Avg salary: 226k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
