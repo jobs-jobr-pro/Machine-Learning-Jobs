@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2026
 
-<sub><small>Last updated: Jan 04, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 05, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -43,18 +43,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[IQVIA](https://www.iqvia.com/)** | **[Senior Machine Learning Engineer - ML Ops & Cloud](https://jobr.pro/job/35098056/senior-machine-learning-engineer-ml-ops-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Dhaka, Bangladesh | On Site | Dec 29 |
 | **[Rakuten Asia Pte Ltd](https://global.rakuten.com/)** | **[Machine Learning Engineer Intern](https://jobr.pro/job/35088243/machine-learning-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Crimson House Singapore | On Site | Dec 29 |
 | **[Snap Inc.](https://snap.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35099328/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London - 50 Cowcross Street, United Kingdom | On Site | Dec 29 |
-| **[Match Group](https://mtch.com/)** | **[Machine Learning Engineer (Match Group AI \| 전문연구요원 편입/전직 가능)](https://jobr.pro/job/35063408/machine-learning-engineer-match-group-ai-?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seoul, South Korea | On Site | Dec 28 |
-| **[Match Group](https://mtch.com/)** | **[Senior Machine Learning Engineer (Match Group AI)](https://jobr.pro/job/35063409/senior-machine-learning-engineer-match-group-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seoul, South Korea | On Site | Dec 28 |
-| **[Zoox](https://zoox.com/)** | **[Machine Learning Engineer - Perception Offline Driving Intelligence](https://jobr.pro/job/35060924/machine-learning-engineer-perception-offline-driving-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA | On Site | Dec 28 |
-| **[Zoox](https://zoox.com/)** | **[Senior/Staff Machine Learning Engineer - Perception Offline Driving Intelligence](https://jobr.pro/job/35060926/seniorstaff-machine-learning-engineer-perception-offline-driving-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA | On Site | Dec 28 |
-| **[Insider One](https://insiderone.com)** | **[Senior Machine Learning Engineer (Search)](https://jobr.pro/job/35060862/senior-machine-learning-engineer-search?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Istanbul, Turkiye | Remote | Dec 28 |
-| **[Insider One](https://insiderone.com)** | **[Machine Learning Engineer (Search)](https://jobr.pro/job/35060815/machine-learning-engineer-search?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Istanbul, Turkiye | Remote | Dec 28 |
-| **[Govini](https://govini.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35059551/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pittsburgh, PA | On Site | Dec 28 |
-| **[Govini](https://govini.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/35059556/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pittsburgh, PA | On Site | Dec 28 |
 
 ---
 
-**Current Stats:** 38 jobs | 13% remote | 32 companies | Avg salary: 205k  
+**Current Stats:** 30 jobs | 10% remote | 28 companies | Avg salary: 205k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
