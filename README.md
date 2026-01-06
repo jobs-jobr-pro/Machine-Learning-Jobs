@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2026
 
-<sub><small>Last updated: Jan 05, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 06, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -32,21 +32,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Rocket Lab USA](https://www.rocketlabusa.com/)** | **[Senior Machine Learning Engineer I](https://jobr.pro/job/35112073/senior-machine-learning-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Chantilly, VA | On Site | Dec 30 |
 | **[Rocket Lab USA](https://www.rocketlabusa.com/)** | **[Senior Machine Learning Engineer I/II](https://jobr.pro/job/35112075/senior-machine-learning-engineer-iii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Chantilly, VA | On Site | Dec 30 |
 | **[Freeform](https://freeform.co/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/35114671/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Los Angeles, CA (On-site) | On Site | Dec 30 |
-| **[ServiceNow](https://www.servicenow.com)** | **[Senior Staff Machine Learning Engineer - Build Agent](https://jobr.pro/job/35102767/senior-staff-machine-learning-engineer-build-agent?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Diego, CALIFORNIA, United States | On Site | Dec 29 |
-| **[Waymo](https://waymo.com/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/35116778/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, England, United Kingdom | On Site | Dec 29 |
-| **[NICE](https://www.nice.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/35116407/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - Atlanta, GA | On Site | Dec 29 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate - CV/NLP/Multimodal LLM (TikTok Trust and Safety) - 2026 Start(PHD)](https://jobr.pro/job/35075048/machine-learning-engineer-graduate-cvnlpmultimodal-llm-tiktok-trust-and-safety-2026-startphd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Dec 29 |
-| **[Celfocus](https://www.celfocus.com)** | **[Machine Learning Engineer](https://jobr.pro/job/35074984/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Porto, Portugal | On Site | Dec 29 |
-| **[Two Dots](https://www.twodots.net/)** | **[Machine Learning Engineer](https://jobr.pro/job/35107746/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco HQ | On Site | Dec 29 |
-| **[Your Personal AI](https://yourpersonalai.net)** | **[Machine Learning Engineer](https://jobr.pro/job/35104497/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote job | Remote | Dec 29 |
-| **[Swisscom](https://www.swisscom.ch/en/about/career/devops-rotterdam.html)** | **[Senior Big Data & Machine Learning Engineer](https://jobr.pro/job/35104315/senior-big-data-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Rotterdam, Zuid-Holland, Netherlands | On Site | Dec 29 |
-| **[IQVIA](https://www.iqvia.com/)** | **[Senior Machine Learning Engineer - ML Ops & Cloud](https://jobr.pro/job/35098056/senior-machine-learning-engineer-ml-ops-cloud?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Dhaka, Bangladesh | On Site | Dec 29 |
-| **[Rakuten Asia Pte Ltd](https://global.rakuten.com/)** | **[Machine Learning Engineer Intern](https://jobr.pro/job/35088243/machine-learning-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Crimson House Singapore | On Site | Dec 29 |
-| **[Snap Inc.](https://snap.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35099328/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London - 50 Cowcross Street, United Kingdom | On Site | Dec 29 |
 
 ---
 
-**Current Stats:** 30 jobs | 10% remote | 28 companies | Avg salary: 205k  
+**Current Stats:** 19 jobs | 11% remote | 17 companies | Avg salary: 209k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
