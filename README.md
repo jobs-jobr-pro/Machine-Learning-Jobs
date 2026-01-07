@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2026
 
-<sub><small>Last updated: Jan 06, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 07, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,18 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[TikTok](https://www.tiktok.com/)** | **[Senior Machine Learning Engineer, TikTok Ads Core Global - Traffic & Strategy](https://jobr.pro/job/35417217/senior-machine-learning-engineer-tiktok-ads-core-global-traffic-strategy?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 06 |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - TikTok Search Ranking](https://jobr.pro/job/35417170/machine-learning-engineer-tiktok-search-ranking?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Jan 06 |
+| **[TikTok](https://www.tiktok.com/)** | **[Senior Machine Learning Engineer, Global Payment Decision Science - USDS](https://jobr.pro/job/35417089/senior-machine-learning-engineer-global-payment-decision-science-usds?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 06 |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Global Payment Decision Science - USDS](https://jobr.pro/job/35417076/machine-learning-engineer-global-payment-decision-science-usds?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 06 |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Manager, TikTok - Trust and Safety](https://jobr.pro/job/35417023/machine-learning-engineer-manager-tiktok-trust-and-safety?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 06 |
+| **[Agoda](https://www.agoda.com/)** | **[Senior/Staff Machine Learning Engineer - Bidding (Bangkok based, relocation provided)](https://jobr.pro/job/35380844/seniorstaff-machine-learning-engineer-bidding-bangkok-based-relocation-provided?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangkok (Central World Office) | On Site | Jan 06 |
+| **[Affinity](https://www.affinity.co/)** | **[Senior Machine Learning Engineer (AI Insights)](https://jobr.pro/job/35370657/senior-machine-learning-engineer-ai-insights?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Canada (Remote) | Remote | Jan 06 |
+| **[Lucid Motors](https://lucidmotors.com/)** | **[Intern, Machine Learning Engineer, Summer 2026](https://jobr.pro/job/35386330/intern-machine-learning-engineer-summer-2026?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Newark, CA | On Site | Jan 06 |
+| **[Alstom](https://www.alstom.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35383695/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, SG | On Site | Jan 06 |
+| **[Condé Nast](https://www.condenast.com/)** | **[Machine Learning Engineer II](https://jobr.pro/job/35414836/machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | MARKSQUARE, Bengaluru, IN, India | On Site | Jan 06 |
+| **[Manulife Financial](https://www.manulife.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35401048/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA, Massachusetts, Boston, 200 Berkeley Street, United States | On Site | Jan 06 |
+| **[Mindrift](https://mindrift.ai/)** | **[Freelance Machine Learning Engineer (Python)](https://jobr.pro/job/35423113/freelance-machine-learning-engineer-python?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | India - Remote | Remote | Jan 06 |
 | **[Experian](https://www.experian.com/)** | **[MLOps Engineer, Machine Learning Engineer (Remote)](https://jobr.pro/job/35365392/mlops-engineer-machine-learning-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States, UNITED STATES, United States | Remote | Jan 05 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Senior Staff Machine Learning Engineer](https://jobr.pro/job/35365395/senior-staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CALIFORNIA, United States | On Site | Jan 05 |
 | **[UK Research and Innovation (UKRI)](https://www.ukri.org/)** | **[Machine Learning Engineer Apprentice](https://jobr.pro/job/35340575/machine-learning-engineer-apprentice?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Didcot, Oxfordshire, United Kingdom | On Site | Jan 05 |
@@ -51,22 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - Search E-commerce (San Jose)](https://jobr.pro/job/35334097/machine-learning-engineer-search-e-commerce-san-jose?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 05 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, E-commerce Governance Algorithms](https://jobr.pro/job/35334099/machine-learning-engineer-e-commerce-governance-algorithms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Jan 05 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - E-commerce Merchant and Creator Growth](https://jobr.pro/job/35334094/machine-learning-engineer-e-commerce-merchant-and-creator-growth?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Jan 05 |
-| **[TikTok](https://www.tiktok.com/)** | **[Senior Machine Learning Engineer - Search E-commerce (San Jose)](https://jobr.pro/job/35334092/senior-machine-learning-engineer-search-e-commerce-san-jose?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 05 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - Computer Vision](https://jobr.pro/job/35334087/machine-learning-engineer-computer-vision?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 05 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, TikTok Live Stream](https://jobr.pro/job/35334062/machine-learning-engineer-tiktok-live-stream?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 05 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer (CCR&VOC) Tech Lead, TikTok E-commerce Governance](https://jobr.pro/job/35334057/machine-learning-engineer-ccrvoc-tech-lead-tiktok-e-commerce-governance?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Jan 05 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Search engine, E-Commerce Alliance](https://jobr.pro/job/35334052/machine-learning-engineer-search-engine-e-commerce-alliance?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Jan 05 |
-| **[TikTok](https://www.tiktok.com/)** | **[Senior Machine Learning Engineer, TikTok Trust and Safety](https://jobr.pro/job/35334046/senior-machine-learning-engineer-tiktok-trust-and-safety?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Jan 05 |
-| **[TikTok](https://www.tiktok.com/)** | **[Tech Lead Machine Learning Engineer, TikTok Branding Ads](https://jobr.pro/job/35334017/tech-lead-machine-learning-engineer-tiktok-branding-ads?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 05 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, TikTok Brand Ads](https://jobr.pro/job/35334002/machine-learning-engineer-tiktok-brand-ads?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 05 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, TikTok Ads Core Global - Traffic & Strategy](https://jobr.pro/job/35333969/machine-learning-engineer-tiktok-ads-core-global-traffic-strategy?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 05 |
-| **[TikTok](https://www.tiktok.com/)** | **[Senior Machine Learning Engineer, TikTok Branding Ads](https://jobr.pro/job/35333976/senior-machine-learning-engineer-tiktok-branding-ads?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 05 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - Trust and Safety](https://jobr.pro/job/35333975/machine-learning-engineer-trust-and-safety?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 05 |
-| **[TikTok](https://www.tiktok.com/)** | **[Staff Machine Learning Engineer, TikTok Ads Core Global - Traffic & Strategy](https://jobr.pro/job/35333978/staff-machine-learning-engineer-tiktok-ads-core-global-traffic-strategy?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 2% remote | 5 companies | Avg salary: 346k  
+**Current Stats:** 50 jobs | 6% remote | 12 companies | Avg salary: 213k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
