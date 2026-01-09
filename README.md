@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2026
 
-<sub><small>Last updated: Jan 09, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 09, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,11 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Sia](https://www.sia-partners.com)** | **[Machine Learning Engineer - H/F](https://jobr.pro/job/35703651/machine-learning-engineer-hf?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris, IDF, France | On Site | Jan 09 |
 | **[Upwork](https://www.upwork.com/)** | **[Lead Machine Learning Engineer/Scientist, Algorithms & Research](https://jobr.pro/job/35673273/lead-machine-learning-engineerscientist-algorithms-research?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lisbon, Portugal | On Site | Jan 09 |
 | **[Zoom](https://www.zoom.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35683208/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote (IND), India | Remote | Jan 09 |
 | **[Capital One](https://www.capitalonecareers.com/)** | **[Senior Distinguished Machine Learning Engineer](https://jobr.pro/job/35689118/senior-distinguished-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, In, India | On Site | Jan 09 |
-| **[Amgen](https://www.amgen.com/)** | **[Sr Machine Learning Engineer](https://jobr.pro/job/35695963/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | India - Hyderabad | On Site | Jan 09 |
 | **[Atlassian](https://www.atlassian.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/35698806/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View - United States or Remote - Mountain View, California 94041 United States; Remote - Remote; San Francisco - United States - San Francisco, California 94104 United States; Seattle - United States - Seattle, Washington United States | Remote | Jan 09 |
+| **[Amgen](https://www.amgen.com/)** | **[Sr Machine Learning Engineer](https://jobr.pro/job/35695963/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | India - Hyderabad | On Site | Jan 09 |
+| **[LSEG](https://www.lseg.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35702717/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IND-Bangalore-TowerE,RMZ Infin, India | On Site | Jan 09 |
 | **[PlayStation Global](https://www.playstation.com/)** | **[Machine Learning Engineer - Recommendation Systems](https://jobr.pro/job/35664527/machine-learning-engineer-recommendation-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Ireland, Dublin | On Site | Jan 08 |
 | **[Conviva](https://www.conviva.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/35654871/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA | On Site | Jan 08 |
 | **[Signifyd](https://www.signifyd.com/)** | **[Machine Learning Engineer II](https://jobr.pro/job/35662273/machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Budapest, Hungary; | On Site | Jan 08 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Recommendation - E-Commerce](https://jobr.pro/job/35334264/machine-learning-engineer-recommendation-e-commerce?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 05 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, E-commerce Feed Recommendation](https://jobr.pro/job/35334261/machine-learning-engineer-e-commerce-feed-recommendation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 05 |
 | **[TikTok](https://www.tiktok.com/)** | **[Senior Machine Learning Engineer (CV/NLP/Multimodal/LLM) -E-commerce Governance](https://jobr.pro/job/35334256/senior-machine-learning-engineer-cvnlpmultimodalllm-e-commerce-governance?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Jan 05 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - Demand Forecasting (TikTok Global E-commerce Supply Chain and Logistics)](https://jobr.pro/job/35334248/machine-learning-engineer-demand-forecasting-tiktok-global-e-commerce-supply-chain-and-logistics?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Jan 05 |
-| **[TikTok](https://www.tiktok.com/)** | **[Senior Machine Learning Engineer - E-commerce Merchant and Creator Growth](https://jobr.pro/job/35334247/senior-machine-learning-engineer-e-commerce-merchant-and-creator-growth?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Jan 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 10% remote | 23 companies | Avg salary: 207k  
+**Current Stats:** 50 jobs | 10% remote | 25 companies | Avg salary: 207k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
