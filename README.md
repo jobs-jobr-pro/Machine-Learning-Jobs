@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2026
 
-<sub><small>Last updated: Jan 12, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 13, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -62,11 +62,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Condé Nast](https://www.condenast.com/)** | **[Machine Learning Engineer II](https://jobr.pro/job/35414836/machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | MARKSQUARE, Bengaluru, IN, India | On Site | Jan 06 |
 | **[Manulife Financial](https://www.manulife.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35401048/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA, Massachusetts, Boston, 200 Berkeley Street, United States | On Site | Jan 06 |
 | **[Mindrift](https://mindrift.ai/)** | **[Freelance Machine Learning Engineer (Python)](https://jobr.pro/job/35423113/freelance-machine-learning-engineer-python?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | India - Remote | Remote | Jan 06 |
-| **[Experian](https://www.experian.com/)** | **[MLOps Engineer, Machine Learning Engineer (Remote)](https://jobr.pro/job/35365392/mlops-engineer-machine-learning-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States, UNITED STATES, United States | Remote | Jan 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 20% remote | 43 companies | Avg salary: 206k  
+**Current Stats:** 49 jobs | 18% remote | 42 companies | Avg salary: 206k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
