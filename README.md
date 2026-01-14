@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2026
 
-<sub><small>Last updated: Jan 13, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 14, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -50,22 +50,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[FanDuel](https://www.fanduel.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35670651/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York City | On Site | Jan 08 |
 | **[Path Robotics](https://path-robotics.com/)** | **[Machine Learning Engineer, Reinforcement Learning](https://jobr.pro/job/35656220/machine-learning-engineer-reinforcement-learning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Columbus, Ohio | On Site | Jan 08 |
 | **[CoMind](https://comind.io/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/35662920/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, UK | On Site | Jan 08 |
-| **[TikTok](https://www.tiktok.com/)** | **[Senior Machine Learning Engineer, TikTok Ads Core Global - Traffic & Strategy](https://jobr.pro/job/35417217/senior-machine-learning-engineer-tiktok-ads-core-global-traffic-strategy?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 06 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - TikTok Search Ranking](https://jobr.pro/job/35417170/machine-learning-engineer-tiktok-search-ranking?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Jan 06 |
-| **[TikTok](https://www.tiktok.com/)** | **[Senior Machine Learning Engineer, Global Payment Decision Science - USDS](https://jobr.pro/job/35417089/senior-machine-learning-engineer-global-payment-decision-science-usds?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 06 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Global Payment Decision Science - USDS](https://jobr.pro/job/35417076/machine-learning-engineer-global-payment-decision-science-usds?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 06 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Manager, TikTok - Trust and Safety](https://jobr.pro/job/35417023/machine-learning-engineer-manager-tiktok-trust-and-safety?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 06 |
-| **[Agoda](https://www.agoda.com/)** | **[Senior/Staff Machine Learning Engineer - Bidding (Bangkok based, relocation provided)](https://jobr.pro/job/35380844/seniorstaff-machine-learning-engineer-bidding-bangkok-based-relocation-provided?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangkok (Central World Office) | On Site | Jan 06 |
-| **[Affinity](https://www.affinity.co/)** | **[Senior Machine Learning Engineer (AI Insights)](https://jobr.pro/job/35370657/senior-machine-learning-engineer-ai-insights?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Canada (Remote) | Remote | Jan 06 |
-| **[Lucid Motors](https://lucidmotors.com/)** | **[Intern, Machine Learning Engineer, Summer 2026](https://jobr.pro/job/35386330/intern-machine-learning-engineer-summer-2026?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Newark, CA | On Site | Jan 06 |
-| **[Alstom](https://www.alstom.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35383695/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, SG | On Site | Jan 06 |
-| **[Condé Nast](https://www.condenast.com/)** | **[Machine Learning Engineer II](https://jobr.pro/job/35414836/machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | MARKSQUARE, Bengaluru, IN, India | On Site | Jan 06 |
-| **[Manulife Financial](https://www.manulife.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35401048/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA, Massachusetts, Boston, 200 Berkeley Street, United States | On Site | Jan 06 |
-| **[Mindrift](https://mindrift.ai/)** | **[Freelance Machine Learning Engineer (Python)](https://jobr.pro/job/35423113/freelance-machine-learning-engineer-python?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | India - Remote | Remote | Jan 06 |
 
 ---
 
-**Current Stats:** 49 jobs | 18% remote | 42 companies | Avg salary: 206k  
+**Current Stats:** 37 jobs | 19% remote | 34 companies | Avg salary: 214k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
