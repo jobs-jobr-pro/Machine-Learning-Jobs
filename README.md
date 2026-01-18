@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2026
 
-<sub><small>Last updated: Jan 18, 2026 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Jan 18, 2026 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -19,6 +19,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Roblox](https://www.roblox.com/)** | **[Senior Machine Learning Engineer, Safety Core Data](https://jobr.pro/job/36231573/senior-machine-learning-engineer-safety-core-data?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA, United States | On Site | Jan 16 |
 | **[Box](https://www.box.com/)** | **[Machine Learning Engineer III, Shield](https://jobr.pro/job/36233343/machine-learning-engineer-iii-shield?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Redwood City, CA, United States | On Site | Jan 16 |
 | **[Captivation](https://captivation.us/)** | **[Artificial Intelligence Machine Learning Engineer 2](https://jobr.pro/job/36232923/artificial-intelligence-machine-learning-engineer-2?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Annapolis Junction, MD | On Site | Jan 16 |
+| **[Hologic, Inc.](https://www.hologic.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/36269769/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Newark, DE, United States | On Site | Jan 16 |
 | **[Eurofins](https://www.eurofins.com)** | **[Machine Learning Engineer - Automated Chromatography Analysis](https://jobr.pro/job/36240082/machine-learning-engineer-automated-chromatography-analysis?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Houston, TX, United States | On Site | Jan 16 |
 | **[Deliveroo](https://deliveroo.co.uk/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/36236946/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London - The River Building HQ | On Site | Jan 16 |
 | **[Experian](https://www.experian.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/36224412/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Heredia, Heredia, Costa Rica | On Site | Jan 16 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bloomberg](https://www.bloomberg.com/)** | **[Senior Machine Learning Engineer – BLAW / BGOV / BTAX](https://jobr.pro/job/35927208/senior-machine-learning-engineer-blaw-bgov-btax?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York | On Site | Jan 13 |
 | **[TikTok](https://www.tiktok.com/)** | **[Engineer Graduate: (Machine Learning Engineer - Local Services Search) - 2026 Start (PhD)](https://jobr.pro/job/35923189/engineer-graduate-machine-learning-engineer-local-services-search-2026-start-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Jan 13 |
 | **[Zscaler](https://www.zscaler.com/careers)** | **[Sr. Machine Learning Engineer](https://jobr.pro/job/35972587/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, IND | On Site | Jan 13 |
-| **[airSlate](https://www.airslate.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/35974138/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Wroclaw | On Site | Jan 13 |
 
 ---
 
-**Current Stats:** 50 jobs | 16% remote | 41 companies | Avg salary: 262k  
+**Current Stats:** 50 jobs | 16% remote | 41 companies | Avg salary: 259k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
