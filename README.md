@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2026
 
-<sub><small>Last updated: Jan 19, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 19, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -45,11 +45,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TikTok](https://www.tiktok.com/)** | **[Junior Machine Learning Engineer, Search - Local Services Team](https://jobr.pro/job/36018771/junior-machine-learning-engineer-search-local-services-team?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 14 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Search - Local Services Team](https://jobr.pro/job/36018761/machine-learning-engineer-search-local-services-team?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Jan 14 |
 | **[SimplePractice](https://www.simplepractice.com/)** | **[Sr. Python Developer / Senior Machine Learning Engineer, Platform (Hybrid)](https://jobr.pro/job/35987395/sr-python-developer-senior-machine-learning-engineer-platform-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mexico City | On Site | Jan 14 |
-| **[SAP](https://www.sap.com/)** | **[Machine Learning Engineer - Application AI Apps Product Engineering](https://jobr.pro/job/35987068/machine-learning-engineer-application-ai-apps-product-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, KA, IN, 560066 | On Site | Jan 14 |
 | **[FOX Corporation](https://www.foxcorporation.com/)** | **[Staff Machine Learning Engineer (Toronto)](https://jobr.pro/job/36059814/staff-machine-learning-engineer-toronto?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | CAN - ON - Yonge St, Canada | On Site | Jan 14 |
 | **[FOX Corporation](https://www.foxcorporation.com/)** | **[Machine Learning Engineer (Toronto)](https://jobr.pro/job/36059812/machine-learning-engineer-toronto?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | CAN - ON - Yonge St, Canada | On Site | Jan 14 |
 | **[FOX Corporation](https://www.foxcorporation.com/)** | **[Senior Machine Learning Engineer (Toronto)](https://jobr.pro/job/36059813/senior-machine-learning-engineer-toronto?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | CAN - ON - Yonge St, Canada | On Site | Jan 14 |
 | **[Fitch Group](https://www.fitch.group/)** | **[Lead Machine Learning Engineer - AI Innovation Teams](https://jobr.pro/job/35996760/lead-machine-learning-engineer-ai-innovation-teams?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Toronto, ON, CA | On Site | Jan 14 |
+| **[SAP](https://www.sap.com/)** | **[Machine Learning Engineer - Application AI Apps Product Engineering](https://jobr.pro/job/35987068/machine-learning-engineer-application-ai-apps-product-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, KA, IN, 560066 | On Site | Jan 14 |
 | **[Tech Holding](https://techholding.co/)** | **[Machine Learning Engineer (Contractor)](https://jobr.pro/job/35971873/machine-learning-engineer-contractor?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mexico, Remote | Remote | Jan 13 |
 | **[Upwork](https://www.upwork.com/)** | **[Lead Machine Learning Engineer/Scientist, Algorithms & Research](https://jobr.pro/job/35974600/lead-machine-learning-engineerscientist-algorithms-research?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lisbon, Portugal | On Site | Jan 13 |
 | **[Block](https://block.xyz/)** | **[Staff Machine Learning Engineer (Modeling), Support](https://jobr.pro/job/35992079/staff-machine-learning-engineer-modeling-support?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA, United States of America | On Site | Jan 13 |
