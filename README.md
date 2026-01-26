@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2026
 
-<sub><small>Last updated: Jan 26, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 26, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Razer](https://www.razer.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/36752706/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Chengdu, China | On Site | Jan 26 |
+| **[Gen](https://gendigital.com/)** | **[Machine Learning Engineer - MoneyLion](https://jobr.pro/job/36767855/machine-learning-engineer-moneylion?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Kuala Lumpur, Malaysia | On Site | Jan 25 |
 | **[Imperative Care](https://www.imperativecare.com/)** | **[Machine Learning Engineer Intern](https://jobr.pro/job/36717935/machine-learning-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Campbell, CA | On Site | Jan 24 |
 | **[Woven by Toyota](https://woven.toyota/)** | **[Machine Learning Engineer, Behavior (Internship)](https://jobr.pro/job/36685188/machine-learning-engineer-behavior-internship?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Palo Alto, CA | On Site | Jan 23 |
 | **[Instacart](https://www.instacart.com/)** | **[Senior Machine Learning Engineer II, AI Special Projects](https://jobr.pro/job/36685288/senior-machine-learning-engineer-ii-ai-special-projects?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States - Remote | Remote | Jan 23 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pinterest](https://www.pinterest.com/)** | **[Master's University Grad Machine Learning Engineer 2026 (USA)](https://jobr.pro/job/36425193/masters-university-grad-machine-learning-engineer-2026-usa?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; New York, NY, US | On Site | Jan 20 |
 | **[Calendly](https://calendly.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/36414133/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - US | Remote | Jan 20 |
 | **[Ubisoft](https://www.ubisoft.com/)** | **[Machine Learning Engineer - H/F/NB](https://jobr.pro/job/36410761/machine-learning-engineer-hfnb?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris, IDF, France | On Site | Jan 20 |
-| **[Instacart](https://www.instacart.com/)** | **[Machine Learning Engineer, PhD Intern](https://jobr.pro/job/36432210/machine-learning-engineer-phd-intern?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States - Remote | Remote | Jan 20 |
-| **[Nabla](https://www.nabla.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/36420819/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris office | Remote | Jan 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 32% remote | 36 companies | Avg salary: 247k  
+**Current Stats:** 50 jobs | 28% remote | 37 companies | Avg salary: 247k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
