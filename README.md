@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2026
 
-<sub><small>Last updated: Jan 26, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 26, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Imperative Care](https://www.imperativecare.com/)** | **[Machine Learning Engineer Intern](https://jobr.pro/job/36717935/machine-learning-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Campbell, CA | On Site | Jan 24 |
+| **[Woven by Toyota](https://woven.toyota/)** | **[Machine Learning Engineer, Behavior (Internship)](https://jobr.pro/job/36685188/machine-learning-engineer-behavior-internship?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Palo Alto, CA | On Site | Jan 23 |
+| **[Instacart](https://www.instacart.com/)** | **[Senior Machine Learning Engineer II, AI Special Projects](https://jobr.pro/job/36685288/senior-machine-learning-engineer-ii-ai-special-projects?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States - Remote | Remote | Jan 23 |
+| **[Instacart](https://www.instacart.com/)** | **[Senior Machine Learning Engineer, Caper (Fraud)](https://jobr.pro/job/36685287/senior-machine-learning-engineer-caper-fraud?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | US-Remote | Remote | Jan 23 |
+| **[Instacart](https://www.instacart.com/)** | **[Senior Machine Learning Engineer, Caper](https://jobr.pro/job/36685286/senior-machine-learning-engineer-caper?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States - Remote | Remote | Jan 23 |
+| **[Flipp](https://corp.flipp.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/36682849/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Canada | Remote | Jan 23 |
+| **[Helm.ai](https://www.helm.ai/)** | **[Machine Learning Engineer](https://jobr.pro/job/36680068/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote, United States | Remote | Jan 23 |
+| **[Twilio](https://www.twilio.com/)** | **[Machine Learning Engineer (L3)](https://jobr.pro/job/36681394/machine-learning-engineer-l3?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - India | Remote | Jan 23 |
+| **[Mobilityware](https://www.mobilityware.com/)** | **[Machine Learning Engineer II](https://jobr.pro/job/36685756/machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Irvine, CA (Open to Remote) | Remote | Jan 23 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate (TikTok Shop Global E-Commerce, Search) - 2026 Start (PhD)](https://jobr.pro/job/36634940/machine-learning-engineer-graduate-tiktok-shop-global-e-commerce-search-2026-start-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Jan 23 |
 | **[Acast](https://www.acast.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/36636088/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Stockholm, Sweden | On Site | Jan 23 |
 | **[Delivery Hero](https://www.deliveryhero.com)** | **[Associate Machine Learning Engineer l (2026 Tech Grad Program)](https://jobr.pro/job/36637594/associate-machine-learning-engineer-l-2026-tech-grad-program?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Berlin, Germany | On Site | Jan 23 |
@@ -54,19 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Ubisoft](https://www.ubisoft.com/)** | **[Machine Learning Engineer - H/F/NB](https://jobr.pro/job/36410761/machine-learning-engineer-hfnb?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris, IDF, France | On Site | Jan 20 |
 | **[Instacart](https://www.instacart.com/)** | **[Machine Learning Engineer, PhD Intern](https://jobr.pro/job/36432210/machine-learning-engineer-phd-intern?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States - Remote | Remote | Jan 20 |
 | **[Nabla](https://www.nabla.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/36420819/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris office | Remote | Jan 20 |
-| **[ASOS](https://www.asos.com)** | **[Senior Machine Learning Engineer (Outfits)](https://jobr.pro/job/36410763/senior-machine-learning-engineer-outfits?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, England, United Kingdom | On Site | Jan 20 |
-| **[Kaizen Gaming](https://kaizengaming.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/36416271/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Athens, Greece | On Site | Jan 20 |
-| **[TikTok](https://www.tiktok.com/)** | **[Senior Machine Learning Engineer (CV/NLP/Multimodal/LLM/Agent)-E-Commerce Government](https://jobr.pro/job/36378720/senior-machine-learning-engineer-cvnlpmultimodalllmagent-e-commerce-government?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Jan 20 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer (Content Ecology & Creator) - E-commerce Governance](https://jobr.pro/job/36378719/machine-learning-engineer-content-ecology-creator-e-commerce-governance?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Jan 20 |
-| **[TikTok](https://www.tiktok.com/)** | **[Senior Machine Learning Engineer - Search E-commerce (Seattle)](https://jobr.pro/job/36378687/senior-machine-learning-engineer-search-e-commerce-seattle?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Jan 20 |
-| **[TikTok](https://www.tiktok.com/)** | **[PhD Graduate Machine Learning Engineer Graduate, Trust and Safety Engineering - 2026 Start](https://jobr.pro/job/36378684/phd-graduate-machine-learning-engineer-graduate-trust-and-safety-engineering-2026-start?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sydney, New South Wales, Australia | On Site | Jan 20 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Risk Control - USDS](https://jobr.pro/job/36378660/machine-learning-engineer-risk-control-usds?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 20 |
-| **[Cabify](https://www.cabify.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/36429805/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Madrid | On Site | Jan 20 |
-| **[Delivery Hero](https://www.deliveryhero.com)** | **[Sr. Data/Machine Learning Engineer (Adtech)](https://jobr.pro/job/36379906/sr-datamachine-learning-engineer-adtech?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Berlin, Germany | On Site | Jan 20 |
 
 ---
 
-**Current Stats:** 50 jobs | 18% remote | 33 companies | Avg salary: 281k  
+**Current Stats:** 50 jobs | 32% remote | 36 companies | Avg salary: 247k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
