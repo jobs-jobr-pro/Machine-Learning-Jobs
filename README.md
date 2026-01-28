@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2026
 
-<sub><small>Last updated: Jan 28, 2026 at 16:30 UTC</small></sub>
+<sub><small>Last updated: Jan 28, 2026 at 20:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -31,11 +31,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[TechX](https://www.techxcorp.com/)** | **[Machine Learning Engineer (Hanoi)](https://jobr.pro/job/36823140/machine-learning-engineer-hanoi?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Cầu Giấy, Vietnam | On Site | Jan 27 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Staff Machine Learning Engineer, Content Quality Signals](https://jobr.pro/job/36798494/staff-machine-learning-engineer-content-quality-signals?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA, US; Remote, US | Remote | Jan 27 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Sr. Machine Learning Engineer](https://jobr.pro/job/36790976/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, NY, US | On Site | Jan 27 |
-| **[LexisNexis](https://www.lexisnexis.com/)** | **[Machine Learning Engineer - APAC](https://jobr.pro/job/36850966/machine-learning-engineer-apac?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Malaysia-LN Kuala Lumpur | On Site | Jan 27 |
-| **[RELX](https://www.relx.com/)** | **[Machine Learning Engineer - APAC](https://jobr.pro/job/36833516/machine-learning-engineer-apac?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Malaysia-LN Kuala Lumpur | On Site | Jan 27 |
 | **[Blue Origin](https://www.blueorigin.com/)** | **[Machine Learning Engineer/Scientist I - Early Career 2025 University Grad](https://jobr.pro/job/36870461/machine-learning-engineerscientist-i-early-career-2025-university-grad?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | WA - Landmark (Ride West), United States | On Site | Jan 27 |
 | **[Capital One](https://www.capitalonecareers.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/36868831/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA, United States | On Site | Jan 27 |
 | **[Capital One](https://www.capitalonecareers.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/36868691/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | McLean, VA, United States | On Site | Jan 27 |
+| **[RELX](https://www.relx.com/)** | **[Machine Learning Engineer - APAC](https://jobr.pro/job/36833516/machine-learning-engineer-apac?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Malaysia-LN Kuala Lumpur | On Site | Jan 27 |
+| **[LexisNexis](https://www.lexisnexis.com/)** | **[Machine Learning Engineer - APAC](https://jobr.pro/job/36850966/machine-learning-engineer-apac?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Malaysia-LN Kuala Lumpur | On Site | Jan 27 |
 | **[Amazon.com](https://www.amazon.com/)** | **[Machine Learning Engineer, WWPS ProServe Data and Machine Learning](https://jobr.pro/job/36871052/machine-learning-engineer-wwps-proserve-data-and-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Arlington, Virginia, USA | On Site | Jan 27 |
 | **[Roblox](https://www.roblox.com/)** | **[Principal Machine Learning Engineer, Alt Defense](https://jobr.pro/job/36783762/principal-machine-learning-engineer-alt-defense?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA, United States | On Site | Jan 26 |
 | **[Doppel](https://www.doppel.com/)** | **[Machine Learning Engineer, Detection](https://jobr.pro/job/36791132/machine-learning-engineer-detection?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York | On Site | Jan 26 |
@@ -54,7 +54,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Acast](https://www.acast.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/36636088/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Stockholm, Sweden | On Site | Jan 23 |
 | **[BJAK](https://bjak.my/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/36600459/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | On Site | Jan 23 |
 | **[Waymo](https://waymo.com/)** | **[Machine Learning Engineer, Sensor Pipelines](https://jobr.pro/job/36598715/machine-learning-engineer-sensor-pipelines?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA | On Site | Jan 23 |
-| **[IQVIA](https://www.iqvia.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/36655080/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lisbon, Portugal | On Site | Jan 23 |
+| **[IQVIA](https://www.iqvia.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/36655078/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Athens, Greece | On Site | Jan 23 |
 | **[IQVIA](https://www.iqvia.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/36655083/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lisbon, Portugal | On Site | Jan 23 |
 | **[Canva](https://www.canva.com)** | **[Senior Machine Learning Engineer - Global Payments (ANZ remote)](https://jobr.pro/job/36603456/senior-machine-learning-engineer-global-payments-anz-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Perth, WA, Australia | Remote | Jan 22 |
 | **[Unity](https://unity.com/)** | **[Senior Machine Learning Engineer, AI Authoring](https://jobr.pro/job/36600831/senior-machine-learning-engineer-ai-authoring?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA | On Site | Jan 22 |
