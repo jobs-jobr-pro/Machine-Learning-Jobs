@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2026
 
-<sub><small>Last updated: Jan 30, 2026 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Jan 30, 2026 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate (Monetization GenAI) - 2026 Start (BS/MS)](https://jobr.pro/job/37083790/machine-learning-engineer-graduate-monetization-genai-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 30 |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate (Monetization Technology - GenAI , Ads Creative & Ecosystem) - 2026 Start (BS/MS)](https://jobr.pro/job/37083774/machine-learning-engineer-graduate-monetization-technology-genai-ads-creative-ecosystem-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 30 |
+| **[TikTok](https://www.tiktok.com/)** | **[(General Hire) Machine Learning Engineer Graduate (Commerce& Content Service & Search Ads)- 2026 Start(BS/MS)](https://jobr.pro/job/37083709/general-hire-machine-learning-engineer-graduate-commerce-content-service-search-ads-2026-startbsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 30 |
 | **[Waymo](https://waymo.com/)** | **[Machine Learning Engineer, Sensor Pipelines](https://jobr.pro/job/37042900/machine-learning-engineer-sensor-pipelines?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA | On Site | Jan 30 |
 | **[SharkNinja](https://sharkninja.com/)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/37049437/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | On Site | Jan 30 |
 | **[SharkNinja](https://sharkninja.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/37049440/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | On Site | Jan 30 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Reddit](https://www.redditinc.com/)** | **[Senior Machine Learning Engineer, ML Training Platform](https://jobr.pro/job/36954959/senior-machine-learning-engineer-ml-training-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - United States | Remote | Jan 28 |
 | **[Anduril](https://www.anduril.com/)** | **[Senior Machine Learning Engineer, Image Processing](https://jobr.pro/job/36955497/senior-machine-learning-engineer-image-processing?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, California, United States | On Site | Jan 28 |
 | **[Babban Gona](https://babbangona.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/36924834/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lagos, Nigeria | On Site | Jan 28 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Commerce Ads](https://jobr.pro/job/36914083/machine-learning-engineer-commerce-ads?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 28 |
-| **[Nayax](https://www.nayax.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/36929942/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Herzliya, Israel, IL | On Site | Jan 28 |
-| **[Federato](https://www.federato.ai/)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/36886694/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Jan 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 33 companies | Avg salary: 229k  
+**Current Stats:** 50 jobs | 24% remote | 31 companies | Avg salary: 228k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
