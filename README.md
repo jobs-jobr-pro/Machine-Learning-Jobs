@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2026
 
-<sub><small>Last updated: Jan 30, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Jan 30, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Bosch Group](https://www.bosch.com)** | **[Machine Learning Engineer \| eBike](https://jobr.pro/job/37035863/machine-learning-engineer-ebike?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Braga, Portugal | On Site | Jan 29 |
 | **[Axians](https://www.axians.com/)** | **[Machine Learning Engineer S&H](https://jobr.pro/job/37018057/machine-learning-engineer-sh?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lisboa, Portugal | On Site | Jan 29 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate (Ads Interface and Platform) - 2026 Start (BS/MS)](https://jobr.pro/job/37000902/machine-learning-engineer-graduate-ads-interface-and-platform-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 29 |
 | **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer - Search Ads](https://jobr.pro/job/37000887/machine-learning-engineer-search-ads?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 29 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Arrive Logistics](https://www.arrivelogistics.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/36873363/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Austin, TX | On Site | Jan 27 |
 | **[Arrive Logistics](https://www.arrivelogistics.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/36873362/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Austin, TX | On Site | Jan 27 |
 | **[Instacart](https://www.instacart.com/)** | **[Senior Machine Learning Engineer II, Growth Modeling](https://jobr.pro/job/36789735/senior-machine-learning-engineer-ii-growth-modeling?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA - Remote | Remote | Jan 27 |
-| **[Virtuos](https://www.virtuosgames.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/36835770/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | China | On Site | Jan 27 |
 
 ---
 
