@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2026
 
-<sub><small>Last updated: Jan 30, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Jan 31, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -24,6 +24,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Adobe](https://www.adobe.com/)** | **[Machine Learning Engineer 3](https://jobr.pro/job/37076979/machine-learning-engineer-3?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Noida, India | On Site | Jan 30 |
 | **[moomoo](https://www.moomoo.com/)** | **[Fresh Grad Hire - Machine Learning Engineer (Large Model Applications)](https://jobr.pro/job/37080231/fresh-grad-hire-machine-learning-engineer-large-model-applications?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Shenzhen, Guangdong Province, China | On Site | Jan 30 |
 | **[Reveal Health Tech](https://revealhealthtech.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/37081013/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, California, United States | On Site | Jan 30 |
+| **[Kemper](https://www.kemper.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/37118848/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Chicago IL, United States | Remote | Jan 30 |
 | **[Reddit](https://www.redditinc.com/)** | **[Senior Staff Machine Learning Engineer, Ads Targeting and Retrieval](https://jobr.pro/job/37045741/senior-staff-machine-learning-engineer-ads-targeting-and-retrieval?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - United States | Remote | Jan 29 |
 | **[SmithRx](https://smithrx.com/)** | **[Senior Machine Learning Engineer (Applications)](https://jobr.pro/job/37043467/senior-machine-learning-engineer-applications?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Jan 29 |
 | **[Step](https://step.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/37052873/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - US | Remote | Jan 29 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sia](https://www.sia-partners.com)** | **[Machine Learning Engineer - H/F](https://jobr.pro/job/36952163/machine-learning-engineer-hf?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris, IDF, France | On Site | Jan 28 |
 | **[Reddit](https://www.redditinc.com/)** | **[Senior Machine Learning Engineer, ML Training Platform](https://jobr.pro/job/36954959/senior-machine-learning-engineer-ml-training-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - United States | Remote | Jan 28 |
 | **[Anduril](https://www.anduril.com/)** | **[Senior Machine Learning Engineer, Image Processing](https://jobr.pro/job/36955497/senior-machine-learning-engineer-image-processing?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, California, United States | On Site | Jan 28 |
-| **[Babban Gona](https://babbangona.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/36924834/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lagos, Nigeria | On Site | Jan 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 31 companies | Avg salary: 228k  
+**Current Stats:** 50 jobs | 26% remote | 31 companies | Avg salary: 225k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
