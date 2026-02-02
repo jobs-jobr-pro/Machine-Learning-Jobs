@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2026
 
-<sub><small>Last updated: Feb 02, 2026 at 12:30 UTC</small></sub>
+<sub><small>Last updated: Feb 02, 2026 at 16:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,11 +13,24 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[TikTok](https://www.tiktok.com/)** | **[Engineer Graduate: (Machine Learning Engineer Graduate -Search E-Commerce) - 2026 Start (BS/MS)](https://jobr.pro/job/37214132/engineer-graduate-machine-learning-engineer-graduate-search-e-commerce-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Feb 02 |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern (Monetization GenAI) - 2026 Start (BS/MS)](https://jobr.pro/job/37214077/machine-learning-engineer-intern-monetization-genai-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Feb 02 |
+| **[TikTok](https://www.tiktok.com/)** | **[Engineer Graduate: (Machine Learning Engineer - Local Services Search) - 2026 Start (BS/MS)](https://jobr.pro/job/37214074/engineer-graduate-machine-learning-engineer-local-services-search-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Feb 02 |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern (Trust & Safety) - 2026 Start (PhD)](https://jobr.pro/job/37214070/machine-learning-engineer-intern-trust-safety-2026-start-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Feb 02 |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate (TikTok Shop Global E-Commerce, Risk Control) - 2026 Start (PhD)](https://jobr.pro/job/37214043/machine-learning-engineer-graduate-tiktok-shop-global-e-commerce-risk-control-2026-start-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Feb 02 |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern (TikTok Shop Global E-Commerce, Platform Governance) - 2026 Start (PhD)](https://jobr.pro/job/37214041/machine-learning-engineer-intern-tiktok-shop-global-e-commerce-platform-governance-2026-start-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | Feb 02 |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer, Search - USDS](https://jobr.pro/job/37214026/machine-learning-engineer-search-usds?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Feb 02 |
+| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Intern - TikTok Search Local Services team - 2026 Summer (BS/MS)](https://jobr.pro/job/37214025/machine-learning-engineer-intern-tiktok-search-local-services-team-2026-summer-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Feb 02 |
+| **[H&M Group](https://hmgroup.com/)** | **[Junior Machine Learning Engineer](https://jobr.pro/job/37215633/junior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Stockholm, Stockholms län, Sweden | On Site | Feb 02 |
+| **[Stampli](https://www.stampli.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/37224451/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Feb 02 |
 | **[Grab](https://www.grab.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/37199064/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Petaling Jaya, Selangor, Malaysia | On Site | Feb 02 |
 | **[Canva](https://www.canva.com)** | **[Senior Machine Learning Engineer - Video AI Engine](https://jobr.pro/job/37202159/senior-machine-learning-engineer-video-ai-engine?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sydney, NSW, Australia | On Site | Feb 02 |
 | **[Culture Amp](https://www.cultureamp.com/)** | **[Staff Machine Learning Engineer - Data Intelligence](https://jobr.pro/job/37193691/staff-machine-learning-engineer-data-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sydney | On Site | Feb 02 |
 | **[Grab](https://www.grab.com)** | **[Senior Machine Learning Engineer (Deliveries & ACE)](https://jobr.pro/job/37199072/senior-machine-learning-engineer-deliveries-ace?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Petaling Jaya, Selangor, Malaysia | On Site | Feb 02 |
+| **[EUROPEAN DYNAMICS](https://www.eurodyn.com)** | **[Senior Machine Learning Engineer (AI/NLP)](https://jobr.pro/job/37213967/senior-machine-learning-engineer-ainlp?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Brussels, Brussels, Belgium | On Site | Feb 02 |
 | **[Fugro](https://www.fugro.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/37199738/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Rua do Geólogo 76 Rio das Ostras BR, Brazil | On Site | Feb 02 |
+| **[Red Hat](https://www.redhat.com/)** | **[Senior Machine Learning Engineer, LLM Compressor and Quantization](https://jobr.pro/job/37222634/senior-machine-learning-engineer-llm-compressor-and-quantization?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boston, United States | Remote | Feb 02 |
+| **[OTIV](https://otiv.ai)** | **[Machine Learning Engineer](https://jobr.pro/job/37216117/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Ghent, Flanders, Belgium | On Site | Feb 02 |
 | **[Kraken](https://kraken.tech/)** | **[Senior Machine Learning Engineer - AI Foundry](https://jobr.pro/job/37193116/senior-machine-learning-engineer-ai-foundry?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote, UK | Remote | Feb 01 |
 | **[Govini](https://govini.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/37197895/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pittsburgh, PA | On Site | Feb 01 |
 | **[Govini](https://govini.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/37197889/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pittsburgh, PA | On Site | Feb 01 |
@@ -50,23 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Adobe](https://www.adobe.com/)** | **[Machine Learning Engineer 3](https://jobr.pro/job/37076979/machine-learning-engineer-3?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Noida, India | On Site | Jan 30 |
 | **[moomoo](https://www.moomoo.com/)** | **[Fresh Grad Hire - Machine Learning Engineer (Large Model Applications)](https://jobr.pro/job/37080231/fresh-grad-hire-machine-learning-engineer-large-model-applications?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Shenzhen, Guangdong Province, China | On Site | Jan 30 |
 | **[Reveal Health Tech](https://revealhealthtech.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/37081013/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, California, United States | On Site | Jan 30 |
-| **[Kemper](https://www.kemper.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/37118848/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Chicago IL, United States | Remote | Jan 30 |
-| **[Reddit](https://www.redditinc.com/)** | **[Senior Staff Machine Learning Engineer, Ads Targeting and Retrieval](https://jobr.pro/job/37045741/senior-staff-machine-learning-engineer-ads-targeting-and-retrieval?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - United States | Remote | Jan 29 |
-| **[SmithRx](https://smithrx.com/)** | **[Senior Machine Learning Engineer (Applications)](https://jobr.pro/job/37043467/senior-machine-learning-engineer-applications?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Jan 29 |
-| **[Step](https://step.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/37052873/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - US | Remote | Jan 29 |
-| **[Instacart](https://www.instacart.com/)** | **[Senior Staff Machine Learning Engineer, Ads Quality](https://jobr.pro/job/37048200/senior-staff-machine-learning-engineer-ads-quality?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States - Remote | Remote | Jan 29 |
-| **[Block](https://block.xyz/)** | **[Senior Machine Learning Engineer, Risk Modeling](https://jobr.pro/job/37044379/senior-machine-learning-engineer-risk-modeling?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bay Area, CA, United States of America | On Site | Jan 29 |
-| **[Shiftsmart](https://shiftsmart.com/)** | **[Senior / Staff Machine Learning Engineer](https://jobr.pro/job/37047906/senior-staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York City (HQ) | On Site | Jan 29 |
-| **[Coinbase](https://www.coinbase.com/)** | **[Staff Machine Learning Engineer - Risk AI/ML](https://jobr.pro/job/37047803/staff-machine-learning-engineer-risk-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - USA | Remote | Jan 29 |
-| **[Coinbase](https://www.coinbase.com/)** | **[Machine Learning Engineer - Risk AI/ML](https://jobr.pro/job/37047784/machine-learning-engineer-risk-aiml?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - USA | Remote | Jan 29 |
-| **[Kraken](https://kraken.tech/)** | **[Machine Learning Engineer - Utilities](https://jobr.pro/job/37043577/machine-learning-engineer-utilities?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London | On Site | Jan 29 |
-| **[Bosch Group](https://www.bosch.com)** | **[Machine Learning Engineer \| eBike](https://jobr.pro/job/37035863/machine-learning-engineer-ebike?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Braga, Portugal | On Site | Jan 29 |
-| **[Circle.so](https://circle.so/)** | **[Senior Machine Learning Engineer, Discover](https://jobr.pro/job/37043304/senior-machine-learning-engineer-discover?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Jan 29 |
-| **[Axians](https://www.axians.com/)** | **[Machine Learning Engineer S&H](https://jobr.pro/job/37018057/machine-learning-engineer-sh?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lisboa, Portugal | On Site | Jan 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 40 companies | Avg salary: 238k  
+**Current Stats:** 50 jobs | 24% remote | 36 companies | Avg salary: 234k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
