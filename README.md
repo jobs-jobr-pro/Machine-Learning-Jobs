@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2026
 
-<sub><small>Last updated: Feb 02, 2026 at 08:30 UTC</small></sub>
+<sub><small>Last updated: Feb 02, 2026 at 12:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -23,6 +23,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Govini](https://govini.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/37197889/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pittsburgh, PA | On Site | Feb 01 |
 | **[Assembled](https://www.assembled.com/)** | **[Machine Learning Engineer - Forecasting & Scheduling](https://jobr.pro/job/37195745/machine-learning-engineer-forecasting-scheduling?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA; Remote (US) | Remote | Feb 01 |
 | **[Toyota Research Institute](https://www.tri.global/)** | **[Machine Learning Engineer](https://jobr.pro/job/37191486/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Los Altos, CA | On Site | Feb 01 |
+| **[Atlassian](https://www.atlassian.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/37212410/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sydney - Australia - Sydney, 2000 Australia; Remote - Remote | Remote | Feb 01 |
 | **[Google](https://www.google.com/)** | **[Senior Machine Learning Engineer, Vertex Agent Quality](https://jobr.pro/job/37162020/senior-machine-learning-engineer-vertex-agent-quality?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale, CA, USA | On Site | Jan 31 |
 | **[Novo Nordisk](https://www.novonordisk.com)** | **[Machine Learning Engineer](https://jobr.pro/job/37140998/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, London, GB | On Site | Jan 31 |
 | **[DiDi Labs](https://www.didiglobal.com/)** | **[Machine Learning Engineer, Foundation Model](https://jobr.pro/job/37193763/machine-learning-engineer-foundation-model?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, CA | On Site | Jan 31 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Bosch Group](https://www.bosch.com)** | **[Machine Learning Engineer \| eBike](https://jobr.pro/job/37035863/machine-learning-engineer-ebike?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Braga, Portugal | On Site | Jan 29 |
 | **[Circle.so](https://circle.so/)** | **[Senior Machine Learning Engineer, Discover](https://jobr.pro/job/37043304/senior-machine-learning-engineer-discover?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Jan 29 |
 | **[Axians](https://www.axians.com/)** | **[Machine Learning Engineer S&H](https://jobr.pro/job/37018057/machine-learning-engineer-sh?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lisboa, Portugal | On Site | Jan 29 |
-| **[TikTok](https://www.tiktok.com/)** | **[Machine Learning Engineer Graduate (Ads Interface and Platform) - 2026 Start (BS/MS)](https://jobr.pro/job/37000902/machine-learning-engineer-graduate-ads-interface-and-platform-2026-start-bsms?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jan 29 |
 
 ---
 
-**Current Stats:** 50 jobs | 36% remote | 39 companies | Avg salary: 238k  
+**Current Stats:** 50 jobs | 38% remote | 40 companies | Avg salary: 238k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
