@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2026
 
-<sub><small>Last updated: Feb 02, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Feb 03, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -28,6 +28,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Culture Amp](https://www.cultureamp.com/)** | **[Staff Machine Learning Engineer - Data Intelligence](https://jobr.pro/job/37193691/staff-machine-learning-engineer-data-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sydney | On Site | Feb 02 |
 | **[Grab](https://www.grab.com)** | **[Senior Machine Learning Engineer (Deliveries & ACE)](https://jobr.pro/job/37199072/senior-machine-learning-engineer-deliveries-ace?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Petaling Jaya, Selangor, Malaysia | On Site | Feb 02 |
 | **[EUROPEAN DYNAMICS](https://www.eurodyn.com)** | **[Senior Machine Learning Engineer (AI/NLP)](https://jobr.pro/job/37213967/senior-machine-learning-engineer-ainlp?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Brussels, Brussels, Belgium | On Site | Feb 02 |
+| **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[Artificial Intelligence and Machine Learning Engineer, Lead](https://jobr.pro/job/37241268/artificial-intelligence-and-machine-learning-engineer-lead?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA, VA, McLean (8283 Greensboro Dr, Hamilton), United States | On Site | Feb 02 |
+| **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[Artificial Intelligence and Machine Learning Engineer, Senior](https://jobr.pro/job/37241265/artificial-intelligence-and-machine-learning-engineer-senior?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA, VA, McLean (8283 Greensboro Dr, Hamilton), United States | On Site | Feb 02 |
+| **[Booz Allen Hamilton](https://www.boozallen.com/)** | **[Artificial Intelligence and Machine Learning Engineer, Mid](https://jobr.pro/job/37241264/artificial-intelligence-and-machine-learning-engineer-mid?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA, VA, McLean (8283 Greensboro Dr, Hamilton), United States | On Site | Feb 02 |
 | **[Fugro](https://www.fugro.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/37199738/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Rua do Geólogo 76 Rio das Ostras BR, Brazil | On Site | Feb 02 |
 | **[OTIV](https://otiv.ai)** | **[Machine Learning Engineer](https://jobr.pro/job/37216117/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Ghent, Flanders, Belgium | On Site | Feb 02 |
 | **[Red Hat](https://www.redhat.com/)** | **[Senior Machine Learning Engineer, LLM Compressor and Quantization](https://jobr.pro/job/37222634/senior-machine-learning-engineer-llm-compressor-and-quantization?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boston, United States | Remote | Feb 02 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SharkNinja](https://sharkninja.com/)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/37049437/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | On Site | Jan 30 |
 | **[SharkNinja](https://sharkninja.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/37049440/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | On Site | Jan 30 |
 | **[Together We Talent](https://www.togetherwetalent.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/37036507/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Newark, United States | On Site | Jan 30 |
-| **[Tubi](https://tubitv.com/)** | **[Associate Machine Learning Engineer](https://jobr.pro/job/37054219/associate-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA (Hybrid) | Remote | Jan 30 |
-| **[Adobe](https://www.adobe.com/)** | **[Machine Learning Engineer 3](https://jobr.pro/job/37076979/machine-learning-engineer-3?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Noida, India | On Site | Jan 30 |
-| **[moomoo](https://www.moomoo.com/)** | **[Fresh Grad Hire - Machine Learning Engineer (Large Model Applications)](https://jobr.pro/job/37080231/fresh-grad-hire-machine-learning-engineer-large-model-applications?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Shenzhen, Guangdong Province, China | On Site | Jan 30 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 36 companies | Avg salary: 230k  
+**Current Stats:** 50 jobs | 22% remote | 34 companies | Avg salary: 233k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, mlops, kubernetes  
