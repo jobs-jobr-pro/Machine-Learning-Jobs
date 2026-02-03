@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2026
 
-<sub><small>Last updated: Feb 03, 2026 at 00:30 UTC</small></sub>
+<sub><small>Last updated: Feb 03, 2026 at 04:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -35,6 +35,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[OTIV](https://otiv.ai)** | **[Machine Learning Engineer](https://jobr.pro/job/37216117/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Ghent, Flanders, Belgium | On Site | Feb 02 |
 | **[Red Hat](https://www.redhat.com/)** | **[Senior Machine Learning Engineer, LLM Compressor and Quantization](https://jobr.pro/job/37222634/senior-machine-learning-engineer-llm-compressor-and-quantization?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boston, United States | Remote | Feb 02 |
 | **[Capital One](https://www.capitalonecareers.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/37229135/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | McLean, VA, United States | On Site | Feb 02 |
+| **[Leonardo](https://www.leonardo.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/37242967/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | IT - Ronchi dei Legionari, Italy | On Site | Feb 02 |
 | **[Kraken](https://kraken.tech/)** | **[Senior Machine Learning Engineer - AI Foundry](https://jobr.pro/job/37193116/senior-machine-learning-engineer-ai-foundry?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote, UK | Remote | Feb 01 |
 | **[Govini](https://govini.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/37197895/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pittsburgh, PA | On Site | Feb 01 |
 | **[Govini](https://govini.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/37197889/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pittsburgh, PA | On Site | Feb 01 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Waymo](https://waymo.com/)** | **[Machine Learning Engineer, Sensor Pipelines](https://jobr.pro/job/37042900/machine-learning-engineer-sensor-pipelines?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA | On Site | Jan 30 |
 | **[SharkNinja](https://sharkninja.com/)** | **[Lead Machine Learning Engineer](https://jobr.pro/job/37049437/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | On Site | Jan 30 |
 | **[SharkNinja](https://sharkninja.com/)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/37049440/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | On Site | Jan 30 |
-| **[Together We Talent](https://www.togetherwetalent.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/37036507/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Newark, United States | On Site | Jan 30 |
 
 ---
 
