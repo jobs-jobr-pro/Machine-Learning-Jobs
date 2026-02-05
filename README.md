@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2026
 
-<sub><small>Last updated: Feb 04, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Feb 05, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Empower](https://www.empower.com/)** | **[Engineer Automation Quality](https://jobr.pro/job/37423671/engineer-automation-quality?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | KA Bangalore, India | On Site | Feb 05 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Xiaomi EV - Hardware Engineer (Battery Systems)](https://jobr.pro/job/37417190/xiaomi-ev-hardware-engineer-battery-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 慕尼黑 | On Site | Feb 04 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Xiaomi EV - Vehicle Dynamics Engineer (powertrain)](https://jobr.pro/job/37417188/xiaomi-ev-vehicle-dynamics-engineer-powertrain?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 慕尼黑 | On Site | Feb 04 |
 | **[Xiaomi](https://www.xiaomi.com/)** | **[Xiaomi EV - Studio Engineer（Automotive Design）](https://jobr.pro/job/37417181/xiaomi-ev-studio-engineerautomotive-design?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 慕尼黑 | On Site | Feb 04 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[WSP Australia](https://www.wsp.com/)** | **[EOI: Senior / Associate Engineer – Water Networks](https://jobr.pro/job/37405023/eoi-senior-associate-engineer-water-networks?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Cairns, QLD, AU | On Site | Feb 04 |
 | **[GemLife](https://www.gemlife.com.au/)** | **[Learning & Development Specialist](https://jobr.pro/job/37404742/learning-development-specialist?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Helensvale, QLD, AU | On Site | Feb 04 |
 | **[Orano](https://www.orano.group/)** | **[Analytics Engineer F/H](https://jobr.pro/job/37414791/analytics-engineer-fh?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Europe, France, Ile-de-France, Hauts-de-Seine (92) | On Site | Feb 04 |
-| **[Factorial](https://factorialhr.com/)** | **[Junior Software Engineer - Dealhub](https://jobr.pro/job/37404351/junior-software-engineer-dealhub?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | 08005, Barcelona, Barcelona, España | On Site | Feb 04 |
 
 ---
 
