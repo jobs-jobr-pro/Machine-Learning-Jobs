@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine learning engineer Jobs 2026
 
-<sub><small>Last updated: Feb 05, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Feb 06, 2026 at 00:30 UTC</small></sub>
 
 This repository collects curated **Machine learning engineer opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,14 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[\[LTA-RSE\] EXECUTIVE/ ENGINEER (ELETRICAL/MECH), DEPOT EQUIPMENT & MAINT VEH PROJECTS](https://jobr.pro/job/37512167/lta-rse-executive-engineer-eletricalmech-depot-equipment-maint-veh-projects?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | LTA KCD, Singapore | On Site | Feb 06 |
+| **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[\[LTA-RSE\] EXECUTIVE ENGINEER / ENGINEER, SYSTEMS INTEGRATION](https://jobr.pro/job/37512165/lta-rse-executive-engineer-engineer-systems-integration?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | LTA HSO B11 2A, Singapore | On Site | Feb 06 |
+| **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[\[LTA-RCID\] SENIOR / EXECUTIVE / ENGINEER, COMMUTER INFRASTRUCTURE DEVELOPMENT](https://jobr.pro/job/37512163/lta-rcid-senior-executive-engineer-commuter-infrastructure-development?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | LTA HSO B8 02, Singapore | On Site | Feb 06 |
+| **[Red Hat](https://www.redhat.com/)** | **[Senior Software Engineer, Ansible](https://jobr.pro/job/37510613/senior-software-engineer-ansible?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore - Carina, India | Remote | Feb 06 |
+| **[Red Hat](https://www.redhat.com/)** | **[Senior Software Engineer, AI‑Driven Automation ( Ansible)](https://jobr.pro/job/37510611/senior-software-engineer-aidriven-automation-ansible?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore - Carina, India | Remote | Feb 06 |
+| **[Red Hat](https://www.redhat.com/)** | **[Software Engineer, AI‑Driven Automation ( Ansible)](https://jobr.pro/job/37510615/software-engineer-aidriven-automation-ansible?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore - Carina, India | Remote | Feb 06 |
+| **[The Singapore Public Service](https://www.careers.gov.sg/)** | **[\[LTA-DPO\] EXECUTIVE ENGINEER / ENGINEER (BUSINESS REQUIREMENTS)](https://jobr.pro/job/37512169/lta-dpo-executive-engineer-engineer-business-requirements?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | LTA BCO (MAIN), Singapore | On Site | Feb 06 |
+| **[WEX](https://www.wexinc.com/)** | **[Staff, Software Engineer](https://jobr.pro/job/37512777/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | India - Bangalore Office | On Site | Feb 06 |
 | **[ADP](https://www.adp.com/)** | **[Lead Cloud Security Engineer - Kubernetes](https://jobr.pro/job/37502040/lead-cloud-security-engineer-kubernetes?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Roseland, NJ, United States | On Site | Feb 05 |
 | **[Toyota Material Handling](https://www.toyotaforklift.com/)** | **[Mechanical Engineer II](https://jobr.pro/job/37500990/mechanical-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Muscatine, IA, United States | On Site | Feb 05 |
 | **[World Wide Technology](https://www.wwt.com/)** | **[Consulting Systems Engineer (Chicago, IL)](https://jobr.pro/job/37500132/consulting-systems-engineer-chicago-il?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Chicago, IL, United States | On Site | Feb 05 |
@@ -55,18 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Reflexive Concepts](https://www.reflexiveconcepts.com)** | **[Software Engineer II](https://jobr.pro/job/37493733/software-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Ft. Meade, Maryland | On Site | Feb 05 |
 | **[proteanTecs](https://www.proteantecs.com/)** | **[Senior SW Engineer](https://jobr.pro/job/37490269/senior-sw-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Feb 05 |
 | **[CES](https://cesltd.com/)** | **[Senior Software Engineer-3011 (Remote)](https://jobr.pro/job/37487869/senior-software-engineer-3011-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Chennai, India | Remote | Feb 05 |
-| **[Dot Compliance](https://www.dotcompliance.com/)** | **[Junior Quality Assurance Engineer](https://jobr.pro/job/37490061/junior-quality-assurance-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Rehovot, Center District, IL | On Site | Feb 05 |
-| **[4M Analytics Ltd](https://www.4manalytics.com/)** | **[Senior Fullstack Engineer](https://jobr.pro/job/37490115/senior-fullstack-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tel Aviv-Yafo, Tel Aviv District, IL | On Site | Feb 05 |
-| **[SuperPlay](https://www.superplay.co/)** | **[Junior QA Manual Engineer](https://jobr.pro/job/37490330/junior-qa-manual-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | București, București, RO | On Site | Feb 05 |
-| **[Silk](https://silk.us/)** | **[System Reliability Engineer - Level 2](https://jobr.pro/job/37490852/system-reliability-engineer-level-2?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Needham, MA, US | On Site | Feb 05 |
-| **[Numentica](https://www.numentica.com/)** | **[Senior Informatica Security & Infrastructure Engineer (IDMC)](https://jobr.pro/job/37485948/senior-informatica-security-infrastructure-engineer-idmc?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Feb 05 |
-| **[Droxi](https://www.droxi.ai/)** | **[Back End Engineer](https://jobr.pro/job/37490181/back-end-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Ramat Gan, Tel Aviv District, IL | On Site | Feb 05 |
-| **[Pharmavise Corporation](https://pharmavise.com/)** | **[Senior R&D Engineer — Medical Device (Onsite — Arbor Lakes, MN) Possible Temp-to-Hire](https://jobr.pro/job/37485446/senior-rd-engineer-medical-device-onsite-arbor-lakes-mn-possible-temp-to-hire?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Osseo, United States | On Site | Feb 05 |
-| **[Pharmavise Corporation](https://pharmavise.com/)** | **[Senior Electrical Engineer IV — Medical Device (Onsite — Arden Hills, MN) Contract – Possible Extension](https://jobr.pro/job/37485442/senior-electrical-engineer-iv-medical-device-onsite-arden-hills-mn-contract-possible-extension?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Saint Paul, United States | On Site | Feb 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 33 companies | Avg salary: 144k  
+**Current Stats:** 50 jobs | 8% remote | 29 companies | Avg salary: 150k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, tensorflow, pytorch, kubernetes, docker  
