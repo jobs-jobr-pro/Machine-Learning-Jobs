@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: May 02, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 03, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Mercor](https://mercor.com/)** | **[Software Engineer, Applied AI](https://jobr.pro/job/40592131/software-engineer-applied-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco | On Site | May 03 |
+| **[The Allen Institute for Artificial Intelligence]()** | **[Senior Software Engineer, Data](https://jobr.pro/job/40594086/senior-software-engineer-data?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, WA | On Site | May 02 |
+| **[The Allen Institute for Artificial Intelligence]()** | **[Senior Software Engineer, Fullstack](https://jobr.pro/job/40594087/senior-software-engineer-fullstack?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, WA | On Site | May 02 |
+| **[The Allen Institute for Artificial Intelligence]()** | **[Senior Software Engineer, Platform](https://jobr.pro/job/40594088/senior-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, WA | On Site | May 02 |
 | **[Moment Energy](https://momentenergy.com)** | **[Manufacturing Software Engineer](https://jobr.pro/job/40578926/manufacturing-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Coquitlam, BC | On Site | May 02 |
 | **[SpaceX](https://spacex.com)** | **[Software Engineer, Continuous Integration (Starship)](https://jobr.pro/job/40579802/software-engineer-continuous-integration-starship?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Starbase, TX | On Site | May 02 |
 | **[SpaceX](https://spacex.com)** | **[Principal Software Engineer, Continuous Integration (Starship)](https://jobr.pro/job/40575579/principal-software-engineer-continuous-integration-starship?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Starbase, TX | On Site | May 02 |
@@ -31,6 +35,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Apptronik](https://apptronik.com)** | **[Software Engineer – Controls Infrastructure](https://jobr.pro/job/40573105/software-engineer-controls-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Austin, TX | On Site | May 01 |
 | **[8th Light]()** | **[Senior Software Engineer (Chicago, Atlanta, Boston)](https://jobr.pro/job/40575398/-senior-software-engineer-chicago-atlanta-boston?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Chicago, Illinois, United States | On Site | May 01 |
 | **[Agiloft](https://agiloft.com)** | **[Sr Software Engineer AI - Fullstack](https://jobr.pro/job/40573327/sr-software-engineer-ai-fullstack?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | On Site | May 01 |
+| **[Doximity](https://doximity.com)** | **[Senior Software Engineer II - Android (Kotlin)](https://jobr.pro/job/40588204/senior-software-engineer-ii-android-kotlin?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA or Remote (U.S.) | Remote | May 01 |
 | **[8th Light]()** | **[Senior Software Engineer (Hybrid)](https://jobr.pro/job/40575399/senior-software-engineer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, England, United Kingdom | On Site | May 01 |
 | **[8th Light]()** | **[Principal Software Engineer (Hybrid)](https://jobr.pro/job/40575396/principal-software-engineer-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, England, United Kingdom | On Site | May 01 |
 | **[8th Light]()** | **[Principal Software Engineer (Remote)](https://jobr.pro/job/40575397/principal-software-engineer-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Chicago, Illinois, United States | Remote | May 01 |
@@ -42,11 +47,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Flatiron Health](https://flatiron.com)** | **[Senior Software Engineer, Academics](https://jobr.pro/job/40575140/senior-software-engineer-academics?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | NY office | On Site | May 01 |
 | **[SpaceX](https://spacex.com)** | **[Sr. Security Software Engineer (Starshield)](https://jobr.pro/job/40573909/sr-security-software-engineer-starshield?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Washington, DC | On Site | May 01 |
 | **[Cohere](https://cohere.com/)** | **[Software Engineer Intern (Fall / Winter 2026)](https://jobr.pro/job/40575323/software-engineer-intern-fall-winter-2026?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Canada | Remote | May 01 |
+| **[Roblox](https://roblox.com)** | **[Senior Software Engineer, Consoles & Desktop](https://jobr.pro/job/40585576/senior-software-engineer-consoles-desktop?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA, United States | On Site | May 01 |
+| **[Campminder](https://campminder.com)** | **[Senior AI Platform Engineer](https://jobr.pro/job/40581797/senior-ai-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boulder, CO or remote | Remote | May 01 |
 | **[Varda Space Industries](https://varda.com)** | **[Senior Embedded Software Engineer](https://jobr.pro/job/40573165/senior-embedded-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | El Segundo, California, United States | On Site | May 01 |
+| **[Bold Business](https://boldbusiness.com)** | **[Python Developer - AI Automation & Full Stack (Remote / Full-Time)](https://jobr.pro/job/40584144/python-developer-ai-automation-full-stack-remote-full-time?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | India, Philippines | Remote | May 01 |
 | **[Coinbase](https://coinbase.com)** | **[Senior Software Engineer, FinOps](https://jobr.pro/job/40581351/senior-software-engineer-finops?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - USA | Remote | May 01 |
 | **[Unknown Company](https://elementsolutionsinc.com)** | **[Data Engineer](https://jobr.pro/job/40575033/data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | On Site | May 01 |
 | **[The Voleon Group](https://voleon.com/)** | **[Senior Software Engineer, Strategy Research Analytics](https://jobr.pro/job/40580758/senior-software-engineer-strategy-research-analytics?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote, United States | Remote | May 01 |
 | **[Harvey](https://www.harvey.ai/)** | **[Senior Software Engineer, Backend](https://jobr.pro/job/40572739/senior-software-engineer-backend?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York | Remote | May 01 |
+| **[Protegrity](https://www.protegrity.com)** | **[Machine Learning Engineer (PhD or MS Required) 756](https://jobr.pro/job/40584714/machine-learning-engineer-phd-or-ms-required-756?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Palo Alto, CA | Remote | May 01 |
 | **[Basispoort](https://basispoort.nl)** | **[Staff Software Engineer](https://jobr.pro/job/40577103/staff-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | On Site | May 01 |
 | **[Okta](https://okta.com)** | **[Staff Data Engineer - Federal (Auth0)](https://jobr.pro/job/40572356/staff-data-engineer-federal-auth0?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bellevue, Washington; Chicago, Illinois; New York, New York; Washington, DC | On Site | May 01 |
 | **[Peloton](https://onepeloton.com)** | **[Software Engineer III, Social](https://jobr.pro/job/40577586/software-engineer-iii-social-?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, New York | On Site | May 01 |
@@ -54,22 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Applied Intuition](https://appliedintuition.com)** | **[C++ Software Engineer (Autonomous Systems)](https://jobr.pro/job/40573125/c-software-engineer-autonomous-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Ann Arbor, Michigan, United States | On Site | May 01 |
 | **[Harvey](https://www.harvey.ai/)** | **[Staff Software Engineer, Agents](https://jobr.pro/job/40572743/staff-software-engineer-agents?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York | Remote | May 01 |
 | **[Unknown Company](https://peek.com)** | **[Senior Data Engineer](https://jobr.pro/job/40572408/senior-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mexico City | Remote | May 01 |
-| **[Zocdoc](https://zocdoc.com)** | **[Staff Software Engineer (Clinical Fit)](https://jobr.pro/job/40573360/staff-software-engineer-clinical-fit?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, NY | On Site | May 01 |
-| **[Harvey](https://www.harvey.ai/)** | **[Software Engineer, Agents](https://jobr.pro/job/40572741/software-engineer-agents?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York | Remote | May 01 |
-| **[Prosper Marketplace](https://prosper.com)** | **[Sr. Software Engineer, Frontend](https://jobr.pro/job/40577612/sr-software-engineer-frontend?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | May 01 |
-| **[Unknown Company](https://aeva.asn.au)** | **[Software Field Applications Engineer](https://jobr.pro/job/40571572/software-field-applications-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA | On Site | May 01 |
-| **[Dave](https://dave.com/)** | **[Lead/Staff AI Acceleration Engineer](https://jobr.pro/job/40580748/leadstaff-ai-acceleration-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | Remote | May 01 |
-| **[Unknown Company](https://aeva.asn.au)** | **[Senior Staff Software Engineer (C++)](https://jobr.pro/job/40571571/senior-staff-software-engineer-c?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA | On Site | May 01 |
-| **[General Assembly](https://generalassemb.ly)** | **[Lead Instructor: MLOps / AI Platform Engineering](https://jobr.pro/job/40571820/lead-instructor-mlops-ai-platform-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | U.S. Remote | Remote | May 01 |
-| **[General Assembly](https://generalassemb.ly)** | **[Lead Instructor: Agentic AI Engineering](https://jobr.pro/job/40571817/lead-instructor-agentic-ai-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | U.S. Remote | Remote | May 01 |
-| **[Basispoort](https://basispoort.nl)** | **[Sr Software Engineer, Applications](https://jobr.pro/job/40577102/sr-software-engineer-applications?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | On Site | May 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 34% remote | 31 companies | Avg salary: 7.258075258075483e+180k  
+**Current Stats:** 50 jobs | 34% remote | 34 companies | Avg salary: 1.5625005906255906e+187k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** mlops  
+**Trending Skills:** python  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
