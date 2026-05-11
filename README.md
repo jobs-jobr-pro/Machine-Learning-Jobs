@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: May 10, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 11, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,7 +13,27 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Openai](https://openai.com/)** | **[AI Deployment Engineer, Startups](https://jobr.pro/job/40706469/ai-deployment-engineer-startups?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sydney, Australia | On Site | May 11 |
+| **[Okta](https://okta.com)** | **[Principal Software Engineer](https://jobr.pro/job/40707822/principal-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, India | On Site | May 11 |
+| **[Kraken123](https://kraken.com)** | **[Senior/Mid Software Engineer - Kraken Distribution](https://jobr.pro/job/40712895/seniormid-software-engineer-kraken-distribution?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Melbourne | On Site | May 11 |
+| **[Field Ai](https://fieldair.net.au)** | **[Software Engineer - Federal Mission Workflows](https://jobr.pro/job/40706041/software-engineer-federal-mission-workflows?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Irvine, CA | On Site | May 11 |
+| **[Airwallex SG](https://www.airwallex.com)** | **[Staff Data Scientist, Algorithm - Financial Markets](https://jobr.pro/job/40706433/staff-data-scientist-algorithm-financial-markets?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | US - San Francisco | Remote | May 11 |
+| **[Aetherflux](https://aetherflux.com)** | **[Sr. Software Engineer](https://jobr.pro/job/40705818/sr-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Carlos, California | On Site | May 11 |
+| **[Catapult Sports](https://catapultsportsmanagement.com)** | **[Principal AI Engineer](https://jobr.pro/job/40706619/principal-ai-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Melbourne | On Site | May 11 |
+| **[Aetherflux](https://aetherflux.com)** | **[Embedded Software Engineering Lead](https://jobr.pro/job/40705466/embedded-software-engineering-lead?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Carlos, California | On Site | May 11 |
+| **[Unison Group](https://unisonindia.com)** | **[Data engineer (Azure Databricks)](https://jobr.pro/job/40713154/data-engineer-azure-databricks?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, Karnataka, India | On Site | May 11 |
+| **[Pavago](https://pavago.co)** | **[Senior Full Stack Software Engineer - (Product & Infrastructure)](https://jobr.pro/job/40708476/senior-full-stack-software-engineer-product-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Kenya | Remote | May 11 |
+| **[Aetherflux](https://aetherflux.com)** | **[Distributed Systems Software Engineering Lead](https://jobr.pro/job/40705468/distributed-systems-software-engineering-lead?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Carlos, California | On Site | May 10 |
+| **[Aetherflux](https://aetherflux.com)** | **[Sr. Test Software Engineer, AI Workloads](https://jobr.pro/job/40705804/sr-test-software-engineer-ai-workloads-?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Carlos, California | On Site | May 10 |
+| **[Aetherflux](https://aetherflux.com)** | **[Software Engineer](https://jobr.pro/job/40705459/software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Carlos, California | On Site | May 10 |
+| **[Aetherflux](https://aetherflux.com)** | **[Software Engineer, Reliability (Avionics / Compute Systems)](https://jobr.pro/job/40705823/software-engineer-reliability-avionics-compute-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, WA | On Site | May 10 |
+| **[Openai](https://openai.com/)** | **[Software Engineer, Productivity - Inference Runtime](https://jobr.pro/job/40703372/software-engineer-productivity-inference-runtime?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco | On Site | May 10 |
+| **[Lendbuzz](https://lendbuzz.com)** | **[Data Engineer](https://jobr.pro/job/40705050/data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tel Aviv | On Site | May 10 |
+| **[NICE](https://nicehash.com)** | **[Software Engineer, CX](https://jobr.pro/job/40701755/software-engineer-cx?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | India - Pune | On Site | May 10 |
+| **[Similarweb](https://similarweb.com)** | **[Senior Data Engineer ( Data Collection)](https://jobr.pro/job/40704765/-senior-data-engineer-data-collection?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tel Aviv-Yafo | On Site | May 10 |
+| **[NICE](https://nicehash.com)** | **[Software Engineer](https://jobr.pro/job/40701754/software-engineer-?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Israel - Raanana | On Site | May 10 |
 | **[Similarweb](https://similarweb.com)** | **[Data Engineer](https://jobr.pro/job/40701381/data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tel Aviv-Yafo | On Site | May 10 |
+| **[Tenable, Inc.]()** | **[Software Engineer, Innovation - Office of the CTO](https://jobr.pro/job/40702040/software-engineer-innovation-office-of-the-cto?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Israel - Office - Tel Aviv | On Site | May 10 |
 | **[Unframe](https://un-framed.co.za)** | **[Senior Software Engineer](https://jobr.pro/job/40701255/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 10 |
 | **[Unframe](https://un-framed.co.za)** | **[Senior Full Stack Software Engineer](https://jobr.pro/job/40701254/senior-full-stack-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 10 |
 | **[Unframe](https://un-framed.co.za)** | **[Full Stack Software Engineer - Platform](https://jobr.pro/job/40701253/full-stack-software-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tel Aviv-Yafo, Tel Aviv District, Israel | On Site | May 10 |
@@ -21,6 +41,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[KlearNow.AI](https://klearnow.ai)** | **[Senior AI Engineer](https://jobr.pro/job/40701195/senior-ai-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | California | On Site | May 10 |
 | **[Handshake](https://joinhandshake.com/)** | **[Software Engineer, Agentic Infrastructure](https://jobr.pro/job/40699985/software-engineer-agentic-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | May 10 |
 | **[Handshake](https://joinhandshake.com/)** | **[Senior Software Engineer, Agentic Infrastructure](https://jobr.pro/job/40699984/senior-software-engineer-agentic-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | May 10 |
+| **[Voltai](https://voltai.com)** | **[Senior Software Engineer: Integrations](https://jobr.pro/job/40703848/senior-software-engineer-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Palo Alto Office | On Site | May 10 |
+| **[Voltai](https://voltai.com)** | **[Senior Software Engineer: Solutions](https://jobr.pro/job/40703849/senior-software-engineer-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Palo Alto Office | On Site | May 10 |
+| **[Trilagen](https://trilagen.com)** | **[Agentic AI Engineer](https://jobr.pro/job/40708997/agentic-ai-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, New York, United States | On Site | May 10 |
 | **[Neuralink](https://neuralink.com)** | **[Software Engineer, Agentic AI](https://jobr.pro/job/40701264/software-engineer-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Austin, Texas, United States; South San Francisco, California, United States | On Site | May 09 |
 | **[Power Digital](https://powerdigitalmarketing.com)** | **[AI Data Engineer](https://jobr.pro/job/40697408/ai-data-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - United States | Remote | May 09 |
 | **[JioStar](https://jiostar.com)** | **[Sr Data Scientist - GenAI](https://jobr.pro/job/40694113/sr-data-scientist-genai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru | On Site | May 09 |
@@ -40,33 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[IXL Learning](https://ixl.com)** | **[Software Engineering Manager](https://jobr.pro/job/40687638/software-engineering-manager?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA | On Site | May 09 |
 | **[IXL Learning](https://ixl.com)** | **[Senior Software Engineer](https://jobr.pro/job/40687629/senior-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA | On Site | May 09 |
 | **[IXL Learning](https://ixl.com)** | **[Senior Software Engineer, Rosetta Stone](https://jobr.pro/job/40687634/senior-software-engineer-rosetta-stone?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA | On Site | May 09 |
-| **[IXL Learning](https://ixl.com)** | **[Software Engineer, Dictionary.com](https://jobr.pro/job/40687636/software-engineer-dictionarycom?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA | On Site | May 09 |
-| **[IXL Learning](https://ixl.com)** | **[Software Engineer, Education.com](https://jobr.pro/job/40687637/software-engineer-educationcom?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA | On Site | May 09 |
-| **[IXL Learning](https://ixl.com)** | **[Software Engineer, Rosetta Stone](https://jobr.pro/job/40687639/software-engineer-rosetta-stone?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA | On Site | May 09 |
-| **[Archer](https://archerreview.com)** | **[Sr Staff Engineer, Data Infrastructure](https://jobr.pro/job/40690967/sr-staff-engineer-data-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | May 09 |
-| **[IXL Learning](https://ixl.com)** | **[Technical Lead, Software Engineering](https://jobr.pro/job/40687640/technical-lead-software-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA | On Site | May 09 |
-| **[IXL Learning](https://ixl.com)** | **[Software Engineer, Core Technology](https://jobr.pro/job/40687635/software-engineer-core-technology?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA | On Site | May 09 |
-| **[IXL Learning](https://ixl.com)** | **[Senior Software Engineer, Education.com](https://jobr.pro/job/40687632/senior-software-engineer-educationcom?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA | On Site | May 09 |
-| **[Cogent Security](https://cogent.security)** | **[AI Research Engineer](https://jobr.pro/job/40699160/ai-research-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | May 09 |
-| **[Airwallex SG](https://www.airwallex.com)** | **[Senior Software Engineer, DevX](https://jobr.pro/job/40686706/senior-software-engineer-devx?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | US - San Francisco | Remote | May 09 |
-| **[IXL Learning](https://ixl.com)** | **[Senior Software Engineer, DevOps](https://jobr.pro/job/40687631/senior-software-engineer-devops?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA | On Site | May 09 |
-| **[IXL Learning](https://ixl.com)** | **[Senior Software Engineer, Core Technology](https://jobr.pro/job/40687630/senior-software-engineer-core-technology?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA | On Site | May 09 |
-| **[Zscaler](https://zscaler.com)** | **[Senior Specialist Sales Engineer - Data Security, Commercial](https://jobr.pro/job/40686240/senior-specialist-sales-engineer-data-security-commercial?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - USA | Remote | May 09 |
-| **[Zscaler](https://zscaler.com)** | **[Principal Specialist Sales Engineer - Data Security, SLED/Healthcare](https://jobr.pro/job/40686239/principal-specialist-sales-engineer-data-security-sledhealthcare?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - USA | Remote | May 09 |
-| **[CHAOS Industries](https://chaosinc.com)** | **[Data Scientist: Mission Engineering](https://jobr.pro/job/40691223/data-scientist-mission-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hawthorne, California, United States | On Site | May 08 |
-| **[Cadence Health](https://cadencehealth.com)** | **[Senior Software Engineer, Agentic AI](https://jobr.pro/job/40695208/senior-software-engineer-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | May 08 |
-| **[Astranis](https://astranis.com)** | **[Software Simulation Engineer - Flight Software](https://jobr.pro/job/40691003/software-simulation-engineer-flight-software?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco | On Site | May 08 |
-| **[Amplitude](https://amplitude.com)** | **[Senior Software Engineer, Product Adoption](https://jobr.pro/job/40689258/senior-software-engineer-product-adoption?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | May 08 |
-| **[Life360](https://life360.com)** | **[Sr. Staff AI Security Engineer, AI Native Platform](https://jobr.pro/job/40687235/sr-staff-ai-security-engineer-ai-native-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote, USA | Remote | May 08 |
-| **[Life360](https://life360.com)** | **[Principal AI Security Engineer, AI Native Platform](https://jobr.pro/job/40687231/principal-ai-security-engineer-ai-native-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote, USA | Remote | May 08 |
-| **[CHAOS Industries](https://chaosinc.com)** | **[Cloud DevSecOps Engineer - (Software Engineering Focused)](https://jobr.pro/job/40691222/cloud-devsecops-engineer-software-engineering-focused?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hawthorne, California, United States | On Site | May 08 |
-| **[CHAOS Industries](https://chaosinc.com)** | **[DevSecOps - Software Engineer](https://jobr.pro/job/40691224/devsecops-software-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hawthorne, California, United States | On Site | May 08 |
-| **[Cribl](https://cribl.io)** | **[Sr Software Engineer, Cribl AI](https://jobr.pro/job/40685315/sr-software-engineer-cribl-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - United States | Remote | May 08 |
-| **[Hunter Douglas](https://hunterdouglas.com)** | **[AI Data Scientist](https://jobr.pro/job/40686896/ai-data-scientist-?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Broomfield, CO, United States | On Site | May 08 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 23 companies | Avg salary: 6.515157818188485e+192k  
+**Current Stats:** 50 jobs | 14% remote | 25 companies | Avg salary: 1.578948684211579e+109k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
