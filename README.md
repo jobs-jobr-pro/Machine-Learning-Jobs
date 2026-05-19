@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: May 18, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 19, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,7 +13,16 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Proton]()** | **[(Security) Machine Learning Engineer](https://jobr.pro/job/40845484/security-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris | On Site | May 19 |
+| **[FuriosaAI]()** | **[Machine Learning Engineer (Agentic AI)](https://jobr.pro/job/40844650/machine-learning-engineer-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seoul HQ | On Site | May 19 |
+| **[Encora]()** | **[Machine Learning Engineer](https://jobr.pro/job/40841150/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mexico | On Site | May 18 |
+| **[Sentry]()** | **[Engineering Manager, Machine Learning](https://jobr.pro/job/40843894/engineering-manager-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, California | Remote | May 18 |
+| **[Checkr]()** | **[Machine Learning Engineer](https://jobr.pro/job/40839606/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, California, United States | On Site | May 18 |
+| **[Housecall Pro]()** | **[Staff Machine Learning Operations Engineer - Brazil](https://jobr.pro/job/40844575/staff-machine-learning-operations-engineer-brazil?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Brazil | On Site | May 18 |
 | **[Wolt - English]()** | **[Machine Learning Engineer](https://jobr.pro/job/40832483/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Berlin, Germany; Helsinki, Finland | On Site | May 18 |
+| **[TwelveLabs]()** | **[Staff Machine Learning Engineer, Pegasus - TrainingOps](https://jobr.pro/job/40836218/staff-machine-learning-engineer-pegasus-trainingops?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seoul, South Korea | Remote | May 18 |
+| **[Cohere Health]()** | **[Staff Machine Learning Engineer](https://jobr.pro/job/40835921/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hyderabad, Telangana, India | On Site | May 18 |
+| **[Cohere Health]()** | **[Lead Machine Learning Engineer](https://jobr.pro/job/40835918/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hyderabad, Telangana, India | On Site | May 18 |
 | **[Rhoda ai]()** | **[Staff/Principal Machine Learning Engineer- Training Systems](https://jobr.pro/job/40827238/staffprincipal-machine-learning-engineer-training-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Palo Alto | On Site | May 17 |
 | **[DoorDash USA]()** | **[Software Engineer, Machine Learning - Credit & Refund Optimization](https://jobr.pro/job/40810115/software-engineer-machine-learning-credit-refund-optimization?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA; Sunnyvale, CA; Seattle, WA | On Site | May 15 |
 | **[Roku]()** | **[Senior Machine Learning Engineer, Search Assistant](https://jobr.pro/job/40807047/senior-machine-learning-engineer-search-assistant?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California | On Site | May 15 |
@@ -53,20 +62,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[LeanData]()** | **[Machine Learning Engineer](https://jobr.pro/job/40778138/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara | On Site | May 12 |
 | **[Attentive]()** | **[Staff Software Engineer, Machine Learning](https://jobr.pro/job/40752079/staff-software-engineer-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | On Site | May 12 |
 | **[CloudWalk Technology]()** | **[Machine Learning Engineer](https://jobr.pro/job/40757903/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | São Paulo | Remote | May 12 |
-| **[ZoomInfo Technologies LLC]()** | **[Senior Machine Learning Engineer](https://jobr.pro/job/40736639/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | May 12 |
-| **[GoFundMe]()** | **[Staff Machine Learning Engineer (Pricing)](https://jobr.pro/job/40733560/staff-machine-learning-engineer-pricing?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | May 12 |
-| **[Mpsolutions]()** | **[Senior Software Engineer (C++) - Machine Learning & 3D Technológiai Környezet](https://jobr.pro/job/40749568/senior-software-engineer-c-machine-learning-3d-technologiai-kornyezet?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Budapest, Budapest, Hungary | On Site | May 12 |
-| **[Minderacraft]()** | **[Machine Learning Engineer](https://jobr.pro/job/40745816/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Coimbra, Coimbra District, Portugal | Remote | May 12 |
-| **[OnBuy]()** | **[Senior Applied Machine Learning Engineer - Catalogue Intelligence](https://jobr.pro/job/40743715/senior-applied-machine-learning-engineer-catalogue-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bournemouth, England, United Kingdom | Remote | May 12 |
-| **[Factored]()** | **[Machine Learning Engineer (LLMs Knowledge Graphs)](https://jobr.pro/job/40744248/machine-learning-engineer-llms-knowledge-graphs?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Latin America | On Site | May 11 |
-| **[Block]()** | **[Staff Machine Learning Engineer, Credit Products (Square Financial Services)](https://jobr.pro/job/40732978/staff-machine-learning-engineer-credit-products-square-financial-services?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, WA, United States of America | On Site | May 11 |
-| **[PALO IT]()** | **[Machine Learning Engineer](https://jobr.pro/job/40732214/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Ciudad de México | On Site | May 11 |
-| **[Airbnb]()** | **[Senior Machine Learning Engineer, Trust](https://jobr.pro/job/40723198/senior-machine-learning-engineer-trust?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | May 11 |
-| **[Motional]()** | **[Machine Learning Systems Engineer](https://jobr.pro/job/40730956/machine-learning-systems-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote U.S. | Remote | May 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 45 companies | Avg salary: 1.1085204074081854e+156k  
+**Current Stats:** 49 jobs | 24% remote | 41 companies | Avg salary: 1.2173921652186929e+133k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
