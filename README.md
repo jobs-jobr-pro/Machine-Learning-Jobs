@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: May 20, 2026 at 15:43 UTC</small></sub>
+<sub><small>Last updated: May 20, 2026 at 16:53 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -61,12 +61,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[C-Serv](https://www.c-serv.com/)** | **[Adversarial Machine Learning Engineer](https://jobr.pro/job/40785411/adversarial-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Calgary, Alberta, Canada | On Site | May 14 |
 | **[Graham Capital Management, L.P.](https://www.grahamcapital.com/)** | **[Machine Learning Engineer](https://jobr.pro/job/40774508/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, England, United Kingdom; New York, New York, United States; Norwalk, Connecticut, United States | On Site | May 13 |
 | **[iFood](https://ifoodieapp.com)** | **[Sr Staff Machine Learning Engineer - Logistics Intelligence](https://jobr.pro/job/40767805/sr-staff-machine-learning-engineer-logistics-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Brasil | On Site | May 13 |
-| **[Unity Technologies](https://unitytec.com)** | **[Senior Machine Learning Engineer, Conversion Modeling](https://jobr.pro/job/40764934/senior-machine-learning-engineer-conversion-modeling?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA | On Site | May 13 |
-| **[Voleon](https://voleon.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/40779874/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote, United States | Remote | May 13 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 41 companies | Avg salary: 1.8559680000013333e+121k  
+**Current Stats:** 48 jobs | 25% remote | 39 companies | Avg salary: 2.0513330526330525e+109k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
