@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: May 21, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: May 21, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Exadel](https://exadel.com)** | **[Senior/Lead Machine Learning Engineer](https://jobr.pro/job/40881024/seniorlead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bulgaria, Hungary, Poland | On Site | May 21 |
+| **[Reddit](https://redditinc.com)** | **[Staff Machine Learning Engineer, Embeddings](https://jobr.pro/job/40879851/staff-machine-learning-engineer-embeddings?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - United States | Remote | May 21 |
+| **[Plaid](https://plaid.com)** | **[Senior Machine Learning Engineer - Credit](https://jobr.pro/job/40880602/senior-machine-learning-engineer-credit?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco HQ | Remote | May 21 |
+| **[Metropolis](https://metropolisindia.com)** | **[Senior Machine Learning Engineer, Computer Vision](https://jobr.pro/job/40878646/senior-machine-learning-engineer-computer-vision?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | May 20 |
 | **[Fanatics Betting & Gaming]()** | **[Machine Learning Engineer III - FES](https://jobr.pro/job/40874029/machine-learning-engineer-iii-fes?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, NY, United States | On Site | May 20 |
 | **[Optiver](https://optivermedia.com/)** | **[Machine Learning Modelling Engineer, PhD](https://jobr.pro/job/40862583/machine-learning-modelling-engineer-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Shanghai, China | On Site | May 20 |
 | **[Xero](https://xero.com)** | **[Senior Machine Learning / ML Engineer](https://jobr.pro/job/40859516/senior-machine-learning-ml-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | AU: Melbourne: (260 Burwood Rd) | Remote | May 20 |
@@ -59,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Reka](https://reka.ai/)** | **[Member of Technical Staff (Machine Learning Engineer)](https://jobr.pro/job/40821792/member-of-technical-staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | May 14 |
 | **[CI&T](https://ciandt.com)** | **[\[Job-29268\] Machine Learning Engineering, Colombia](https://jobr.pro/job/40785646/job-29268-machine-learning-engineering-colombia?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Colombia | Remote | May 14 |
 | **[HubSpot](https://hubspot.com)** | **[Sr. Machine Learning Engineer I](https://jobr.pro/job/40783252/sr-machine-learning-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - USA | Remote | May 14 |
-| **[Cohere Health](https://coherehealth.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/40782701/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | On Site | May 14 |
-| **[Airbnb](https://www.airbnb.com.sg/)** | **[Senior Staff Machine Learning Engineer, Infrastructure](https://jobr.pro/job/40776596/senior-staff-machine-learning-engineer-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | On Site | May 14 |
 
 ---
 
-**Current Stats:** 48 jobs | 25% remote | 39 companies | Avg salary: 8.350019487663999e+114k  
+**Current Stats:** 50 jobs | 28% remote | 42 companies | Avg salary: 1.6885729302866667e+121k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
