@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: May 23, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 24, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Weekday AI](https://www.weekday.works)** | **[Machine Learning Engineer](https://jobr.pro/job/40912585/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Chennai, Tamil Nadu, India | On Site | May 23 |
 | **[SandboxAQ](https://sandboxaq.com)** | **[Senior Machine Learning Engineer, AI Generation Engine](https://jobr.pro/job/40908421/senior-machine-learning-engineer-ai-generation-engine?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | Remote | May 22 |
 | **[Calendly](https://calendly.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/40908553/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - US | Remote | May 22 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Sr. Staff Machine Learning Engineer, Content Ecosystem](https://jobr.pro/job/40906466/sr-staff-machine-learning-engineer-content-ecosystem?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA, US; Remote, US | Remote | May 22 |
@@ -42,6 +43,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Reddit](https://redditinc.com)** | **[Staff Machine Learning Engineer, Embeddings](https://jobr.pro/job/40879851/staff-machine-learning-engineer-embeddings?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - United States | Remote | May 21 |
 | **[Mindbeam](https://mindbeam.ai)** | **[Machine Learning Engineer - Kernels](https://jobr.pro/job/40883103/machine-learning-engineer-kernels?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | Remote | May 21 |
 | **[Plaid](https://plaid.com)** | **[Senior Machine Learning Engineer - Credit](https://jobr.pro/job/40880602/senior-machine-learning-engineer-credit?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco HQ | Remote | May 21 |
+| **[AppIQ Technologies](https://www.appiq.global)** | **[QA Engineer / Sr. QA Engineer - Machine Learning Platform for E-Commerce](https://jobr.pro/job/40915891/qa-engineer-sr-qa-engineer-machine-learning-platform-for-e-commerce?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Romania | Remote | May 21 |
 | **[Medical Guardian](http://medicalguardian.com)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/40901535/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Philadelphia, Pennsylvania, United States | On Site | May 21 |
 | **[EDUCATION PLUS 2](https://plus.ai)** | **[Machine Learning Engineer Intern](https://jobr.pro/job/40912098/machine-learning-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CA | On Site | May 20 |
 | **[Metropolis](https://metropolisindia.com)** | **[Senior Machine Learning Engineer, Computer Vision](https://jobr.pro/job/40878646/senior-machine-learning-engineer-computer-vision?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | May 20 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Together AI](https://together.ai)** | **[Staff Machine Learning Engineer, Voice AI](https://jobr.pro/job/40852850/staff-machine-learning-engineer-voice-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco | On Site | May 19 |
 | **[BuiltIn Integration Sandbox]()** | **[Do Not Apply - Machine Learning Engineer 5/19/2026, 11:43:00 AM](https://jobr.pro/job/40858480/do-not-apply-machine-learning-engineer-5192026-114300-am?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | May 19 |
 | **[Coupang](https://coupang.com)** | **[Staff, Machine Learning Engineer - Coupang Play](https://jobr.pro/job/40849350/staff-machine-learning-engineer-coupang-play?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Singapore | On Site | May 19 |
-| **[Proton](https://proton.me)** | **[(Security) Machine Learning Engineer](https://jobr.pro/job/40845484/security-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris | On Site | May 19 |
-| **[FuriosaAI](https://furiosa.ai)** | **[Machine Learning Engineer (Agentic AI)](https://jobr.pro/job/40844650/machine-learning-engineer-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seoul HQ | On Site | May 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 24% remote | 35 companies | Avg salary: 9.46154953663343e+151k  
+**Current Stats:** 50 jobs | 26% remote | 35 companies | Avg salary: 9.46154953663343e+151k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
