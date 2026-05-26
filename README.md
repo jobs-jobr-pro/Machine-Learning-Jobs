@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: May 25, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 26, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Affirm](https://affirm.com)** | **[Machine Learning Engineer II](https://jobr.pro/job/40931951/machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote Canada | Remote | May 25 |
+| **[Hire Hangar](https://hirehangar.com)** | **[Machine Learning Engineer](https://jobr.pro/job/40931102/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Columbia - Bogotá | Remote | May 25 |
 | **[Airbnb](https://www.airbnb.com.sg/)** | **[Principal Machine Learning Engineer- LLM Fine-tuning and Optimization](https://jobr.pro/job/40920781/principal-machine-learning-engineer-llm-fine-tuning-and-optimization?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | On Site | May 24 |
 | **[Mindrift](https://mindrift.ai)** | **[Freelance Machine Learning Engineer](https://jobr.pro/job/40918170/freelance-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sweden | Remote | May 24 |
 | **[Weekday AI](https://www.weekday.works)** | **[Machine Learning Engineer](https://jobr.pro/job/40912585/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Chennai, Tamil Nadu, India | On Site | May 23 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[EMW, Inc.](http://www.emw.com)** | **[C004854 Machine Learning Engineer (NS) - THU 4 Jun](https://jobr.pro/job/40870345/c004854-machine-learning-engineer-ns-thu-4-jun?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | The Hague, South Holland, Netherlands | On Site | May 20 |
 | **[Timescapes](https://www.timescapes.co/)** | **[Machine Learning Engineer](https://jobr.pro/job/40865227/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Parnell, Auckland, New Zealand | On Site | May 20 |
 | **[Zipdev](https://zipdev.com)** | **[Forward Deployed Engineer (Machine Learning)](https://jobr.pro/job/40855340/forward-deployed-engineer-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Colombia | Remote | May 20 |
-| **[ABBYY](https://abbyy.com)** | **[Senior Machine Learning Engineer, Model Training & Evaluation](https://jobr.pro/job/40856247/senior-machine-learning-engineer-model-training-evaluation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, India (Hybrid) | On Site | May 19 |
-| **[Pinterest](https://www.pinterest.com/)** | **[Staff Machine Learning Engineer, Programmatic Ads](https://jobr.pro/job/40856374/staff-machine-learning-engineer-programmatic-ads?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US | On Site | May 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 35 companies | Avg salary: 1.3518527629640295e+158k  
+**Current Stats:** 50 jobs | 32% remote | 37 companies | Avg salary: 1.7777912963054076e+157k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
