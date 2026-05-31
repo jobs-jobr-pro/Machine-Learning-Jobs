@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: May 30, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 31, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -27,6 +27,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Roku](https://rokuguide.com)** | **[SW Engineer, Machine Learning](https://jobr.pro/job/40977920/sw-engineer-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, India | On Site | May 29 |
 | **[Fundamental](https://fundamental.tech)** | **[Machine Learning Engineer (Forward Deployed)](https://jobr.pro/job/40976457/machine-learning-engineer-forward-deployed?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Japan | On Site | May 29 |
 | **[Prima%20mente]()** | **[Machine Learning Engineer - Foundation Models for Biology](https://jobr.pro/job/40976724/machine-learning-engineer-foundation-models-for-biology?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco | On Site | May 29 |
+| **[Hugging Face](https://huggingface.co)** | **[Open-Source Machine Learning Engineer - US Remote](https://jobr.pro/job/40992378/open-source-machine-learning-engineer-us-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, New York, United States | Remote | May 29 |
+| **[Hugging Face](https://huggingface.co)** | **[Open-Source Machine Learning Engineer - EMEA Remote](https://jobr.pro/job/40992377/open-source-machine-learning-engineer-emea-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris, Île-de-France, France | Remote | May 29 |
 | **[C-Serv](https://www.c-serv.com/)** | **[Principal Machine Learning Engineer, General AI, ML & Big Data](https://jobr.pro/job/40987280/principal-machine-learning-engineer-general-ai-ml-big-data?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Calgary, Alberta, Canada | On Site | May 29 |
 | **[pony.ai](http://www.pony.ai)** | **[Machine Learning Engineer - Reinforcement Learning](https://jobr.pro/job/40976433/machine-learning-engineer-reinforcement-learning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Fremont, California, United States | On Site | May 29 |
 | **[Spotify](https://spotify.com)** | **[Senior Machine Learning Engineer - Enrichment & Content Intelligence](https://jobr.pro/job/40977625/senior-machine-learning-engineer-enrichment-content-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, NY | On Site | May 28 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Graphcore](https://graphcore.ai)** | **[Senior Machine Learning Engineer (Large Systems)](https://jobr.pro/job/40934798/senior-machine-learning-engineer-large-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, UK | On Site | May 26 |
 | **[Bloomreach](https://bloomreach.com)** | **[Senior Machine Learning Engineer / Data Scientist](https://jobr.pro/job/40935771/senior-machine-learning-engineer-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Slovakia | On Site | May 26 |
 | **[Mercari, inc.](https://careers.mercari.com/jp)** | **[Machine Learning Engineer (AI/LLM) - Mercari](https://jobr.pro/job/40935382/machine-learning-engineer-aillm-mercari?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Minato City, Tokyo, Japan | On Site | May 26 |
-| **[Affirm](https://affirm.com)** | **[Machine Learning Engineer II](https://jobr.pro/job/40931951/machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote Canada | Remote | May 25 |
-| **[Hire Hangar](https://hirehangar.com)** | **[Machine Learning Engineer](https://jobr.pro/job/40931102/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Columbia - Bogotá | Remote | May 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 46 companies | Avg salary: 9.923084038469904e+150k  
+**Current Stats:** 50 jobs | 28% remote | 45 companies | Avg salary: 1.0320007400008698e+146k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python  
