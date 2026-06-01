@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: May 31, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Jun 01, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Doctolib](https://www.doctolib.de/)** | **[Senior Staff Machine Learning Engineer - Clinical - Applied AI & LLMs (x/f/m)](https://jobr.pro/job/41001024/senior-staff-machine-learning-engineer-clinical-applied-ai-llms-xfm?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris, Paris, France | On Site | Jun 01 |
+| **[Doctolib](https://www.doctolib.de/)** | **[Senior Machine Learning Engineer - Applied AI & LLMs (x/f/m)](https://jobr.pro/job/41001023/senior-machine-learning-engineer-applied-ai-llms-xfm?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris, Paris, France | On Site | Jun 01 |
 | **[Lessen](https://www.lessentiel.lu/fr)** | **[Machine Learning Engineer II](https://jobr.pro/job/40989457/machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Chicago, IL | On Site | May 30 |
 | **[Zoox](https://zoox.com)** | **[Machine Learning Engineer - Semantic Reasoning (Highway)](https://jobr.pro/job/40988020/machine-learning-engineer-semantic-reasoning-highway?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Foster City, CA | On Site | May 29 |
 | **[Encora](https://encora.es/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/40985684/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bolivia | On Site | May 29 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Anaplan](https://anaplan.com)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/40935847/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, United Kingdom | On Site | May 26 |
 | **[BJAK](https://bjak.my/en/about-us)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/40934868/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Zurich, Switzerland | Remote | May 26 |
 | **[Graphcore](https://graphcore.ai)** | **[Senior Machine Learning Engineer (Large Systems)](https://jobr.pro/job/40934798/senior-machine-learning-engineer-large-systems?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, UK | On Site | May 26 |
-| **[Bloomreach](https://bloomreach.com)** | **[Senior Machine Learning Engineer / Data Scientist](https://jobr.pro/job/40935771/senior-machine-learning-engineer-data-scientist?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Slovakia | On Site | May 26 |
-| **[Mercari, inc.](https://careers.mercari.com/jp)** | **[Machine Learning Engineer (AI/LLM) - Mercari](https://jobr.pro/job/40935382/machine-learning-engineer-aillm-mercari?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Minato City, Tokyo, Japan | On Site | May 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 28% remote | 45 companies | Avg salary: 1.0320007400008698e+146k  
+**Current Stats:** 50 jobs | 28% remote | 43 companies | Avg salary: 1.0320007400008698e+146k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python  
