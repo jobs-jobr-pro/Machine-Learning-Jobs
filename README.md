@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 06, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Jun 07, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -48,6 +48,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Liftoff](https://www.liftoffcommerce.com)** | **[Machine Learning Engineer, Conversion ML](https://jobr.pro/job/41034339/machine-learning-engineer-conversion-ml?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States (Remote) | Remote | Jun 03 |
 | **[Block](https://blockfi.com/)** | **[Staff Machine Learning Engineer (Modeling), Support](https://jobr.pro/job/41031348/staff-machine-learning-engineer-modeling-support?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, WA, United States of America | On Site | Jun 03 |
 | **[Instacart](https://www.instacart.com/)** | **[Senior Machine Learning Engineer II, Fulfillment, Matching and Positioning](https://jobr.pro/job/41032260/senior-machine-learning-engineer-ii-fulfillment-matching-and-positioning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States - Remote | Remote | Jun 03 |
+| **[Noïa Labs](http://www.noialabs.ai/)** | **[Machine Learning Engineer](https://jobr.pro/job/41067254/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris HQ | Remote | Jun 03 |
 | **[Voyager Technologies, Inc.]()** | **[Machine Learning Engineer - Mid-Level](https://jobr.pro/job/41034130/machine-learning-engineer-mid-level?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | El Segundo, CA | On Site | Jun 03 |
 | **[Voyager Technologies, Inc.]()** | **[Machine Learning Engineer - Associate](https://jobr.pro/job/41034129/machine-learning-engineer-associate?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | El Segundo, CA | On Site | Jun 03 |
 | **[Reddit](https://reddit.com)** | **[Senior Staff Machine Learning Engineer, Notifications](https://jobr.pro/job/41030188/senior-staff-machine-learning-engineer-notifications?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - United States | Remote | Jun 03 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mistral AI](https://mistral.ai)** | **[Applied AI, Senior/Staff Forward Deployed Machine Learning Engineer - Munich](https://jobr.pro/job/41023060/applied-ai-seniorstaff-forward-deployed-machine-learning-engineer-munich?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Munich | On Site | Jun 03 |
 | **[Match Group](https://mtch.com)** | **[Software Engineer II, Machine Learning](https://jobr.pro/job/41021794/software-engineer-ii-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Palo Alto, California | On Site | Jun 02 |
 | **[Poshmark](https://poshmark.com/)** | **[Software Engineer II, Machine Learning](https://jobr.pro/job/41019125/software-engineer-ii-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | US California (Redwood City) - Office | On Site | Jun 02 |
-| **[Poshmark](https://poshmark.com/)** | **[Senior Staff, Machine Learning Engineer](https://jobr.pro/job/41019124/senior-staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | US California (Redwood City) - Office | Remote | Jun 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 41 companies | Avg salary: 6.9565311304439135e+131k  
+**Current Stats:** 50 jobs | 26% remote | 42 companies | Avg salary: 6.9565311304439135e+131k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, mlops  
