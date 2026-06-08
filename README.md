@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 08, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,7 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[Clera](https://www.getclera.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/41068994/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco | On Site | Jun 07 |
+| **[Clera](https://www.getclera.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/41070581/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco | On Site | Jun 07 |
 | **[SimplePractice](https://simplepractice.com)** | **[Machine Learning Engineer, Applied AI (Hybrid)](https://jobr.pro/job/41069329/machine-learning-engineer-applied-ai-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mexico City | On Site | Jun 07 |
 | **[PrizePicks](https://prizepicks.com)** | **[Machine Learning Platform Engineer](https://jobr.pro/job/41058400/machine-learning-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Atlanta, GA preferred, Remote | Remote | Jun 05 |
 | **[Riot Games](https://riotgames.com)** | **[Staff Machine Learning Engineer - Game Tech Group, ML Platform](https://jobr.pro/job/41058168/staff-machine-learning-engineer-game-tech-group-ml-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Los Angeles, USA | On Site | Jun 05 |
