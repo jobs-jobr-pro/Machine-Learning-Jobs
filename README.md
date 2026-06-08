@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 08, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Roku](https://rokuguide.com)** | **[Senior Software Engineer, Machine Learning (ML Ops)](https://jobr.pro/job/41071569/senior-software-engineer-machine-learning-ml-ops?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, India | On Site | Jun 08 |
+| **[Destinus](https://www.destinus.eu)** | **[Machine Learning Engineer](https://jobr.pro/job/41072861/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Zürich, Zurich, Switzerland | On Site | Jun 08 |
 | **[Clera](https://www.getclera.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/41070581/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco | On Site | Jun 07 |
 | **[SimplePractice](https://simplepractice.com)** | **[Machine Learning Engineer, Applied AI (Hybrid)](https://jobr.pro/job/41069329/machine-learning-engineer-applied-ai-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mexico City | On Site | Jun 07 |
 | **[PrizePicks](https://prizepicks.com)** | **[Machine Learning Platform Engineer](https://jobr.pro/job/41058400/machine-learning-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Atlanta, GA preferred, Remote | Remote | Jun 05 |
@@ -61,8 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Latitude AI](https://latitude2009.com)** | **[Senior Software Engineer - Machine Learning - Multi-Object Tracking](https://jobr.pro/job/41028747/senior-software-engineer-machine-learning-multi-object-tracking?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Dearborn, Michigan, United States, Palo Alto, California, United States, Pittsburgh, PA, United States, Remote | Remote | Jun 03 |
 | **[Airbnb](https://www.airbnb.com.sg/)** | **[Senior Machine Learning Engineer, Supply & Competitive Intelligence](https://jobr.pro/job/41025772/senior-machine-learning-engineer-supply-competitive-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - USA | Remote | Jun 03 |
 | **[Exadel Inc (Website)]()** | **[Lead Machine Learning Engineer](https://jobr.pro/job/41023567/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bulgaria, Hungary, Poland | On Site | Jun 03 |
-| **[Mistral AI](https://mistral.ai)** | **[Applied AI, Forward Deployed Machine Learning Engineer - Munich](https://jobr.pro/job/41023061/applied-ai-forward-deployed-machine-learning-engineer-munich?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Munich | On Site | Jun 03 |
-| **[Mistral AI](https://mistral.ai)** | **[Applied AI, Senior/Staff Forward Deployed Machine Learning Engineer - Munich](https://jobr.pro/job/41023060/applied-ai-seniorstaff-forward-deployed-machine-learning-engineer-munich?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Munich | On Site | Jun 03 |
 
 ---
 
