@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 07, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Clera](https://www.getclera.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/41068994/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco | On Site | Jun 07 |
+| **[SimplePractice](https://simplepractice.com)** | **[Machine Learning Engineer, Applied AI (Hybrid)](https://jobr.pro/job/41069329/machine-learning-engineer-applied-ai-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mexico City | On Site | Jun 07 |
 | **[PrizePicks](https://prizepicks.com)** | **[Machine Learning Platform Engineer](https://jobr.pro/job/41058400/machine-learning-platform-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Atlanta, GA preferred, Remote | Remote | Jun 05 |
 | **[Riot Games](https://riotgames.com)** | **[Staff Machine Learning Engineer - Game Tech Group, ML Platform](https://jobr.pro/job/41058168/staff-machine-learning-engineer-game-tech-group-ml-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Los Angeles, USA | On Site | Jun 05 |
 | **[Orion Innovation](https://www.orioninnovation.com/)** | **[Machine Learning Engineer / MLOps (Python, Cloud, Data) – Híbrido - CDMX](https://jobr.pro/job/41056546/machine-learning-engineer-mlops-python-cloud-data-hibrido-cdmx?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mexico City, Mexico City, Mexico | On Site | Jun 05 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Exadel Inc (Website)]()** | **[Lead Machine Learning Engineer](https://jobr.pro/job/41023567/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bulgaria, Hungary, Poland | On Site | Jun 03 |
 | **[Mistral AI](https://mistral.ai)** | **[Applied AI, Forward Deployed Machine Learning Engineer - Munich](https://jobr.pro/job/41023061/applied-ai-forward-deployed-machine-learning-engineer-munich?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Munich | On Site | Jun 03 |
 | **[Mistral AI](https://mistral.ai)** | **[Applied AI, Senior/Staff Forward Deployed Machine Learning Engineer - Munich](https://jobr.pro/job/41023060/applied-ai-seniorstaff-forward-deployed-machine-learning-engineer-munich?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Munich | On Site | Jun 03 |
-| **[Match Group](https://mtch.com)** | **[Software Engineer II, Machine Learning](https://jobr.pro/job/41021794/software-engineer-ii-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Palo Alto, California | On Site | Jun 02 |
-| **[Poshmark](https://poshmark.com/)** | **[Software Engineer II, Machine Learning](https://jobr.pro/job/41019125/software-engineer-ii-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | US California (Redwood City) - Office | On Site | Jun 02 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 42 companies | Avg salary: 6.9565311304439135e+131k  
+**Current Stats:** 50 jobs | 26% remote | 42 companies | Avg salary: 5.2839137391313735e+132k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, mlops  
