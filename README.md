@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 08, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 09, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Roku](https://www.weareroku.com/)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/41075592/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, New York | On Site | Jun 08 |
+| **[Box](https://www.box.com/home)** | **[Machine Learning Engineer III, Search Relevance](https://jobr.pro/job/41076433/machine-learning-engineer-iii-search-relevance?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Redwood City, CA, United States | On Site | Jun 08 |
+| **[PitchBook Data]()** | **[Sr. Machine Learning Engineer](https://jobr.pro/job/41075945/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Jun 08 |
+| **[PitchBook Data]()** | **[Machine Learning Engineer](https://jobr.pro/job/41075944/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Jun 08 |
+| **[ShopBack](https://www.shopback.com/)** | **[Senior Software Engineer - Machine Learning](https://jobr.pro/job/41073804/senior-software-engineer-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Shenzhen, China | On Site | Jun 08 |
 | **[Roku](https://rokuguide.com)** | **[Senior Software Engineer, Machine Learning (ML Ops)](https://jobr.pro/job/41071569/senior-software-engineer-machine-learning-ml-ops?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, India | On Site | Jun 08 |
 | **[Destinus](https://www.destinus.eu)** | **[Machine Learning Engineer](https://jobr.pro/job/41072861/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Zürich, Zurich, Switzerland | On Site | Jun 08 |
 | **[Clera](https://www.getclera.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/41070581/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco | On Site | Jun 07 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Reddit](https://reddit.com)** | **[Senior Staff Machine Learning Engineer, Notifications](https://jobr.pro/job/41030188/senior-staff-machine-learning-engineer-notifications?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - United States | Remote | Jun 03 |
 | **[EarnIn](https://www.earnin.com)** | **[Machine Learning Engineer](https://jobr.pro/job/41034484/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, India | On Site | Jun 03 |
 | **[Velo3D](https://velo3d.com)** | **[Machine Learning Engineer](https://jobr.pro/job/41035246/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Fremont, CA | On Site | Jun 03 |
-| **[Flex](https://flexmls.com)** | **[Sr. Staff Machine Learning Engineer](https://jobr.pro/job/41029214/sr-staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | USA | On Site | Jun 03 |
-| **[De grootste domeinnaam- en hostingprovider van Nederland.](http://www.genies.nl)** | **[Machine Learning Engineer, AI Agent (contract)](https://jobr.pro/job/41038205/machine-learning-engineer-ai-agent-contract?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Jun 03 |
-| **[Latitude AI](https://latitude2009.com)** | **[Senior Software Engineer - Machine Learning - Multi-Object Tracking](https://jobr.pro/job/41028747/senior-software-engineer-machine-learning-multi-object-tracking?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Dearborn, Michigan, United States, Palo Alto, California, United States, Pittsburgh, PA, United States, Remote | Remote | Jun 03 |
-| **[Airbnb](https://www.airbnb.com.sg/)** | **[Senior Machine Learning Engineer, Supply & Competitive Intelligence](https://jobr.pro/job/41025772/senior-machine-learning-engineer-supply-competitive-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - USA | Remote | Jun 03 |
-| **[Exadel Inc (Website)]()** | **[Lead Machine Learning Engineer](https://jobr.pro/job/41023567/lead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bulgaria, Hungary, Poland | On Site | Jun 03 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 42 companies | Avg salary: 5.2839137391313735e+132k  
+**Current Stats:** 50 jobs | 20% remote | 39 companies | Avg salary: 1.63200087800096e+145k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, mlops  
