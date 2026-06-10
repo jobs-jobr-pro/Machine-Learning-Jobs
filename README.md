@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 10, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 10, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -18,6 +18,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Inetum](https://www.inetum.com/fr/france)** | **[Technology Engineer - Machine Learning Operations Hibrido Senior](https://jobr.pro/job/41099849/technology-engineer-machine-learning-operations-hibrido-senior?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lima, Callao Region, Peru | On Site | Jun 09 |
 | **[SIXT](https://www.sixt.dk/)** | **[Engineering Manager (m/f/d) Machine Learning](https://jobr.pro/job/41097860/engineering-manager-mfd-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lisbon, , Portugal | Remote | Jun 09 |
 | **[ServiceNow](https://www.servicenow.com/)** | **[Vice President, AI & Machine Learning Engineering](https://jobr.pro/job/41102450/vice-president-ai-machine-learning-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CALIFORNIA, United States | Remote | Jun 09 |
+| **[Intuitive](https://www.intuitive.com/)** | **[Sr. Machine Learning Engineer, Medical Imaging](https://jobr.pro/job/41115268/sr-machine-learning-engineer-medical-imaging?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale, CA, United States | On Site | Jun 09 |
 | **[ATOMS Careers page]()** | **[Senior Software Engineer - Machine Learning Infrastructure - San Francisco, CA](https://jobr.pro/job/41099825/senior-software-engineer-machine-learning-infrastructure-san-francisco-ca?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | Jun 09 |
 | **[ATOMS Careers page]()** | **[Machine Learning Engineer - Mountain View, CA](https://jobr.pro/job/41099789/machine-learning-engineer-mountain-view-ca?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA | On Site | Jun 09 |
 | **[Sandisk](https://www.sandisk.com)** | **[Staff Artificial Intelligence & Machine Learning Engineer](https://jobr.pro/job/41106378/staff-artificial-intelligence-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, KA, India | On Site | Jun 09 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ServiceNow](https://www.servicenow.com/)** | **[Senior Machine Learning Engineer, Agentic App Platform - Moveworks](https://jobr.pro/job/41102494/senior-machine-learning-engineer-agentic-app-platform-moveworks?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CALIFORNIA, United States | On Site | Jun 05 |
 | **[ServiceNow](https://www.servicenow.com/)** | **[Machine Learning Engineer, Agentic Product - Moveworks](https://jobr.pro/job/41102496/machine-learning-engineer-agentic-product-moveworks?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CALIFORNIA, United States | On Site | Jun 05 |
 | **[ServiceNow](https://www.servicenow.com/)** | **[Senior Machine Learning Engineer, Agentic Product - Moveworks](https://jobr.pro/job/41102497/senior-machine-learning-engineer-agentic-product-moveworks?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, California, United States | On Site | Jun 05 |
-| **[May Mobility](https://maymobility.com)** | **[Machine Learning Engineer II](https://jobr.pro/job/41061740/machine-learning-engineer-ii?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote, USA | Remote | Jun 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 22% remote | 35 companies | Avg salary: 9.500027533346113e+103k  
+**Current Stats:** 50 jobs | 20% remote | 36 companies | Avg salary: 1.0058852682366471e+98k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** python, mlops  
