@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 12, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 13, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Hims And Hers](https://www.hims.com)** | **[Staff Machine Learning Systems Engineer (MLOps)](https://jobr.pro/job/41176546/staff-machine-learning-systems-engineer-mlops?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | US Remote | Remote | Jun 12 |
+| **[Local%20infusion]()** | **[Machine Learning Engineer](https://jobr.pro/job/41180195/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Jun 12 |
 | **[Delivery Hero](https://www.talabat.com)** | **[Senior Machine Learning Engineer (AI focused) - (Logistics, Data & ML)](https://jobr.pro/job/41168550/senior-machine-learning-engineer-ai-focused-logistics-data-ml?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Berlin, , Germany | Remote | Jun 12 |
 | **[Datatonic \|](https://datatonic.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/41171314/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Canada | Remote | Jun 12 |
 | **[FacultyModern Slavery StatementPrivacy PolicyXLinkedInYouTube](https://www.wearefaculty.com)** | **[Machine Learning Engineer](https://jobr.pro/job/41168405/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London | Remote | Jun 12 |
@@ -61,15 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[EVERIENCE](https://www.everience.com/it/)** | **[Machine Learning Engineer (Hyperautomation)](https://jobr.pro/job/41089482/machine-learning-engineer-hyperautomation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Nova Milanese, Lombardy, Italy | Remote | Jun 09 |
 | **[Unity Technologies](https://unitytec.com)** | **[Staff Machine Learning Engineer, ML Infrastructure - Online](https://jobr.pro/job/41081735/staff-machine-learning-engineer-ml-infrastructure-online?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Shanghai, China | On Site | Jun 09 |
 | **[Unity Technologies](https://unitytec.com)** | **[Staff Machine Learning Engineer, ML Infrastructure - Offline](https://jobr.pro/job/41081734/staff-machine-learning-engineer-ml-infrastructure-offline?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Shanghai, China | On Site | Jun 09 |
-| **[Unity Technologies](https://unitytec.com)** | **[Senior Machine Learning Engineer, ML Infrastructure - Online](https://jobr.pro/job/41081733/senior-machine-learning-engineer-ml-infrastructure-online?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Shanghai, China | On Site | Jun 09 |
-| **[Unity Technologies](https://unitytec.com)** | **[Senior Machine Learning Engineer, ML Infrastructure - Offline](https://jobr.pro/job/41081732/senior-machine-learning-engineer-ml-infrastructure-offline?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Shanghai, China | On Site | Jun 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 36% remote | 44 companies | Avg salary: 1.0000020858851127e+97k  
+**Current Stats:** 50 jobs | 40% remote | 46 companies | Avg salary: 1.3888898333353033e+103k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** Various technologies  
+**Trending Skills:** mlops  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
