@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 13, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 14, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Waymo](https://careers.withwaymo.com)** | **[Machine Learning Engineer, Simulation Evaluation](https://jobr.pro/job/41188174/machine-learning-engineer-simulation-evaluation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA; San Francisco, CA, USA | On Site | Jun 13 |
 | **[AB InBev \| Growth Group](https://www.abinbev.com)** | **[Intermediate Machine Learning Engineer - BEES Data](https://jobr.pro/job/41181447/intermediate-machine-learning-engineer-bees-data?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Campinas, Brazil | On Site | Jun 12 |
 | **[Hims And Hers](https://www.hims.com)** | **[Staff Machine Learning Systems Engineer (MLOps)](https://jobr.pro/job/41176546/staff-machine-learning-systems-engineer-mlops?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | US Remote | Remote | Jun 12 |
 | **[Local%20infusion]()** | **[Machine Learning Engineer](https://jobr.pro/job/41180195/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Jun 12 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ATOMS Careers page]()** | **[Machine Learning Engineer - Mountain View, CA](https://jobr.pro/job/41099789/machine-learning-engineer-mountain-view-ca?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA | On Site | Jun 09 |
 | **[Sandisk](https://www.sandisk.com)** | **[Staff Artificial Intelligence & Machine Learning Engineer](https://jobr.pro/job/41106378/staff-artificial-intelligence-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, KA, India | On Site | Jun 09 |
 | **[EVERIENCE](https://www.everience.com/it/)** | **[Machine Learning Engineer (Hyperautomation)](https://jobr.pro/job/41089482/machine-learning-engineer-hyperautomation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Nova Milanese, Lombardy, Italy | Remote | Jun 09 |
-| **[Unity Technologies](https://unitytec.com)** | **[Staff Machine Learning Engineer, ML Infrastructure - Online](https://jobr.pro/job/41081735/staff-machine-learning-engineer-ml-infrastructure-online?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Shanghai, China | On Site | Jun 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 40% remote | 47 companies | Avg salary: 1.3888898333353033e+103k  
+**Current Stats:** 50 jobs | 40% remote | 47 companies | Avg salary: 1.3842118421061579e+109k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** mlops  
