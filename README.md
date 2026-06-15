@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 15, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 15, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Vailexa](https://vailexa.com)** | **[Graph Machine Learning Engineer (Network)](https://jobr.pro/job/41193007/graph-machine-learning-engineer-network?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | On Site | Jun 15 |
+| **[Striveworks](https://striveworks.com)** | **[Machine Learning Engineer (Active Secret Clearance)](https://jobr.pro/job/41193010/machine-learning-engineer-active-secret-clearance?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote; Tacoma, WA | Remote | Jun 15 |
 | **[Reddit](https://reddit.com)** | **[Machine Learning Engineering Manager - Ads Engagement Modeling](https://jobr.pro/job/41190508/machine-learning-engineering-manager-ads-engagement-modeling?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - United States | Remote | Jun 14 |
 | **[Waymo](https://careers.withwaymo.com)** | **[Machine Learning Engineer, Simulation Evaluation](https://jobr.pro/job/41188174/machine-learning-engineer-simulation-evaluation?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA; San Francisco, CA, USA | On Site | Jun 13 |
 | **[AB InBev \| Growth Group](https://www.abinbev.com)** | **[Intermediate Machine Learning Engineer - BEES Data](https://jobr.pro/job/41181447/intermediate-machine-learning-engineer-bees-data?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Campinas, Brazil | On Site | Jun 12 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[SIXT](https://www.sixt.dk/)** | **[Engineering Manager (m/f/d) Machine Learning](https://jobr.pro/job/41097860/engineering-manager-mfd-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lisbon, , Portugal | Remote | Jun 09 |
 | **[ServiceNow](https://www.servicenow.com/)** | **[Vice President, AI & Machine Learning Engineering](https://jobr.pro/job/41102450/vice-president-ai-machine-learning-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CALIFORNIA, United States | Remote | Jun 09 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Sr. Machine Learning Engineer, Medical Imaging](https://jobr.pro/job/41115268/sr-machine-learning-engineer-medical-imaging?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale, CA, United States | On Site | Jun 09 |
-| **[ATOMS Careers page]()** | **[Senior Software Engineer - Machine Learning Infrastructure - San Francisco, CA](https://jobr.pro/job/41099825/senior-software-engineer-machine-learning-infrastructure-san-francisco-ca?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | Jun 09 |
-| **[ATOMS Careers page]()** | **[Machine Learning Engineer - Mountain View, CA](https://jobr.pro/job/41099789/machine-learning-engineer-mountain-view-ca?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA | On Site | Jun 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 42% remote | 47 companies | Avg salary: 1.5333345857154762e+121k  
+**Current Stats:** 50 jobs | 44% remote | 48 companies | Avg salary: 9.50001610001315e+114k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** mlops  
