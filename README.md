@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 15, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 15, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[NielsenIQ](https://nielseniq.com)** | **[Machine Learning Engineer](https://jobr.pro/job/41195570/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bucharest, B, Romania | Remote | Jun 15 |
+| **[Freshworks](https://freshworksmedia.com)** | **[Lead Software Engineer - Machine Learning](https://jobr.pro/job/41194427/lead-software-engineer-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Chennai, , India | On Site | Jun 15 |
+| **[H&M Group](https://hm.com)** | **[Machine Learning Engineer](https://jobr.pro/job/41195118/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Stockholm, Stockholms län, Sweden | Remote | Jun 15 |
 | **[Vailexa](https://vailexa.com)** | **[Graph Machine Learning Engineer (Network)](https://jobr.pro/job/41193007/graph-machine-learning-engineer-network?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | On Site | Jun 15 |
 | **[Striveworks](https://striveworks.com)** | **[Machine Learning Engineer (Active Secret Clearance)](https://jobr.pro/job/41193010/machine-learning-engineer-active-secret-clearance?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote; Tacoma, WA | Remote | Jun 15 |
 | **[Reddit](https://reddit.com)** | **[Machine Learning Engineering Manager - Ads Engagement Modeling](https://jobr.pro/job/41190508/machine-learning-engineering-manager-ads-engagement-modeling?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - United States | Remote | Jun 14 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mozilla](https://mozilla.org)** | **[Senior Machine Learning Engineer, AI Platform](https://jobr.pro/job/41111732/senior-machine-learning-engineer-ai-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote Canada | Remote | Jun 09 |
 | **[Inetum](https://www.inetum.com/fr/france)** | **[Technology Engineer - Machine Learning Operations Hibrido Senior](https://jobr.pro/job/41099849/technology-engineer-machine-learning-operations-hibrido-senior?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lima, Callao Region, Peru | On Site | Jun 09 |
 | **[Mitek Systems](https://miteksystems.com)** | **[Sr. Machine Learning Engineer](https://jobr.pro/job/41122726/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | Remote | Jun 09 |
-| **[SIXT](https://www.sixt.dk/)** | **[Engineering Manager (m/f/d) Machine Learning](https://jobr.pro/job/41097860/engineering-manager-mfd-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lisbon, , Portugal | Remote | Jun 09 |
-| **[ServiceNow](https://www.servicenow.com/)** | **[Vice President, AI & Machine Learning Engineering](https://jobr.pro/job/41102450/vice-president-ai-machine-learning-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CALIFORNIA, United States | Remote | Jun 09 |
-| **[Intuitive](https://www.intuitive.com/)** | **[Sr. Machine Learning Engineer, Medical Imaging](https://jobr.pro/job/41115268/sr-machine-learning-engineer-medical-imaging?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sunnyvale, CA, United States | On Site | Jun 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 44% remote | 48 companies | Avg salary: 9.50001610001315e+114k  
+**Current Stats:** 50 jobs | 44% remote | 48 companies | Avg salary: 1.0000016947382264e+109k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** mlops  
