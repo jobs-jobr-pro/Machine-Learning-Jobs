@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 15, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 16, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Unity Technologies](https://unity.com)** | **[Machine Learning Engineer, Next-Generation Recommendation Systems (New Grad / PhD)](https://jobr.pro/job/41204175/machine-learning-engineer-next-generation-recommendation-systems-new-grad-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, NY, USA | On Site | Jun 15 |
+| **[Rubrik Job Board](https://www.rubrik.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/41203408/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Palo Alto, CA | On Site | Jun 15 |
+| **[Supercell](http://www.supercell.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/41200757/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Helsinki | On Site | Jun 15 |
+| **[Stack AV](https://stackav.com)** | **[Staff Software Engineer, Machine Learning Inference Platform](https://jobr.pro/job/41201090/staff-software-engineer-machine-learning-inference-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pittsburgh, PA or Remote | Remote | Jun 15 |
+| **[Stack AV](https://stackav.com)** | **[Senior Software Engineer, Machine Learning Inference Platform](https://jobr.pro/job/41201089/senior-software-engineer-machine-learning-inference-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pittsburgh, PA or Remote | Remote | Jun 15 |
 | **[Grab](https://grab.careers)** | **[Senior Machine Learning Engineer (ACE)](https://jobr.pro/job/41197378/senior-machine-learning-engineer-ace?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Petaling Jaya, , Malaysia | On Site | Jun 15 |
 | **[IFS](https://ifsm.ir)** | **[Senior/Lead Machine Learning Engineer](https://jobr.pro/job/41196255/seniorlead-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Madrid, Madrid, Spain | Remote | Jun 15 |
 | **[NielsenIQ](https://nielseniq.com)** | **[Machine Learning Engineer](https://jobr.pro/job/41195570/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bucharest, B, Romania | Remote | Jun 15 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Cerebras Systems](https://www.cerebras.ai)** | **[Lead Full Stack Machine Learning Engineer](https://jobr.pro/job/41119659/lead-full-stack-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, Karnataka, India | On Site | Jun 10 |
 | **[Inovalon](https://inovalon.com)** | **[Staff Machine Learning Engineer L5](https://jobr.pro/job/41116685/staff-machine-learning-engineer-l5?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Gurugram, India | On Site | Jun 10 |
 | **[Sift](https://www.sift.co.uk/)** | **[Machine Learning Engineer](https://jobr.pro/job/41138789/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - USA | Remote | Jun 09 |
-| **[N-iX](http://nixbiosensors.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/41110352/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Europe; Ukraine | On Site | Jun 09 |
-| **[Rhombus Power, Inc.](https://rhombuspower.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/41123949/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Palo Alto, California, United States | On Site | Jun 09 |
-| **[Mozilla](https://mozilla.org)** | **[Senior Machine Learning Engineer, AI Platform](https://jobr.pro/job/41111732/senior-machine-learning-engineer-ai-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote Canada | Remote | Jun 09 |
-| **[Inetum](https://www.inetum.com/fr/france)** | **[Technology Engineer - Machine Learning Operations Hibrido Senior](https://jobr.pro/job/41099849/technology-engineer-machine-learning-operations-hibrido-senior?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lima, Callao Region, Peru | On Site | Jun 09 |
-| **[Mitek Systems](https://miteksystems.com)** | **[Sr. Machine Learning Engineer](https://jobr.pro/job/41122726/sr-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | Remote | Jun 09 |
 
 ---
 
-**Current Stats:** 50 jobs | 40% remote | 48 companies | Avg salary: 1.0000016947382264e+109k  
+**Current Stats:** 50 jobs | 40% remote | 47 companies | Avg salary: 8.900014878957369e+108k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** mlops  
