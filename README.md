@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 17, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 17, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[absentia labs.](https://www.absentia.bio)** | **[Senior AI / Machine Learning Engineer](https://jobr.pro/job/41229698/senior-ai-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco | Remote | Jun 17 |
 | **[Astera Labs](https://asteralabs.com)** | **[Machine Learning Infrastructure Engineer](https://jobr.pro/job/41220772/machine-learning-infrastructure-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Jose, California, United States | On Site | Jun 16 |
 | **[Tenstorrent University Jobs](https://tenstorrent.com)** | **[Machine Learning Engineer Intern](https://jobr.pro/job/41223755/machine-learning-engineer-intern?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Warszawa, Masovian Voivodeship, Poland | On Site | Jun 16 |
 | **[Roblox](https://careers.roblox.com)** | **[Senior Machine Learning Engineer, User Behavior](https://jobr.pro/job/41220189/senior-machine-learning-engineer-user-behavior?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA, United States | On Site | Jun 16 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PPRO](https://ppro.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/41160670/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Munich | On Site | Jun 11 |
 | **[Spotify](https://spotify.com)** | **[Senior Machine Learning Engineer - Content Intelligence](https://jobr.pro/job/41150299/senior-machine-learning-engineer-content-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, NY | On Site | Jun 11 |
 | **[Roku](https://www.weareroku.com/)** | **[Sr. SW Engineer, Machine Learning](https://jobr.pro/job/41148333/sr-sw-engineer-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, India | On Site | Jun 11 |
-| **[Coupang](https://aboutcoupang.com)** | **[Staff Machine Learning Engineer (Coupang Eats)](https://jobr.pro/job/41145101/staff-machine-learning-engineer-coupang-eats?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seoul, South Korea | On Site | Jun 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 38% remote | 44 companies | Avg salary: 8.250012164514249e+114k  
+**Current Stats:** 50 jobs | 40% remote | 44 companies | Avg salary: 9.523817380963967e+120k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** mlops  
