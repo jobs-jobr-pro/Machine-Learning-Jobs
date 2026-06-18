@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 18, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 18, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[NEXTON](https://nexton.dev)** | **[Machine Learning Engineer H/F](https://jobr.pro/job/41254652/machine-learning-engineer-hf?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bordeaux, Nouvelle-Aquitaine, France | On Site | Jun 18 |
+| **[Neara](https://neara.com)** | **[Staff Machine Learning Engineer (Platform)](https://jobr.pro/job/41258348/staff-machine-learning-engineer-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Sydney | Remote | Jun 18 |
 | **[Roblox](https://careers.roblox.com)** | **[Distinguished Machine Learning Engineer - Safety](https://jobr.pro/job/41251013/distinguished-machine-learning-engineer-safety?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Mateo, CA, United States | On Site | Jun 18 |
 | **[Unity Technologies](https://unity.com)** | **[Staff Machine Learning Engineer - Computer Vision & Multi-Modal AI](https://jobr.pro/job/41248432/staff-machine-learning-engineer-computer-vision-multi-modal-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA, USA | On Site | Jun 17 |
 | **[Axiado](https://axiado.com)** | **[Senior Machine Learning Engineer - Cybersecurity](https://jobr.pro/job/41246823/senior-machine-learning-engineer-cybersecurity?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Taipei, , Taiwan | On Site | Jun 17 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Providius](https://providius.com)** | **[Junior Machine Learning Engineer](https://jobr.pro/job/41222013/junior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Hamilton, Ontario, Canada | On Site | Jun 16 |
 | **[CarGurus](https://careers.cargurus.com)** | **[Machine Learning Operations Engineer](https://jobr.pro/job/41210699/machine-learning-operations-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boston, Massachusetts, United States | On Site | Jun 15 |
 | **[Unity Technologies](https://unity.com)** | **[Machine Learning Engineer, Next-Generation Recommendation Systems (New Grad / PhD)](https://jobr.pro/job/41204175/machine-learning-engineer-next-generation-recommendation-systems-new-grad-phd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, NY, USA | On Site | Jun 15 |
-| **[Path Robotics](https://pathrobotics.com)** | **[Senior Machine Learning Engineer, Reinforcement Learning](https://jobr.pro/job/41215963/senior-machine-learning-engineer-reinforcement-learning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Columbus, Ohio or Remote | Remote | Jun 15 |
-| **[Rubrik Job Board](https://www.rubrik.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/41203408/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Palo Alto, CA | On Site | Jun 15 |
 
 ---
 
-**Current Stats:** 50 jobs | 36% remote | 35 companies | Avg salary: 2.693942117648412e+97k  
+**Current Stats:** 50 jobs | 36% remote | 35 companies | Avg salary: 2.8623135000014375e+91k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** mlops  
