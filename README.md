@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 19, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 19, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Reddit](https://www.reddit.com)** | **[Staff Machine Learning Engineer, ML Efficiency](https://jobr.pro/job/41289441/staff-machine-learning-engineer-ml-efficiency?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - The Netherlands | Remote | Jun 19 |
+| **[Reddit](https://www.reddit.com)** | **[Senior Machine Learning Engineer, Ads Foundational Representations](https://jobr.pro/job/41289435/senior-machine-learning-engineer-ads-foundational-representations?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - The Netherlands | Remote | Jun 19 |
+| **[project44](https://gutenberg.org)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/41286025/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore | On Site | Jun 19 |
+| **[Sia](https://fra01.safelinks.protection.outlook.com)** | **[Machine Learning Engineer](https://jobr.pro/job/41283937/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris, IDF, France | On Site | Jun 19 |
+| **[Sportradar](https://sportradar.com)** | **[Machine Learning Engineer (m/f/d)](https://jobr.pro/job/41284217/machine-learning-engineer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Ljubljana, , Slovenia | On Site | Jun 19 |
+| **[SMG Swiss Marketplace Group](https://www.iazicifi.ch)** | **[Data & Machine Learning Engineer \| Hybrid work](https://jobr.pro/job/41283011/data-machine-learning-engineer-hybrid-work?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Valbonne, Provence-Alpes-Côte d'Azur Region, France | Remote | Jun 19 |
 | **[PubMatic](https://pubmatic.com)** | **[Senior Staff Engineer, Machine Learning Platform](https://jobr.pro/job/41282978/senior-staff-engineer-machine-learning-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pune, IN | On Site | Jun 19 |
 | **[Tomra](https://tomra.orwak.cz)** | **[Machine Learning Engineer*](https://jobr.pro/job/41280398/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mülheim-Kärlich, RP, Germany | Remote | Jun 19 |
 | **[Mozilla](https://mozilla.org)** | **[Senior Machine Learning Engineer, Applied AI Modeling](https://jobr.pro/job/41280068/senior-machine-learning-engineer-applied-ai-modeling?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote US | Remote | Jun 19 |
@@ -32,7 +38,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Utility Warehouse](https://uw.co.uk)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/41261979/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, England, United Kingdom | Remote | Jun 18 |
 | **[ASOS](https://www.asos.com)** | **[Machine Learning Engineer](https://jobr.pro/job/41261945/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, England, United Kingdom | Remote | Jun 18 |
 | **[ASOS](https://www.asos.com)** | **[Senior Machine Learning Engineer (Recommendations)](https://jobr.pro/job/41261946/senior-machine-learning-engineer-recommendations?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, England, United Kingdom | Remote | Jun 18 |
-| **[SMG Swiss Marketplace Group](https://www.iazicifi.ch)** | **[Data & Machine Learning Engineer \| Hybrid work](https://jobr.pro/job/41260564/data-machine-learning-engineer-hybrid-work?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Valbonne, Provence-Alpes-Côte d'Azur Region, France | Remote | Jun 18 |
 | **[Harmattan AI](https://www.harmattan.ai)** | **[Machine Learning Engineer (Semantic Scene Understanding)](https://jobr.pro/job/41265970/machine-learning-engineer-semantic-scene-understanding?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Zurich | On Site | Jun 18 |
 | **[Harmattan AI](https://www.harmattan.ai)** | **[Machine Learning Engineer - Foundational](https://jobr.pro/job/41265969/machine-learning-engineer-foundational?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Zurich | On Site | Jun 18 |
 | **[NEXTON](https://nexton.dev)** | **[Machine Learning Engineer H/F](https://jobr.pro/job/41254652/machine-learning-engineer-hf?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bordeaux, Nouvelle-Aquitaine, France | On Site | Jun 18 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Prolific Academic Ltd](https://www.prolific.com)** | **[AI / Machine Learning Engineer Leaders and Decision-Makers for Workflow Management Tools - USA](https://jobr.pro/job/41235290/ai-machine-learning-engineer-leaders-and-decision-makers-for-workflow-management-tools-usa?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Jun 17 |
 | **[Prolific Academic Ltd](https://www.prolific.com)** | **[AI / Machine Learning Engineer Leaders and Decision-Makers for Workflow Management Tools - US](https://jobr.pro/job/41235289/ai-machine-learning-engineer-leaders-and-decision-makers-for-workflow-management-tools-us?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Jun 17 |
 | **[Prolific Academic Ltd](https://www.prolific.com)** | **[AI / Machine Learning Engineer Leaders and Decision-Makers for Workflow Management Tools (Freelance - Remote)](https://jobr.pro/job/41235283/ai-machine-learning-engineer-leaders-and-decision-makers-for-workflow-management-tools-freelance-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Jun 17 |
-| **[Prolific Academic Ltd](https://www.prolific.com)** | **[AI / Machine Learning Engineer Leaders and Decision-Makers for Workflow Management Tools - Poland](https://jobr.pro/job/41235286/ai-machine-learning-engineer-leaders-and-decision-makers-for-workflow-management-tools-poland?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Jun 17 |
-| **[Prolific Academic Ltd](https://www.prolific.com)** | **[AI / Machine Learning Engineer Leaders and Decision-Makers for Workflow Management Tools - Italy](https://jobr.pro/job/41235285/ai-machine-learning-engineer-leaders-and-decision-makers-for-workflow-management-tools-italy?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Jun 17 |
-| **[Prolific Academic Ltd](https://www.prolific.com)** | **[AI / Machine Learning Engineer Leaders and Decision-Makers for Workflow Management Tools - Germany](https://jobr.pro/job/41235284/ai-machine-learning-engineer-leaders-and-decision-makers-for-workflow-management-tools-germany?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Jun 17 |
-| **[Prolific Academic Ltd](https://www.prolific.com)** | **[AI / Machine Learning Engineer Leaders and Decision-Makers for Workflow Management Tools - UK](https://jobr.pro/job/41235287/ai-machine-learning-engineer-leaders-and-decision-makers-for-workflow-management-tools-uk?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Jun 17 |
-| **[Prolific Academic Ltd](https://www.prolific.com)** | **[AI / Machine Learning Engineer Leaders and Decision-Makers for Workflow Management Tools - France](https://jobr.pro/job/41235282/ai-machine-learning-engineer-leaders-and-decision-makers-for-workflow-management-tools-france?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Jun 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 48% remote | 37 companies | Avg salary: 1.2823544411776958e+97k  
+**Current Stats:** 50 jobs | 42% remote | 40 companies | Avg salary: 1.2823544411776958e+97k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
