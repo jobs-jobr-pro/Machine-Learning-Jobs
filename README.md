@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 20, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 20, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,7 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Fast Company](http://www.sardinebali.com)** | **[Machine Learning Engineer](https://jobr.pro/job/41300691/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United Kingdom | Remote | Jun 19 |
 | **[Sardine](https://www.sardine.ai)** | **[Machine Learning Engineer](https://jobr.pro/job/41295104/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United Kingdom | Remote | Jun 19 |
+| **[Encord](https://encord.com)** | **[Machine Learning Engineer](https://jobr.pro/job/41299182/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London | On Site | Jun 19 |
 | **[Reddit](https://www.reddit.com)** | **[Staff Machine Learning Engineer, ML Efficiency](https://jobr.pro/job/41289441/staff-machine-learning-engineer-ml-efficiency?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - The Netherlands | Remote | Jun 19 |
 | **[Reddit](https://www.reddit.com)** | **[Senior Machine Learning Engineer, Ads Foundational Representations](https://jobr.pro/job/41289435/senior-machine-learning-engineer-ads-foundational-representations?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - The Netherlands | Remote | Jun 19 |
 | **[project44](https://gutenberg.org)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/41286025/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore | On Site | Jun 19 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Diffractive Labs](https://diffractive.ai)** | **[Research Engineer, Machine Learning](https://jobr.pro/job/41235768/research-engineer-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London | Remote | Jun 17 |
 | **[Exadel](https://exadel.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/41259188/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bulgaria, Hungary, Poland | On Site | Jun 17 |
 | **[Exadel Inc (Website)](https://exadel.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/41247879/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bulgaria, Hungary, Poland | On Site | Jun 17 |
-| **[HelloFresh](https://careers.hellofresh.com)** | **[Senior Machine Learning Engineer, Menu Personalization](https://jobr.pro/job/41237877/senior-machine-learning-engineer-menu-personalization?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Toronto, Ontario, Canada | On Site | Jun 17 |
-| **[Prolific Academic Ltd](https://www.prolific.com)** | **[AI / Machine Learning Engineer Leaders and Decision-Makers for Workflow Management Tools - USA](https://jobr.pro/job/41235290/ai-machine-learning-engineer-leaders-and-decision-makers-for-workflow-management-tools-usa?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Jun 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 40% remote | 42 companies | Avg salary: 7.631599157906211e+108k  
+**Current Stats:** 50 jobs | 40% remote | 42 companies | Avg salary: 7.250007250019199e+114k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
