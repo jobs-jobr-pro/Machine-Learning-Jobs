@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 19, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 20, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -19,6 +19,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Sia](https://fra01.safelinks.protection.outlook.com)** | **[Machine Learning Engineer](https://jobr.pro/job/41283937/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris, IDF, France | On Site | Jun 19 |
 | **[Sportradar](https://sportradar.com)** | **[Machine Learning Engineer (m/f/d)](https://jobr.pro/job/41284217/machine-learning-engineer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Ljubljana, , Slovenia | On Site | Jun 19 |
 | **[SMG Swiss Marketplace Group](https://www.iazicifi.ch)** | **[Data & Machine Learning Engineer \| Hybrid work](https://jobr.pro/job/41283011/data-machine-learning-engineer-hybrid-work?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Valbonne, Provence-Alpes-Côte d'Azur Region, France | Remote | Jun 19 |
+| **[Nomagic](https://nomagic.ai)** | **[Senior Machine Learning Research Engineer](https://jobr.pro/job/41290180/senior-machine-learning-research-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Warsaw, Poland | On Site | Jun 19 |
 | **[PubMatic](https://pubmatic.com)** | **[Senior Staff Engineer, Machine Learning Platform](https://jobr.pro/job/41282978/senior-staff-engineer-machine-learning-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Pune, IN | On Site | Jun 19 |
 | **[Tomra](https://tomra.orwak.cz)** | **[Machine Learning Engineer*](https://jobr.pro/job/41280398/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mülheim-Kärlich, RP, Germany | Remote | Jun 19 |
 | **[Mozilla](https://mozilla.org)** | **[Senior Machine Learning Engineer, Applied AI Modeling](https://jobr.pro/job/41280068/senior-machine-learning-engineer-applied-ai-modeling?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote US | Remote | Jun 19 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[HelloFresh](https://careers.hellofresh.com)** | **[Senior Machine Learning Engineer, Menu Personalization](https://jobr.pro/job/41237877/senior-machine-learning-engineer-menu-personalization?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Toronto, Ontario, Canada | On Site | Jun 17 |
 | **[Prolific Academic Ltd](https://www.prolific.com)** | **[AI / Machine Learning Engineer Leaders and Decision-Makers for Workflow Management Tools - USA](https://jobr.pro/job/41235290/ai-machine-learning-engineer-leaders-and-decision-makers-for-workflow-management-tools-usa?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Jun 17 |
 | **[Prolific Academic Ltd](https://www.prolific.com)** | **[AI / Machine Learning Engineer Leaders and Decision-Makers for Workflow Management Tools - US](https://jobr.pro/job/41235289/ai-machine-learning-engineer-leaders-and-decision-makers-for-workflow-management-tools-us?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Jun 17 |
-| **[Prolific Academic Ltd](https://www.prolific.com)** | **[AI / Machine Learning Engineer Leaders and Decision-Makers for Workflow Management Tools (Freelance - Remote)](https://jobr.pro/job/41235283/ai-machine-learning-engineer-leaders-and-decision-makers-for-workflow-management-tools-freelance-remote?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Jun 17 |
 
 ---
 
-**Current Stats:** 50 jobs | 42% remote | 40 companies | Avg salary: 1.2823544411776958e+97k  
+**Current Stats:** 50 jobs | 40% remote | 41 companies | Avg salary: 2.1333345444458613e+103k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
