@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 24, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 25, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,11 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[ServiceNow](https://www.servicenow.com)** | **[Senior Machine Learning Engineer, Agentic Systems - Moveworks](https://jobr.pro/job/41373629/senior-machine-learning-engineer-agentic-systems-moveworks?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CALIFORNIA, United States | On Site | Jun 24 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Staff Machine Learning Engineer, Agentic Product](https://jobr.pro/job/41373631/staff-machine-learning-engineer-agentic-product?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CALIFORNIA, United States | On Site | Jun 24 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Machine Learning Engineer, Agentic AI Systems - Moveworks](https://jobr.pro/job/41373632/machine-learning-engineer-agentic-ai-systems-moveworks?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CALIFORNIA, United States | On Site | Jun 24 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Staff Machine Learning Engineer, Agentic App Platform](https://jobr.pro/job/41373633/staff-machine-learning-engineer-agentic-app-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CALIFORNIA, United States | On Site | Jun 24 |
+| **[ServiceNow](https://www.servicenow.com)** | **[Staff Machine Learning Engineer, Agentic App Platform - Moveworks](https://jobr.pro/job/41373634/staff-machine-learning-engineer-agentic-app-platform-moveworks?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CALIFORNIA, United States | On Site | Jun 24 |
 | **[SIXT](https://www.sixt.com)** | **[Senior Machine Learning Engineer (m/f/d)](https://jobr.pro/job/41362856/senior-machine-learning-engineer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lisbon, , Portugal | Remote | Jun 24 |
 | **[Smartsheet](https://www.smartsheet.com)** | **[Senior Machine Learning Operations Engineer](https://jobr.pro/job/41360837/senior-machine-learning-operations-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, INDIA | On Site | Jun 24 |
 | **[Sertis](https://sertisins.com)** | **[Machine Learning Engineer/AI Engineer](https://jobr.pro/job/41358420/machine-learning-engineerai-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangkok, Bangkok Metropolis, Thailand | On Site | Jun 24 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Encord](https://encord.com)** | **[Machine Learning Engineer](https://jobr.pro/job/41299182/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London | On Site | Jun 19 |
 | **[Reddit](https://www.reddit.com)** | **[Staff Machine Learning Engineer, ML Efficiency](https://jobr.pro/job/41289441/staff-machine-learning-engineer-ml-efficiency?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - The Netherlands | Remote | Jun 19 |
 | **[Reddit](https://www.reddit.com)** | **[Senior Machine Learning Engineer, Ads Foundational Representations](https://jobr.pro/job/41289435/senior-machine-learning-engineer-ads-foundational-representations?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - The Netherlands | Remote | Jun 19 |
-| **[project44](https://gutenberg.org)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/41286025/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore | On Site | Jun 19 |
-| **[Sia](https://fra01.safelinks.protection.outlook.com)** | **[Machine Learning Engineer](https://jobr.pro/job/41283937/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris, IDF, France | On Site | Jun 19 |
-| **[Sportradar](https://sportradar.com)** | **[Machine Learning Engineer (m/f/d)](https://jobr.pro/job/41284217/machine-learning-engineer-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Ljubljana, , Slovenia | On Site | Jun 19 |
-| **[SMG Swiss Marketplace Group](https://www.iazicifi.ch)** | **[Data & Machine Learning Engineer \| Hybrid work](https://jobr.pro/job/41283011/data-machine-learning-engineer-hybrid-work?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Valbonne, Provence-Alpes-Côte d'Azur Region, France | Remote | Jun 19 |
-| **[Almedia](https://www.almedia.fr)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/41337040/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London | On Site | Jun 19 |
 
 ---
 
-**Current Stats:** 50 jobs | 42% remote | 39 companies | Avg salary: 9.473697894756042e+108k  
+**Current Stats:** 50 jobs | 40% remote | 36 companies | Avg salary: 9.473697894756042e+108k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
