@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 27, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 27, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -18,6 +18,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ATOMS Careers page](https://atoms.co)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/41439502/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | Jun 26 |
 | **[Atoms](https://atoms.com)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/41441682/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | Jun 26 |
 | **[Waymo](https://careers.withwaymo.com)** | **[Senior/Staff Machine Learning Engineer, Simulation Realism](https://jobr.pro/job/41439601/seniorstaff-machine-learning-engineer-simulation-realism?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CA, USA | On Site | Jun 26 |
+| **[Jumio](https://jumio.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/41446706/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Montreal | On Site | Jun 26 |
+| **[Jumio](https://jumio.com)** | **[Research Engineer – Machine Learning & Robotics](https://jobr.pro/job/41446705/research-engineer-machine-learning-robotics?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lenexa, Kansas | On Site | Jun 26 |
 | **[Allen Control Systems](https://www.allencontrolsystems.com)** | **[Senior/Staff Computer Vision & Machine Learning Engineer](https://jobr.pro/job/41442900/seniorstaff-computer-vision-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Austin, TX | On Site | Jun 26 |
 | **[FieldAI](https://www.fieldai.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/41443868/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Irvine, CA | On Site | Jun 26 |
 | **[Reddit](https://www.reddit.com)** | **[Machine Learning Engineer, Ads Optimization & Ads Marketplace Quality](https://jobr.pro/job/41433223/machine-learning-engineer-ads-optimization-ads-marketplace-quality?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote - United States | Remote | Jun 26 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ServiceNow](https://www.servicenow.com)** | **[Staff Machine Learning Engineer, Agentic App Platform](https://jobr.pro/job/41373633/staff-machine-learning-engineer-agentic-app-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CALIFORNIA, United States | On Site | Jun 24 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Staff Machine Learning Engineer, Agentic App Platform - Moveworks](https://jobr.pro/job/41373634/staff-machine-learning-engineer-agentic-app-platform-moveworks?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CALIFORNIA, United States | On Site | Jun 24 |
 | **[XPENG](https://intl.aridge.com)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/41385140/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CA | On Site | Jun 24 |
-| **[Terra Quantum](https://terraquantum.swiss)** | **[Applied Machine Learning Engineer, Industry Solutions](https://jobr.pro/job/41398603/applied-machine-learning-engineer-industry-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Munich, Germany; St Gallen, Switzerland | On Site | Jun 24 |
-| **[Smartsheet](https://www.smartsheet.com)** | **[Senior Machine Learning Operations Engineer](https://jobr.pro/job/41360837/senior-machine-learning-operations-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, INDIA | On Site | Jun 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 38 companies | Avg salary: 1.1977284704561137e+127k  
+**Current Stats:** 50 jobs | 26% remote | 37 companies | Avg salary: 1.1977284704561137e+127k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
