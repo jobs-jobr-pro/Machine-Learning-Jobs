@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 27, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 28, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[PatSnap](https://www.patsnap.com)** | **[Senior Machine Learning Engineer (AI Agent)](https://jobr.pro/job/41454471/senior-machine-learning-engineer-ai-agent?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore | On Site | Jun 27 |
 | **[ATOMS Careers page](https://atoms.co)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/41439499/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | Jun 26 |
 | **[Atoms](https://atoms.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/41441679/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | Jun 26 |
 | **[ATOMS Careers page](https://atoms.co)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/41439502/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | Jun 26 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ServiceNow](https://www.servicenow.com)** | **[Machine Learning Engineer, Agentic AI Systems - Moveworks](https://jobr.pro/job/41373632/machine-learning-engineer-agentic-ai-systems-moveworks?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CALIFORNIA, United States | On Site | Jun 24 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Staff Machine Learning Engineer, Agentic App Platform](https://jobr.pro/job/41373633/staff-machine-learning-engineer-agentic-app-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CALIFORNIA, United States | On Site | Jun 24 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Staff Machine Learning Engineer, Agentic App Platform - Moveworks](https://jobr.pro/job/41373634/staff-machine-learning-engineer-agentic-app-platform-moveworks?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CALIFORNIA, United States | On Site | Jun 24 |
-| **[XPENG](https://intl.aridge.com)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/41385140/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, CA | On Site | Jun 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 37 companies | Avg salary: 1.1977284704561137e+127k  
+**Current Stats:** 50 jobs | 26% remote | 37 companies | Avg salary: 1.2547631595254524e+121k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
