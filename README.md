@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 30, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 30, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,12 +13,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Wise](https://wise.com)** | **[Staff Software Engineer - Machine Learning Platform](https://jobr.pro/job/41502048/staff-software-engineer-machine-learning-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Tallinn, , Estonia | On Site | Jun 30 |
+| **[EVERIENCE](https://www.everience.com)** | **[Senior Machine Learning Engineer / MLOps Engineer](https://jobr.pro/job/41499257/senior-machine-learning-engineer-mlops-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris, IDF, France | Remote | Jun 30 |
+| **[Mollie](https://www.mollie.com)** | **[Machine Learning Platform Engineer I](https://jobr.pro/job/41500338/machine-learning-platform-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Lisbon | Remote | Jun 30 |
 | **[Roku](https://www.weareroku.com)** | **[Senior Machine Learning Engineer - Advertising Engineering](https://jobr.pro/job/41495835/senior-machine-learning-engineer-advertising-engineering?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, India | On Site | Jun 30 |
+| **[Motional](https://motional.com)** | **[Software Engineer - Machine Learning (Behaviors)](https://jobr.pro/job/41499995/software-engineer-machine-learning-behaviors?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Singapore, Central, Singapore | On Site | Jun 30 |
 | **[HelloFresh](https://careers.hellofresh.com)** | **[Senior Staff Machine Learning Engineer, Menu Personalisation (m,f,x)](https://jobr.pro/job/41493972/senior-staff-machine-learning-engineer-menu-personalisation-mfx?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Berlin, Berlin, Germany | On Site | Jun 30 |
 | **[Almedia](https://www.almedia.fr)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/41493713/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Berlin | On Site | Jun 30 |
 | **[Celonis](https://celonis.com)** | **[Machine Learning Research Engineer](https://jobr.pro/job/41490032/machine-learning-research-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York, US, New York | On Site | Jun 30 |
 | **[Alt](https://fsymbols.com)** | **[Machine Learning Engineer](https://jobr.pro/job/41481399/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | Jun 29 |
-| **[Maze](https://themazegroup.com)** | **[Machine Learning Engineer](https://jobr.pro/job/41483185/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote (Europe) | Remote | Jun 29 |
 | **[Robinhood](https://robinhood.com)** | **[Senior Machine Learning Engineer, Agentic AI](https://jobr.pro/job/41482931/senior-machine-learning-engineer-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bellevue, WA; Menlo Park, CA; New York, NY | On Site | Jun 29 |
 | **[Axon](https://axonify.com)** | **[Sr Machine Learning Engineer I](https://jobr.pro/job/41477288/sr-machine-learning-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Jun 29 |
 | **[Reddit](https://www.reddit.com)** | **[Machine Learning Engineer](https://jobr.pro/job/41477291/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | Jun 29 |
@@ -60,16 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[ServiceNow](https://www.servicenow.com)** | **[Staff Machine Learning Engineer, Agentic Application](https://jobr.pro/job/41409001/staff-machine-learning-engineer-agentic-application?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CALIFORNIA, United States | On Site | Jun 26 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Machine Learning Engineer, Agentic Application](https://jobr.pro/job/41409002/machine-learning-engineer-agentic-application?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Mountain View, CALIFORNIA, United States | On Site | Jun 26 |
 | **[Netskope](https://www.netskope.com)** | **[Machine Learning Engineer](https://jobr.pro/job/41408270/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Santa Clara, California, United States | On Site | Jun 25 |
-| **[Mindbeam](https://mindbeam.ai)** | **[Machine Learning Engineer - Inference](https://jobr.pro/job/41417674/machine-learning-engineer-inference?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States | Remote | Jun 25 |
-| **[Taskrabbit](https://taskrabbit.com)** | **[Staff Machine Learning Engineer](https://jobr.pro/job/41406913/staff-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, California, United States | On Site | Jun 25 |
-| **[PlayStation Global](https://careers.playstation.com)** | **[Senior Software Engineer, Machine Learning Platform](https://jobr.pro/job/41400282/senior-software-engineer-machine-learning-platform?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | United States, San Diego, CA | On Site | Jun 25 |
 
 ---
 
-**Current Stats:** 50 jobs | 26% remote | 37 companies | Avg salary: 8.590920227283691e+127k  
+**Current Stats:** 50 jobs | 26% remote | 37 companies | Avg salary: 5.40000945001225e+115k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** Various technologies  
+**Trending Skills:** mlops  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
