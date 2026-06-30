@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Machine Learning Engineer Jobs — 2026
 
-<sub><small>Last updated: Jun 29, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 30, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **Machine Learning Engineer job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs).
@@ -13,11 +13,15 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Alt](https://fsymbols.com)** | **[Machine Learning Engineer](https://jobr.pro/job/41481399/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | Jun 29 |
+| **[Maze](https://themazegroup.com)** | **[Machine Learning Engineer](https://jobr.pro/job/41483185/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote (Europe) | Remote | Jun 29 |
+| **[Robinhood](https://robinhood.com)** | **[Senior Machine Learning Engineer, Agentic AI](https://jobr.pro/job/41482931/senior-machine-learning-engineer-agentic-ai?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bellevue, WA; Menlo Park, CA; New York, NY | On Site | Jun 29 |
+| **[Axon](https://axonify.com)** | **[Sr Machine Learning Engineer I](https://jobr.pro/job/41477288/sr-machine-learning-engineer-i?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Jun 29 |
+| **[Reddit](https://www.reddit.com)** | **[Machine Learning Engineer](https://jobr.pro/job/41477291/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | San Francisco, CA | On Site | Jun 29 |
 | **[ASOS](https://www.asos.com)** | **[Senior Machine Learning Engineer](https://jobr.pro/job/41473603/senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | London, England, United Kingdom | On Site | Jun 29 |
 | **[Sia](https://fra01.safelinks.protection.outlook.com)** | **[Machine Learning Engineer](https://jobr.pro/job/41472561/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Brussel, , Belgium | Remote | Jun 29 |
 | **[ServiceNow](https://www.servicenow.com)** | **[Senior Staff Machine Learning Engineer (Java + LLM)](https://jobr.pro/job/41469630/senior-staff-machine-learning-engineer-java-llm?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bangalore, Karnataka, India | Remote | Jun 29 |
 | **[FacultyModern Slavery StatementPrivacy PolicyXLinkedInYouTube](https://www.wearefaculty.com)** | **[Principal Machine Learning Engineer](https://jobr.pro/job/41471111/principal-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | UK - London | On Site | Jun 29 |
-| **[bet365](https://www.bet365careers.com)** | **[Machine Learning Engineer](https://jobr.pro/job/41467804/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Denver, Colorado, United States | Remote | Jun 29 |
 | **[Extreme Networks](https://www.extremenetworks.com)** | **[Staff Machine Learning Engineer (10030)](https://jobr.pro/job/41467204/staff-machine-learning-engineer-10030?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Jun 29 |
 | **[Extreme Networks](https://www.extremenetworks.com)** | **[Senior Machine Learning Engineer (10187)](https://jobr.pro/job/41467203/senior-machine-learning-engineer-10187?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Seattle, Washington, United States | On Site | Jun 29 |
 | **[Roku](https://www.weareroku.com)** | **[Senior Software Engineer, Machine Learning](https://jobr.pro/job/41465300/senior-software-engineer-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Bengaluru, India | On Site | Jun 29 |
@@ -59,14 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Modulate](https://modulate.ai)** | **[Machine Learning Engineer](https://jobr.pro/job/41400955/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Somerville, MA | On Site | Jun 25 |
 | **[Sigma Software](https://career.sigma.software)** | **[Machine Learning Engineer (Contract)](https://jobr.pro/job/41388033/machine-learning-engineer-contract?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Warsaw, Masovian Voivodeship, Poland | On Site | Jun 25 |
 | **[Dashlane](https://dashlane.com)** | **[Machine Learning Engineer](https://jobr.pro/job/41388204/machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Paris, France | On Site | Jun 25 |
-| **[Tenex](https://www.tenex.co)** | **[Forward Deployed Engineer, Machine Learning](https://jobr.pro/job/41382222/forward-deployed-engineer-machine-learning?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | New York City | On Site | Jun 25 |
-| **[SciTec](https://scitec.com)** | **[Senior Staff / Senior Machine Learning Engineer](https://jobr.pro/job/41397518/senior-staff-senior-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Boulder, Colorado, United States | On Site | Jun 25 |
-| **[fal](https://fal.ai)** | **[Machine Learning Engineer, Reliability](https://jobr.pro/job/41383787/machine-learning-engineer-reliability?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Remote | Remote | Jun 24 |
-| **[CoreView](https://www.coreview.com)** | **[AI Machine Learning Engineer](https://jobr.pro/job/41384023/ai-machine-learning-engineer?utm_source=github&utm_medium=repo&utm_campaign=github-ml-jobs)** | Italy | On Site | Jun 24 |
 
 ---
 
-**Current Stats:** 50 jobs | 30% remote | 39 companies | Avg salary: 6.086965217392001e+133k  
+**Current Stats:** 50 jobs | 28% remote | 38 companies | Avg salary: 1.0652184400011308e+134k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
